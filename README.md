@@ -9,11 +9,13 @@ This repository contains notes, excerpts, and study materials related to design 
 - [`INDEX.md`](INDEX.md): repository-level index for writing and research workflow
 - [`00-books/INDEX.md`](00-books/INDEX.md): book and chapter materials index
 - [`00-Paper/INDEX.md`](00-Paper/INDEX.md): paper and article materials index
+- [`index-system/README.md`](index-system/README.md): comprehensive textbook-oriented index system
 
 ## Structure
 
 - `00-books/`: book notes, chapter breakdowns, bibliography materials, and design history references
 - `00-Paper/`: paper notes, article excerpts, reviews, and related theoretical materials
+- `index-system/`: index templates for bibliography, theme, summary, viewpoint, concept, person, case, chapter, teaching, citation, image, method, controversy, and timeline management
 
 ## Path listings
 
@@ -22,4 +24,4 @@ This repository contains notes, excerpts, and study materials related to design 
 
 ## Repository files
 
-This repository includes a README, a LICENSE file, a `.gitignore`, path listings, and index files at the root and directory levels.
+This repository includes a README, a LICENSE file, a `.gitignore`, path listings, root and directory indexes, and a comprehensive index system for textbook writing.
