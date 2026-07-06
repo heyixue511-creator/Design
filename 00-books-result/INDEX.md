@@ -18,8 +18,9 @@
 | B0001、B0005—B0007 | `BUCHANAN, RICHARD. Branzi` | ✅ 已完成 | 该文件夹 4 个 md 均已生成报告 |
 | B0002—B0004 | `World History Of Design - Volume 2...Victor Margolin` 选取章节 | ✅ 已完成 | 中国 / 日本相关章节报告 |
 | B0008—B0046 | `Bringing design to software (Terry Winograd, (ed.))` | ✅ 已完成 | 该文件夹 39 个 md 均已生成报告 |
+| B0047 | `CROSS, NIGEL. From a Design Science to a Design Discipline Understanding Designe` | ✅ 已完成 | `books-paths.txt` 当前列出 1 个 md，已生成报告 |
 
-## 本次补充完成：B0034—B0046
+## 最近新增报告
 
 | 报告编号 | 报告文件 | 原始文档 | 类型 | 等级 |
 |---|---|---|---|---|
@@ -36,6 +37,7 @@
 | B0044 | [`Bringing design to software (Terry Winograd, (ed.))/Bringing design to software (Terry Winograd, (ed.))_07_bibliography_Name_Index-report.md`](Bringing%20design%20to%20software%20(Terry%20Winograd,%20(ed.))/Bringing%20design%20to%20software%20(Terry%20Winograd,%20(ed.))_07_bibliography_Name_Index-report.md) | `00-books/Bringing design to software (Terry Winograd, (ed.))/Bringing design to software (Terry Winograd, (ed.))_07_bibliography_Name_Index.md` | OCR Name Index 标题 | C |
 | B0045 | [`Bringing design to software (Terry Winograd, (ed.))/Bringing design to software (Terry Winograd, (ed.))_08_body_A___B___C___D___E___F___G___H_-report.md`](Bringing%20design%20to%20software%20(Terry%20Winograd,%20(ed.))/Bringing%20design%20to%20software%20(Terry%20Winograd,%20(ed.))_08_body_A___B___C___D___E___F___G___H_-report.md) | `00-books/Bringing design to software (Terry Winograd, (ed.))/Bringing design to software (Terry Winograd, (ed.))_08_body_A___B___C___D___E___F___G___H_.md` | OCR 人名索引 A—M | B |
 | B0046 | [`Bringing design to software (Terry Winograd, (ed.))/Bringing design to software (Terry Winograd, (ed.))_09_bibliography_N___0___P___R___S___T___V___W_-report.md`](Bringing%20design%20to%20software%20(Terry%20Winograd,%20(ed.))/Bringing%20design%20to%20software%20(Terry%20Winograd,%20(ed.))_09_bibliography_N___0___P___R___S___T___V___W_-report.md) | `00-books/Bringing design to software (Terry Winograd, (ed.))/Bringing design to software (Terry Winograd, (ed.))_09_bibliography_N___0___P___R___S___T___V___W_.md` | OCR 人名索引 N—Z / Subject Index 后段 | B |
+| B0047 | [`CROSS, NIGEL. From a Design Science to a Design Discipline Understanding Designe/CROSS, NIGEL. From a Design Science to a Design Discipline Understanding Designe-report.md`](CROSS,%20NIGEL.%20From%20a%20Design%20Science%20to%20a%20Design%20Discipline%20Understanding%20Designe/CROSS,%20NIGEL.%20From%20a%20Design%20Science%20to%20a%20Design%20Discipline%20Understanding%20Designe-report.md) | `00-books/CROSS, NIGEL. From a Design Science to a Design Discipline Understanding Designe/CROSS, NIGEL. From a Design Science to a Design Discipline Understanding Designe.md` | Cross、设计式认知方式、设计学科化 | A |
 
 ## 进度
 
