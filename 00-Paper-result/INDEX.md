@@ -18,6 +18,17 @@
 | P010 | [`P010-Gaver-Ambiguity-as-a-Resource-for-Design-report.md`](P010-Gaver-Ambiguity-as-a-Resource-for-Design-report.md) | `00-Paper/[ACM Press the conference - Ft_ Lauderdale, Florida, USA -- Gaver, William W_; B.md` | HCI、交互设计、模糊性、体验设计 | A |
 | P011 | [`P011-Birnholz-Bauhaus-Reviews-report.md`](P011-Birnholz-Bauhaus-Reviews-report.md) | `00-Paper/Alan C. Birnholz (review)：《Bauhaus and Bauhaus Peopleby Eckhard NeumannPainters of the Bauhausby Eberhard RotersWalter Gropius and the Creation of the…》_paged.md` | 包豪斯史、设计教育、文献批判 | B |
 | P012 | [`P012-Allison-Research-in-Art-and-Design-report.md`](P012-Allison-Research-in-Art-and-Design-report.md) | `00-Paper/Allison, Brian：Research in Art and Design, 1993_paged.md` | 艺术与设计研究、研究训练、方法论 | A |
+| P013 | [`P013-Gaver-Martin-Alternatives-Information-Appliances-report.md`](P013-Gaver-Martin-Alternatives-Information-Appliances-report.md) | `00-Paper/Alternatives：《exploring information appliances through Bill Gaver; Heather Marti.md` | 信息家电、概念设计、research through design | A |
+| P014 | [`P014-Willis-Ontological-Designing-report.md`](P014-Willis-Ontological-Designing-report.md) | `00-Paper/Anne-Marie Willis：《Ontological Designing》，2006_paged.md` | 本体论设计、人工物与主体、设计哲学 | A |
+| P015 | [`P015-Bokov-Avant-Garde-as-Method-Vkhutemas-report.md`](P015-Bokov-Avant-Garde-as-Method-Vkhutemas-report.md) | `00-Paper/Avant-Garde as Method Vkhutemas and the Pedagogy of Space, 1920-1930.md` | VKhUTEMAS、先锋派教育、空间教学 | B |
+| P016 | [`P016-Bauhaus-Imaginista-Review-report.md`](P016-Bauhaus-Imaginista-Review-report.md) | `00-Paper/Bauhaus Imaginista Haus der Kulturen der Welt, Berlin, -- Basu, Priyanka -- West.md` | 全球包豪斯、后殖民现代主义、跨文化设计史 | A |
+| P017 | [`P017-Twyman-Printing-1770-1970-Review-report.md`](P017-Twyman-Printing-1770-1970-Review-report.md) | `00-Paper/Book Review：《Michael Twyman, Printing 1770-1970 An Illustrated History of Its De.md` | 印刷史、平面设计史、临时印刷品 | B |
+| P018 | [`P018-Brew-The-Nature-of-Research-report.md`](P018-Brew-The-Nature-of-Research-report.md) | `00-Paper/Brew, Angela：The Nature of Research：Inquiry into Academic Contexts, 2001_paged.md` | 学术研究、研究方法、研究文化 | B |
+| P019 | [`P019-Buchanan-Design-Research-and-New-Learning-report.md`](P019-Buchanan-Design-Research-and-New-Learning-report.md) | `00-Paper/Buchanan, Richard：Design Research and the New Learning, 2001_paged.md` | 设计研究、新学习、设计知识 | A |
+| P020 | [`P020-Buchanan-Margolin-Discovering-Design-report.md`](P020-Buchanan-Margolin-Discovering-Design-report.md) | `00-Paper/Buchanan：《Discovering design explorations in design studies》.md` | 设计研究、设计学科、人工世界 | A |
+| P021 | [`P021-Tonkinwise-Design-for-Transitions-report.md`](P021-Tonkinwise-Design-for-Transitions-report.md) | `00-Paper/Cameron Tonkinwise：《Design for Transitions ‒ from and to what》_paged.md` | 转型设计、可持续设计、社会实践理论 | A |
+| P022 | [`P022-Tonkinwise-How-We-Intend-to-Future-report.md`](P022-Tonkinwise-How-We-Intend-to-Future-report.md) | `00-Paper/Cameron Tonkinwise：《How We Intend to Future Review of Speculative Everything》，2014_paged.md` | 推测设计、设计未来、批判设计 | A |
+| P023 | [`P023-Tonkinwise-Is-Design-Finished-report.md`](P023-Tonkinwise-Is-Design-Finished-report.md) | `00-Paper/Cameron Tonkinwise：《Is Design Finished Dematerialisation and Changing Things》，2004_paged.md` | 去物质化、可持续设计、物质文化 | A |
 
 ## 待核文档
 
