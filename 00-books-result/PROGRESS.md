@@ -37,7 +37,7 @@
 | 批次序号 | 一级书籍文件夹 | 当前状态 | 说明 |
 |---|---|---|---|
 | 01 | `BUCHANAN, RICHARD. Branzi` | 🟡 已开始 | 已完成该文件夹内 4 个报告 |
-| 02 | `Bringing design to software (Terry Winograd, (ed.))` | 🟡 已开始 | 已完成 B0008—B0021，仍有后续章节 |
+| 02 | `Bringing design to software (Terry Winograd, (ed.))` | 🟡 已开始 | 已完成 B0008—B0027，仍有后续章节与索引 / OCR 汇总文件 |
 | 03 | `CROSS, NIGEL. From a Design Science to a Design Discipline Understanding Designe` | ⬜ 未处理 | 下一步纳入本批处理 |
 | 04 | `Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt` | ⬜ 未处理 | 下一步纳入本批处理 |
 | 05 | `DILLON, ANDREW. Beyond Usability Process, Outcome and Affect in Human Computer Interaction` | ⬜ 未处理 | 下一步纳入本批处理 |
@@ -72,16 +72,22 @@
 | B0019 | `00-books/Bringing design to software (Terry Winograd, (ed.))/13-Action-Centered Design.md` | `00-books-result/Bringing design to software (Terry Winograd, (ed.))/13-Action-Centered Design-report.md` | ✅ 已完成 | A | 行动中心设计、用户行动领域、软件架构 |
 | B0020 | `00-books/Bringing design to software (Terry Winograd, (ed.))/14-6.BUSINESS-PROCESS MAPPING.md` | `00-books-result/Bringing design to software (Terry Winograd, (ed.))/14-6.BUSINESS-PROCESS MAPPING-report.md` | ✅ 已完成 | A | 业务流程映射、工作流、语言行动模型 |
 | B0021 | `00-books/Bringing design to software (Terry Winograd, (ed.))/15-Keeping It Simple.md` | `00-books-result/Bringing design to software (Terry Winograd, (ed.))/15-Keeping It Simple-report.md` | ✅ 已完成 | A | 信息设计、外围资源、媒介物质性、简单性 |
+| B0022 | `00-books/Bringing design to software (Terry Winograd, (ed.))/17-The Designer's Stance.md` | `00-books-result/Bringing design to software (Terry Winograd, (ed.))/17-The Designer's Stance-report.md` | ✅ 已完成 | A | David Kelley、设计姿态、创造性飞跃、跨职能团队 |
+| B0023 | `00-books/Bringing design to software (Terry Winograd, (ed.))/18-Reflective Conversationwith Materials.md` | `00-books-result/Bringing design to software (Terry Winograd, (ed.))/18-Reflective Conversationwith Materials-report.md` | ✅ 已完成 | A | Schön、行动中反思、与材料对话、backtalk |
+| B0024 | `00-books/Bringing design to software (Terry Winograd, (ed.))/19-INTERFACE DESIGN PROJECT.md` | `00-books-result/Bringing design to software (Terry Winograd, (ed.))/19-INTERFACE DESIGN PROJECT-report.md` | ✅ 已完成 | A | Apple 界面设计教育项目、跨学科工作室、HCI 教育 |
+| B0025 | `00-books/Bringing design to software (Terry Winograd, (ed.))/20-Cultures of Prototyping.md` | `00-books-result/Bringing design to software (Terry Winograd, (ed.))/20-Cultures of Prototyping-report.md` | ✅ 已完成 | A | 原型文化、规格与原型、创新组织 |
+| B0026 | `00-books/Bringing design to software (Terry Winograd, (ed.))/21-AND VISUAL BASIC.md` | `00-books-result/Bringing design to software (Terry Winograd, (ed.))/21-AND VISUAL BASIC-report.md` | ✅ 已完成 | A | HyperCard、Director、Visual Basic、原型工具 |
+| B0027 | `00-books/Bringing design to software (Terry Winograd, (ed.))/22-Footholds for Design.md` | `00-books-result/Bringing design to software (Terry Winograd, (ed.))/22-Footholds for Design-report.md` | ✅ 已完成 | A | 设计支点、模拟工具、材料实验、设计学习 |
 
 ## 五、下一步继续处理
 
-继续补完 `BATCH-BOOKS-001` 中第 2 个文件夹 `Bringing design to software (Terry Winograd, (ed.))` 的剩余章节，然后进入第 3 个文件夹 `CROSS, NIGEL. From a Design Science to a Design Discipline Understanding Designe`。
+继续补完 `BATCH-BOOKS-001` 中第 2 个文件夹 `Bringing design to software (Terry Winograd, (ed.))` 的剩余章节：`23-11.THE SPREADSHEET.md` 起。
 
 ## 六、总体进度
 
 ```text
-已完成：21 / 约 1344
-未完成：约 1323 / 约 1344
+已完成：27 / 约 1344
+未完成：约 1317 / 约 1344
 当前批次规则：10 个一级书籍文件夹为 1 批
 当前批次：BATCH-BOOKS-001
 ```
