@@ -36,8 +36,8 @@
 
 | 批次序号 | 一级书籍文件夹 | 当前状态 | 说明 |
 |---|---|---|---|
-| 01 | `BUCHANAN, RICHARD. Branzi` | 🟡 已开始 | 已完成该文件夹内 4 个报告 |
-| 02 | `Bringing design to software (Terry Winograd, (ed.))` | 🟡 已开始 | 已完成 B0008—B0033，剩余 Name Index、Subject Index、全书汇总与 OCR / bibliography 文件 |
+| 01 | `BUCHANAN, RICHARD. Branzi` | ✅ 已完成 | 该文件夹内 4 个 md 均已生成报告 |
+| 02 | `Bringing design to software (Terry Winograd, (ed.))` | ✅ 已完成 | 该文件夹内 39 个 md 均已生成报告：B0008—B0046 |
 | 03 | `CROSS, NIGEL. From a Design Science to a Design Discipline Understanding Designe` | ⬜ 未处理 | 下一步纳入本批处理 |
 | 04 | `Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt` | ⬜ 未处理 | 下一步纳入本批处理 |
 | 05 | `DILLON, ANDREW. Beyond Usability Process, Outcome and Affect in Human Computer Interaction` | ⬜ 未处理 | 下一步纳入本批处理 |
@@ -49,21 +49,47 @@
 
 ## 四、已完成报告
 
-已完成报告：B0001—B0033，共 33 个。
+已完成报告：B0001—B0046，共 46 个。
 
-本轮新增：B0022—B0033，共 12 个，均位于 `Bringing design to software (Terry Winograd, (ed.))` 文件夹下。
+本轮新增：B0034—B0046，共 13 个，均位于 `Bringing design to software (Terry Winograd, (ed.))` 文件夹下。
 
 完整已完成清单见 [`INDEX.md`](INDEX.md)。
 
-## 五、下一步继续处理
+## 五、本轮新增说明
 
-继续补完 `BATCH-BOOKS-001` 中第 2 个文件夹 `Bringing design to software (Terry Winograd, (ed.))` 的剩余非正文 / 汇总文件：`29-Name Index.md`、`30-Subject Index.md`、`31-Bringing Design to Software.md` 以及 OCR / bibliography 文件。之后进入第 3 个文件夹 `CROSS, NIGEL. From a Design Science to a Design Discipline Understanding Designe`。
-
-## 六、总体进度
+本轮补完 `Bringing design to software (Terry Winograd, (ed.))` 文件夹剩余的非正文 / 汇总 / OCR 切分文件，包括：
 
 ```text
-已完成：33 / 约 1344
-未完成：约 1311 / 约 1344
+29-Name Index.md
+30-Subject Index.md
+31-Bringing Design to Software.md
+Bringing design to software (Terry Winograd, (ed.)).md
+Bringing design to software (Terry Winograd, (ed.))_01_preface_Bringing_Design_to_Software___.md
+Bringing design to software (Terry Winograd, (ed.))_02_toc_Contents___CONTENTS.md
+Bringing design to software (Terry Winograd, (ed.))_03_preface_Introduction___What_Is_Softwar.md
+Bringing design to software (Terry Winograd, (ed.))_04_body_2.THE_ALTO_AND_THE_STAR___Sugg.md
+Bringing design to software (Terry Winograd, (ed.))_05_bibliography_Bibliography.md
+Bringing design to software (Terry Winograd, (ed.))_06_body_Software___Credits.md
+Bringing design to software (Terry Winograd, (ed.))_07_bibliography_Name_Index.md
+Bringing design to software (Terry Winograd, (ed.))_08_body_A___B___C___D___E___F___G___H_.md
+Bringing design to software (Terry Winograd, (ed.))_09_bibliography_N___0___P___R___S___T___V___W_.md
+```
+
+## 六、下一步继续处理
+
+下一步进入 `BATCH-BOOKS-001` 第 3 个一级书籍文件夹：
+
+```text
+CROSS, NIGEL. From a Design Science to a Design Discipline Understanding Designe
+```
+
+该文件夹在 `books-paths.txt` 中包含 3 个 md 路径。
+
+## 七、总体进度
+
+```text
+已完成：46 / 约 1344
+未完成：约 1298 / 约 1344
 当前批次规则：10 个一级书籍文件夹为 1 批
 当前批次：BATCH-BOOKS-001
 ```
