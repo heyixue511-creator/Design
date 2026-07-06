@@ -27,6 +27,9 @@
 | 编号 | 原始文档 | 报告文件 | 状态 | 重要性 | 备注 |
 |---|---|---|---|---|---|
 | B0001 | `00-books/BUCHANAN, RICHARD. Branzi/01-Branzi's DilemmaDesign in Contemporary CultureRich.md` | `00-books-result/BUCHANAN, RICHARD. Branzi/01-Branzi's DilemmaDesign in Contemporary CultureRich-report.md` | ✅ 已完成 | A | 当代设计文化、现代主义之后、设计伦理与身份问题 |
+| B0005 | `00-books/BUCHANAN, RICHARD. Branzi/02-Design, Deliberation, and Organizational Learning.md` | `00-books-result/BUCHANAN, RICHARD. Branzi/02-Design, Deliberation, and Organizational Learning-report.md` | ✅ 已完成 | A | 设计协商、组织学习、战略设计、系统整合 |
+| B0006 | `00-books/BUCHANAN, RICHARD. Branzi/03-Design, Humanism, and the Philosophy of Culture Co.md` | `00-books-result/BUCHANAN, RICHARD. Branzi/03-Design, Humanism, and the Philosophy of Culture Co-report.md` | ✅ 已完成 | A | 设计人文主义、文化哲学、情境中的个体 |
+| B0007 | `00-books/BUCHANAN, RICHARD. Branzi/BUCHANAN, RICHARD. Branzi.md` | `00-books-result/BUCHANAN, RICHARD. Branzi/BUCHANAN, RICHARD. Branzi-report.md` | ✅ 已完成 | A | Branzi 困境全文 / 汇总文档 |
 | B0002 | `00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_58_preface_Introduction.md` | `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_58_preface_Introduction-report.md` | ✅ 已完成 | A | 中国现代设计史、工业化、五四、南京十年、殖民与战争语境 |
 | B0003 | `00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_59_body_China___Crafts,_early_industri.md` | `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_59_body_China___Crafts,_early_industri-report.md` | ✅ 已完成 | A | 中国现代设计史、上海现代、商业美术、出版与广告 |
 | B0004 | `00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_63_body_Developing_a_design_policy___F.md` | `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_63_body_Developing_a_design_policy___F-report.md` | ✅ 已完成 | A | 日本现代设计史、设计政策、工业工艺、Art Deco |
@@ -35,8 +38,8 @@
 
 | 优先级 | 建议处理对象 | 理由 |
 |---|---|---|
+| A | `Bringing design to software (Terry Winograd, (ed.))` | 支撑数字设计、HCI、软件设计、界面设计章节 |
 | A | Victor Margolin, World History of Design 相关文件 | 直接支撑《现当代设计史》全球设计史与中国 / 日本 / 欧洲章节 |
-| A | Buchanan 相关书籍章节 | 支撑设计研究、设计思维与学科边界 |
 | A | Cross 相关书籍章节 | 支撑设计知识与设计学科 |
 | B | bibliography 文件 | 用于补充参考文献与章节书目 |
 | C | 目录、索引类文件 | 用于检索和定位，不优先深读 |
@@ -44,6 +47,6 @@
 ## 五、总体进度
 
 ```text
-已完成：4 / 约 1344
-未完成：约 1340 / 约 1344
+已完成：7 / 约 1344
+未完成：约 1337 / 约 1344
 ```
