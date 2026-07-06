@@ -33,6 +33,17 @@
 | P010 | `00-Paper/[ACM Press the conference - Ft_ Lauderdale, Florida, USA -- Gaver, William W_; B.md` | `P010-Gaver-Ambiguity-as-a-Resource-for-Design-report.md` | ✅ 已完成 | A | HCI、交互设计、模糊性、体验设计 |
 | P011 | `00-Paper/Alan C. Birnholz (review)：《Bauhaus and Bauhaus Peopleby Eckhard NeumannPainters of the Bauhausby Eberhard RotersWalter Gropius and the Creation of the…》_paged.md` | `P011-Birnholz-Bauhaus-Reviews-report.md` | ✅ 已完成 | B | 包豪斯史、设计教育、文献批判 |
 | P012 | `00-Paper/Allison, Brian：Research in Art and Design, 1993_paged.md` | `P012-Allison-Research-in-Art-and-Design-report.md` | ✅ 已完成 | A | 艺术与设计研究、研究训练、方法论 |
+| P013 | `00-Paper/Alternatives：《exploring information appliances through Bill Gaver; Heather Marti.md` | `P013-Gaver-Martin-Alternatives-Information-Appliances-report.md` | ✅ 已完成 | A | 信息家电、概念设计、research through design |
+| P014 | `00-Paper/Anne-Marie Willis：《Ontological Designing》，2006_paged.md` | `P014-Willis-Ontological-Designing-report.md` | ✅ 已完成 | A | 本体论设计、人工物与主体、设计哲学 |
+| P015 | `00-Paper/Avant-Garde as Method Vkhutemas and the Pedagogy of Space, 1920-1930.md` | `P015-Bokov-Avant-Garde-as-Method-Vkhutemas-report.md` | ✅ 已完成 | B | VKhUTEMAS、先锋派教育、空间教学 |
+| P016 | `00-Paper/Bauhaus Imaginista Haus der Kulturen der Welt, Berlin, -- Basu, Priyanka -- West.md` | `P016-Bauhaus-Imaginista-Review-report.md` | ✅ 已完成 | A | 全球包豪斯、后殖民现代主义、跨文化设计史 |
+| P017 | `00-Paper/Book Review：《Michael Twyman, Printing 1770-1970 An Illustrated History of Its De.md` | `P017-Twyman-Printing-1770-1970-Review-report.md` | ✅ 已完成 | B | 印刷史、平面设计史、临时印刷品 |
+| P018 | `00-Paper/Brew, Angela：The Nature of Research：Inquiry into Academic Contexts, 2001_paged.md` | `P018-Brew-The-Nature-of-Research-report.md` | ✅ 已完成 | B | 学术研究、研究方法、研究文化 |
+| P019 | `00-Paper/Buchanan, Richard：Design Research and the New Learning, 2001_paged.md` | `P019-Buchanan-Design-Research-and-New-Learning-report.md` | ✅ 已完成 | A | 设计研究、新学习、设计知识 |
+| P020 | `00-Paper/Buchanan：《Discovering design explorations in design studies》.md` | `P020-Buchanan-Margolin-Discovering-Design-report.md` | ✅ 已完成 | A | 设计研究、设计学科、人工世界 |
+| P021 | `00-Paper/Cameron Tonkinwise：《Design for Transitions ‒ from and to what》_paged.md` | `P021-Tonkinwise-Design-for-Transitions-report.md` | ✅ 已完成 | A | 转型设计、可持续设计、社会实践理论 |
+| P022 | `00-Paper/Cameron Tonkinwise：《How We Intend to Future Review of Speculative Everything》，2014_paged.md` | `P022-Tonkinwise-How-We-Intend-to-Future-report.md` | ✅ 已完成 | A | 推测设计、设计未来、批判设计 |
+| P023 | `00-Paper/Cameron Tonkinwise：《Is Design Finished Dematerialisation and Changing Things》，2004_paged.md` | `P023-Tonkinwise-Is-Design-Finished-report.md` | ✅ 已完成 | A | 去物质化、可持续设计、物质文化 |
 
 ## 四、待核文档
 
@@ -40,19 +51,14 @@
 |---|---|---|
 | `00-Paper/Wiebe E. Bijker, Thomas P. Hughes：《The Social Construction of Technological Systems》，1987_paged.md` | ⚠️ 待核 | 当前读取内容为空，暂不生成深度报告。 |
 
-## 五、下一批建议
+## 五、下一步继续读取
 
-| 优先级 | 建议处理对象 | 理由 |
-|---|---|---|
-| A | `Alternatives: exploring information appliances...` | 支撑 HCI、交互设计、信息家电与体验设计 |
-| A | Anne-Marie Willis, Ontological Designing | 支撑本体论设计、人工物与主体关系 |
-| A | Avant-Garde as Method / Bauhaus Imaginista | 支撑包豪斯、先锋派与现代设计教育 |
-| A | Buchanan, Design Research and the New Learning | 支撑设计研究与设计学科建设 |
+继续从 `paper-paths.txt` 中 `Capkova, Helena; et al.：History of Design：Decorative Arts and Material Culture, 1400-2000, 2015_paged.md` 往后逐个读取并生成报告。
 
 ## 六、总体进度
 
 ```text
-已完成：12 / 72
+已完成：23 / 72
 待核：1 / 72
-未完成：59 / 72
+未完成：48 / 72
 ```
