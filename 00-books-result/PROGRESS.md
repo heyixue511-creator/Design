@@ -9,7 +9,7 @@
 | 状态 | 含义 |
 |---|---|
 | ✅ 已完成 | 已生成深度报告 |
-| 🟡 进行中 | 已读取原文，报告待完善 |
+| 🟡 部分完成 | 已处理该文件夹内部分 md，仍有后续 md 待处理 |
 | ⬜ 未处理 | 尚未生成报告 |
 | ⚠️ 待核 | 文献信息、页码、题名或来源需核对 |
 
@@ -24,70 +24,72 @@
 
 ## 三、批次规则
 
-`00-books/` 采用**书籍文件夹批次**推进：
+`00-books/` 原则上采用**书籍文件夹批次**推进：
 
 ```text
 10 本书 = 10 个一级书籍文件夹 = 1 批
 ```
 
-处理顺序以 `books-paths.txt` 中首次出现的一级文件夹为准。每一批先确定 10 个书籍文件夹，再处理这些文件夹内部的 md 深度报告。
+本轮按用户要求临时执行：
 
-### 第一批书籍文件夹：BATCH-BOOKS-001
+```text
+下一步 50 个 md 文件
+```
+
+处理顺序以 `books-paths.txt` 中当前进度后的连续路径为准。
+
+## 四、第一批书籍文件夹：BATCH-BOOKS-001
 
 | 批次序号 | 一级书籍文件夹 | 当前状态 | 说明 |
 |---|---|---|---|
 | 01 | `BUCHANAN, RICHARD. Branzi` | ✅ 已完成 | 该文件夹内 4 个 md 均已生成报告 |
 | 02 | `Bringing design to software (Terry Winograd, (ed.))` | ✅ 已完成 | 该文件夹内 39 个 md 均已生成报告：B0008—B0046 |
 | 03 | `CROSS, NIGEL. From a Design Science to a Design Discipline Understanding Designe` | ✅ 已完成 | `books-paths.txt` 当前实际列出 1 个 md，已生成 B0047 |
-| 04 | `Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt` | ⬜ 未处理 | 下一步纳入本批处理 |
-| 05 | `DILLON, ANDREW. Beyond Usability Process, Outcome and Affect in Human Computer Interaction` | ⬜ 未处理 | 下一步纳入本批处理 |
-| 06 | `Design Anthropology in Context _ An Introduction to Design -- Adam Drazin -- Lon` | ⬜ 未处理 | 下一步纳入本批处理 |
-| 07 | `Design Fiction_ A Method Toolbox for Design Research in a -- Martin Wiedmer; Sim` | ⬜ 未处理 | 下一步纳入本批处理 |
-| 08 | `Design Research Now __ The Uneasy Relationship between -- Susann Vihma; Ralf Mic` | ⬜ 未处理 | 下一步纳入本批处理 |
-| 09 | `Design and Creativity Policy, Management and Practice (Guy Julier Liz Moor (edit` | ⬜ 未处理 | 下一步纳入本批处理 |
-| 10 | `Design for Policy -- Christian Bason -- (OECD Publishing, 2014) -- 92642146` | ⬜ 未处理 | 下一步纳入本批处理，具体路径需继续向后读取确认完整文件夹名 |
+| 04 | `Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt` | ✅ 已完成 | 该文件夹内 28 个 md 均已生成报告：B0048—B0075 |
+| 05 | `DILLON, ANDREW. Beyond Usability Process, Outcome and Affect in Human Computer Interaction` | ✅ 已完成 | 该文件夹内 4 个 md 均已生成报告：B0076—B0079 |
+| 06 | `Design Anthropology in Context _ An Introduction to Design -- Adam Drazin -- Lon` | ✅ 已完成 | 该文件夹内 11 个 md 均已生成报告：B0080—B0090 |
+| 07 | `Design Fiction_ A Method Toolbox for Design Research in a -- Martin Wiedmer; Sim` | ✅ 已完成 | 该文件夹内 5 个 md 均已生成报告：B0091—B0095 |
+| 08 | `Design Research Now __ The Uneasy Relationship between -- Susann Vihma; Ralf Mic` | 🟡 部分完成 | 已生成 B0096—B0097，后续 md 继续下一轮处理 |
+| 09 | `Design and Creativity Policy, Management and Practice (Guy Julier Liz Moor (edit` | ⬜ 未处理 | 待后续处理 |
+| 10 | `Design for Policy -- Christian Bason -- (OECD Publishing, 2014) -- 92642146` | ⬜ 未处理 | 待后续处理，完整文件夹名需继续向后读取确认 |
 
-## 四、已完成报告
+## 五、已完成报告
 
-已完成报告：B0001—B0047，共 47 个。
+已完成报告：B0001—B0097，共 97 个。
 
-本轮新增：B0047，位于 `CROSS, NIGEL. From a Design Science to a Design Discipline Understanding Designe` 文件夹下。
+本轮新增：B0048—B0097，共 50 个。
 
 完整已完成清单见 [`INDEX.md`](INDEX.md)。
 
-## 五、本轮新增说明
+## 六、本轮新增范围：50 个 md 文件
 
-本轮处理 `BATCH-BOOKS-001` 第 3 个一级书籍文件夹：
+| 编号范围 | 文件夹 | 数量 | 说明 |
+|---|---|---:|---|
+| B0048—B0075 | `Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt` | 28 | 该文件夹全部完成 |
+| B0076—B0079 | `DILLON, ANDREW. Beyond Usability Process, Outcome and Affect in Human Computer Interaction` | 4 | 该文件夹全部完成 |
+| B0080—B0090 | `Design Anthropology in Context _ An Introduction to Design -- Adam Drazin -- Lon` | 11 | 该文件夹全部完成 |
+| B0091—B0095 | `Design Fiction_ A Method Toolbox for Design Research in a -- Martin Wiedmer; Sim` | 5 | 该文件夹全部完成 |
+| B0096—B0097 | `Design Research Now __ The Uneasy Relationship between -- Susann Vihma; Ralf Mic` | 2 | 该文件夹前 2 个 md 已完成 |
+
+## 七、下一步继续处理
+
+下一步从 `books-paths.txt` 后续路径继续，优先补完：
 
 ```text
-CROSS, NIGEL. From a Design Science to a Design Discipline Understanding Designe
+Design Research Now __ The Uneasy Relationship between -- Susann Vihma; Ralf Mic
 ```
 
-根据 `books-paths.txt` 当前显示，该文件夹实际仅列出 1 个 md 路径：
+然后进入：
 
 ```text
-00-books/CROSS, NIGEL. From a Design Science to a Design Discipline Understanding Designe/CROSS, NIGEL. From a Design Science to a Design Discipline Understanding Designe.md
+Design and Creativity Policy, Management and Practice (Guy Julier Liz Moor (edit
 ```
 
-该文件已生成对应报告：
+## 八、总体进度
 
 ```text
-00-books-result/CROSS, NIGEL. From a Design Science to a Design Discipline Understanding Designe/CROSS, NIGEL. From a Design Science to a Design Discipline Understanding Designe-report.md
-```
-
-## 六、下一步继续处理
-
-下一步进入 `BATCH-BOOKS-001` 第 4 个一级书籍文件夹：
-
-```text
-Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt
-```
-
-## 七、总体进度
-
-```text
-已完成：47 / 约 1344
-未完成：约 1297 / 约 1344
-当前批次规则：10 个一级书籍文件夹为 1 批
+已完成：97 / 约 1344
+未完成：约 1247 / 约 1344
 当前批次：BATCH-BOOKS-001
+本轮执行方式：连续 50 个 md 文件
 ```
