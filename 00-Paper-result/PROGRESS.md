@@ -19,20 +19,22 @@
 
 ## 三、当前已完成
 
-已完成报告：P001—P031，共 31 篇。
+已完成报告：P001—P041，共 41 篇。
 
-本轮新增：P024—P031。
+本轮新增：P032—P041，共 10 篇。
 
 | 编号 | 原始文档 | 报告文件 | 状态 | 重要性 | 备注 |
 |---|---|---|---|---|---|
-| P024 | `00-Paper/Capkova, Helena; et al.：History of Design：Decorative Arts and Material Culture, 1400-2000, 2015_paged.md` | `P024-Capkova-History-of-Design-Review-report.md` | ✅ 已完成 | A | 全球设计史、跨国设计史、教材写作 |
-| P025 | `00-Paper/Catherine Harper：《Rethinking Decoration Pleasure and Ideology in the Visual Arts》_paged.md` | `P025-Harper-Rethinking-Decoration-report.md` | ✅ 已完成 | B | 装饰理论、材料文化、纺织与设计美学 |
-| P026 | `00-Paper/Cross, Nigel：Designerly Ways of Knowing, 2006_paged.md` | `P026-Cross-Designerly-Ways-of-Knowing-Book-report.md` | ✅ 已完成 | A | 设计知识、设计认知、设计学科 |
-| P027 | `00-Paper/Design and the Construction of Publics -- DiSalvo, Carl -- Design Issues, #1, 25.md` | `P027-DiSalvo-Design-and-Construction-of-Publics-report.md` | ✅ 已完成 | A | 公共设计、设计政治、公众建构 |
-| P028 | `00-Paper/Design history _ an anthology -- Doordan, Dennis P -- A Design issues reader, Ca.md` | `P028-Doordan-Design-History-Anthology-report.md` | ✅ 已完成 | A | 设计史方法论、设计史读本、多声部历史 |
-| P029 | `00-Paper/Design Issues：Editors (2004-2013), 2014_paged.md` | `P029-Design-Issues-Editors-2004-2013-report.md` | ✅ 已完成 | C | 期刊史、学术共同体、人物网络 |
-| P030 | `00-Paper/Design research society conference -- Design Studies, #4, 18, pages I-0, 1997 oc.md` | `P030-Design-Research-Society-Conference-1998-report.md` | ✅ 已完成 | C | DRS、创新管理、设计研究学术史 |
-| P031 | `00-Paper/Designing Visual Interfaces -- Mullet, Kevin; Sano, Darrell -- ACM SIGCHI Bullet.md` | `P031-Mullet-Sano-Designing-Visual-Interfaces-review-report.md` | ✅ 已完成 | B | 视觉界面设计、HCI、GUI 与视觉传达 |
+| P032 | `00-Paper/Dorst, Kees：The Core of Design Thinking and Its Application, 2011_paged.md` | `P032-Dorst-Core-of-Design-Thinking-report.md` | ✅ 已完成 | A | 设计思维、溯因推理、框架创造 |
+| P033 | `00-Paper/Dorst, Kees; Cross, Nigel：Creativity in the Design Process：Co-evolution of Problem and Solution, 2001_paged.md` | `P033-Dorst-Cross-Creativity-Co-evolution-report.md` | ✅ 已完成 | A | 设计创造力、问题—方案共同演化、协议分析 |
+| P034 | `00-Paper/Dunne：《[ACM Press the conference - London, England (2002.06.25-2002.06.28)] Proc.md` | `P034-Dunne-Raby-Placebo-Project-report.md` | ✅ 已完成 | A | 批判设计、Placebo Project、电子物文化 |
+| P035 | `00-Paper/Engholm, Ida：Digital Style History：The Development of Graphic Design on the Internet, 2002_paged.md` | `P035-Engholm-Digital-Style-History-report.md` | ✅ 已完成 | A | 数字风格史、Web 设计、网络视觉文化 |
+| P036 | `00-Paper/Fallman：《The Interaction Design Research Triangle of Design Practice, Design Stu.md` | `P036-Fallman-Interaction-Design-Research-Triangle-report.md` | ✅ 已完成 | A | 交互设计研究、三角模型、设计探索 |
+| P037 | `00-Paper/Foucault, Michel：Of Other Spaces：Utopias and Heterotopias, 1967_paged.md` | `P037-Foucault-Of-Other-Spaces-Heterotopias-report.md` | ✅ 已完成 | A | 异托邦、空间理论、建筑与设计理论 |
+| P038 | `00-Paper/Frampton, Kenneth：Towards a Critical Regionalism：Six Points for an Architecture of Resistance, 1983_paged.md` | `P038-Frampton-Critical-Regionalism-report.md` | ✅ 已完成 | A | 批判地域主义、现代性批判、建筑理论 |
+| P039 | `00-Paper/Glanville, Ranulph; Jonas, Wolfgang：Research through Design through Research：A Cybernetic Model, 2007_paged.md` | `P039-Jonas-Research-through-Design-Cybernetic-Model-report.md` | ✅ 已完成 | A | research through design、控制论、设计知识论 |
+| P040 | `00-Paper/How HCI interprets the probes -- Kirsten Boehner; Janet Vertesi; Phoebe Sengers;.md` | `P040-Boehner-How-HCI-Interprets-the-Probes-report.md` | ✅ 已完成 | A | 文化探针、HCI 方法论、reflective HCI |
+| P041 | `00-Paper/How to conduct a bibliometric analysis_ An overview and -- Donthu, Naveen (autho.md` | `P041-Donthu-How-to-Conduct-Bibliometric-Analysis-report.md` | ✅ 已完成 | A | 文献计量、科学图谱、研究方法 |
 
 完整已完成清单见 [`INDEX.md`](INDEX.md)。
 
@@ -44,12 +46,12 @@
 
 ## 五、下一步继续读取
 
-继续从 `paper-paths.txt` 中 `Dorst, Kees：The Core of Design Thinking and Its Application, 2011_paged.md` 往后逐个读取并生成报告。
+继续从 `paper-paths.txt` 中 `HUNT J. Prototyping the social Temporality and speculative futures at the inters.md` 往后逐个读取并生成报告。
 
 ## 六、总体进度
 
 ```text
-已完成：31 / 72
+已完成：41 / 72
 待核：1 / 72
-未完成：40 / 72
+未完成：30 / 72
 ```
