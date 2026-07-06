@@ -15,6 +15,9 @@
 | P007 | [`P007-Kopytoff-Cultural-Biography-of-Things-report.md`](P007-Kopytoff-Cultural-Biography-of-Things-report.md) | `00-Paper/Igor Kopytoff：《The Cultural Biography of Things Commoditization as Process》，1986_paged.md` | 物的文化生命史、商品化、物质文化 | A |
 | P008 | [`P008-Irwin-Transition-Design-Proposal-report.md`](P008-Irwin-Transition-Design-Proposal-report.md) | `00-Paper/Terry Irwin：《Transition Design A Proposal for a New Area of Design Practice, Study, and Research》，2015_paged.md` | 转型设计、可持续设计、社会创新 | A |
 | P009 | [`P009-Kossoff-Holism-Everyday-Life-report.md`](P009-Kossoff-Holism-Everyday-Life-report.md) | `00-Paper/Gideon Kossoff：《Holism and the Reconstitution of Everyday Life A Framework for Transition to a Sustainable Society》_paged.md` | 整体论、日常生活、可持续转型 | A |
+| P010 | [`P010-Gaver-Ambiguity-as-a-Resource-for-Design-report.md`](P010-Gaver-Ambiguity-as-a-Resource-for-Design-report.md) | `00-Paper/[ACM Press the conference - Ft_ Lauderdale, Florida, USA -- Gaver, William W_; B.md` | HCI、交互设计、模糊性、体验设计 | A |
+| P011 | [`P011-Birnholz-Bauhaus-Reviews-report.md`](P011-Birnholz-Bauhaus-Reviews-report.md) | `00-Paper/Alan C. Birnholz (review)：《Bauhaus and Bauhaus Peopleby Eckhard NeumannPainters of the Bauhausby Eberhard RotersWalter Gropius and the Creation of the…》_paged.md` | 包豪斯史、设计教育、文献批判 | B |
+| P012 | [`P012-Allison-Research-in-Art-and-Design-report.md`](P012-Allison-Research-in-Art-and-Design-report.md) | `00-Paper/Allison, Brian：Research in Art and Design, 1993_paged.md` | 艺术与设计研究、研究训练、方法论 | A |
 
 ## 待核文档
 
