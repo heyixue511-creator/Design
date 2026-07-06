@@ -24,7 +24,7 @@
 
 ## 三、批次规则
 
-从下一步开始，`00-books/` 采用**书籍文件夹批次**推进：
+`00-books/` 采用**书籍文件夹批次**推进：
 
 ```text
 10 本书 = 10 个一级书籍文件夹 = 1 批
@@ -37,7 +37,7 @@
 | 批次序号 | 一级书籍文件夹 | 当前状态 | 说明 |
 |---|---|---|---|
 | 01 | `BUCHANAN, RICHARD. Branzi` | 🟡 已开始 | 已完成该文件夹内 4 个报告 |
-| 02 | `Bringing design to software (Terry Winograd, (ed.))` | 🟡 已开始 | 已完成 B0008—B0015，仍有后续章节 |
+| 02 | `Bringing design to software (Terry Winograd, (ed.))` | 🟡 已开始 | 已完成 B0008—B0021，仍有后续章节 |
 | 03 | `CROSS, NIGEL. From a Design Science to a Design Discipline Understanding Designe` | ⬜ 未处理 | 下一步纳入本批处理 |
 | 04 | `Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt` | ⬜ 未处理 | 下一步纳入本批处理 |
 | 05 | `DILLON, ANDREW. Beyond Usability Process, Outcome and Affect in Human Computer Interaction` | ⬜ 未处理 | 下一步纳入本批处理 |
@@ -46,8 +46,6 @@
 | 08 | `Design Research Now __ The Uneasy Relationship between -- Susann Vihma; Ralf Mic` | ⬜ 未处理 | 下一步纳入本批处理 |
 | 09 | `Design and Creativity Policy, Management and Practice (Guy Julier Liz Moor (edit` | ⬜ 未处理 | 下一步纳入本批处理 |
 | 10 | `Design for Policy -- Christian Bason -- (OECD Publishing, 2014) -- 92642146` | ⬜ 未处理 | 下一步纳入本批处理，具体路径需继续向后读取确认完整文件夹名 |
-
-> 注：第一批的第 1、2 个文件夹已有部分或全部报告。后续将优先补完本批 10 个文件夹，而不是继续按单个 md 零散推进。
 
 ## 四、已完成报告
 
@@ -68,23 +66,22 @@
 | B0013 | `00-books/Bringing design to software (Terry Winograd, (ed.))/07-2.THE ALTO AND THE STAR.md` | `00-books-result/Bringing design to software (Terry Winograd, (ed.))/07-2.THE ALTO AND THE STAR-report.md` | ✅ 已完成 | A | Xerox PARC、Alto、Star、GUI 设计史 |
 | B0014 | `00-books/Bringing design to software (Terry Winograd, (ed.))/08-The Role of the Artist-Designer.md` | `00-books-result/Bringing design to software (Terry Winograd, (ed.))/08-The Role of the Artist-Designer-report.md` | ✅ 已完成 | A | 艺术设计师、交互设计、界面即产品、设计美学 |
 | B0015 | `00-books/Bringing design to software (Terry Winograd, (ed.))/09-Design Languages.md` | `00-books-result/Bringing design to software (Terry Winograd, (ed.))/09-Design Languages-report.md` | ✅ 已完成 | A | 设计语言、产品系统、界面设计、意义生成 |
+| B0016 | `00-books/Bringing design to software (Terry Winograd, (ed.))/10-INTERFACE GUIDELINES.md` | `00-books-result/Bringing design to software (Terry Winograd, (ed.))/10-INTERFACE GUIDELINES-report.md` | ✅ 已完成 | A | Macintosh HIG、界面规范、平台设计语言 |
+| B0017 | `00-books/Bringing design to software (Terry Winograd, (ed.))/11-The Consumer Spectrum.md` | `00-books-result/Bringing design to software (Terry Winograd, (ed.))/11-The Consumer Spectrum-report.md` | ✅ 已完成 | A | 消费者光谱、忍耐阈值、高科技产品采纳 |
+| B0018 | `00-books/Bringing design to software (Terry Winograd, (ed.))/12-WORLD WIDE WEB.md` | `00-books-result/Bringing design to software (Terry Winograd, (ed.))/12-WORLD WIDE WEB-report.md` | ✅ 已完成 | A | Mosaic、WWW、开放标准、网络分发 |
+| B0019 | `00-books/Bringing design to software (Terry Winograd, (ed.))/13-Action-Centered Design.md` | `00-books-result/Bringing design to software (Terry Winograd, (ed.))/13-Action-Centered Design-report.md` | ✅ 已完成 | A | 行动中心设计、用户行动领域、软件架构 |
+| B0020 | `00-books/Bringing design to software (Terry Winograd, (ed.))/14-6.BUSINESS-PROCESS MAPPING.md` | `00-books-result/Bringing design to software (Terry Winograd, (ed.))/14-6.BUSINESS-PROCESS MAPPING-report.md` | ✅ 已完成 | A | 业务流程映射、工作流、语言行动模型 |
+| B0021 | `00-books/Bringing design to software (Terry Winograd, (ed.))/15-Keeping It Simple.md` | `00-books-result/Bringing design to software (Terry Winograd, (ed.))/15-Keeping It Simple-report.md` | ✅ 已完成 | A | 信息设计、外围资源、媒介物质性、简单性 |
 
 ## 五、下一步继续处理
 
-下一步不再继续单个章节零散推进，而是补完 `BATCH-BOOKS-001` 中 10 个一级书籍文件夹的深度报告。
-
-优先顺序：
-
-1. 补完 `Bringing design to software (Terry Winograd, (ed.))` 剩余章节。
-2. 进入 `CROSS, NIGEL. From a Design Science to a Design Discipline Understanding Designe` 文件夹。
-3. 继续 `Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt` 文件夹。
-4. 依次完成第一批剩余文件夹。
+继续补完 `BATCH-BOOKS-001` 中第 2 个文件夹 `Bringing design to software (Terry Winograd, (ed.))` 的剩余章节，然后进入第 3 个文件夹 `CROSS, NIGEL. From a Design Science to a Design Discipline Understanding Designe`。
 
 ## 六、总体进度
 
 ```text
-已完成：15 / 约 1344
-未完成：约 1329 / 约 1344
+已完成：21 / 约 1344
+未完成：约 1323 / 约 1344
 当前批次规则：10 个一级书籍文件夹为 1 批
 当前批次：BATCH-BOOKS-001
 ```
