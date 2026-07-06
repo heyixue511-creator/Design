@@ -1,0 +1,1344 @@
+﻿00-books/BUCHANAN, RICHARD. Branzi/01-Branzi's DilemmaDesign in Contemporary CultureRich.md
+00-books/BUCHANAN, RICHARD. Branzi/02-Design, Deliberation, and Organizational Learning.md
+00-books/BUCHANAN, RICHARD. Branzi/03-Design, Humanism, and the Philosophy of Culture Co.md
+00-books/BUCHANAN, RICHARD. Branzi/BUCHANAN, RICHARD. Branzi.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/01-BringingDesigntoSoftware.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/02-Bringing Designto Software.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/03-Preface.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/04-Introduction.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/05-A Software Design Manifesto.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/07-2.THE ALTO AND THE STAR.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/08-The Role of the Artist-Designer.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/09-Design Languages.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/10-INTERFACE GUIDELINES.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/11-The Consumer Spectrum.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/12-WORLD WIDE WEB.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/13-Action-Centered Design.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/14-6.BUSINESS-PROCESS MAPPING.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/15-Keeping It Simple.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/17-The Designer's Stance.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/18-Reflective Conversationwith Materials.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/19-INTERFACE DESIGN PROJECT.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/20-Cultures of Prototyping.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/21-AND VISUAL BASIC.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/22-Footholds for Design.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/23-11.THE SPREADSHEET.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/24-12.THE DESIGN OF.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/25-Organizational Support forSoftware Design.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/26-13.QUICKEN.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/27-Design for People at Work.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/28-Reflection.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/29-Name Index.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/30-Subject Index.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/31-Bringing Design to Software.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/Bringing design to software (Terry Winograd, (ed.)).md
+00-books/Bringing design to software (Terry Winograd, (ed.))/Bringing design to software (Terry Winograd, (ed.))_01_preface_Bringing_Design_to_Software___.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/Bringing design to software (Terry Winograd, (ed.))_02_toc_Contents___CONTENTS.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/Bringing design to software (Terry Winograd, (ed.))_03_preface_Introduction___What_Is_Softwar.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/Bringing design to software (Terry Winograd, (ed.))_04_body_2.THE_ALTO_AND_THE_STAR___Sugg.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/Bringing design to software (Terry Winograd, (ed.))_05_bibliography_Bibliography.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/Bringing design to software (Terry Winograd, (ed.))_06_body_Software___Credits.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/Bringing design to software (Terry Winograd, (ed.))_07_bibliography_Name_Index.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/Bringing design to software (Terry Winograd, (ed.))_08_body_A___B___C___D___E___F___G___H_.md
+00-books/Bringing design to software (Terry Winograd, (ed.))/Bringing design to software (Terry Winograd, (ed.))_09_bibliography_N___0___P___R___S___T___V___W_.md
+00-books/CROSS, NIGEL. From a Design Science to a Design Discipline Understanding Designe/01-Designerly Ways ofKnowing.md
+00-books/CROSS, NIGEL. From a Design Science to a Design Discipline Understanding Designe/02-Acknowledgements.md
+00-books/CROSS, NIGEL. From a Design Science to a Design Discipline Understanding Designe/CROSS, NIGEL. From a Design Science to a Design Discipline Understanding Designe.md
+00-books/Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt/01-CONTEXTUALDESIGN.md
+00-books/Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt/02-CONTEXTUALDESIGN.md
+00-books/Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt/03-Acclaim for Contextual Design.md
+00-books/Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt/04-Foreword.md
+00-books/Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt/05-KEEPING IN TOUCH WITH THE CUSTOMER.md
+00-books/Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt/06-Gathering CustomerData.md
+00-books/Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt/07-Principles ofContextual Inquiry.md
+00-books/Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt/08-Contextual Inquiryin Practice.md
+00-books/Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt/09-A Language of Work.md
+00-books/Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt/10-Work Models.md
+00-books/Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt/11-The InterpretationSession.md
+00-books/Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt/12-Consolidation.md
+00-books/Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt/13-Creating One Viewof the Customer.md
+00-books/Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt/14-Communicating10to the Organization.md
+00-books/Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt/15-Work Redesign.md
+00-books/Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt/16-UNRAVELING THE SOFTWARE PROCESS.md
+00-books/Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt/17-Using Data toDrive Design.md
+00-books/Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt/18-System Design.md
+00-books/Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt/19-Project Planning and16Strategy.md
+00-books/Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt/20-Prototyping as aDesign Tool.md
+00-books/Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt/21-Iterating with aPrototype.md
+00-books/Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt/22-THE INTERPRETATION SESSION.md
+00-books/Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt/23-Putting It intoPractice.md
+00-books/Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt/24-Afterword.md
+00-books/Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt/25-Readings and Resources.md
+00-books/Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt/26-About the Authors.md
+00-books/Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt/27-CONTEXTUALDESIGN.md
+00-books/Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt/Contextual Design_ Defining Customer-Centered Systems -- Beyer, Hugh, Holtzblatt.md
+00-books/DILLON, ANDREW. Beyond Usability Process, Outcome and Affect in Human Computer Interaction/01-Beyond usability process, outcome andaffect in hum.md
+00-books/DILLON, ANDREW. Beyond Usability Process, Outcome and Affect in Human Computer Interaction/02-Beyond usability Process, Outcome and Affect Exper.md
+00-books/DILLON, ANDREW. Beyond Usability Process, Outcome and Affect in Human Computer Interaction/03-Genres in information space Refs.md
+00-books/DILLON, ANDREW. Beyond Usability Process, Outcome and Affect in Human Computer Interaction/DILLON, ANDREW. Beyond Usability Process, Outcome and Affect in Human Computer Interaction.md
+00-books/Design Anthropology in Context _ An Introduction to Design -- Adam Drazin -- Lon/01-DESIGNANTHROPOLOGYIN CONTEXT.md
+00-books/Design Anthropology in Context _ An Introduction to Design -- Adam Drazin -- Lon/02-DESIGN ANTHROPOLOGY IN CONTEXT.md
+00-books/Design Anthropology in Context _ An Introduction to Design -- Adam Drazin -- Lon/03-ACKNOWLEDGEMENTS.md
+00-books/Design Anthropology in Context _ An Introduction to Design -- Adam Drazin -- Lon/04-INTRODUCTIONDesign and human lives.md
+00-books/Design Anthropology in Context _ An Introduction to Design -- Adam Drazin -- Lon/05-WHY SHOULD ANTHROPOLOGY ANDDESIGN ENGAGE.md
+00-books/Design Anthropology in Context _ An Introduction to Design -- Adam Drazin -- Lon/06-WHAT IS DESIGN CULTURE.md
+00-books/Design Anthropology in Context _ An Introduction to Design -- Adam Drazin -- Lon/07-WHAT IS DESIGN MATERIALITY.md
+00-books/Design Anthropology in Context _ An Introduction to Design -- Adam Drazin -- Lon/08-HOW DO DESIGN ANTHROPOLOGISTSWORK.md
+00-books/Design Anthropology in Context _ An Introduction to Design -- Adam Drazin -- Lon/09-5CONTEXT.md
+00-books/Design Anthropology in Context _ An Introduction to Design -- Adam Drazin -- Lon/10-ARCHAEOLOGIES OF THE FUTURE.md
+00-books/Design Anthropology in Context _ An Introduction to Design -- Adam Drazin -- Lon/Design Anthropology in Context _ An Introduction to Design -- Adam Drazin -- Lon.md
+00-books/Design Fiction_ A Method Toolbox for Design Research in a -- Martin Wiedmer; Sim/01-Design Fiction A Method Toolbox for Design Researc.md
+00-books/Design Fiction_ A Method Toolbox for Design Research in a -- Martin Wiedmer; Sim/02-Part 2 From Scientific Research to Research as Des.md
+00-books/Design Fiction_ A Method Toolbox for Design Research in a -- Martin Wiedmer; Sim/03-Conclusion References.md
+00-books/Design Fiction_ A Method Toolbox for Design Research in a -- Martin Wiedmer; Sim/04-Author Biography.md
+00-books/Design Fiction_ A Method Toolbox for Design Research in a -- Martin Wiedmer; Sim/Design Fiction_ A Method Toolbox for Design Research in a -- Martin Wiedmer; Sim.md
+00-books/Design Research Now __ The Uneasy Relationship between -- Susann Vihma; Ralf Mic/01-The Uneasy Relationship between Design andDesign Research1.md
+00-books/Design Research Now __ The Uneasy Relationship between -- Susann Vihma; Ralf Mic/02-Reflectiontheory and design.md
+00-books/Design Research Now __ The Uneasy Relationship between -- Susann Vihma; Ralf Mic/Design Research Now __ The Uneasy Relationship between -- Susann Vihma; Ralf Mic.md
+00-books/Design and Creativity Policy, Management and Practice (Guy Julier Liz Moor (edit/01-IntroductionDesign and Creativity.md
+00-books/Design and Creativity Policy, Management and Practice (Guy Julier Liz Moor (edit/02-Designing the State.md
+00-books/Design and Creativity Policy, Management and Practice (Guy Julier Liz Moor (edit/03-CHAPTER 2.md
+00-books/Design and Creativity Policy, Management and Practice (Guy Julier Liz Moor (edit/04-Design, Innovation and Policy at Local Level.md
+00-books/Design and Creativity Policy, Management and Practice (Guy Julier Liz Moor (edit/05-Public Art, Design-led Urban Regenerationand its Evaluation.md
+00-books/Design and Creativity Policy, Management and Practice (Guy Julier Liz Moor (edit/06-Design Client, Patron and ShowcaseThe Museum and the Creativ.md
+00-books/Design and Creativity Policy, Management and Practice (Guy Julier Liz Moor (edit/07-Routinized Labour in the Graphic Design Studio.md
+00-books/Design and Creativity Policy, Management and Practice (Guy Julier Liz Moor (edit/08-Auditing in Communication Design.md
+00-books/Design and Creativity Policy, Management and Practice (Guy Julier Liz Moor (edit/09-Researchers in the World of Product Design.md
+00-books/Design and Creativity Policy, Management and Practice (Guy Julier Liz Moor (edit/10-The Turn to Service Design.md
+00-books/Design and Creativity Policy, Management and Practice (Guy Julier Liz Moor (edit/11-CHAPTER 10.md
+00-books/Design and Creativity Policy, Management and Practice (Guy Julier Liz Moor (edit/12-Visual Continuity and Innovationin Editorial Design Practice.md
+00-books/Design and Creativity Policy, Management and Practice (Guy Julier Liz Moor (edit/13-Tim Allnutt.md
+00-books/Design and Creativity Policy, Management and Practice (Guy Julier Liz Moor (edit/14-Jason Severs.md
+00-books/Design and Creativity Policy, Management and Practice (Guy Julier Liz Moor (edit/15-Ben Reason.md
+00-books/Design and Creativity Policy, Management and Practice (Guy Julier Liz Moor (edit/Design and Creativity Policy, Management and Practice (Guy Julier Liz Moor (edit.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/01-Design and the Creation of Value CONTENTS Introduc.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/02-He adds 3 What does the work achieve.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/03-Chapter 7 4 What are the limitations of the text.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/06-4 On the bankruptcy of General Motors (GM), and it.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/07-Designing in the Brazilian government Notes on edi.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/08-Preface Gulf and bridge.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/09-Introduction Design in economic life What do you u.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/10-Hierarchies and the positioning of design.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/11-Neoclassical theory.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/12-Readings Some critical studies Austrian theory.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/13-Readings Institutional theory.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/14-New Institutional Theory.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/15-Readings New Growth theory.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/16-Technology = experience = knowledge = ideas.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/17-Readings The National System.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/18-Readings Design from the standpoint of economics.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/19-2 How economics positions design 1 Re Technologysu.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/20-Economics from the standpoint of design 2 The ques.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/22-Design and value from the standpoint of practice.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/23-1. Design is innately concerned with changesup2sup.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/24-b The operational functions of design Technology-c.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/25-The implications for strategy.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/26-AFTERWORD APPENDIX 1 SOCIALIST THEORYsup1sup.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/27-APPENDIX 2 VALUE AND VALUES IN DESIGN.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/28-Producer value Economic value Users and material v.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/29-NOTES.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/31-Chapter 4 Chapter 5 Chapter 6 Chapter 7.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/32-Chapter 9 INDEX.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/33-Bloomsbury AcademicAn imprint of Bloomsbury Publis.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --_02_preface_Design_and_the_Creation_of_Val.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --_03_toc_CONTENTS.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --_04_preface_DESIGN_AND_THE_CREATION_OF_VAL.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --_05_body_2_What,_precisely,_does_the_te.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --_07_body_1_On_neoclassical_economics___.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --_08_preface_Conclusions___Design_as_an_eco.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --_09_bibliography_Notes_on_editing_the_manuscrip.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --_10_preface_Preface___JOHN_HESKETT___Gulf_.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --_11_body_Hierarchies_and_the_positionin.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --_12_preface_Some_introductions_to_neoclass.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --_13_body_Some_critical_studies___Austri.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --_14_appendix_APPENDIX_1__SOCIALIST_THEORY_s.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --_15_body_Producer_value___Economic_valu.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --_16_bibliography_NOTES.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --_17_preface_Clive_Dilnot__Introduction_to_.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --_18_body_Sabine_Junginger__Design_as_an.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --_19_preface_Preface.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --_20_body_Chapter_1___Chapter_3___Chapte.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --_21_appendix_Appendix_1__Socialist_theory__.md
+00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --_22_bibliography_INDEX___Bloomsbury_Academic_An.md
+00-books/Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic/02-Acknowledgments and Sources.md
+00-books/Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic/03-Introduction.md
+00-books/Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic/04-After The Modernists.md
+00-books/Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic/05-The Meaning of Design.md
+00-books/Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic/06-We Are the Primitives.md
+00-books/Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic/07-Tendencies ofGerman Design Theories in thePast Fifteen Years.md
+00-books/Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic/08-There is No Kitsch,There is Only Design!.md
+00-books/Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic/09-The Social Design ofOffice Automation.md
+00-books/Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic/10-The Interpretationof Design.md
+00-books/Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic/11-Declaration by Design Rhetoric,Argument, and Demonstration i.md
+00-books/Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic/12-Omit the Unimportant.md
+00-books/Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic/13-The Legibility of the WorldA Project of Graphic Design.md
+00-books/Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic/14-The Rhetoric of Neutrality.md
+00-books/Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic/15-Reading Isotype.md
+00-books/Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic/16-ABCDEFGHIWXYZ 1234abcdefghijk.md
+00-books/Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic/17-Eating the ImageThe Graphic Designer andthe Starving Audienc.md
+00-books/Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic/18-fasten fastenfasten fastenfasten fasten.md
+00-books/Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic/19-Representing MacbethA Case Study in Visual Rhetoric.md
+00-books/Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic/20-Drawing, Design and Semiotics.md
+00-books/Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic/21-Writing Design History.md
+00-books/Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic/22-The State of Design History.md
+00-books/Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic/23-The State of Design History.md
+00-books/Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic/24-List of Contributors.md
+00-books/Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic/25-DESIGN STUDIES.md
+00-books/Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic/Design discourse _ history, theory, criticism -- Margolin, Victor, 1941- -- Chic.md
+00-books/Designing Interactions/01-The Mouse and the Desktop.md
+00-books/Designing Interactions/02-Doug Engelbart.md
+00-books/Designing Interactions/03-The Future System Will Use Icons.md
+00-books/Designing Interactions/04-The Five-Minute Learning Curve.md
+00-books/Designing Interactions/05-Bill Atkinson.md
+00-books/Designing Interactions/07-Mac OS X.md
+00-books/Designing Interactions/08-Cordell Ratzlaff.md
+00-books/Designing Interactions/09-From the Desk to the Palm.md
+00-books/Designing Interactions/10-John Ellenby.md
+00-books/Designing Interactions/11-Palm Computing.md
+00-books/Designing Interactions/12-Design Criteria for the PalmPilot.md
+00-books/Designing Interactions/13-Dennis Boyle.md
+00-books/Designing Interactions/14-Combining PDA and Cell Phone.md
+00-books/Designing Interactions/15-Adopting Technology.md
+00-books/Designing Interactions/16-A Modern Cellular Phone Service.md
+00-books/Designing Interactions/17-Keiichi Enoki and Mari Matsunaga.md
+00-books/Designing Interactions/18-SHAREWAY.md
+00-books/Designing Interactions/19-A Case Study Juniper Online Bank.md
+00-books/Designing Interactions/20-Saving for your child's education.md
+00-books/Designing Interactions/21-Terry Winograd.md
+00-books/Designing Interactions/22-FILM sCOREMishima.md
+00-books/Designing Interactions/23-Durrell Bishop.md
+00-books/Designing Interactions/24-Futures and Alternative Nows.md
+00-books/Designing Interactions/25-Tony Dunne and Fiona Raby.md
+00-books/Designing Interactions/26-John Maeda.md
+00-books/Designing Interactions/27-Designing Interactions.md
+00-books/Designing Interactions/28-Is Interaction Design Here to Stay.md
+00-books/Designing Interactions/Designing Interactions.md
+00-books/Designing Mobile Interfaces _ Patterns for Interaction -- Hoober, Steven; Berkma/01-Preface.md
+00-books/Designing Mobile Interfaces _ Patterns for Interaction -- Hoober, Steven; Berkma/02-Composition.md
+00-books/Designing Mobile Interfaces _ Patterns for Interaction -- Hoober, Steven; Berkma/03-Components.md
+00-books/Designing Mobile Interfaces _ Patterns for Interaction -- Hoober, Steven; Berkma/04-Display of Information.md
+00-books/Designing Mobile Interfaces _ Patterns for Interaction -- Hoober, Steven; Berkma/05-Control and Confirmation.md
+00-books/Designing Mobile Interfaces _ Patterns for Interaction -- Hoober, Steven; Berkma/06-Revealing More Information.md
+00-books/Designing Mobile Interfaces _ Patterns for Interaction -- Hoober, Steven; Berkma/07-Widgets.md
+00-books/Designing Mobile Interfaces _ Patterns for Interaction -- Hoober, Steven; Berkma/08-Lateral Access.md
+00-books/Designing Mobile Interfaces _ Patterns for Interaction -- Hoober, Steven; Berkma/09-Drilldown.md
+00-books/Designing Mobile Interfaces _ Patterns for Interaction -- Hoober, Steven; Berkma/10-Labels and Indicators.md
+00-books/Designing Mobile Interfaces _ Patterns for Interaction -- Hoober, Steven; Berkma/11-Information Controls.md
+00-books/Designing Mobile Interfaces _ Patterns for Interaction -- Hoober, Steven; Berkma/12-Input and Output.md
+00-books/Designing Mobile Interfaces _ Patterns for Interaction -- Hoober, Steven; Berkma/13-Text and Character Input.md
+00-books/Designing Mobile Interfaces _ Patterns for Interaction -- Hoober, Steven; Berkma/14-General Interactive Controls.md
+00-books/Designing Mobile Interfaces _ Patterns for Interaction -- Hoober, Steven; Berkma/15-Input and Selection.md
+00-books/Designing Mobile Interfaces _ Patterns for Interaction -- Hoober, Steven; Berkma/16-Audio and Vibration.md
+00-books/Designing Mobile Interfaces _ Patterns for Interaction -- Hoober, Steven; Berkma/17-The Importance of Vibration.md
+00-books/Designing Mobile Interfaces _ Patterns for Interaction -- Hoober, Steven; Berkma/18-Screens, Lights, and Sensors.md
+00-books/Designing Mobile Interfaces _ Patterns for Interaction -- Hoober, Steven; Berkma/19-Mobile Radiotelephony.md
+00-books/Designing Mobile Interfaces _ Patterns for Interaction -- Hoober, Steven; Berkma/20-Design Templates and UI Guidelines.md
+00-books/Designing Mobile Interfaces _ Patterns for Interaction -- Hoober, Steven; Berkma/21-Mobile Typography.md
+00-books/Designing Mobile Interfaces _ Patterns for Interaction -- Hoober, Steven; Berkma/22-Human Factors.md
+00-books/Designing Mobile Interfaces _ Patterns for Interaction -- Hoober, Steven; Berkma/Designing Mobile Interfaces _ Patterns for Interaction -- Hoober, Steven; Berkma.md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/01-DIGITALDESIGNTHEORY.md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/02-DIGITALDESIGNTHEORY.md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/03-DIGITALDESIGNTHEORY.md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/04-IMPOUNDED ATTHE BORDERS OFMSWHEREISHERE.md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/05-IN OURMIS S S S SM SI SSLYFRO SS M S S S M MBY.md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/06-6--FUTURE ADVANCES IN GRAPHICDESIGNTOMORROW IS MADE UP OF TH.md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/07-TH TI I T THESOLE E E ESCRI E ARK..md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/08-THP S S HEPRO PETHO -O URE..md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/09-TH S S S S SNTSEX GS S S UPANMI -I I I MION..md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/10-THOS M I E L M AN.THOS O I I SI S UCHAW A F AM IT.md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/11-LAL M ENTWIS SS T T SS IS S IAFO ATFO L ISE.md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/12-WH W S OFTHLI G A AG D SNG A IISAPA T A R..md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/13-ALCOserv.md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/14-setzen in Jugendstiltypen.md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/15-RES B CANBE D G GN GZ ANAN G G G OED.md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/16-THE G NEDESS S S HATWI MN MI S M ZIIL MIUM..md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/17-TH R EDAN O O D O ) O ONTISTI I P RI IO WH ES..md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/18-HUS IIO IS I S IONEOF I I I TOPAY I R IER.md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/19-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvxxyz01234567.md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/20-ABCDEFGHIJKLMNOPQRSTUVWXYzabcdefghijklmnopqrstuvwxyz01234567.md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/21-TH S S S INGEXRP A A INGTOS GNG D G DNG ORCONS G DNG DON..md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/22-IF G I I LDTHS G S S TATTEA IT.md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/23-THEORY AT WORK2000-Present.md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De.md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De_01_preface_DIGITAL_DESIGN_THEORY___DIGITA.md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De_02_toc_CONTENTS.md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De_03_preface_SECTION_ONE__STRUCTURING_THE_D.md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De_04_body_ARTE_PROGRAMMATA___BRUNO_MUNAR.md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De_05_bibliography_GLOSSARY.md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De_06_body_TEXT_SOURCES.md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De_07_bibliography_BIBLIOGRAPHY.md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De_08_body_STRUCTURING_THE_DIGITAL___RESI.md
+00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De_09_bibliography_PHOTO_CREDITS___TEXT_CREDITS__.md
+00-books/FALLMAN D. Design-oriented human-computer interaction[C]/02-Does Iteration Maintain Design as a Rational Activ.md
+00-books/FALLMAN D. Design-oriented human-computer interaction[C]/FALLMAN D. Design-oriented human-computer interaction[C].md
+00-books/Grand Designs Labor, Empire, and the Museum in Victorian Culture/01-GRAND DESIGNS.md
+00-books/Grand Designs Labor, Empire, and the Museum in Victorian Culture/02-ACKNOWLEDGMENTS.md
+00-books/Grand Designs Labor, Empire, and the Museum in Victorian Culture/03-Introduction.md
+00-books/Grand Designs Labor, Empire, and the Museum in Victorian Culture/04-Configuring Design.md
+00-books/Grand Designs Labor, Empire, and the Museum in Victorian Culture/05-Originality and Sin.md
+00-books/Grand Designs Labor, Empire, and the Museum in Victorian Culture/06-Commodification and Its Discontents.md
+00-books/Grand Designs Labor, Empire, and the Museum in Victorian Culture/07-Principled Disagreements.md
+00-books/Grand Designs Labor, Empire, and the Museum in Victorian Culture/08-DESIGNS FOR ART MANUFACTURES..md
+00-books/Grand Designs Labor, Empire, and the Museum in Victorian Culture/09-BIBLIOGRAPHY.md
+00-books/Grand Designs Labor, Empire, and the Museum in Victorian Culture/Grand Designs Labor, Empire, and the Museum in Victorian Culture.md
+00-books/JONAS, WOLFGANG. Design Research and Its Meaning to the Methodological Developme/02-5An anthropological assumption 6Evolutionary feedb.md
+00-books/JONAS, WOLFGANG. Design Research and Its Meaning to the Methodological Developme/03-9 Re-contextualizing the scientific paradigm 10Ref.md
+00-books/JONAS, WOLFGANG. Design Research and Its Meaning to the Methodological Developme/JONAS, WOLFGANG. Design Research and Its Meaning to the Methodological Developme.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/01-Love ObjectsEmotion, Design andMaterial Culture.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/02-www.bloomsbury.com.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/03-LIST OF ILLUSTRATIONS.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/04-NOTES ON CONTRIBUTORS.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/06-ACKNOWLEDGEMENTS.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/07-How Do I Love Thee Objects ofEndearment in Contemporary Cult.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/08-'I Love Giving Presents'The Emotion of Material Culture.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/09-Real giving.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/10-(S)mother's Love, or, Baby Knitting.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/11-Sex, Birth and Nurture Unto DeathPatching Together Quilted B.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/12-Projecting andSubverting Identities.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/13-Courtly Cruising and Nineteenth-Century American Men's Roman.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/14-The Genteel Craft of Subversion.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/15-Performing Masculinity ThroughObjects in Postwar America.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/16-Gender, class and the pipe.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/17-Objects andEmbodiment.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/18-Seduced by the Archive.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/19-Kitsch, Enchantment and PowerThe Bleeding Statues of Templem.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/20-War and national identity.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/21-'Magic Toyshops'.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/22-Mediating Relationships.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/23-Material Memories.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/24-The Problematic Decision to LiveIrish-Romanian Home-Making a.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/25-Designing Meaningful and LastingUser Experiences.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/26-Ecological destruction.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/27-BIBLIOGRAPHY.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/28-3 Sex, Birth and Nurture Unto Death.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/29-6 Performing Masculinity Through Objects inPostwar America.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_02_preface_Love_Objects___Love_Objects_Em.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_03_toc_CONTENTS.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_04_preface_SECTION_1__The_Lives_of_Object.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_05_bibliography_NOTES_ON_CONTRIBUTORS.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_06_preface_Fran_Carter_(School_of_Art_and.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_07_body_Forgetting___Keeping_giving___.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_08_bibliography_Notes.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_10_bibliography_Notes.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_11_body_Sex,_Birth_and_Nurture_Unto_De.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_12_preface_Introduction.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_13_body_Maternal_memory___Coarse_craft.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_14_bibliography_Notes.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_15_body_Performing_Masculinity_Through.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_16_preface_Introduction.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_17_body_The_playboy_bachelor_and_the_p.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_18_bibliography_Notes.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_19_body_Objects_and_Embodiment___Seduc.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_20_preface_Introduction.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_21_body_A_life_in_the_archive___The_bi.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_22_bibliography_Notes.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_23_body_Kitsch,_Enchantment_and_Power_.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_24_preface_Introduction.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_25_body_Saint_Sulpice_and_kitsch___The.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_26_preface_Introduction.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_28_bibliography_Notes.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_29_body_SECTION_4___Mediating_Relation.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_30_preface_Introduction.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_31_body_Family,_memory,_photography___.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_32_preface_Introduction.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_34_preface_Introduction.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_35_body_Meaning_and_the_made___Belief_.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_36_bibliography_BIBLIOGRAPHY.md
+00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_38_bibliography_INDEX.md
+00-books/MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World/01-AUTOMATION'S FINEST HOURRADAR AND SYSTEM INTEGRATI.md
+00-books/MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World/03-8. Assist in training programs AUTOMATIC CONTROL's.md
+00-books/MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World/04-MORE THAN THE SUM OF ITS COMPONENT PARTS DYNAMICSY.md
+00-books/MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World/MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World.md
+00-books/MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World/MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World_01_preface_AUTOMATION'S_FINEST_HOUR__RADA.md
+00-books/MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World/MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World_02_body_THE_DIFFICULT_STEPCHILD__RADAR.md
+00-books/MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World/MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World_03_bibliography_NOTES.md
+00-books/Personas, Participatory Design and Product Development An Infrastructure for Engagement/01-Personas, Participatory Design and Product Develop.md
+00-books/Personas, Participatory Design and Product Development An Infrastructure for Engagement/02-Benefits of personas Risks of personas.md
+00-books/Personas, Participatory Design and Product Development An Infrastructure for Engagement/Personas, Participatory Design and Product Development An Infrastructure for Engagement.md
+00-books/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/01-Pioneers of Modern Design.md
+00-books/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/02-PIONEERS OFMODERN DESIGN.md
+00-books/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/03-Foreword to the First Edition.md
+00-books/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/04-Foreword to the Second Edition.md
+00-books/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/05-Foreword to the Pelican Edition.md
+00-books/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/11-NIKOLAUS PEVSNERTHE JUBILEE EDITION OFAn Outline of European.md
+00-books/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14.md
+00-books/SEAGO, ALEX, AND ANTHONY DUNNE. New Methods in Art and Design Research The Objec/01-New Methodologies in Art andDesign ResearchThe Obj.md
+00-books/SEAGO, ALEX, AND ANTHONY DUNNE. New Methods in Art and Design Research The Objec/02-Conclusion The Object as Research Discourse Refere.md
+00-books/SEAGO, ALEX, AND ANTHONY DUNNE. New Methods in Art and Design Research The Objec/SEAGO, ALEX, AND ANTHONY DUNNE. New Methods in Art and Design Research The Objec.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/01-About the Authors.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/02-Introduction 2 INTRODUCTION.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/03-12 INTRODUCTION A Historiography of Scandinavian D.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/04-DENMARK.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/05-FINLAND NORWAY.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/06-SWEDEN NOTE ON AUTHORSHIP.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/08-DEBATING DEGREES OF ARTFULNESS ARTLESS=WORTHLESS.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/09-TURNING DESIGN INTO ART WHAT IS A COPY Handwoven F.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/11-FABRICS BY THE YARD AT THE FRIENDSOF FINNISH HANDI.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/14-88 HONEST ADVERTISEMENT AND EMPTY SIGNS.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/15-CONSUMER IN INFINITY AN EXHIBITIONAT THE MODERNA M.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/16-CONCLUSION Designing a Hole in the Wall The Revers.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/17-INSIDE THE RVM TOMRA I OUTSIDE THE RVM THE TOMRA C.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/19-Just Decoration Ideology and Designin Early-Twenti.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/23-122 SCANDINAVIAN DESIGN DESIGNING THE GOLDFISH.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/25-Creature Comforts Soft Sofasand the Demise of Mode.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/26-COMFORTABLE MODERNISM THE TOUCH OF THE SOFA.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/28-THE NEW PLURALISM Jacob Jensen and the Lifa Kitche.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/30-PERSONALITY AND SIGNATURE DESIGN IN A MEDIATIZED W.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/31-PREPARING APPROPRIATION BY DESIGNER PERSONALIZATIO.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/32-Something Old, Something New,Something Stolen, Som.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/35-DIFFERENT BUT STILL THE SAME Exhibitable Furniture.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/36-AN ARTISTIC ACCORD PHOTOGENIC DESIGN.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/38-MODERN STILL LIFE The Advantages of Being SwedishV.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/39-WHAT IS SO SWEDISH ABOUT VOLVO ANYWAY A SPORTY LIT.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/42-From Policies to Politics FinnishDesign on the Ide.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/43-FROM A FULL PALETTE TO BLACK AND WHITE CRAFT, NOST.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/44-CONCLUDING REMARKS Epilogue.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/47-CHAPTER 3 HANDWOVEN FABRICS BY THE YARD.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/49-CHAPTER 6 JUST DECORATION CHAPTER 7 GOLDFISH MEMOR.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/50-CHAPTER 8 CREATURE COMFORTS CHAPTER 9 JACOB JENSEN.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/51-CHAPTER 11 EXHIBITABLE FURNITURE CHAPTER 12 THE AD.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/52-CHAPTER 13 FROM POLICIES TO POLITICS Select Biblio.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/53-300 INDEX.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/Scandinavian Design Alternative Histories (Kjetil Fallan (editor)).md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))_01_preface_About_the_Authors___Introducti.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))_02_body_2_INTRODUCTION___12_INTRODUCTI.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))_03_preface_A_Historiography_of_Scandinavi.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))_04_body_8_8.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))_05_preface_HONEST_ADVERTISEMENT_AND_EMPTY.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))_06_body_CONCLUSION__WHAT_IS_SO_SCANDIN.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))_07_bibliography_Notes.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))_08_preface_INTRODUCTION.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))_09_body_CHAPTER_1._A_HISTORIOGRAPHY_OF.md
+00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))_10_bibliography_Select_Bibliography___300_INDE.md
+00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/01-Representation, Style, and TasteThe Politics of Everyday Lif.md
+00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/02-The Courtly Stylistic Regime.md
+00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/03-Negotiating Absolute PowerCity, Crown, and Church.md
+00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/04-Fathers, Masters, and KingsMirroring Monarchical Power.md
+00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/05-FROM STYLE TO TASTE.md
+00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/06-Revolutionary Transformation.md
+00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/07-The New Politicsof the EverydayMaking Class through Tasteand.md
+00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/08-The Separation of Aestheticsand Productive Labor.md
+00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/09-PART 3.md
+00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/10-The Bourgeoisie as Consumers.md
+00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/11-L'AMEUBLEMENT.md
+00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/12-Style in the NewCommercial World.md
+00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/13-After the Culture of ProductionThe Paradox of Labor and Citi.md
+00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/14-Style, the Nation,and the Market.md
+00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/15-Toward a Mass Stylistic RegimeThe Citizen-Consumer.md
+00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/16-Bibliography.md
+00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/17-General Index.md
+00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/18-Index of Names.md
+00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C.md
+00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/01-Digitized by the Internet Archivein 2018 with fund.md
+00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/02-THE ARTS AND CRAFTS MOVEMENT WAS ONE OF ENORMOUSIN.md
+00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/03-IN LATE-EIGHTEENTH-CENTURY BRITAIN, A HANDLOOMWEAV.md
+00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/04-THE 1860s AND 1870s SAW THE EMERGENCE OF A GENERAT.md
+00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/05-THE SUSSEX RUSH-SEATED CHAIRSMORRIS AND COMPANY449.md
+00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/06-IN THE 1860s AND 1870s THE ARTS AND CRAFTS HAD BEE.md
+00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/07-THE RICH ARTS AND CRAFTS MOVEMENT WHICH HADDEVELOP.md
+00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/08-THE LATE NINETEENTH CENTURY WAS A RICH PERIOD FORA.md
+00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/09-WHILE GERMAN AND AUSTRIAN ARTISTS AND DESIGNERSWER.md
+00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/10-RUSSIA IN THE NINETEENTH CENTURY WAS A COUNTRYBESE.md
+00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/11-IN THE LATE NINETEENTH CENTURY, THE FOUR COUNTRIES.md
+00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/12-IN THE LAST THIRD OF THE NINETEENTH CENTURY, THEUN.md
+00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/13-THE EPISTLE. Col. iii. 1..md
+00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/14-THE ARTS AND CRAFTS MOVEMENT DID NOT LONG SURVIVET.md
+00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/15-GENESIS NOTES A NATIONALIST MANIFESTO CHRONOLOGY.md
+00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/16-A CONTEXT OF EVENTS SELECTED BIBLIOGRAPHY.md
+00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/17-INDEX.md
+00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/18-PICTURE CREDITS ACKNOWLEDGEMENTS.md
+00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/01-The designhistoryreader.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/02-ACKNOWLEDGEMENTS.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/03-GENERAL INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/04-INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/05-INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/06-AN INDIAN BASKET, PROVIDENCE,RHODE ISLAND, 1676Laurel Thatch.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/07-A SLIPWARE DISH BY SAMUEL MALKINAN ANALYSIS OF VERNACULAR DE.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/08-OF THE DIVISION OF LABOUR.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/09-THE WEDGWOOD SLAVE MEDALLION VALUES INEIGHTEENTH-CENTURY DES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/10-MANUFACTURING, CONSUMPTION AND DESIGN INEIGHTEENTH-CENTURY E.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/100-GUIDE TO FURTHER READING.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/101-ILLUSTRATIONS.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/102-CONTRIBUTORS.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/11-GUIDE TO FURTHER READING.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/12-INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/13-SCIENCE, INDUSTRY, AND ART.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/14-ART-JOURNAL ILLUSTRATED CATALOGUE.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/15-THE NATURE OF GOTHICJohn Ruskin (1853).md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/16-THE IDEAL BOOKWilliam Morris (1893).md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/17-THE 'AMERICAN SYSTEM' AND MASS-PRODUCTION,FROM INDUSTRIAL DE.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/19-THE ART AND CRAFT OF THE MACHINE.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/20-GUIDE TO FURTHER READING.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/21-INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/22-INTRODUCTION TO MODERNISM IN DESIGNPaul Greenhalgh (1990).md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/23-ORNAMENT AND CRIME.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/24-WERKBUND THESES AND ANTITHESESHermann Muthesius and Henry va.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/25-THE MODERN MOVEMENT BEFORENINETEEN-FOURTEEN, FROMPIONEERS OF.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/27-FROM WORKSHOP TO LABORATORY, FROMTHE BAUHAUS REASSESSED.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/29-GUIDE TO FURTHER READING.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/30-INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/31-UTILITY FURNITURE AND THE MYTH OFUTILITY 1943-1948.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/33-21POPULUXEThomas Hine (1987).md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/34-THE KHRUSHCHEV KITCHEN DOMESTICATING THESCIENTIFIC-TECHNOLOG.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/35-ALL THAT GLITTERS IS NOT STAINLESSReyner Banham (1966).md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/36-GUIDE TO FURTHER READING.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/37-INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/38-A SIGNIFICANCE FOR A&P PARKING LOTS,OR LEARNING FROM LAS VEG.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/39-THE ECSTASY OF COMMUNICATIONJean Baudrillard (1987).md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/40-THERE IS NO KITSCH, THERE IS ONLY DESIGN!.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/41-DECONSTRUCTION AND GRAPHIC DESIGNHISTORY MEETS THEORY.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/42-WHAT WAS PHILIPPE STARCK THINKING OFPeter Lloyd and Dirk Sne.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/43-FABRICATING IDENTITIES SURVIVAL ANDTHE IMAGINATION IN JAMAIC.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/44-GUIDE TO FURTHER READING.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/45-INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/46-OPERATING MANUAL FOR SPACESHIP EARTH.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/49-MATERIAL DOUBTS AND PLASTIC FALLOUT,FROM AMERICAN PLASTIC.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/50-INTRODUCTION TO THE GREEN CONSUMERSUPERMARKET GUIDE.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/51-REDEFINING RUBBISH COMMODITYDISPOSAL AND SOURCINGNicky Gregs.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/52-THE HANNOVER PRINCIPLES DESIGNFOR SUSTAINABILITY.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/53-GUIDE TO FURTHER READING.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/54-INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/55-INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/56-TAKING STOCK IN DESIGN HISTORYFran Hannah and Tim Putnam (19.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/57-THE STATE OF DESIGN HISTORY,PART I MAPPING THE FIELDClive Di.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/58-DESIGN HISTORY AND THE HISTORY OF DESIGN.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/59-DESIGN HISTORY AND THE HISTORY OF DESIGN.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/60-DESIGN HISTORY OR DESIGN STUDIESSUBJECT MATTER AND METHODSVi.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/61-RESISTING COLONIZATION DESIGNHISTORY HAS ITS OWN IDENTITYJon.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/62-GUIDE TO FURTHER READING.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/63-INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/64-OBJECT AS IMAGE THE ITALIAN SCOOTER CYCLEDick Hebdige (1981).md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/65-THE MOST CHERISHED OBJECTS IN THE HOMEMihaly Csikszentmihaly.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/66-HOW THE REFRIGERATOR GOT ITS HUMRuth Schwartz Cowan (1989).md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/67-THE HISTORY OF CRAFTPaul Greenhalgh (1987).md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/68-FAITH, FORM AND FINISH SHAKERFURNITURE IN CONTEXTJean M. Bur.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/69-GUIDE TO FURTHER READING.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/70-INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/71-FORMfemale FOLLOWS FUNCTIONmaleFeminist Critiques of Design.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/72-THE ARCHITECT'S WIFE, INTRODUCTION TOAS LONG AS IT'S PINKTHE.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/75-WE THREE.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/76-SELF-MADE MOTORMEN THE MATERIALCONSTRUCTION OF WORKING-CLASS.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/77-GUIDE TO FURTHER READING.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/78-INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/79-THE FETISHISM OF THE COMMODITY ANDITS SECRET, FROM CAPITAL.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/80-CONSPICUOUS CONSUMPTION, INTHE THEORY OF THE LEISURE CLASS.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/82-INTRODUCTION AND THE SENSE OF DISTINCTION,FROM DISTINCTION A.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/83-'PARTIES ARE THE ANSWER' THE ASCENT OFTHE TUPPERWARE PARTY.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/84-THE REVOLUTION WILL BE MARKETEDAMERICAN CORPORATIONS AND BLA.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/85-GUIDE TO FURTHER READING.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/86-INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/87-THE WORK OF ART IN THE AGE OFMECHANICAL REPRODUCTIONWalter B.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/88-ADVERTISING, MOTHER OF GRAPHIC DESIGNSteven Heller (1995).md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/89-'DECORATORS MAY BE COMPARED TO DOCTORS',AN ANALYSIS OF RHODA.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/90-INTEGRATIVE PRACTICE ORAL HISTORY,DRESS AND DISABILITY STUDI.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/91-INTRODUCTION TO DESIGN AND THEMODERN MAGAZINE.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/92-GUIDE TO FURTHER READING.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/93-LocalRegionalNationalGlobal.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/94-INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/95-FINDING POLAND IN THE MARGINSTHE CASE OF THE ZAKOPANE STYLED.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/96-FURNITURE DESIGN AND COLONIALISMNEGOTIATING RELATIONSHIPS BE.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/98-LAND ROVER AND COLONIAL-STYLE ADVENTUREJeanne van Eeden (200.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/99-SWOOSH IDENTITY RECONTEXTUALIZATIONSIN HAITI AND ROMANIA.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_01_preface_The_design_historyreader___THE.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_02_toc_CONTENTS.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_03_preface_PART_I__HISTORIES___PART_I__ME.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_04_toc___CONTENTS.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_05_preface_ACKNOWLEDGEMENTS___GENERAL_INT.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_06_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_07_preface_A_SLIPWARE_DISH_BY_SAMUEL_MALK.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_08_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_09_preface_OF_THE_DIVISION_OF_LABOUR___NO.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_100_body_HUMANIZING_MODERNISM_THE_CRAFT.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_101_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_102_body_'IN_LONDON'S_MAZE'__THE_PLEASU.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_103_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_104_body_SELF-MADE_MOTORMEN__THE_MATERI.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_105_preface_INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_106_body_THE_SOCIAL_AND_CULTURAL_MEANIN.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_107_bibliography_NOTES___GUIDE_TO_FURTHER_READI.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_108_body_SECTION_10___Consumption.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_109_preface_INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_10_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_110_body_Rebecca_Houze___THE_FETISHISM_.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_111_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_112_body_CONSPICUOUS_CONSUMPTION,_IN_TH.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_113_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_114_preface_INTRODUCTION_AND_THE_SENSE_OF_.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_115_body_Pierre_Bourdieu_(1979).md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_116_preface_INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_117_body_THE_SENSE_OF_DISTINCTION___266.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_118_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_119_body_'PARTIES_ARE_THE_ANSWER'__THE_.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_11_preface_MANUFACTURING,_CONSUMPTION_AND.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_120_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_121_body_THE_REVOLUTION_WILL_BE_MARKETE.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_122_bibliography_NOTES___GUIDE_TO_FURTHER_READI.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_123_body_SECTION_11___Mediation.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_124_preface_INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_125_body_Grace_Lees-Maffei___THE_WORK_O.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_126_preface_INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_127_body_R._&_A._GARRETT__HOUSE_DECORAT.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_128_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_129_body_INTEGRATIVE_PRACTICE__ORAL_HIS.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_12_bibliography_NOTES___GUIDE_TO_FURTHER_READI.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_130_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_131_preface_INTRODUCTION_TO_DESIGN_AND_THE.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_132_body_Jeremy_Aynsley_and_Kate_Forde_.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_133_bibliography_NOTES___GUIDE_TO_FURTHER_READI.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_134_body_SECTION_12___Local_Regional_Na.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_135_preface_INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_136_body_Grace_Lees-Maffei___FINDING_PO.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_137_preface_INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_138_body_WARSAW___WARSAW_AND_ZAKOPANE__.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_139_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_13_preface_SECTION_2___INTRODUCTION___Reb.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_140_body_FURNITURE_DESIGN_AND_COLONIALI.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_141_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_143_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_144_body_LAND_ROVER_AND_COLONIAL-STYLE_.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_145_preface_INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_146_body_LAND_ROVER_AND_THE_ADVERTISING.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_147_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_148_body_SWOOSH_IDENTITY__RECONTEXTUALI.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_149_preface_INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_14_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_150_body_THE_SWOOSH_IN_ROMANIA_AND_HAIT.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_151_bibliography_NOTES___GUIDE_TO_FURTHER_READI.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_152_body_ILLUSTRATIONS___CONTRIBUTORS.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_153_bibliography_BIBLIOGRAPHY___INDEX___CRAFT_A.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_15_preface_THE_IDEAL_BOOK_William_Morris_.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_16_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_17_body_10._Eidelberg,__Colonna,__p._3.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_18_preface_THE_ART_AND_CRAFT_OF_THE_MACHI.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_19_bibliography_GUIDE_TO_FURTHER_READING.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_20_preface_SECTION_3___INTRODUCTION___Reb.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_21_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_22_body_ORNAMENT_AND_CRIME___Adolf_Loo.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_23_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_24_body_THE_COLORISTES_AND_CHARLES-EDO.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_25_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_26_body_FROM_WORKSHOP_TO_LABORATORY,_F.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_27_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_28_body_THE_SEARCH_FOR_AN_AMERICAN_DES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_29_bibliography_NOTES___GUIDE_TO_FURTHER_READI.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_30_body_SECTION_4.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_31_preface_INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_32_body_Grace_Lees-Maffei___UTILITY_FU.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_33_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_34_body_'HERE_IS_THE_MODERN_WORLD_ITSE.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_35_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_36_body_21_POPULUXE_Thomas_Hine_(1987).md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_37_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_38_body_ALL_THAT_GLITTERS_IS_NOT_STAIN.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_39_bibliography_GUIDE_TO_FURTHER_READING.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_40_body_SECTION_5.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_41_preface_INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_42_body_Rebecca_Houze___A_SIGNIFICANCE.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_43_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_44_body_THE_ECSTASY_OF_COMMUNICATION_J.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_45_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_46_body_THERE_IS_NO_KITSCH,_THERE_IS_O.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_47_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_48_body_DECONSTRUCTION_AND_GRAPHIC_DES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_49_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_50_body_WHAT_WAS_PHILIPPE_STARCK_THINK.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_51_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_52_body_FABRICATING_IDENTITIES__SURVIV.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_53_preface_INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_54_body_CHANGING_TIMES,_CHANGING_STYLE.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_55_bibliography_NOTES___GUIDE_TO_FURTHER_READI.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_56_body_SECTION_6.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_57_preface_INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_58_body_Rebecca_Houze___OPERATING_MANU.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_59_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_60_body_DO-IT-YOURSELF_MURDER__THE_SOC.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_61_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_62_preface_INTRODUCTION_TO_THE_GREEN_CONS.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_63_body_Joel_Makower,_John_Elkington_a.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_64_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_65_body_THE_HANNOVER_PRINCIPLES__DESIG.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_66_bibliography_NOTES___GUIDE_TO_FURTHER_READI.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_67_body_PART_II_METHODS_AND_THEMES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_68_preface_INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_69_body_Grace_Lees-Maffei___SECTION_7.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_70_preface_INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_71_body_Grace_Lees-Maffei___TAKING_STO.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_72_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_73_body_THE_STATE_OF_DESIGN_HISTORY,_P.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_74_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_75_body_DESIGN_HISTORY_AND_THE_HISTORY.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_76_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_77_body_DESIGN_HISTORY_AND_THE_HISTORY.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_78_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_79_body_DESIGN_HISTORY_OR_DESIGN_STUDI.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_80_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_81_body_RESISTING_COLONIZATION__DESIGN.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_82_bibliography_NOTES___GUIDE_TO_FURTHER_READI.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_83_body_SECTION_8.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_84_preface_INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_85_body_Grace_Lees-Maffei___OBJECT_AS_.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_86_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_87_body_THE_MOST_CHERISHED_OBJECTS_IN_.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_88_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_89_body_THE_HISTORY_OF_CRAFT_Paul_Gree.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_90_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_91_body_FAITH,_FORM_AND_FINISH__SHAKER.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_92_bibliography_NOTES___GUIDE_TO_FURTHER_READI.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_93_body_SECTION_9___Gender_and_Design.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_94_preface_INTRODUCTION.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_95_body_Rebecca_Houze___FORM_female_FO.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_96_bibliography_NOTES.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_97_preface_THE_ARCHITECT'S_WIFE,_INTRODUC.md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_98_body_Penny_Sparke_(1995).md
+00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_99_bibliography_NOTES.md
+00-books/The design philosophy reader _ edited by Anne-Marie Willis_ -- Anne-Marie Willis/01-DESIGN AS AN ONTOLOGICAL QUESTIONTony Fry.md
+00-books/The design philosophy reader _ edited by Anne-Marie Willis_ -- Anne-Marie Willis/02-CHAPTER 9THE EXISTENTIAL SELF AS THE LOCUS.md
+00-books/The design philosophy reader _ edited by Anne-Marie Willis_ -- Anne-Marie Willis/03-PRECARIOUSNESS AND GRIEVABILITYJudith Butler.md
+00-books/The design philosophy reader _ edited by Anne-Marie Willis_ -- Anne-Marie Willis/04-ETHICS IN THE MAKINGBodil Jonsson, Peter Anderberg, Eva Flod.md
+00-books/The design philosophy reader _ edited by Anne-Marie Willis_ -- Anne-Marie Willis/05-WHAT IS COLONIALITY OF KNOWLEDGEMadina V. Tlostanova.md
+00-books/The design philosophy reader _ edited by Anne-Marie Willis_ -- Anne-Marie Willis/06-CHAPTER 20THE FORCE OF FORM, THE EFFECT OF GENRE.md
+00-books/The design philosophy reader _ edited by Anne-Marie Willis_ -- Anne-Marie Willis/07-CHAPTFER24UNDERSTANDING, ONTOLOGY, THROWNNESS.md
+00-books/The design philosophy reader _ edited by Anne-Marie Willis_ -- Anne-Marie Willis/08-THE QUESTION CONCERNING TECHNOLOGYMartin Heidegger.md
+00-books/The design philosophy reader _ edited by Anne-Marie Willis_ -- Anne-Marie Willis/09-THE PLATO EFFECT IN ARCHITECTUREChristopher N. Henry.md
+00-books/The design philosophy reader _ edited by Anne-Marie Willis_ -- Anne-Marie Willis/10-CHAPTER 41COSMOECOLOGICAL SHEEP AND THE ARTS.md
+00-books/The design philosophy reader _ edited by Anne-Marie Willis_ -- Anne-Marie Willis/11-CHAPTER42OUTING ARTIFICIAL INTELLIGENCERECKONING WITH TURING.md
+00-books/The design philosophy reader _ edited by Anne-Marie Willis_ -- Anne-Marie Willis/The design philosophy reader _ edited by Anne-Marie Willis_ -- Anne-Marie Willis.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/01-EDITORS' BIOGRAPHIES.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/02-AUTHORS' BIOGRAPHIES.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/03-GENERAL INTRODUCTION.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/04-INTRODUCTION.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/05-BRANZI'S DILEMMA DESIGN INCONTEMPORARY CULTURE.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/06-DESIGNING THE ARTIFICIALAN INTERDISCIPLINARY STUDY.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/07-A SCENARIO FOR DESIGN.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/08-INFORMATION AND REALITY AT THE TURN OF THECENTURY.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/09-THORSTEIN VEBLEN AT THE UNIVERSITY OF CHICAGOAND THE SOCIALI.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/10-ADOLF LOOS AND THE APHORISTIC STYLERHETORICAL PRACTICE IN EA.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/11-THE THINGS THAT MATTER.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/12-DOMESTICATION OF EVERYDAY LIFE TECHNOLOGYDYNAMIC VIEWS ON TH.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/13-ENVIRONMENTAL DESIGN AND INDUSTRIAL DESIGNINTEGRATING KNOWLE.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/14-FURTHER READING FOR PART I.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/16-SIMULATED SEAS EXHIBITION DESIGN INCONTEMPORARY AQUARIUMS.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/19-THE DESIGN OF THE CONNECTION MACHINE.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/20-ACCIDENTAL MACHINES THE IMPACT OF POPULARPARTICIPATION IN CO.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/21-TYPOGRAPHY AND THE SCREEN A TECHNICALCHRONOLOGY OF DIGITAL T.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/22-FURTHER READING FOR PART II, SECTION 1.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/23-INTRODUCTION TO SECTION 2 THE DESIGN PROCESSAND THE SOCIAL M.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/24-HISTORY FROM THINGS NOTES ON THEHISTORY OF INDUSTRIAL DESIGN.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/25-OLYMPUS AND THE MARKETPLACE REYNERBANHAM AND DESIGN CRITICIS.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/26-VISIBILITY IN PROGRESS.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/27-SOFTENING UP THE FACTS ENGINEERSIN DESIGN MEETINGS.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/28-FOURTH-ORDER DESIGN A PRACTICALPERSPECTIVE.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/29-FURTHER READING FOR PART II, SECTION 2.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/30-INTRODUCTION.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/32-DESIGN, ENVIRONMENT AND SOCIAL QUALITYFROM EXISTENZMINIMUM T.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/34-SCIENCE, SEMIOTICS, AND SOCIETYTHE ULM HOCHSCHULE FUR GESTAL.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/35-ECOLOGICAL DESIGN A NEW CRITIQUE.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/37-ETHICS, AESTHETICS, AND DESIGN.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/38-FURTHER READING FOR PART II.md
+00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/39-GENERAL BIBLIOGRAPHY.md
+00-books/The green imperative _ natural design for the real world -- Papanek, Victor J --/01-MOR1 1NTY FE LESARYGREENIMPERATIVE.md
+00-books/The green imperative _ natural design for the real world -- Papanek, Victor J --/02-THE GREENIMPERATIVE.md
+00-books/The green imperative _ natural design for the real world -- Papanek, Victor J --/03-CONTENTS.md
+00-books/The green imperative _ natural design for the real world -- Papanek, Victor J --/04-INTRODUCTIONThe Power of Design.md
+00-books/The green imperative _ natural design for the real world -- Papanek, Victor J --/05-ACKNOWLEDGMENTS.md
+00-books/The green imperative _ natural design for the real world -- Papanek, Victor J --/06-Here Today, Gone Tomorrow.md
+00-books/The green imperative _ natural design for the real world -- Papanek, Victor J --/07-Designing for a Safer Future.md
+00-books/The green imperative _ natural design for the real world -- Papanek, Victor J --/08-Toward the Spiritual in Design.md
+00-books/The green imperative _ natural design for the real world -- Papanek, Victor J --/09-Sensing a Dwelling.md
+00-books/The green imperative _ natural design for the real world -- Papanek, Victor J --/10-The Biotechnology of Communities.md
+00-books/The green imperative _ natural design for the real world -- Papanek, Victor J --/11-The Lessons of Vernacular Architecture.md
+00-books/The green imperative _ natural design for the real world -- Papanek, Victor J --/12-Is Convenience the Enemy.md
+00-books/The green imperative _ natural design for the real world -- Papanek, Victor J --/13-Sharing not Buying.md
+00-books/The green imperative _ natural design for the real world -- Papanek, Victor J --/14-CHAPTER 10Generations to Come.md
+00-books/The green imperative _ natural design for the real world -- Papanek, Victor J --/15-CHAPTER 11.md
+00-books/The green imperative _ natural design for the real world -- Papanek, Victor J --/16-The New Aesthetic Making the Future Work.md
+00-books/The green imperative _ natural design for the real world -- Papanek, Victor J --/The green imperative _ natural design for the real world -- Papanek, Victor J --.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/01-THE PRINTED IMAGEAND THETRANSFORMATIONOF POPULAR CULTURE1790.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/02-The Printed Imageand the Transformationof Popular Culture179.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/03-The Printed Imageand the Transformationof Popular Culture179.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/04-Illustrations.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/05-Introduction.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/06-The Printed Image in TransitionPopular Pictorial Experience.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/07-The Trial and Execution of.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/08-THRPILGRIM's PROGRESS..md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/09-Mcchanic's Fagazine..md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/10-The New Printed ImageThe Penny Magazine and the MassCirculat.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/11-THE PENNY MAGAZINE.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/12-THE PENNY MAGAZINE.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/13-THE PENNY MAGAZINE.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/14-THE PENNY MAGAZINE.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/15-Monthly Supplement ofTHE PENNY MAGAZINE.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/17-The Business of ImageryThe Second Generation ofPictorial Mag.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/18-REYNOLDS'S MISCELLANY.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/19-REYNOLDS'S MISCELLANY.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/20-REYNOLDS'S MISCELLANY.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/21-LONDONJOURNAL.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/22-SMILES AND TEARSA Tale of onr oton Times.BY J. F. SMITH,.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/23-30. Reproduction of a painting by R. McInnes, Reynolds'sMisc.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/24-31. The Grandfather's Watch, by W. Goodall, Cassell's Paper,.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/25-REYNOLDS'S MISCELLANY.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/26-LONDON JOURNAL.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/27-The Civilizing ImageThe Second Generation and SocialVirtue18.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/28-LONDON JOURNAL;.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/29-The Printed Image and the MassThe Illustrated Magazines andt.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/30-THE PENNY MAGAZINE.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/31-The Transformation ofPopular CultureWorking People inan Expa.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/32-VARNEY;.THE VAMPYRE;.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/33-JACK SHEPPARD.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/34-ILLUSTRATED FAMILY PAPER ADVERTISEMENTS..md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/35-England's going down the Hill..md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/36-ConclusionThe Making of a Mass CultureA Perspective from 186.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/37-Select Bibliography.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/38-LibaaryServces.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/The printed image and the transformation of popular culture, 1790-1860 (Anderson.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/The printed image and the transformation of popular culture, 1790-1860 (Anderson_01_preface_THE_PRINTED_IMAGEAND_THETRANSF.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/The printed image and the transformation of popular culture, 1790-1860 (Anderson_02_toc_Contents.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/The printed image and the transformation of popular culture, 1790-1860 (Anderson_03_preface_Illustrations___Acknowledgemen.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/The printed image and the transformation of popular culture, 1790-1860 (Anderson_04_body_THR_PILGRIM's_PROGRESS.___5._T.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/The printed image and the transformation of popular culture, 1790-1860 (Anderson_05_bibliography_Select_Bibliography.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/The printed image and the transformation of popular culture, 1790-1860 (Anderson_06_body_PRIMARYSOURCES____Manuscript_C.md
+00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/The printed image and the transformation of popular culture, 1790-1860 (Anderson_07_bibliography_Secondary_Sources____Index___L.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/01-Windows and Mirrors LEONARDO.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/02-Contents.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/03-Acknowledgments.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/04-Introduction (but really, you should read this) Th.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/05-How to read our parable, or what we are not saying.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/06-The Art Gallery of SIGGRAPH 2000 TEXT RAIN.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/08-To design a digital artifact is to design an exper.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/09-Digital design should not try to be invisible.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/10-Wooden Mirror The history of disappearing.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/11-Photorealistic computer graphics The GUI in our vi.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/12-The computer window Making the interface disappear.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/13-The myth of transparency Virtual reality and the m.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/14-The dangers of transparency Another strategy.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/15-Nosce Te Ipsum Reflectivity The counterpart to tra.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/16-Multiplicity in contemporary culture Interface des.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/17-Microsoft Window (sic).md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/18-Seeing the interface.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/19-Magic Book Magic Book as an interface.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/20-How digital art remediates Borrowing reality Media.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/21-Remediations are not forever The variety of digita.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/22-The rhythms of remediation Remediation as a consci.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/23-Fakeshop The myth of convergence.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/24-Diversity on the World Wide Web Bricolage at SIGGR.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/25-Ubiquitous media Wearable media forms.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/26-From information appliances to media forms The med.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/27-T-Garden The myth of disembodiment I Artificial in.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/29-Embodied design.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/30-Terminal Time Platonic design.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/31-Digital art Recalling the contexts Computer softwa.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/32-The gallery as experience design.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/33-Digital focus.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/35-Convergence and diversity Embodying the virtual De.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/36-The design of this book Writing as a reflective in.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/37-Materiality, embodiment, and the contextual in wri.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/38-References Index.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN_01_preface_Windows_and_Mirrors___LEONARDO.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN_02_toc_Contents.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN_03_preface_Acknowledgments___Introduction.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN_04_body_To_design_a_digital_artifact_i.md
+00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN_05_bibliography_References___Index.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/01-World Historyof Design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/02-Bloomsbury AcademicAn imprint of Bloomsbury Publis.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/03-20.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/04-29.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/05-Plates.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/06-Figures.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/07-Introduction to Volume 2.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/09-The October Revolution and the CivilWar.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/10-The Vitebsk Art Institute.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/100-The Spanish Civil War.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/101-Greece.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/102-Advertising and commercial art.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/103-Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/104-Books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/105-Belgium.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/106-Greece.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/107-Articles.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/109-Czechoslovakia.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/11-The Fine Art Department (IZO), People'sCommissaria.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/111-Functionalism.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/112-Czech automobiles.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/113-Graphic design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/114-Commercial art and typography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/117-Functional graphic design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/118-Poland.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/119-The Cracow School and the continuedquest for a nat.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/120-The avant-garde and Functional design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/121-The neglected profession of industrialdesign.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/122-Graphic design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/123-POLOCNE POLEN POLAND.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/124-Austria.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/125-Building a socialist culture in Vienna.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/126-Otto Neurath's pictorial statistics.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/127-Arbeitnehmer in der U.d.S.S.R..md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/128-The Austrian Werkbund.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/129-Commercial art.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/13-Vkhutemas.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/130-MeinlKaffee.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/131-Art and industry in the Austro-HungarianEmpire (Du.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/132-The graphic arts before independence.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/133-The industrial sector.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/134-Graphic design the avant-garde andcommerce.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/135-Yugoslavia.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/136-Tradition and modernism in crafts anddesign.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/137-The avant-garde and its publications.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/138-Romania.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/139-Estonia and Latvia.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/14-Fashion, Furniture, and Ceramics.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/140-Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/141-Books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/142-Czechoslovakia.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/143-Poland.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/144-Chapters in books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/145-Chapter 26 Scandinavia1917-1945.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/146-Denmark.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/147-Industrial products.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/148-Shops and showrooms.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/149-Norway.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/15-Film, Theater, and Exhibitions.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/150-Finland.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/151-From craft to mass production.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/152-The Aaltos and Artek.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/153-Scandinavian Graphic DesignAdvertising and the Boo.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/154-Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/155-Books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/156-Sweden.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/157-Chapter 27 Italy, Germany,the Soviet Union, and Po.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/158-Futurism.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/159-The Novecento and the crafts debate.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/16-Transportation.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/160-Rationalism and the Triennales.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/161-Industry under the Fascist regime.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/162-Consumer products.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/163-The Olivetti design program.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/164-Transportation.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/165-Commercial graphics, typography, andbook design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/166-Typography and book design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/167-AB C D E F GH IJKLMNOPQRSTUVXYZ.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/168-Germany.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/169-Graphic design, typography, andexhibitions.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/17-Advertising and Packaging.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/170-Tannenberg.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/171-The industrial machine.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/172-The Soviet Union.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/173-Posters.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/174-Publications.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/175-Consumer goods, heavy industry, andtransport.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/176-Portugal.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/177-The Estado Novo.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/178-Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/179-Books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/18-Books and Magazines.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/180-Germany.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/181-Portugal.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/182-Articles.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/183-Chapter 28 The United States1917-1941.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/184-The Depression and the New Deal.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/185-Design Promotion.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/186-Modern Design The First Wave.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/188-Modern Design in Mass-ProducedProducts.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/189-Other Applied Arts Housewares andTextiles.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/19-Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/190-The Origins of American IndustrialDesign.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/191-The Practice of Industrial Design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/192-Industrial Design outside New York.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/193-R. Buckminster Fuller A MaverickDesigner.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/194-Women and People of Color asDesigners.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/195-The Growth of the Design Profession.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/196-Transportation DesignAutomobiles.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/197-Trains.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/198-Airplanes.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/199-Other modes of transport.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/20-Books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/200-Design EducationDesign schools.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/201-World's Fairs.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/203-Advertising, Magazines and BooksAdvertising.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/204-Magazines and newspapers.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/205-Books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/206-Typography and Gaphic DesignTypography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/207-OIL soldOILs.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/208-Graphic Design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/209-U.S. Government Programs.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/21-Chapter 21 Weimar Germany1918-1933.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/210-Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/211-Books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/212-Chapters in books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/213-Articles.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/215-Dienststellungsabzeichen auf der Armbindeder Polit.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/216-1917-1937.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/217-CARELESS TALKCOSTS LIVES.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/218-Chapter 29 Latin AmericaCuba, Mexico, and Brazil19.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/219-Cuba.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/220-The decorative arts.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/221-Graphic design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/222-Film posters.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/223-Tourist graphics.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/224-Manufacturing, decorative arts, anddesign.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/225-Agricultural equipment.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/226-Graphic design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/227-ELMUNDO LUSTRADO.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/228-Advertising.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/229-Calendar art.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/23-The Avant-Garde Dada andConstructivism.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/230-Film posters.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/231-Book publishing.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/232-Graphic design for the government.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/233-EXPOSICION DE LA.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/234-Leftist political graphics.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/235-SUPLEMENTO DE.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/236-Brazil.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/237-Industrial products.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/238-Manufacturing and the Estado Novo.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/239-Graphic design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/24-The Bauhaus in Weimar.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/240-Printers and typographers.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/241-Book publishing and design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/242-Magazines.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/243-Advertising, packaging, and propaganda.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/244-Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/245-Books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/246-Cuba.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/247-Mexico.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/248-Brazil.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/249-Chapters in books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/25-Rationalization and RenewedProductivity.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/250-Chapter 30 Latin AmericaChile, Argentina, Colombia.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/251-The emergence of private enterprise.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/252-Government support of industry.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/253-Education for the trades and applied arts.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/254-Graphic design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/255-Periodicals and books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/256-Advertising, logotypes, posters.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/257-Graphics on the left.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/258-Argentina.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/259-Commercial art, advertising, andpublishing.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/26-Automobiles.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/260-Advertising.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/261-The design of books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/262-Colombia.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/263-The centenary of Independence 1910.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/264-The training of artisans.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/265-Venezuela.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/266-Graphic design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/267-Advertising.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/268-Uruguay.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/269-Circulo de Bellas Artes.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/27-The Bauhaus in Dessau and BerlinThe Gropius years.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/270-Industrial schools.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/271-Graphic design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/272-Books and literary journals.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/273-Books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/274-Colombia.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/275-Chapter 31 CommonwealthCountries Canada, Australia.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/276-Furniture and domestic goods.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/277-Quebec furniture, decorative arts, andcrafts.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/278-The Quebec handicraft revival.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/279-The national handicraft movement.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/28-abcdefghiJklmnopqrSTUVWXYz.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/280-Farm equipment.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/281-Transportation.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/282-Exhibiting design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/283-Graphic Design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/284-Commercial art and book design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/285-Railway publicity campaigns.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/286-Australia.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/287-Industrial products.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/288-Transportation.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/289-Design for domestic space.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/29-The Meyer years.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/290-Design for domestic use.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/291-Graphic design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/292-Trademarks and packaging.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/293-Tourist graphics.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/294-Magazines and books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/295-Graphic design emerges.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/296-Exhibition pavilions.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/297-New Zealand.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/298-From arts and crafts to proto-industry.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/299-Graphic design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/30-The Mies years.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/300-Posters, advertising, and publicity campaigns.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/301-Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/302-Books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/303-Australia.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/304-New Zealand.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/305-Chapters in books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/306-Dissertations and theses.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/308-Turkey.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/309-The Six Arrows of the 1930s.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/31-Other Design Schools.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/310-Graphic design and the state.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/311-Magazines.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/312-MUHIT.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/313-Popular media and publicity.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/314-Newspapers, magazines, books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/315-Advertising.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/316-Film posters.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/317-Tourism promotion.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/318-Iraq.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/319-Transjordan.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/32-Architecture and the New Interior.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/320-Origins of the Bezalel School of Arts andCrafts.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/321-Palestine under the British mandate.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/322-Bezalel after World War I.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/323-Graphic design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/324-Zionist graphics.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/325-Commercial graphic design in Tel Aviv.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/326-nwinw nr'ga.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/327-Hebrew typography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/329-Syria and Lebanon under the Ottomansand the French.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/33-Capitalist Advertising, Mass Media,and Communist P.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/330-Proto-industrialization and infrastructure.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/331-Printing, publishing and advertisingThe Ottoman pe.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/332-The mandate period.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/333-The Arabian Peninsula and Yemen.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/334-Persia (Iran since 1935).md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/335-A new industrialization policy.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/336-Printing, publications, and advertisingThe Qajar m.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/337-The regime of Reza Shah Pahlavi.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/338-Books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/339-Egypt.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/34-Commercial art.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/340-Syria and Lebanon.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/341-Chapters in books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/342-Articles.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/343-Chapter 33 Colonies Africa1900-1945.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/344-East and West Africa From CraftProduction to Manuf.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/345-Schools for craftsmen.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/346-Manufacturing efforts.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/347-French North Africa Crafts andCommerce.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/348-Italian North Africa Colonizers andColonized.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/349-Southern Africa.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/35-Type design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/350-Graphic design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/351-Newspapers and magazines.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/352-Advertising, logotypes, and packaging.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/353-Tourism graphics.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/354-African imagery in European advertising.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/355-Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/356-Books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/357-British Africa.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/358-Italian Africa.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/359-Articles.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/36-The New Typography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/360-Chapter 34 Colonies India,Hong Kong, and Burma1900.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/361-The swadeshi movement.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/362-The Orientalists and craft romanticism.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/363-Foreign designers and Indian consumers.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/364-Gandhi and the politics of khadi.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/365-Industrialization the British policy.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/366-Industrialization the Indian response.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/367-Typography, publications, andadvertising.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/368-Advertising.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/369-Indian film posters.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/37-Gefesselter Blick.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/370-Hong Kong.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/371-Burma.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/372-Books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/373-India.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/374-Hong Kong.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/375-Articles.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/376-Chapter 35 Asia China andSiam 1900-1939.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/377-China.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/378-Art education and the 1925 ExpositionInternational.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/379-Shanghai modern.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/38-The illustrated press.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/380-The National Products Movement.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/381-Graphic design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/382-Publishing.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/383-Publishing and the May Fourth Movement.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/384-Typography and lettering.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/386-The woodcut movement and propaganda graphics.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/387-Siam.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/388-Graphic Design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/389-Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/39-Graphics on the left.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/390-Books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/391-Siam and Southeast Asia.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/392-Chapter 36 Asia Japan, itsColonies, and its Territ.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/393-Developing a design policy.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/394-French influences.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/395-The Rationalization Movement.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/396-Lifestyle Improvement and Western-Style Goods.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/397-Mingei and New Mingei.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/398-Heavy Industry and Transportation.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/399-Graphic Design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/400-The emergence of graphic design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/401-Bijin-ga posters.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/402-Graphic design matures.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/403-The avant-garde and proletarian graphics.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/404-Photography in advertising andpublications.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/406-The Japanese Abroad.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/407-Manchuria.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/408-Korea.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/409-Hangul and publishing.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/41-BibliographyBibliographic essay.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/410-Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/411-Books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/412-Taiwan.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/413-Articles and conference papers.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/414-Chapter 37 World War II1939-1945.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/415-Germany.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/416-Italy.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/417-Great Britain.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/418-Operations research.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/419-Utility schemes and other designs for thehome.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/42-Books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/420-The Utility Clothing Scheme and wartimeclothing.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/421-Japan.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/422-Military equipment.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/423-Daily life goods at home and abroad.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/424-United States.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/425-Jeeps, Tanks, and Landing Craft.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/426-Aircraft design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/427-Small weapons and devices.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/428-The role of designers.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/429-The Office of Scientific Research andDevelopment.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/43-Articles.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/430-Operations research.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/431-The first computers.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/432-The home front.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/433-Propaganda.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/434-Germany.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/435-Occupied Europe.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/437-Italy.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/438-Britain and the British Commonwealth.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/439-Soviet Union.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/44-Introduction.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/440-Japan.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/441-China.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/442-United States.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/443-Mexico.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/445-Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/446-Books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/447-Germany.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/448-Japan.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/449-France.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/45-The Avant-Garde in FranceDe Stijl.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/450-China.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/451-DESIGN.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/47-Dada.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/50-Trains, Automobiles and Planes.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/51-The International Colonial Exhibition.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/52-The Great Ocean Liners.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/53-The Paris Exhibition of 1937.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/54-Posters.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/55-Trademarks and logotypes.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/56-Graphic design and typography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/57-Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/58-Books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/59-Chapter 23 Great Britain1918-1939.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/60-The British Empire Exhibition and theEmpire Market.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/61-The State of Domestic Design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/62-The Beginnings of British Modernism.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/63-The Gorrell Report and itsConsequences.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/64-The Modernist Campaign Continues.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/65-Modernism and Tradition in theIndustrial Arts.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/66-The Polemics of Modernism.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/67-TransportationAutomobiles.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/68-EVERYWHERE YOU GO.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/69-Britain's large passenger ships.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/70-Imperial Airways.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/71-Graphic DesignTypography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/72-Aa Bb Cc Dd EeFfGg HhliJJjKkLIMmNnOoPpQqRRrSsTtUuV.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/73-Advertising and graphic design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/74-Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/75-Books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/76-Chapters in books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/77-Articles.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/79-The Amsterdam School.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/80-The Hague School.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/81-De Stijl.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/82-Dutch Functionalism.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/83-Philips and Fokker.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/84-Graphic design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/85-Typography and book design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/86-LETTERGIETERI HAARLEM.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/87-The New Typography and its Dutch adherents.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/88-The Dutch Post Office (PTT).md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/89-Other Dutch modernists.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/90-Belgium.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/91-7 Arts.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/92-Design and Exhibitions in the 1930s.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/94-Switzerland.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/95-From commercial art to graphic design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/96-Other graphic tendencies.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/97-Spain.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/98-Tradition and modernism.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/99-Commercial art, typography, andeditorial design.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_02_preface_World_History_of_Design___Bloo.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_03_body_Chapter_20__Design_in_the_Sovi.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_04_preface_The_October_Revolution_and_the.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_05_bibliography_Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_06_preface_Bibliographic_essay___Books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_07_body_Chapter_21__Weimar_Germany_191.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_08_preface_Introduction___The_Werkbund,_A.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_09_bibliography_Bibliography_Bibliographic_ess.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_10_preface_Books___Articles___Introductio.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_11_bibliography_Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_12_preface_Bibliographic_essay___Books.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_13_body_Chapter_23__Great_Britain_1918.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_14_preface_Introduction___The_British_Emp.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_15_body_The_Polemics_of_Modernism___Tr.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_16_bibliography_Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_17_body_Bibliographic_essay___Books___.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_18_preface_Introduction.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_19_body_Netherlands___The_Amsterdam_Sc.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_20_bibliography_Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_21_body_Bibliographic_essay___Books___.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_22_preface_Introduction.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_23_body_Czechoslovakia___Development_o.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_24_bibliography_Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_25_body_Bibliographic_essay___Books___.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_26_preface_Introduction.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_27_body_Sweden___Denmark___Household_g.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_28_bibliography_Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_29_body_Bibliographic_essay___Books___.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_30_preface_Introduction.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_31_body_Italy___Fascism___Futurism___T.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_32_bibliography_Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_33_body_Bibliographic_essay___Books___.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_34_preface_Introduction.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_35_body_The_Depression_and_the_New_Dea.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_36_bibliography_Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_37_body_Bibliographic_essay___Books___.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_38_preface_Introduction.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_39_body_Cuba___The_decorative_arts___G.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_40_bibliography_Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_41_body_Bibliographic_essay___Books___.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_42_bibliography_Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_43_body_Bibliographic_essay___Books___.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_44_preface_Introduction.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_45_body_Canada___Furniture_and_domesti.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_46_bibliography_Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_47_body_Bibliographic_essay___Books___.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_48_bibliography_Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_49_body_Bibliographic_essay___Books___.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_50_preface_Introduction.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_51_body_East_and_West_Africa__From_Cra.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_52_bibliography_Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_53_body_Bibliographic_essay___Books___.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_54_preface_Introduction.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_55_body_India___The_role_of_the_crafts.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_56_bibliography_Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_57_body_Bibliographic_essay___Books___.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_58_preface_Introduction.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_59_body_China___Crafts,_early_industri.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_60_bibliography_Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_61_body_Bibliographic_essay___Books___.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_62_preface_Introduction.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_63_body_Developing_a_design_policy___F.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_64_bibliography_Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_65_body_Bibliographic_essay___Books___.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_66_preface_Introduction.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_67_body_Germany___Italy___Great_Britai.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_68_bibliography_Bibliography.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_69_body_Bibliographic_essay___Books___.md
+00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_70_bibliography_DESIGN.md
