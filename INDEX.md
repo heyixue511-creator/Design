@@ -11,8 +11,8 @@
 | [`books-paths.txt`](books-paths.txt) | 书籍文档完整路径清单 | 1 个清单文件 | 底层路径检索 |
 | [`paper-paths.txt`](paper-paths.txt) | 论文文档完整路径清单 | 1 个清单文件 | 底层路径检索 |
 | [`index-system/`](index-system/) | 教材型综合索引系统 | 12 个索引模板文件 | 支持文献信息、主题、观点、概念、人物、案例、章节、教学和引用管理 |
-| [`00-Paper-result/`](00-Paper-result/) | 论文深度报告结果 | 当前已完成 4 篇 | 将论文转化为教材写作报告 |
-| [`00-books-result/`](00-books-result/) | 书籍文档深度报告结果 | 当前已完成 2 篇 | 将书籍 / 章节文档转化为教材写作报告 |
+| [`00-Paper-result/`](00-Paper-result/) | 论文深度报告结果 | 当前已完成 9 篇，待核 1 篇 | 将论文转化为教材写作报告 |
+| [`00-books-result/`](00-books-result/) | 书籍文档深度报告结果 | 当前已完成 4 篇 | 将书籍 / 章节文档转化为教材写作报告 |
 
 ## 二、索引文件
 
@@ -49,7 +49,7 @@
 | [`00-Paper-result/`](00-Paper-result/) | 存放 `00-Paper/` 中 72 篇论文 / 文章 / 书评 / 专题材料的逐篇深度报告 |
 | [`00-books-result/`](00-books-result/) | 存放 `00-books/` 中每一个书籍或章节 Markdown 文档的深度报告 |
 
-当前已建立首批报告，详见：
+当前已建立两批报告，详见：
 
 - [`00-Paper-result/PROGRESS.md`](00-Paper-result/PROGRESS.md)
 - [`00-books-result/PROGRESS.md`](00-books-result/PROGRESS.md)
@@ -84,6 +84,6 @@
 
 ## 七、下一步建议
 
-1. 继续处理 `00-Paper/` 中 Rittel & Webber、Latour、Bijker、Kopytoff、Terry Irwin、Tonkinwise 等 A 类核心文献。
+1. 继续处理 `00-Paper/` 中 Doordan、Design history anthology、Capkova、Tonkinwise、Forlano、HCI / probes 等核心文献。
 2. 继续处理 `00-books/` 中 Victor Margolin、Buchanan、Cross 等核心书籍章节。
 3. 每完成一批报告，同步更新 `00-Paper-result/PROGRESS.md` 和 `00-books-result/PROGRESS.md`。
