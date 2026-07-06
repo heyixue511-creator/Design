@@ -1,0 +1,1 @@
+# ABCDEF GHIJKL! MNOPQR STUVWS XYZ1234 567890& Peerless Condensed, Old Style Antique, No.131 (Page). First shown by W illiam Page in Page's Wood Type Album, October, 1879. Lowercase was not always designed for this face.

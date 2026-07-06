@@ -1,0 +1,1 @@
+# BuEN GUSTO AND CLASSICISM IN THE VISUAL CULTURES OF LATIN AMERICA, 1780–1910 ![](images/7d128b9bc26bdfc39b01cf715c9ae013f4fd71c3c30eea9ec210d291d6043084.jpg) EDITED BY Paul B. Niell and Stacie G. Widdifield Buen Gusto and Classícísm in the Vísual Cultures of Latín Ameríca, 1780–1910

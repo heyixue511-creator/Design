@@ -1,0 +1,11 @@
+# ACKNOWLEDGMENTS
+
+Every author in this book cracked his or her cranium to produce excellent work within (or nearly within) the constraints of insane deadlines. I've never worked with a more diligent and interesting group of people.
+
+Art Center College of Design has been a pillar of support in this effort. Art Center funded our authors' conference and covered the cost of the time and efforts of college staff and faculty who worked on the project. My heartfelt thanks to President Richard Koshalek for his support. Thanks also to faculty members of the Art Center's graduate Media Design Program Anne Burdick (a featured author as well as the glorious designer of this book) and Peter Lunenfeld for their writing, advice and support; to Chanel Holmes for her logistical handiwork; and to MDP alumni Sean Donahue and Jin Hyun Park for making us proud.
+
+While this book contains articles by authors from many different fields, you will find that several articles are written by people from a company called Cheskin—the other pillar of support for this book. Cheskin, a consulting and research firm with over 50 years of history, is grounded in the recognition that innovation and success rest on in-depth understanding of people, their cultures and the influences that motivate them. Through "cultural sense-making," Cheskin has led the way in the transition from old-style market research to human-centered design research as we have defined it in this book. Cheskin people often donate their time to lectures and workshops for the Media Design Program at Art Center. Sincere thanks to Cheskin for contributing both human and financial resources to this project.
+
+Special thanks to Rob Tow, author and silicon ronin, for devoting a great deal of time and effort to the creation and maintenance of the authors' website and discussion groups and for his invaluable discourse with me as the book took shape. Finally, my gratitude to editor Doug Sery whose Mercurial efforts for timely publication hereby invalidate any and all jokes about the metabolic rate of the MIT Press.
+
+## LOCK DOOR AT NIGHT I!! DO NTANGERS IN FORANY IN REASON.

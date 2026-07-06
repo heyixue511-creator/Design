@@ -1,0 +1,1 @@
+for my colleagues & friends in the worlds of letters: writers & editors, type designers, typographers, printers & publishers, shepherding words and books on their lethal and innocent ways

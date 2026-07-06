@@ -1,0 +1,1 @@
+# ABCDEFGH IJKLMNOP ORSTUYW XYZ&&&I2 34567890\$ No. 500. Patented by William Page in 1887. Lowercase is missing. This is one of the seventeen styles designed for the die-cut types of Page and Setchell.

@@ -1,0 +1,1 @@
+# ABCDEFGHIJ KLMNOPORS TUVWXZI23 4567890\$&! Gothic Tuscan No.1 (Page). First shown by William Page in his 1859 specimens. No lowercase was designed jorthisface. ## ABCDEFGHIJ KLMNOPORS TOVWXYZ&!! Gothic Tuscan, Antique Tuscan, Antique Tuscan No.9 (Page). First shown by William Page in his 1859 specimens. Lowercase and figures are missing.

@@ -1,0 +1,1 @@
+## Contents Translator's Introduction PART 1: ABOUT GENERAL AESTHETIC I. Introduction II. The Movement of the Triangle III. Spiritual Revolution IV. The Pyramid PART II: ABOUT PAINTING V. The Psychological Working of Colour VI. The Language of Form and Colour VII. Theory VIII. Art and Artists IX. Conclusion Endnotes

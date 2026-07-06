@@ -1,0 +1,1 @@
+SECTIONTWO # The Interpretation of Design ![](images/18ef803358bfd0a995bcb126fc4af1d6f27244a6bda57530d5b2060e8e53debb.jpg)

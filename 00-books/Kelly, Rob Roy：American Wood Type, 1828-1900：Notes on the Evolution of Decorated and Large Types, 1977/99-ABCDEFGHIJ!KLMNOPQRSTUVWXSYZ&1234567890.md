@@ -1,0 +1,1 @@
+# ABCDE FGHIJ! KLMNO PQRST UVWXS YZ&123 4567890 Antigue. First shown by Darius Wells in his 1828 specimens. This design cut by the Page Company. Lowercase is missing. American styles of Antique were much heavier than those shown by Figgins in 1815. Wells also showed Antique Italic and Backslope, neither withalowercase.

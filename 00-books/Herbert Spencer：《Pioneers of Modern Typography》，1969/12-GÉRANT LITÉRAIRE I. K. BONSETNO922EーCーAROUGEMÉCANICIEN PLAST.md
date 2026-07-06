@@ -1,0 +1,1 @@
+# GÉRANT LITÉRAIRE: I. K. BONSET NO 922 EーCーA ROUGE MÉCANICIEN PLASTIQUE: THEO VAN DOESBURG No ROUGE, ROOD 1922 Theo van Doesburg, 1922. The cover design, actual size, of the third issue of Mécano, above. This publication consisted of a single sheet, size 12×20 inches, printed on both sides and folded to 6×5 inches. The inside opening, slightly reduced, is reproduced overleaf.

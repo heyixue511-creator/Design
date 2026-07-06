@@ -1,0 +1,1 @@
+# mit dem Buch in die Ferien das Buch ein treuer Freund auch das Buch ist unentbehrlich das Buch zeigt die Welt nur das gute Buch enttäuscht nie das billige Buch für jedermann das Buch weitet die Grenzen das schöne Buch ein Kunstwerk nie ohne Buch durch das Buch Erkenntnis das Buch erbaut kein Buch keine Bildung das schöne Buch auch billig vor allem ein Buch für die Jugend

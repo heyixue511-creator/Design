@@ -1,0 +1,1 @@
+# ABCD EFCHI JKLM NOP RSTU vwX Z&123 4567 890\$! Gothic Extended. First shown by Wells & Webb in their 1840 specimens. Lowercase was not always designed for this face; Allen showed frst lowercase in 1850. It is believed that this design originated as a wood type and with the Wells Company.

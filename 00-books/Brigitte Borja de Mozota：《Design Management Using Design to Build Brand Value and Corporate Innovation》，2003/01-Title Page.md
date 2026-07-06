@@ -1,0 +1,1 @@
+DESIGN MANAGEMENT using design to build brand value and corporate innovation BRIGITTEBORJA DE MOZOTA 安DMI ALLWORTH PRESS NEWYORK

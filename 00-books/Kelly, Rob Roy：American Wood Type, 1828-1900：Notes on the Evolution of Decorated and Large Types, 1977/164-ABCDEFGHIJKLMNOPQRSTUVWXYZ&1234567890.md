@@ -1,0 +1,1 @@
+# ABCDEFG HIJKLMN OPQRSTUV WXYZ&12 34567890 Runic. First shown by William Page in his 1859 specimens. Lowercase is missing.

@@ -1,0 +1,1 @@
+The world will not evolve past its current state of crisis by using the same thinking that created the situation. —ALBERT EINSTEIN Glance at the sun. See the moon and the stars. Gaze at the beauty of earth's greenings. Now, think. —HILDEGARD VON BINGEN What you people call your natural resources our people call our relatives. —OREN LYONS, faith keeper of the Onondaga

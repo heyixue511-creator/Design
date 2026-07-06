@@ -1,0 +1,25 @@
+## Epilogue
+
+17/7/92: Chandni Chowk, Old Delhi: on the corner, where this busy road faces the Red Fort, are about eight photographers working with large home-made box cameras. Each photographer has a tressle stand consisting of photographs displayed behind glass panels. Some are predominantly passport images, their stock in trade. Those who quickly need them for a job application or visa can get them here for fifteen rupees for four. One frame is crammed full of dozens of these tiny likenesses, a mixture of the hopeful, the anxious, the suspicious, the quizzical (illus. 124). How many crucial moments in all these individual lives are collected here on public display – all those prospective loans, jobs in the Gulf, jobs nearer home, train season tickets that mark the possession of a job? These photographs are flickering across the desperate and uncertain space of contemporary urban India.
+
+In other frames, the same people, or people very similar, inhabit a radically different world (illus. 125). Gone is the weary, deadened look on the face of the ex-student applying for his hundredth job, banished is the exhausted countenance of the rickshaw wallah seeking a loan to liberate himself from high rents charged by the syndicate that owns his vehicle. These same faces, fractured by the clumsy cutting of the photographers, now sit astride horses clutching guns. The film star Amir Khan puts a friendly arm around the shoulder of one of these interpolated heads, leather-clad starlets strain to press their bodies against the lithe torsos of their photographic partners. Some sit on Bombay’s Marine Drive, deep in conversation with Bollywood tough-man Jackie Shroff; others are on intimate terms with Dilip Kumar and Dharmendra. One frame includes a small copy of a film poster, as if to establish the genre conventions of these disembodied heads.
+
+Amar Jeet, whose family had come from Pakistan and who had been in the business for the last three generations, made a double composite portrait and then I asked him to do a marriage shot of myself with Madhuri Dixit, the leading Bombay star, whom I had just seen in the film Beta. A large crowd gathered and were entertained. The technique: a postcard of Madhuri is photographed upsidedown, then I am. This gives two paper negatives which are carefully cut up with large scissors. These are then re-photographed to give a negative which comes out as a positive. This is the most potent magic I have ever seen, all accomplished on a street corner with a wooden camera and an old bucket, and I am left with a photographic trace of my intimate relationship with Madhuri.
+
+![](images/0011ebbc15dab25ae5376a5549f1333e5d916beb78bfe386bece630945293444.jpg)  
+124. Passport-style photographs displayed by street photographers in Chandni Chowk, Delhi in 1992.
+
+![](images/ba71f1faa426a8e230d2568521f567744c52f37384509bcea417ede4afc271ea.jpg)  
+125. Paper negative montages on display in Chandni Chowk, Delhi in 1992.
+
+![](images/1a1be1444038f04d516f1a5f20d45b4d63130c38812965872cf09f5c9a4c2c35.jpg)  
+126. Photographs displayed in Chandni Chowk, Delhi in 1992.
+
+![](images/776afc4dee4a7c9ac470eec3d72f232a0809a1ea4ab21ec1960c6f3b671ef889.jpg)  
+127. Vistas at Kishangarb, c. 1750.
+
+Then, out of the corner of my eye, I see a remarkable composite print of a multiple-eyed sitter, poised between two different viewpoints (illus. 126). On either side of the combined print are the two original images, each respecting an eyewitness principle. I thought of Markandeya slipping in and out of the mouth of the god, but the wider setting of the image forced on me the awareness that this was not simply the eruption of the past into this bustling Delhi thoroughfare. Above the image was a videshi (foreign) sitter, smiling genially. On either side of her were two montages with photographic heads interpolated into postcard film stills in the manner of my Madhuri wedding images. Here was no mere traditionalism, but a metaphor for the complexity that living in post-colonial India demands. This image, and those around it in Chandni Chowk, epitomize the manner in which the ‘concrete historical circulation’<sup>1</sup> of images reveals that ‘the outcomes of liaisons with artifacts cannot be predicted’.<sup>2</sup> In Chandni Chowk the fall-out from enduring traditions of image-making, the engagement with and attempt to negate colonial encounters, and the bureaucratic needs of the state all seemed to
+
+jostle together in the same space.
+
+But this Chandni Chowk Rodchenko was also the answer to a puzzle that had lain in my head for many years. This was the complex Indian who would be capable of comprehending an eighteenthcentury Rajput view of the Vistas at Kishangarh (illus. 127) which had long fascinated me. This striking trace of the hybridization of schemata that occurs within colonialism was once described by Stuart Cary Welch as ‘Versailles gone berserk’. <sup>3</sup> The imagination of a Chandni Chowk photographer captured the mobility and inventiveness of many contemporary Indian identities, fragments of whose archaeology I have attempted to present in this book.

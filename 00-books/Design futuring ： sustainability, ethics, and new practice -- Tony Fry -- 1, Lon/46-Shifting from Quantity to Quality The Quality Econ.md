@@ -1,0 +1,36 @@
+respond to feedback from the unsustainable – this is graphically illustrated by the Brundtland report and those who have adoptcd its premises of sustainability realized without regrets.
+
+Economic critiques ofhumanity producing and consuming itself, and much more besides, into unsustainability have been aroundfor a while. The Club of Rome, originators of the Blueprint f•r Survival published in The Ecologist and Limits to Growth (by Donella Meadows et al.) – both of which appeared in 1972 – marked a key moment in how initial debates were framed by the issues of expanding populations, limitcd global resources and the proposition that, economically, a 'stable state' could be established. Today, we now have a far more complex picture of the nature of human-induced environmental damage, not merely based on sheer numbers, but rather on the multiplicity of impacts attributable to pcoplc's differential behaviour as world makers and breakers.
+
+The restrictivc cconomy arrived out of a long historical process that enfolded the demise of feudalism, the hegemony of rationalism (via thc Enlightcnment), the formation of modern state institutions and civil society, plus, of course, the risc of capitalism and social democracy. Francis Fukayama controvcrsially and erroneously defined the full realization of thc rcstrictivc cconomy and its political underpinning as the end of history'.6
+
+No matter how diffcult the task, how heterodoxical or tcntative the explorations, the project of futuring needs to start thinking about another kind of cconomy – one witlı a different basis of material and symbolic exchange. This paradigmatic shift is not a matter of choice but necessity. It nccds to overcome the considerable institutional momentum of 'sustainable development', which blocks the emergence of different and creativc cconomic thought.
+
+## Shifting from Quantity to Quality
+
+The paradigmatic shift that is needed is to think and organize economy in relation to entropy – so as to move from a quantity/fast entropy to a quality/ slow entropy economy. This shift would represent a dramatic reduction in materials take-up and production, combined with dramatically increased concern and acceptcd responsibility for what materials and the made do in and on the world and everything that dwels therein. Rather than this shift diminishing an economy's ability to generate wealth, the very nature of wealth becomes redefined. Currently, wealthis illusory- two absolutely massive costs are excluded from how it is assessed: the cost of destruction (in terms of the 'dialectic of sustainmcnt' one could ask, for instance, what is going to be thc real cost of climate change)7 and the cost of global inequity (the redistributive costs of preventing cnvironmental and other forms of destruction caused by poverty). lt has to be remembered hcre that equity, via 're-distributive justice' is integral to the creation of an ability to sustain.
+
+![](images/d006c624dca76ddbaf97bbb98400a20b80c249cbd8723561e2e37ba2b4d769a7.jpg)  
+42 8risbane Powerhouse retrofitted as a caltural venue
+
+Now before going further, we obviously nced to say exactly what is meant here by 'quality'. Rather than allowing its meaning to free float or to simply adopt a dictionary definition, a contextually appropriate referential ground needs to be established
+
+Quality, understood within the remit of sustainment, names the performative sustaining characteristic of whatsoever is brought into being in terms of its matcriality, function, symbolic mcanings and its designing agency in the world over time. For a product, this might include regarding quality in relation to: the nature of its materials; how it is made; its material ecology; the operational and symbolic use it delivers; its meaning and aesthetic as the qulities compound to form the degree of its sustaining ability. The same kind of thinking obviously applies to immatcrial things, structures, industries, serviccs and institutions.
+
+At its most general, quality, as defined here, names all that adds to everything which is 'good'. As such, quality folds the economic into thc ethical; the singular into the collective (the 'common good') as 'things of quality' that help sustain the maker, the made, the user and the world of use.
+
+## The Quality Economy
+
+Displacing the fallacy of perpctual growth, illusory wealth and ethnocentric or ethnocidal forms of development by the relation betwecn quality, economy and sustainment, opens a ncw vista of potential humaı/worłdly engagement. As such, the quality economy can be seen as foundational for a practical philosophy embodied in redirectivc practices, which could be availablc to adopt at any levcl or scale from the most humble maker of cra't objects to multinational manufacturing corporations.
+
+The obvious question to ask and answer at this point is how much would things of quality cost?' In answering this question it is important to make clear that: (1) the way quality is being prcsented here has nothing to do with luxury, not least because it is not assigned to thespecial but to the everyday; and (2) it is not a matter of direct substitution of objects of 'quantity' with those of 'quality' – as indicated, quality is not simply a qualification of the character of some thing, rather it is a designation of the gency of a relational condiion (which means it is how something comes to be and what it sustains, as opposed to just what it is'). So understood, quality represcnts a different kind of commodity, a different kind of purchase but, above all, a different being of, and with, things (so understood, quality is what somcthing delivers rather than a designated value of a thing).
+
+In simple terms, objects of quality would cost more but the huyer, or perhaps the lessee, would get more. This might includc, for instance, a lifecarc service of a product involving restyling or retrofitting (so that the same bicycle, computer, printer, cooker, fridge, cordless drill and so on, could have tliree, four, fve remade-as-new lives). As can be seen, reducing the volume of manufacture of new things would be offset by vastly expanding the provision of services. Quality can also be 'turned outward' and developed in other ways – consider the following four examples.
+
+## The Making of an Environment of Care
+
+Care is normally taken to be something human beings exercise physically and emotionally – craft workers, racing drivers, surgeons take care; likewise, charity workers, nurses, pcace protestors and grief counsellors care. Yet a completely different philosophicał understanding of carc exists. This posits care as fundamental to our very (ontological) being, and care as vital for being to be.8 Care, so comprehended, is manifested in our unthinking ability to cross roads, climb ladders, use power tools or cut bread without injury. Against this backdrop, a quality-based economy would need to extend things that increasingly performatively care across every space of everyday life and environments of use.
+
+## Transforming the Nature ofThings
+
+Quality, as presented herc, demands so much more from products and services. Things should be expected to endure by the way they are made, the

@@ -1,0 +1,42 @@
+# Acknowledgments
+
+## T
+
+he debts I incurred in writing this study are staggering. First and foremost, I am indebted to the Eleutherian Mills-Hagley Foundation, which supported me as a Hagley Fellow while I was a graduate student at the University of Delaware and later as a curator in the Hagley Museum. The foundation's generous travel budget allowed me to carry out an important part of my manuscript research, and its Eleutherian Mills Historical Library held resources that I could not obtain elsewhere. Among numerous members of the library staff who helped me, Carol Hallman deserves special thanks for handling countless interlibrary loans and solving other problems for me. The library's Pictorial Collections Department also made a substantial contribution to the illustrations of this book. I deeply appreciate the patience shown me by my museum colleagues and superiors through the process of refining the manuscript. Robert Howard, Hagley's curator of engineering, contributed to this book through his excellent drawings.
+
+I remain flattered that my colleague, Glenn Porter, wanted to have this book as part of the Regional Economic History Research Center's series with the Johns Hopkins University Press. He played a dual role, serving as my greatest critic and as my constant supporter. Those who have read Glenn Porter's own work know the precision of his scholarship; I consider myself fortunate to have experienced at firsthand the benefit of his outstanding editorial skill. He contributed significantly to this book in more ways than even he will ever know. For each of them and for his constant support, I am most grateful. Two other members of the foundation staff helped to make this book possible. Dora Mae Blake sustained me during the manuscript's most trying moments, that of typing. She cheerfully turned a manuscript that looked worse than a rotten sow's ear into a real silk purse. Mary Meyers rendered great help with the index.
+
+By awarding me a predoctoral fellowship in the history of science and technology, the Smithsonian Institution made possible a major portion of the work on my doctoral dissertation, which provides the basis for this book. I wish to thank Edward Davidson, Gretchen Gayle, and Elsie Bliss for their help on administrative matters. The National Museum of History and Technology, now the National Museum of American History, and its staff were critical in my research and writing. I am especially indebted to Robert C. Post, who served as my Smithsonian supervisor and who continually went beyond the call of duty. His own work, his criticism of mine, his careful editorial markings, and his abiding friendship will always be gratefully remembered. Carlene E. Stephens answered hundreds of my questions and solved more than a few perplexing historical riddles. I also thank Lu Rosignol and Charles Burger of the Smithsonian Library, who often rendered heroic service. Other Smithsonian staff who helped me in important ways are Brooke Hindle, Silvio Bedini, Joyce Ramey, Nancy Long, Robert Friedel, Otto Mayr, Robert Vogel, Rita
+
+Adrosko, Barbara Suit, William Henson, Joanna Kofron, and Hazel Jones. I sincerely appreciate their help and support.
+
+I am also indebted to Harvey Mudd College in Claremont, California, for funding my research on woodworking technology. The college not only awarded me a summer faculty research fellowship but it provided other nonpecuniary support. Much of that support came from B. Samuel Tanenbaum, dean of the college, and Richard Olson, my colleague and oftentimes pedagogue.
+
+Thanks also go to the College of Arts and Science of the University of Delaware for helping to defray the costs of obtaining and publishing many of the illustrations in this book.
+
+I wish to thank the State Historical Society of Wisconsin and its staff in the manuscripts reading room for their help with my work in the McCormick Collection and the papers of the Singer Manufacturing Company. I am indebted to Joy Levien, assistant secretary of the Singer Company, for permission to use the Singer papers.
+
+Henry D. Sharpe, Jr., chairman of the Brown & Sharpe Manufacturing Company, North Kingstown, Rhode Island, gave me permission to use the historical material on Brown & Sharpe which still survives. I sincerely appreciate his help and encouragement.
+
+To the staff of the manuscripts section of the Connecticut State Library I extend my thanks for their help with the surviving papers related to the Pope Manufacturing Company. These papers gave me an unexpected and important perspective on manufacturing problems in late nineteenth-century America
+
+The Ford Archives of the Edison Institute will always hold a special place in my debt list. Douglas A. Bakken, director of the Ford Archives, has made this archive into a firstrate research facility, and his interest in my project greatly aided my work there. Reading manuscripts in the Ford Archives was pure pleasure. I profited enormously from the help of David Crippen, reference archivist. His familiarity with the vast Ford Motor Company collection and with Ford history is delightfully rare and is deeply appreciated.
+
+My study was aided by Jane McCavitt of the MIT Institute Archives. Her quick responses to my numerous inquiries faciliated my work on Foster Gunnison. Also, I must acknowledge my debt to Foster Gunnison, Jr., for providing me with important information on his father's life and work and for allowing me to use the photographs of Gunnison houses and the Gunnison factory. In addition, my thanks go to the Department of Special Collections, Case Western Reserve University Libraries, for its help with the Fred Colvin Papers, which aided my analysis of the Ford assembly line.
+
+My wife, Nancy Eddy, contributed in countless ways to the making of this book. Her patience with my long hours and her help when little time and much work remained will never be forgotten. Our daughter Jennie was born at the same time this book was being conceived. She has grown up with her daddy always either talking about or working on his book, and she has made her special contributions, as has her younger brother, Blake. His passion for Tin Lizzies has been exceeded only by his father's own passion for how they were made. In short, we have sustained each other.
+
+The editorial team of Johns Hopkins University Press deserves special thanks. Henry Tom gave his support early on, and he demonstrated great patience in working with me. Trudie Calvert performed the difficult task of copyediting the manuscript of this book with impressive care and thoroughness and real grace. To then and others not mentioned, I offer my sincere thanks.
+
+I could never have realized, muc less addressed, conceptual problems without the work and help of John J. Beer, Merritt Roe Smith, and Eugene S. Ferguson. When I began this study, I set as miy goal to equal the quality of John Beer's dissertation and hoped my resulting published work would have the same importance as his. I am not qualified to judge whether I have reached these ends, but I know that Beer's work and his excitement for learning have contributed to my intellectual makeup.
+
+One need only peruse the first chapter of this book to see the magnitude of the debt I owe Merritt Roe Smith. His writings on arms production technology form the basis of my work. Smith's careful criticism of the manuscript and his probing questions have sharpened my work at every turn.
+
+My greatest debt, both intellectual and otherwise, is to Eugene S. Ferguson. He was one of the first historians of technology to stress the importance of the American system of manufactures and the development of mass production technology. In his class on American technology, Ferguson demonstrated the necessity of understanding this historical phenomenon if we are to comprehend fully the nature of technology in nineteenth-century America. This need is the reason I undertook my study. Ferguson continually directed me to important sources and raised questions that never occurred to me. No student ever had a better teacher, and no person could ever have a more devoted friend.
+
+These many individuals and institutions have contributed to the makeup of this book, but the weaknesses that remain are mine and mine alone.
+
+From the   
+AMERICAN SYSTEM to MASS PRODUCTION 1800-1932
+
+![](images/f8444b383e0ad07d38214b89d2cdbfd0b2e43d981161c2caa3ba44495f5f93a2.jpg)

@@ -1,0 +1,1 @@
+# ABCDEF GHIJKL MNOPQ RSTUV! WXYZ& Gothic Round. First shown by George Nesbitt in bis 1838 specimens. Lowercase and figures are missing.The Nesbitt design was an Outlined or Rimmed Gothic Round.The Caslon Foundry issued several Gothic Round designs, of which an ornamented one, in particular, came into general usage in America around mid-century.

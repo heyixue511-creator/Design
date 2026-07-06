@@ -1,0 +1,3 @@
+Thames &Hudson #
+
+![](images/0d66bb08a12a4c7ce95f41194ad49e1594718c60dc77b106ecabcea617473693.jpg) Kenneth Frampton ![](images/f39b5003da4433de985ff474b510a44655f3d9e057b3ec7474627a6f6f31c1a2.jpg) ![](images/5a5e08943da2388544f115fafd5ac54a1d00e5b00ed20efec2844696159d84bf.jpg) 1 Engraving of Paris showing the newly erected Arc de Triomphe, completed in 1836 and designed by Jean Chalgrin, and in the foreground workers demolishing C.-N. Ledoux’s Barrière de l’Etoile of 1785–89.

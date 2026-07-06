@@ -1,0 +1,1 @@
+![](images/5213b1cec518dd0fd8d2d2b046a8ae1bd6d52420979c92c1f064d1d9a9221687.jpg) title: author: publisher: isbn10 | asin: print isbn13: ebook isbn13: language: subject publication date: lcc: ddc: subject:

@@ -1,0 +1,1 @@
+# ABCDEFGHIJKI OPORSTUVWX S&1234567890abc defghijklmnopqrs Trenton. First shoun by Hamilton in his 1889 specimens. Hamilton cut one ornamental style of this face with an open diamond and points at the median, and it was a handsome design.

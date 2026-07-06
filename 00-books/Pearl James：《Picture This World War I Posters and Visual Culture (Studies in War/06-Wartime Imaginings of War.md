@@ -1,0 +1,35 @@
+I have often wondered about the uncanny fl owering of these notions of heroism and sacrifi ce just months before the Great War broke out and gave them a terrible new meaning.
+
+## Wartime Imaginings of War
+
+Poster art froze these representations in time and space. And necessarily so, since they provided the only mental furniture available to conjure up what war would be like. The revolutionary character of industrialized warfare was unanticipated by virtually everyone in Europe in 1914. The precedent of the United States Civil War was ignored, like most features of American developments, as no guide whatsoever to European affairs. Consequently, in September 1914, when the German invasion of France was stopped at the Battle of the Marne and the invaders dug in on the River Aisne, fi fty kilometers to the north, and when the stalemate we now call the Western Front set in, older languages of heroic warfare, of individual combat and derring-do, were bound to fl ourish.
+
+In Britain these images were no more unreal than elsewhere, but they had a different utility. Between August 1914 and January 1915, one million men volunteered for the army. Two million more joined up in 1915. All the other major combatants had conscript armies; men came forward by law or by convention, but in Britain a mass army was raised by consent.
+
+Poster art helped bring them forward, but my view is that they would have come forth anyway. At this distance in time it is hard to see why the consensus was so strong that the war was just and had to be fought to the bitter end. Pacifi sts tried to batter at this consensus but got nowhere. The wall of support for the war was simply too solid.
+
+What were its chief elements? On one level, the cause highlighted in posters was that of “poor little Belgium” and the sanctity of treaties; Britain was drawn into a war not of her own making and was fi ghting for “Right.” These issues mattered intrinsically, but their power derived from the fact that they revealed a deeper and more immediate danger, one closer to home. That threat to Britain was German power, thrust into France and Belgium and soon camped on the shores of the English Channel itself. Posters such as “Your Country’s Call” had little diffi culty in pointing this out (fi g. 7). Here was a clear and present danger to what contemporaries saw as the British way of life, a very local way of life, a life of pubs and clubs and a host of associations drawing people to activities of an astonishing diversity. Now in 1914 the strongest army in the world, the German Army, was at the gates. It was challenging a nation whose inhabitants unthinkingly believed that theirs was the preeminent world power, the envy of what Charles Dickens had called “Lesser Nations.” In light of this threat, and in response both to the harshness of the treatment of Belgian civilians and to the high casualties among the professional army and the volunteers who served in the Territorial forces, public opinion in Britain was united behind the war effort (fi g. 8). This was the milieu in which one million British men volunteered for military service in 1914 alone. Posters refl ected an already existing and powerful consensus: they illustrated but did not manufacture consent.
+
+National pride drew men to the colors in 1914, but so did a sense that the “nation” was a very local place (fi g. 9). Popular culture—understood as the codes, gestures, and forms of voluntary associations, elaborated not through the state but in civil society and through the market—expressed these sentiments, and a host of entrepreneurs sold artifacts, songs, images, and entertainments that transmitted them.
+
+This was where cultural codes and commercial strategies came together. Artists, actors, comedians, minstrels, and a host of others spoke to and for civil society in Britain. The state did not orchestrate their words or work or treat these people like puppets. And once millions of men had joined up, the armed forces drew on the same vibrant cultural life shared by their families at home. Posters and other wartime images are windows onto this world of thinking about war: they are signs of solidarity, not carriers of compulsion.
+
+![](images/5998f86a0e4d1bd746717969b8c94624227ae5a46de6577952722046f6033871.jpg)  
+Fig. 7. Anonymous, “Your Country’s Call,” April 1915. A Scottish soldier gestures toward a bucolic image of village life, threatened by the menace of Germany. Political Poster collection, UK 218, Hoover Institution Archives.
+
+There is an important distinction to draw between recruiting posters and other forms of patriotic iconography. As Jim Aulich has argued, the poster art of the Great War broadcast one set of images of Britain at war. The advertising industry used other images and other infl ections to sell both the war and the products their patrons paid them to sell.<sup>3</sup>
+
+Fig. 8. Anonymous, “Re  
+member Belgium,” 1914. A woman and child fl eeing   
+from a village on fi re show why men worthy of the name will join up to protect their families in Eng  
+land from a similar fate. Political Poster collection,   
+UK 219, Hoover Institution Archives.
+
+![](images/6a202d13ad8462f28b80a50a4dfc0cb2322b972be93b075fb11e347f4125e917.jpg)
+
+Here we can see a division of labor, informally set, between the recruiting campaign of 1914–16, which abjured class infl ections, and the advertising campaign throughout the war, which celebrated them. When Oxo or Bovril or Mrs. Payne’s remedies for whatever ailed you needed a plug, a group of enlisted men or working men and women provided the ideal forms and fi gures to get the message across. Thus the stylized classlessness of one form of wartime propaganda embedded in the recruiting campaign of the fi rst half of the war must not be taken as proof that wartime images as a whole were innocent of the inequalities everyone lived with at the time. On the contrary, advertising naturalized the war by placing everyday commodities in wartime settings. Here are working-class faces and fi gures, in a society in which 80 percent of the population earned their living through manual labor. Ads used what Aulich terms the “vulgar modes of direct address” to make visual the local environment for which British men were fi ghting.
+
+![](images/d5bfe0440a4b53546506edcae7d5cf78f816da84e9b41266b7e3145335006c89.jpg)  
+Fig. 9. Anonymous, “Is home worth fi ghting for?” July 1915. A rallying call urges volunteers to refl ect on the violation of domestic life by German brutality in France and Belgium. Political Poster collection, UK 515, Hoover Institution Archives.
+
+Given the shortage of paper in wartime, ads distilled a message both simplifi ed and innocent. The war was naturalized, a part of everyday life, and fi ghting and winning it were naturalized too. There was no room here for the ‘faux classical’ diction of elite culture. Alongside the classless images of British recruitment, there were other ways to visualize what British men were fi ghting for. In the popular press most of these icons referred directly to the domestic sphere of working-class

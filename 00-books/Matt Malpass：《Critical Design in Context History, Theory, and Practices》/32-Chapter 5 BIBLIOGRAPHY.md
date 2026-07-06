@@ -1,0 +1,465 @@
+4    See, for example, Mazé (2007), Moline (2006).
+
+5 See, for example, Baudrillard (1996), Greenhalgh (1990), Kroes (2010), Krippendorf and Butter (1993), Papanek (1984), Schiffer (1992), Ligo (1984).
+
+6    See, for example, Hällnas and Redström (2002), Dunne (1998), Balland Naylor (2006).
+
+7 Wicked problems cannot be solved absolutely; the situation can only be made ‘better’ or ‘worse’ – the terms of which depend on who is evaluating the solution. For writing on wicked problems, see Rittel and Webber (1973). In a design context, see Buchanan (1992), Coyne (2005).
+
+8    See Open IDEO: http://www.openideo.com/about-us
+
+## Chapter 5
+
+1 An example often cited to illustrate the operation of juvenalian satire is Jonathan Swift’s fable A Modest Proposal. Swift presents a solution to overpopulation and food shortage in eighteenth-century Ireland. He proposes to solve both these problems by reframing the problem as an opportunity. Through this reframing, the problem presents the means to solve itself. Swifts proposition suggests society should eat children and in so doing deal with food shortage and overpopulation. The fable draws attention to the issues at play through a logical solution infused with tones of obscenity and violence. The solution evokes outrage in the reader. Analogies can be drawn between the satiric strategies of violence and applied logic in Swift's satire and Dunne and Raby’s invasive reengineering of human physiology to deal with overpopulation and food shortage and the ethical questions that the proposition evoke.
+
+2    For further discussion on satire and satiric techniques, see Simpson (2003), Connery and Combe (1996).
+
+## BIBLIOGRAPHY
+
+ATelier. 2011. Design Things. Cambridge, MA: MIT Press.
+
+Adorno, Theodor. 1965. ‘Functionalism Today. Originally Presented at the German Werkbund, Berlin, October 23, 1965’. Reprinted Oppositions 17: 30–41, Summer 1979.
+
+Agre, Philip. 1997. Computation and Human Experience. Cambridge: Cambridge University Press.
+
+Almquist, Julka, and Julia Lupton. 2010. ‘Affording Meaning: Design-Oriented Research from the Humanities and Social Sciences’. Design Issues 26, no. 1: 3–14.
+
+Ambaza, Emilio (ed.). 1972. Italy: The New Domestic Landscape, Achievements and Problems of Italian Design. New York: Museum of Modern Art.
+
+Antonelli, Paola. 2010. ‘Fresh as a Daisy: Alexandra Daisy Ginsberg’. Nature Medicine 16, no. 9: 942.
+
+Archer, Bruce. 1995. ‘The Nature of Research’. Co-Design: Interdisciplinary Journal of Design 2: 6–13.
+
+Auger, James. 2010. ‘Alternative Presents and Speculative Futures’. Swiss Design Network Conference on Design Fictions Negotiating Futures. Basel, Switzerland, 42–57.
+
+Auger, James. 2012. Why Robot? Speculative Design, the Domestication of Technology and the Considered Future PhD Diss. London: Royal College of Art,
+
+Auger, James, Laurel Swan, and Alex Taylor. 2010. ‘Speculative Design by Practice – A Robot Case Study’. European Association for the Study of Science and Technology (EASST) Conference. Trento, Italy.
+
+Bagha, Merhdad, Stephen Coley, and David White. 2000. The Alchemy of Growth. New York: Perseus Publishing.
+
+Baird, George. 2004. ‘Criticality and Its Discontents’. Harvard Design Magazine 21: 1–6.
+
+Bakker, Gijs, and Renny Ramakers. 1998. Droog Design: Spirit of the Nineties. Rotterdam: 010 Publishers.
+
+Ball, Ralph, and Maxine Naylor. 2006. Form Follows Idea: An Introduction to Design Poetics. London: Black Dog Publishing.
+
+Baudrillard, Jean. 1981. For a Critique of the Political Economy of the Sign. Translated by Charles Levin. St Louis: Telos Press.
+
+Baudrillard, Jean. 1996. The System of Objects. London: Verso.
+
+Beaver, Jacob, Tobie Kerridge, and Sarah Pennington. 2009. Material Beliefs. London: Goldsmiths University of London Interaction Design Studio.
+
+Betsky, Aron. 2003. ‘The Strangeness of the Familiar in Design’. In Strangely Familiar: Design and Everyday Life, edited by Andrew Blauvelt, 14–37. Minneapolis, MN: Walker Art Center.
+
+Bijker, Wiebe. 1995. Of Bicycles, Bakelite, and Bulbs: Towards a Theory of Sociotechnical Change. Cambridge, MA: MIT Press.
+
+Bijker, Wiebe. 1992. ‘The Social Construction of FLORESCENT Lighting or How an ARTEFACT Was Invented in Its Diffusion Stage’. In Shaping Technology, Building Society, edited by Wiebe Bijker and John Wiedmer, 75–102. Cambridge, MA: MIT Press.
+
+Bijker, Wiebe, and John Law. 1994. Shaping Technology/Building Society: Studies in Sociotechnical Change. Cambridge, MA: MIT Press.
+
+Billing, Jamie, and Tracy Cordingley. 2006. ‘Some Kind of Analogtivity: Anti-Simulation Through Design’. Personal and Ubiquitous Computing (Springer-Verlag) 10, no. 2–3: 101–105.
+
+Blauvelt, Andrew. 2008. Towards Relational Design. http://designobserver.com/feature/towards-relational-design/7557/ (accessed 29 July 2016).
+
+Bleecker, Julian. 2010. ‘Design Fiction: From Props to Prototypes’. 6th Swiss Design Network Conference 2010 Negotiating Futures Design Fiction. Basel, Switzerland, 58–67.
+
+Bleecker, Julian. 2004. The Reality Effect of Technoscience PhD Diss. Santa Cruz: University of California.
+
+Bleecker, Julian, and Nicolas Nova. 2009. A Synchronicity: Design Fictions for Asynchronous Urban Computing. New York: The Architectural League of New York.
+
+Boehner, Kirsten, Janet Vertesi, Phoebe Sengers, and Paul Dourish. 2007. ‘How HCI Interprets the Probes’. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. San Jose, CA: ACM, 1077–1086.
+
+Bonsiepe, Gui. 2007. ‘The Uneasy Relationship between Design and Design Research’. In Design Research Now, edited by Ralf Michel, 25–39. Berlin: Birkhauser.
+
+Brand, Stewart. 1988. The Media Lab: Inventing the Future at MIT. New York: Penguin.
+
+Brandes, Uta, Sonja Stich, and Miriam Wender. 2009. Design by Use: The Everyday Metamorphosis of Things. Basel: Birkhauser.
+
+Bredies, Katharina, Gesche Jooste, and Rosan Chow. 2009. ‘Designers and Users: Comparing Constructivist Design Approaches’. European Academy of Design: Design Connexity. Aberdeen: Greys School of Art, 71–74.
+
+Broms, Loove, Magnus Bång, and Sara Ilstedt Hjelm. 2008. ‘Persuasive Engagement: Exploiting Lifestyle as a Driving Force to Promote Energy-Aware Use Patterns and Behaviours’. Undisciplined! Design Research Society Conference 2008, 16–19 July 2008. Sheffield: Sheffield Hallam University.
+
+Buchanan, Richard. 1995. ‘Branzi’s Dilemma: Design in Contemporary Culture’. In Design: Pleasure or Responsibility? edited by Susann Vihma. Helsinki: University of Art and Design Helsinki.
+
+Buchanan, Richard. 1989. ‘Declaration by Design: Rhetoric, Argument and Demonstration in Design Practice’. In Design Discourse, edited by Victor Margolin, 91–109. Chicago, IL: University of Chicago Press.
+
+Buchanan, Richard. 2001. ‘Human Dignity and Human Rights: Thoughts on the Principles of Human Centred Design’. Design Issues 17, no. 3: 35–39.
+
+Buchanan, Richard. 1992. ‘Wicked Problems in Design Thinking’. Design Issues 8, no. 2: 5– 215, 2009.
+
+Bülmann, Vera. 2008. ‘Pseudopodia. Prolegomena to a Discourse on Design’. In Pre-Specifics: Some Comparatistic Investigations on Research in Design and Art, edited by Vera Bülmann and Martin Wiedmer, 21–79. Zurich: JRP Ringer.
+
+Burkhardt, François. 1988. ‘Design and Avant-Postmodernism’. In Design after Modernism, edited by John Thackara, 145–151. London: Thames and Hudson.
+
+Butler, Judith. 2002. ‘What Is Critique? An Essay on Foucault’s Virtue’. In The Political: Readings in Continental Philosophy, edited by David Ingram, 212–228. London, Basil: Blackwell.
+
+Caccavale, Elio. 2010. Future Families: A Practice Based Research Project to Explore Social, Cultural and Ethical Issues Surrounding Reproductive Technologies and New Family Forms. http://www.rca.ac.uk/Default.aspx? ContentID=502274&GroupID=502271&Contentwithinthissection&More=1 (accessed 1 September 2010).
+
+Calhoun, Craig. 1995. Critical Social Theory: Culture, History and the Challenge of Difference. London: Blackwell.
+
+Caputo, John D. 1987. Radical Hermeneutics: Repetition, Deconstruction, and the Hermeneutic Project. Bloomington: Indiana University Press.
+
+Cogdell, Christina. 2009. ‘Design and the Elastic Mind Museum of Modern Art (Spring 2008)’. Design Issues 25, no. 3: 92–101.
+
+Coles, Alex. 2002. ‘Art Décor: Art’s Romance with Design’. Art Monthly 253.
+
+Coles, Alex, ed. 2005. Design Art. London: Tate Publishing.
+
+Coles, Alex, ed. 2007. Design and Art. Cambridge, MA: MIT Press.
+
+Connery, B.A., and K. Combe (eds.). 1996. Theorizing Satire: Essays in Criticism and Theory. London: Palgrave Macmillan.
+
+Coyne, Richard. 2005. ‘Wicked Problems Revisited’. Design Studies 26, no. 1: 5–17.
+
+Crampton Smith, Gillian. 1997. ‘Computer Related Design at the Royal College of Art: 1997 Graduation Projects’. Interactions 4, no. 6: 27–33.
+
+Crampton Smith, Gillian. 1994. ‘The Art of Interaction’. In Interacting with Virtual Environments, edited by Lindsey MacDonald and John Vince. Hoboken, NJ: John Wiley & Sons.
+
+Crampton Smith, Gillian, and Philip Tabor. 1996. ‘The Role of the Artist Designer’. In Bringing Design to Software, edited by Terry Winograd, 35–57. Reading, MA: Addison Wesley.
+
+Crisp, Denise Gonzales. 2009. ‘Discourse This! Designers and Alternative Critical Writing’. Design and Culture (Berg) 1, no. 1: 105–120.
+
+Critical Art Ensemble. http://www.critical-art.net (accessed 23 November 2010).
+
+Cross, Nigel. 2001. ‘Achieving Pleasure from Purpose: The Methods of Kenneth Grange Product Designer’. The Design Journal 4, no. 1: 48–58.
+
+Cross, Nigel. 2002. ‘Creative Cognition in Design: Processes of Exceptional Designers’. In Creativity and Cognition, edited by T. Hewett and T. Kavanah, 14–19. New York: ACM Press.
+
+Cross, Nigel. 2006. Designerly Ways of Knowing. London: Springer Verlag Ltd.
+
+Cross, Nigel. 2007. ‘From a Design Science to a Design Discipline: Understanding Designerly Ways of Knowing’. In Design Research Now. Essays and Selected Projects, edited by Ralf Michel, 41–54. Basel, Boston, Berlin: Birkhäuser Verlag AG.
+
+Design Act. 2009. (accessed 25 August 2011).
+
+Design and the Elastic Mind. Design and the Elastic Mind MoMA. http://www.moma.org/interactives/exhibitions/2008/elasticmind/ (accessed 26 September 2011).
+
+Design for Thought: Contemporary Product Design from Britain. 2005. http://www.imj.org.il/eng/exhibitions/2005/design\_for\_thought/pop/popnoir.html (accessed 14 August 2010).
+
+Design Interactions RCA. 2011. http://www.di.research.rca.ac.uk/content/about (accessed 29 July 2016).
+
+Dialogues in Design: Design as a Medium. 2010, 02–03. http://dialoguesindesign.wordpress.com/2010/02/16/next-session-design-as-a-mediumtuesday-2nd-march/ (accessed 16 September 2011).
+
+DiSalvo, Carl. 2012. Adversarial Design. Cambridge, MA: MIT Press.
+
+DiSalvo, Carl. 2009. ‘Design and the Construction of Publics’. Design Studies (Massachusetts Institute of Technology) 25, no. 1: 48–63.
+
+Dormer, Peter. 1990. The Meanings of Modern Design. London: Thames & Hudson.
+
+Dunne, Anthony. 1997. Hertzian Tales: An Investigation into the Critical Potential of Electronic Product as a Post-Optimal Object PhD Diss. London: Royal College of Art.
+
+Dunne, Anthony. 1998. Hertzian Tales: Electronic Products, Aesthetic Experience and Critical Design. London: Royal College of Art Computer Related Design Research Publications.
+
+Dunne, Anthony. 2010. ‘Revitalizing Design: Revital Cohen’. Nature Medicine 16, no. 9: 944.
+
+Dunne, Anthony, and Fiona Raby. 2014. Speculative Everything: Design, Fiction, and Social Dreaming. Cambridge: MIT Press.
+
+Dunne, Anthony, and Fiona Raby. 2008. ‘A/B’. http://www.dunneandraby.co.uk/content/projects/476/0 (accessed 3 August 2015).
+
+Dunne, Anthony, and Fiona Raby. 2003. Consuming Monsters: Big, Perfect, Infectious. London: Unpublished.
+
+Dunne, Anthony, and Fiona Raby. 2002. ‘The Placebo Project’. DIS ‘02: Proceedings of the 4th Conference on Designing Interactive Systems: Processes, Practices, Methods, and Techniques. ACM Press, 11–14.
+
+Dunne, Anthony, and Fiona Raby. 2001. Design Noir: The Secret Life of Electronic Objects. London: August/Birkhauser.
+
+Dunne, Anthony, Revital Cohen, and Alice Wang. 2008. Index Design Interactions. London: Royal College of Art.
+
+Ericson, Magnus, and Ramia Mazé, 2011. DESIGN ACT Socially and Politically Engaged Design Today – Critical Roles and Emerging Tactics. Stockholm: Sternberg Press.
+
+ESPRC, RCA, NESTA. Impact Exhibition. 2010. http://www.epsrc.ac.uk/newsevents/events/impactexhibition/Pages/default.aspx (accessed 20 November 2010).
+
+Fallman, Daniel. 2003. ‘Design-Oriented Human-Computer Interaction’. CHI Letters 5, no. 1: 225–232.
+
+Fallman, Daniel. 2008. ‘The Interaction Design Research Triangle of Design Practice, Design Studies, and Design Exploration’. Design Studies (Massachusetts Institute of Technology) 24, no. 3: 4–18.
+
+Feenberg, Andrew. 1999. Questioning Technology. London: Routledge.
+
+Feenberg, Andrew. 2002. Transforming Technology: A Critical Theory Revisited. New York: Oxford University Press.
+
+Findeli, A. 1998. ‘A Quest for Credibility: Doctoral Education in Design at the University of Montreal’. Doctoral Education in Design. Ohio, 8–11.
+
+Findeli, A., and R Bousbaci. 2005. ‘The Eclipse of the Object in Design Project Theories’. The Design Journal 8, no. 3: 35–49.
+
+Findelli, A. 2008. ‘Research Through Design and Transdisciplinarity: A Tentative Contribution to the Methodology of Design Research’. Proceedings of Swiss Design Network Symposium. Berne Switzerland.
+
+Fischer, Michael. 2006. Science Technology and Society. In Theory Culture and Society: Problematizing Global Knowledge, Vol. 23, edited by Mike Featherstone, Venn Couze, Ryan Bishop and John Phillips, 172–174. London: Sage.
+
+Fisher, Tom, and Janet Shipton. 2010. Designing for Re-use. London: Earthscan.
+
+Floyd, Christine. 2005. ‘Being Critical in, on or Around Computing’. Proceedings of the 4th Decennial Conference on Critical Computing: Between Sense and Sensibility, Aarhus, Denmark, August 20–24, 2005. New York: ACM, 207–211.
+
+Flusser, Vilem. 1999. ‘About the Word Design’. In The Shape of Things: A Philosophy of Design. London: Reaktion Books.
+
+Forlizzi, J., E. Stolterman, and J. Zimmerman. 2009. ‘From Design Research to Theory: Evidence of a Maturing Field’. Proceedings of the International Association of Societies of Design Research. IASDR.
+
+Foster, Hal. 2002. Design and Crime: and other Diatribes. London: Verso.
+
+Foucault, Michel. 2009. The Archaeology of Knowledge. London: Routledge.
+
+Foucoult, Michel. 2002. ‘What Is Critique?’ In The Political, edited by David Ingram, 191– 211. Oxford: Blackwell.
+
+Franke, Björn. 2009. ‘Design as a Medium for Inquiry’. Fifth Swiss Design Network Symposium, Multiple Ways to Design Research – Research Cases That Reshape the Design Discipline. Swiss Design Network, 225–232.
+
+Frayling, Christopher. 1993. ‘Research in Art and Design’. Royal College of Art Research Papers (Royal College of Art) 1, no. 1: 1–5.
+
+Friedman, Ken. 2003. ‘Theory Construction in Design Research: Criteria: Approaches, and Methods’. Design Studies 24: 507–522.
+
+Fulton Suri, J. 2007. ‘Involving People in the Process’. Include 2007 Conference. London: RCA.
+
+Galloway, Anne. 2007. ‘Design Research as Critical Practice’. Presented at the Carleton University Industrial Design 29th Annual Seminar. Ottawa.
+
+Gamman, Lorraine, and Adam Thorpe, 2011. ‘Design with Society: Why Socially Responsive Design Is Good Enough’. CoDesign: International Journal of CoCreation in Design and the Arts 7 no. 3–4: 217–230.
+
+Gardien, Paul. 2006. ‘Breathing Life into Delicate Ideas, Position Paper, Philips Design’. Philips Design.
+
+Gaver, William, Michael, Mike, Kerridge, Tobie, Wilkie, Alex, Boucher, Andy, Ovalle, Liliana, and Plummer-Fernandez, Matthew. 2015. ‘Energy Babble: Mixing Environmentally-Oriented Internet Content to Engage Community Groups’. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems. Seoul, Republic of Korea, April 18–23.
+
+Gaver, W., et al. 2004. ‘The Drift Table: Designing for Ludic Engagement’. CHI ’04.
+
+Gaver, William, and Anthony Dunne. 1997. ‘The Pillow: Artist Designers in the Digital Age’. CHI ‘97 Extended Abstracts on Human Factors in Computing Systems: Looking to the Future. ACM.
+
+Gaver, William, and Heather Martin. 2000. ‘Alternatives: Exploring Information Appliances Through Conceptual Design Proposals’. Human Factors in Computing Systems (CHI). New York: ACM Press, 209–216.
+
+Gaver, William, Jake Beaver, and Steve Benford. 2003. ‘Ambiguity as a Resource for Design’. Conference on Human Factors in Computing Systems (CHI). New York: ACM Press, 233–240.
+
+Geertz, C.N. 1973. The Interpretation of Cultures. New York: Basic Books.
+
+Ginsberg, Alexander Daisy, J. Calvert, P. Schyfter, A Elfick, and A.D. Endy. 2014. Synthetic Aesthetics: Investigating Synthetic Biology’s Designs on Nature. Cambridge: MIT Press.
+
+Ginsberg, Alexander Daisy. 2010. ‘The Synthetic Kingdom’. Second Nature: International Journal of Creative Media 2, no. 1: 266–284.
+
+Glaser, B., and A. Strauss. 1967. The Discovery of Grounded Theory: Strategies for Qualitative Research.
+
+Grand, Simon. 2010. ‘Research as Design: Future Perspectives’. In The Future of Design Research, edited by Wolfgang Jonas, Simon Grand, and Ralf Michel. Basel, Boston, Berlin: Birkhäuser Verlag AG.
+
+Grand, Simon, and Martin Wiedmer. 2010. ‘Design Fiction: A Method Toolbox for Design Research in a Complex World’. Proceedings of Design and Complexity Design Research Society. Montréal: Ecol de design industrial. Univeritie de.
+
+Green, Josephine. 2007. ‘Democratizing the Future: Towards a New Era of Creativity and Growth’. design.philips.com.
+
+Greenhalgh, Paul. 1990. Modernism in Design. London: Reaktion Books.
+
+Gromala, D, and Jay David Bolter. 2005. Windows and Mirrors: Interaction Design, Digital Art, and the Myth of Transparency. Cambridge: MA.
+
+Gromala, D. 1998. ‘Abject Subjectivities’. in American Center for Design. Remaking History: The Convergence of Graphic Design, History, Theory, and Criticism for Creative Practice. Chicago, IL: American Center for Design, February 28, March 1 & 2, 1997, 6–11.
+
+Hällnas, Lars, and Johan Redström. 2002a. ‘From Use to Presence: On Expressions and Aesthetics of Everyday Computational Things’. ACM Transactions on Computational Things 9, no. 2: 106–124.
+
+Hällnas, Lars, and Johan Redström. 2002b. ‘Abstract Information Appliances: Methodological Exercises in Conceptual Design of Computational Things’. Proceedings of the Conference on Designing Interactive Systems: Processes, Practices, Methods and Techniques. New York: ACM Press, 105–116.
+
+Hällnas, Lars, and Johan Redström. 2001. ‘Slow Technology: Designing for Reflection’. Journal of Personal and Ubiquitous Computing 5, no. 3: 201–212.
+
+Hayles, K. 2002. Writing Machines. Cambridge, MA: MIT Press, Mediawork Pamphlet Series.
+
+Hunt, Jamer. 2003. ‘Just Re-Do It: Tactical Formlessness and Everyday Consumption’. In Strangely Familiar: Design and Everyday Life, edited by Andrew Blauvelt, 56–71. Minneapolis: Walker Art Centre.
+
+Hunt, Jamer. 2011. ‘Prototyping the Social: Temporality and Speculative Futures at the Intersection of Design and Culture’. In Design Anthropology: Object Culture in the 21st Century, edited by Alison J. Clarke, 33–44. New York: Springer Wien.
+
+IDEO. Open IDEO. http://www.openideo.com/about-us (accessed 20 September 2011).
+
+Jenks, Charles, and Nathan Silver. 1972. Adhocism: The Case for Improvisation. New York: Doubleday.
+
+Jeremijenko, Natalie, and Eugene Thacker. 2004. Creative Biotechnology. Newcastle upon Tyne: Locus+ Publishing Ltd.
+
+Jonas, Wolfgang. 2007. ‘Design Research and Its Meaning to the Methodological Development of the Discipline’. In Design Research Now, edited by Ralf Michel, 187–205. Berlin: Birkhauser Verlag.
+
+Julier, Guy. 2006. ‘From Visual Culture to Design Culture’. Design Issues (MIT Press) 22, no. 1: 64–76.
+
+Julier, Guy. 2000. The Culture of Design. London: Sage.
+
+Kerridge, Tobie. 2015. Designing Debate: The Entanglement of Speculative Design and Upstream Engagement Doctoral Thesis. London: Goldsmiths, University of London.
+
+Kerridge, Tobie. 2009. ‘Does Speculative Design Contribute to the Engagement of Science and Technology’. Multiple Pathways: Swiss Design Network Symposium. Lugano, Switzerland.
+
+Kirby, David. 2010. ‘The Future Is Now: Diegetic Prototypes and the Role of Popular Films in Generating Real-World Technological Development’. Social Studies of Science 40, no. 1: 41–70.
+
+Knorr Cetina, K. 1999. Epistemic Cultures: How the Sciences Make Knowledge. Cambridge, MA: MIT Press.
+
+Koskinen, I., J. Zimmerman, T. Binder, and S. Wensveen. 2011. Design Research Through Practice. From the Lab, Field, and Showroom. London: Morgan Kaufman.
+
+Krippendorff, Klaus. 2006. The Semantic Turn: A New Foundation for Design. London: Taylor & Francis.
+
+Krippendorff, Klaus, and Reihhart Butter. 1993. ‘Where Meanings Escape Functions’. Design Management Institute Journal 4, no. 2: 30–37.
+
+Krippendorff, Klause. 2006. Content Analysis: An Introduction to Its Methodology. London: Sage.
+
+Krippendorff, Klause. 2007. ‘Design Research: An Oxymoron?’ In Design Research Now: Essays and Selected Projects, edited by Ralf Michel, 67–80. Basel, Boston, Berlin: Birkhäuser Verlag AG.
+
+Kroes, Peter. 2010. ‘Theories of Technical Functions: Function Ascriptions vs. Function Assignments Part 2’. Design Issues 24, no. 4: 85–93.
+
+Lang, Peter, and William Menking. 2003. Superstudio: Life Without Objects. Milan: Skira Editore.
+
+Latour, Bruno. 2009. ‘A Cautious Prometheus? A Few Steps towards a Philosophy of Design (with Special Attention to Peter Sloterdijk)’. Edited by J. Glynne, F. Hackney, and V. Minton. Networks of Design: Proceedings of the 2008 Annual Conference of the Design History Society (UK). Online: Universal Publishers, 2–10.
+
+Latour, Bruno. 1993. We Have Never Been Modern. Cambridge, MA: Harvard University Press.
+
+Lees-Maffei, Grace, and Kjetil Fallan. 2014. ‘Introduction: The History of Italian Design’. In Made in Italy: Rethinking a Century of Italian Design, edited by Grace Lees-Maffei and Kjetil Fallan, 22–79. London: Bloomsbury Academic.
+
+Lemoine, Philippe. 1988. ‘The Demise of Classic Rationality’. In Design after Modernism, edited by John Thackara, 187–196. London: Thames and Hudson.
+
+Ligo, Larry L. 1984. The Concept of Function in Twentieth-Century Architectural Criticism. Ann Arbor, MI: UMI Research Press.
+
+Löwgren, Jonas, and Erik Stolterman. 2007. Thoughtful Interaction Design: A Design Perspective on Information Technology. Cambridge, MA: MIT Press.
+
+Maldonado, Tomás. 1972. Design, Nature, and Revolution; Toward a Critical Ecology. New York: Harper & Row.
+
+Malpass, Matt. 2009. ‘Contextualising Critical Design: A Classification of Critical Practice in Design’. Proceedings of Design Connexity Eighth European Academy of Design Conference. Aberdeen: Gray’s School of Art and Design, The Robert Gordon University, 289–293.
+
+Malpass, Matt. 2010. ‘Perspectives on Critical Design: A Conversation with Ralph Ball and Maxine Naylor’. Proceedings of Design and Complexity Design Research Society. Montréal: Ecol de design industrial. Univeritie de Montréal.
+
+Malpass, Matt. 2011. ‘Critical Design and a History of Marginalised Practice’. Design History Society Conference on Design Activism. Barcelona.
+
+Malpass, Matt. 2012. Contextualising Critical Design: Towards a Taxonomy of Critical Practice in Product Design PhD Diss. School of Architecture Design and Built Environment: Nottingham, Trent University.
+
+Malpass, Matt. 2013. ‘Between Wit and Reason: Defining Associative, Speculative and Critical Design in Practice’. Design and Culture 5, no. 4.
+
+Malpass, Matt. 2015. ‘Criticism and Function in Critical Design Practice’. Design Issues 31, no. 4: 59–73.
+
+Mazé, Ramia. 2007. Occupying Time: Design, Technology, and the Form of Interaction. Stockholm: Axl Books.
+
+Mazé, Ramia, and Johan Redström. 2007. ‘Difficult Forms: Critical Practices in Design and Research’. Proceedings of the Conference of the International Association of Societies of Design Research. Hong Kong: IASDR.
+
+Mermoz, Gérard. 2006. ‘The Designer as Author: Reading the City of Signs – Istanbul’. Design Issues 22, no. 2: 77–87.
+
+Michael, M. 2012. ‘What Are We Busy Doing?’: Engaging the Idiot’. Science, Technology, & Human Values 37, no. 5: 528–554.
+
+Miller, Daniel. 2001. ‘Disciplinary Approaches to Consumption’. In Consumption and Critical Concepts in the Social Sciences, edited by Daniel Miller, 1–4. London: Routledge.
+
+Miller, Daniel. 1987. Material Culture and Mass Consumption. New York: Blackwell.
+
+Moline, Katherine. 2006. ‘Authorship, Entrepreneurialism and Experimental Design’. Visual: Design:Scholarship. The Research Journal of the Australian Graphic Design Association 2, no. 2: 57–66.
+
+Moline, Katherine. 2008. ‘Counter-Forces in Experimental Design: H Edge and the Technological Dreams Series #1 (Robots)’. Studies in Material Thinking 1, no. 2: www.materialthinking.org/volume-1-issue2.php
+
+Muller, Michael, Daniel Wildman, and Ellen White. 1993. ‘Taxonomy of PD Practices: A Brief Practitioners Guide’. Communications of the ACM 36, no. 4: 25–28.
+
+Myerson, J., and Y Lee. 2011. ‘Designing for the People, with the People, and by the People’. Design History Society Conference on Design Activism. Barcelona.
+
+Nelson, Harold, and Erik Stolterman. 2012. The Design Way: Intentional Change in an Unpredictable World. Cambridge, MA: MIT Press.
+
+Niedderer, Kristina. 2006. ‘Designing Mindful Interaction: The Category of Performative Object’. Design Issues (The MIT Press) 23, no. 1: 3–17.
+
+Niedderer, Kristina. 2004. Designing the Performative Object: A Study in Designing Mindful Interaction Through Artefacts PhD Diss. Falmouth: Faculty of Culture & Media Falmouth College of Arts.
+
+Nieusma, Dean. 2004. ‘Alternative Design Scholarship: Working toward Appropriate Design’. Design Issues 20, no. 3: 13–24.
+
+Norman, Donald. 1998. The Design of Everyday Things. 3. London: MIT Press.
+
+Palmer, Jerry, and Mo Dodson, 1996. Design and Aesthetics. London: Routledge.
+
+Papanek, Victor. 1984. Design for the Real World. 2. London: Thames and Hudson.
+
+Pierce, J., and E. Paulos. 2014. ‘Counterfunctional Things: Exploring Possibilities in Designing Digital Limitations’. DIS ’14.
+
+Potter, J., and M Wetherall. 1994. ‘Analysing Discourse’. In Analysing Qualitative Data, edited by A. Bryman and R. Burgess, 47–68. London: Routledge.
+
+Potter, Norman. 2002. What Is a Designer: Things, Places and Messages. London: Hyphen Press.
+
+Poynor, R. 2005. Art’s Little Brother Icon 023 (accessed 22 October 2009).
+
+Poynor, Rick. 2008. ‘All That Is Graphic Melts into Air … Design Art and the Art of Design’. Proceedings of the Symposium AC|DC Contemporary Art Contemporary Design, 26–27
+
+October 2007. Geneva: Geneva University of Art and Design, 34–45.
+
+Poynor, Rick. 1999. ‘Made in Britain: The Ambiguous Image’. In Lost & Found: Critical Voices in New British Design, edited by Nick Barley. The British Council.
+
+Prina, Daniela. 2008. ‘Design as Conceptual Research and Political Instrument: Role and Legacy of the Italian Radical Movement’. Networks of Design: Proceedings of the 2008 Annual International Conference of the Design History Society. Falmouth: University College Falmouth, 100–106.
+
+Pullin, Graham. 2010. ‘Curating and Creating Design Collections from Social Mobiles to the Museum of Lost Interactions and Six Speaking Chairs’. Design and Culture 2, no. 3: 309– 328.
+
+Pullin, Graham. 2007. ‘Social Mobiles and Speaking Chairs’. EAD 07 Dancing with Disorder: Design Discourse Disaster, 726–731.
+
+Raby, Fiona. 2008. ‘Critical Design’. In Design Dictionary: Perspective on Design Terminology, edited by Michael Erlhof and Tim Marshall, 94–96. Boston: Birkhauser.
+
+Ramakers. 2002. Less + More: Droog Design in Context. Rotterdam: 010 Publishers.
+
+Ratto, Matt. 2011. ‘Critical Making: Conceptual and Material Studies in Technology and Social Life’. The Information Society 27, no. 4: 252–260.
+
+Ratto, Matt, and Megan Boler, 2014. DIY Citizenship: Critical Making and Social Media. Cambridge, MA: MIT Press.
+
+Redström, Johan. 2008. ‘Aesthetic Concerns in Pervasive Information Systems’. In Pervasive Information Systems: Advances in Management Information Systems, edited by Panos E. Kourouthanassis and George M. Giaglis, 197–209. New York: M.E. Sharpe.
+
+Redström, Johan. 2006. ‘Towards User Design? On the Shift from Object to User as the Subject of Design’. Design Studies 27: 123–39.
+
+REF. 2014. ‘Critical Design at the Royal College of Art and Its Impact on Design and the Public Understanding of Science’. REF 2014 Impact Case Studies. Royal College of Art. 2014. http://impact.ref.ac.uk/CaseStudies/CaseStudy.aspx?Id=44132 (accessed 20 June 2015).
+
+Rendell, Jane, Jonathan Hill, Murray Fraser, and Mark Dorrian, 2007. Critical Architecture. New York: Routledge.
+
+Rittel, H., and M. Webber. 1973. ‘Dilemmas in a General Theory of Planning’. Policy Sciences 4: 155–169.
+
+Robach, Cilla. 2005. ‘Critical Design: Forgotten History or Paradigm Shift’. In Shift: Design as Usual-Or a New Rising?, edited by Lars Dencik, 30–41. Stockholm: Arvinius.
+
+Rossi, Catharine. 2013. ‘Bricolage, Hybridity, Circularity: Crafting Production Strategies in Critical and Conceptual Design’. Design and Culture 5, no. 1: 69–87.
+
+Sanders, E., and P. Stappers. 2008. ‘Co-Creation and the New Landscapes of Design’. CoDesign. Co-Creation and the New Landscapes of Design 4, no. 1: 5–18.
+
+Sanders, Elizabeth. 2006. ‘Design Research Society’. Design Research in 2006. Design Research Quarterly 1, no. 1: 1–8.
+
+Scanlan, Joe. 2001. ‘Please, Eat the Daisies’ Art Issues (January/February 2001): 26.
+
+Schön, Donald. 1983. The Reflective Practitioner: How Professionals Think in Action. New York: Basic Books.
+
+Schiffer, Michael. 1992. The Material Life of Human Beings: Artefacts Behaviour and Communication. London: Routledge.
+
+Schiffer, Michael B. 1992. Technological Perspectives on Behavioural Change. Tuscan, AZ: University of Arizona Press.
+
+Scholz, Gudrun. 1989. ‘Where Is the Designer on Identity and Plurality’. In Die Macht der Gegenstande. Designtheorie 3 Essays. Vol. 89, 1–108, Berlin: Hochschule der Künste Berlin.
+
+Seago, Alex, and Anthony Dunne. 1999. ‘New Methods in Art and Design Research: The Object as Discourse’. Design Issues 15, no. 2: 11–17.
+
+Sengers, Phoebe. 2005. ‘Reflective Design’. CC’05: Proceedings of the 4th Decennial Conference on Critical Computing. New York: ACM Press, 49–58.
+
+Sengers, Phoebe, John McCarthy, and Paul Dourish. 2006. ‘Reflective HCI: Articulating an Agenda for Critical Practice’. The Conference on Human Factors in Computing Systems (CHI). New York: ACM Press, 1683–1686.
+
+Shove, Elizabeth, Matthew Watson, and Jack Ingram. 2007. The Design of Everyday Life: Cultures of Consumption. London: Berg.
+
+Schuler, Douglas, and Aki Namioka. 1993. Participatory Design: Principles and Practices. Hillsdale, NJ: Lawrence Erlbaum.
+
+Simpson, P. 2003. On the Discourse of Satire: Towards a Stylistic Model of Satirical Humor Linguistic Approaches to Literature. London: John Benjamin Publishers Company.
+
+Snodgrass, Adrian, and Richard Coyne. 1997. ‘Is Designing Hermeneutical?’ Architectural Theory Review Journal of the Department of Architecture (The University of Sydney) 1, no. 1: 11–17.
+
+Sparke, Penny. 2014. ‘Ettore Sottsass and Critical Design in Italy, 1965–1985’. In Made in Italy: Rethinking a Century of Italian Design, edited by Grace Lees-Maffei and Kjetil Fallan, 112–135. London: Bloomsbury Academic.
+
+Sterling, Bruce. 2005. Shaping Things. Cambridge: MIT Press Mediawork Pamphlet Series.
+
+Studiolab. 2011. ‘StudioLab – A New European Platform for Creative Interactions between Art and Science’. European Commission CORDIS. http://cordis.europa.eu/search/index.cfm? fuseaction=proj.document&PJ\_LANG=EN&PJ\_RCN=12114084&pid=3 (accessed 9 August 2011).
+
+Sullivan, Louis H. 1896. ‘The Tall Office Building Artistically Considered’. Lippincott’s Monthly Magazine, LVII.
+
+Thackara, John. 1988. Design after Modernism: Beyond the Object. New York: Thames and Hudson.
+
+Thackara, John. 2005. In the Bubble: Designing in a Complex World. Cambridge, MA: MIT Press.
+
+Tharp, Bruce, and Stephanie Tharp. 2008. ‘Discursive Design: Beyond Purely Commercial Notions of Industrial/Product Design’. IDSA National Education Symposium Proceedings. Phoenix Arizona.
+
+Tharp, Bruce, and Stephanie Tharp. 2008. The 4 Fields of Industrial Design: (No, not furniture, trans, consumer electronics, & toys) http://www.core77.com/posts/12232/the-4- fields-of-industrial-design-no-not-furniture-trans-consumer-electronics-toys-by-bruce-mtharp-and-stephanie-m-tharp-12232 (accessed 29 July 2016).
+
+The Interactive Institute. 2004–05. http://www.tii.se/static/index.htm (accessed 20 November 2010).
+
+The Interactive Institute. 2007. Switch. http://www.tii.se/switch (accessed 20 November 2010).
+
+Tonkinwise, Cameron, Terry Irwin, Gideon Kossoff, and Peter Scupelli. 2015. ‘Transition Design 2015: A New Area of Design Research, Practice and Study That Proposes Design-Led Societal Transition toward More Sustainable Futures’. School of Design Carnegie Mellon University. School of Design Carnegie Mellon University. http://design.cmu.edu/sites/default/files/Transition\_Design\_Monograph\_final.pdf (accessed 8 October 2015).
+
+Tufte, Edward. 2001. The Visual Display of Quantitative Information. 2. Cheshire, CT: Graphics Press.
+
+van de Poel, Ibo, and Peter Kroes. 2006. ‘Technology and Normativity’. Techné: Research in Philosophy and Technology 10, no. 1: 1–6.
+
+Von Hipplel, Eric. 2005. Democratizing Innovation. Cambridge: MIT Press.
+
+Walker, Stewart. 2006. Sustainable by Design: Explorations in Theory and Practice. London: Earthscan.
+
+Walker, Stuart. 2010. ‘Wrapped Attention: Designing Products for Evolving Permanence and Enduring Meaning’. Design Issues 26, no. 4: 94–108.
+
+Wang, Alice. 2009. ‘Asimov’s First Law/Alarm Clocks’. Proceedings of the Third International Conference on Tangible and Embedded Interaction (TEI’09), Cambridge, UK. ACM, 31–34.
+
+Ward, Matt, and Alex Wilki. 2009. ‘Made in Critical Land: Designing Matters of Concern’. In Networks of Design: Proceedings of the 2008 Annual Conference of the Design History Society (UK), edited by Jonathan Glynne, Fiona Hackney and Viv Minton, 118–124. Universal Publishers.
+
+Whiteley, Nigel. 1993. Design for Society. London: Reaktion Books.
+
+Wiel, Daniel. 1994. Design Renaissance: Selected Papers from the International Design Congress 1993 Glasgow. Edited by Jeremy Myerson. London: Open Eye Publishing.
+
+Wilkie, A. 2010. User Assemblages in Design: An Ethnographic Study. PhD Diss. London: Goldsmiths University of London.
+
+Wodiczko, Krzysztof. 1999. Critical Vehicles: Writings, Projects, Interviews. Cambridge, MA: MIT Press.
+
+Zimmerman, J., E. Stolterman, and J. Forlizzi. 2010. ‘An Analysis and Critique of Research through Design: Toward a Formalization of a Research Approach’. Proceedings of the 8th ACM Conference on Designing Interactive Systems (DIS’10).

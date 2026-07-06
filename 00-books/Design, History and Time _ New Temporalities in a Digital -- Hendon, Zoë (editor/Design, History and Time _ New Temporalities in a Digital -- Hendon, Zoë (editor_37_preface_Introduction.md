@@ -1,0 +1,10 @@
+# Introduction
+
+> Section: preface | Source: 05-Result-MD\03-Design-History-replenish-1\02-Books\Design, History and Time _ New Temporalities in a Digital -- Hendon, Zoë (editor\Design, History and Time _ New Temporalities in a Digital -- Hendon, Zoë (editor\Design, History and Time _ New Temporalities in a Digital -- Hendon, Zoë (editor\auto\Design, History and Time _ New Temporalities in a Digital -- Hendon, Zoë (editor.md
+
+## Introduction
+
+This chapter considers the neo-futurist visions of two architectural designs from the 1960s, Archigram’s Plug-In City<sup>1</sup> designed by Peter Cook in 1964 and the Fun Palace<sup>2</sup> conceived by Cedric Price in the same year. Each was radical in thinking around architectural modularism and, in the case of the Fun Palace, the embrace of cybernetic thought. Their designs speculated on visions that were temporally adaptive and represented an idealistic belief in a better future, with an aspiration to drive flexibility and versatility from a collection of modular units that could be arranged and re-arranged, time and time again. Reversing the assumed stability of architectural form, the Fun Palace and Plug-In City were conceived as systems where human activity could control and modify the spatial form within which it was framed and so on, ad infinitum. Blending modular architecture, technology and society, these two designs sought to provide liberation from modernism.
+
+Reviewing material made accessible through the Archigram Archival Project hosted by the University of Westminster and the Cedric Price Collection held at the Canadian Centre for Architecture, this chapter examines some of the key expressions of neo-futurism captured by these 1960s, designs. Through this commentary, it sheds light on the ways in which time has been conceived of being designed into the architectural fabric of cities, and how, through the examination of critical debates, we might find relevance for design history today and for the design of contemporary living in the digital age.
+

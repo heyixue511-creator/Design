@@ -1,0 +1,10 @@
+a set of lithographic posters from French painters and commercial artists. The idea for the series may have come from the set of travel posters featuring scenic landscapes that the Egyptian National Railway had created around 1911. The PLM posters were designed and printed in France and then shipped to Lebanon and Syria for distribution.
+
+The poster artist Dabo (Geoffroy d'Aboville) (dates unconfirmed) portrayed a series of landscapes that were intensified by his rich color palette. His depiction of Palmyra, Syria, dramatized the archeological site by setting the Temple of Ba'alsamin against a dramatic orange sky (Plate 66). The PLM also commissioned posters from other French artists including André Frémond (1884-1965), whose poster for the Lebanese archeological site at Baalbek differed from Dabo's in that Dabo presented the Temple of Ba'alsamin itself in a striking setting while Frémond's depiction of Baalbek included small picturesque figures in native dress including a man on a camel, thus adding Orientalist imagery to the scene by identifying the site with a primitive culture. Another PLM artist was Julien Lacaze (1886–1971), a painter who also created numerous posters for the railroad that depicted scenic views of European vacation spots. Though Lacaze did extensive commercial work, he was essentially a landscape artist who could portray a scene in a way that would appeal to tourists.
+
+## The Arabian Peninsula and Yemen
+
+The Arabian Peninsula comprises more than one million square miles of land that is mostly desert. Sparsely populated, at the turn of the century it consisted predominantly of tribal regions. 'The Kingdom of Saudi Arabia brought together a number of separate units when it was established in 1932. Other areas were controlled by powerful families, many of which had treaties with Britain. Yemen had been under Ottoman
+
+![](images/e9b252592cd8c754c8fa69dcf9cb7be634d4e4c0f016d1c11e03fe02a50647e6.jpg)  
+Fig. 32.43: A sanbuq from Yemen, date unconfirmed. Colonial Picture Archive, University Library of Frankfurt/ Main.

@@ -1,0 +1,9 @@
+# The Ambivalence of the Computer
+
+The last ten years has been characterized by the very rapid computerization of society not only in the United States, Europe, and Japan but around the world. With the spread of the technology, discourses and projects originally associated with production reach into every aspect of social life. For example, deskilling and automation can now be extended to such areas as education, medicine, even food service. The computer seems to promise the final triumph of the Heideggerian enframing.
+
+Yet computers can also be employed to develop and apply skills and initiative. Instead of reducing individuals to mere appendages of the machine, computerization can provide a role for communicative skills and collective intelligence. Computer design thus involves a choice between two different conceptions of the relation of rational systems to human action and between two corresponding conceptions of what it is to be human in a technological society.
+
+The first chapter of this part develops this theme in relation to early theoretical debates over automation and artificial intelligence. These debates reflect profoundly different potentials of modernity that contend for the soul of a computerized society. A second chapter then applies the resulting perspective to current debates over online education. Here is an issue that clearly illustrates both the threat and the promise of computerization. On the one hand, the production mentality follows the computer into the ivied halls of academe. On the other hand, online education could contribute to a radical redistribution of cultural and technical competences in a more democratic form of modern society.
+
+This page intentionally left blank

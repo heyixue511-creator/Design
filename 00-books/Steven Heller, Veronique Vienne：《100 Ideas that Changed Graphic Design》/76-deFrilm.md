@@ -1,0 +1,1 @@
+# deFilm 10. Januar bis 30, April 1960 Offen: Montag 14-18, 20-22 Dienstag-Freitag 10-12, 14:18, 20-22 Samstag-Sonntag 10-12, 14-17

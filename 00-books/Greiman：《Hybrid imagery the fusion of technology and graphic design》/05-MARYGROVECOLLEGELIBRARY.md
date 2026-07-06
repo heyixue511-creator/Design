@@ -1,0 +1,26 @@
+MARYGROUE COLLEGE LIBRARY Hybrid imagery : the fusion of t 741.6 G86
+
+![](images/a210c88a14b920d5880fc1b75a0361d873fd3203f782aaaa2d891c20a4a99322.jpg)  
+3 1927 00103870 9
+
+# M ARYGROVE COLLEGE LIBRARY
+
+NEEDTO RENEW? PLEASE CALL!
+
+Circulation Desk 313-927-1355
+
+![](images/9049fd3ecfa8fee2066541d8c1cfe5fb47b62c0da6293950298d5ce7e7bf998d.jpg)
+
+ITEMS ARE DUE BY
+
+OVERDUE FINES
+
+741.6 G86
+
+Greiman, April.
+
+Hybrid imagery
+
+![](images/05c3cbb39ff38f6eadff9fe856dce453421bd6ab905d5e9f00e387f3353edd03.jpg)
+
+![](images/4c784ade5153193a644cdd71549b25f9f86f950cdc8b9153f7188727928a568a.jpg)

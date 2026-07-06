@@ -1,0 +1,19 @@
+constructed after that. Exceptions included two Ottoman military factories in Baghdad, which produced uniform cloth and flour respectively. More widespread were small establishments that relied on human or animal power. Several authors have described the intuitive skills of Iraqi craftsmen whose work ranged from the hulls of steamers for several shipping lines to the production of breech-loading rifles that were based on foreign models.
+
+Boatbuilding was a specialty in Iraq, and workshops were spread out along the rivers. The guffa was a round boat of ancient origin that was made of wicker (Fig. 32.18). In Basra, Lanzoni noted an emphasis on the construction of sailboats for sea and river navigation. Boat makers also designed and built special vessels to navigate the marshes in the area. In Tikrit, they specialized in kalaks, timber rafts that were supported by inflated goatskins. These vessels could transport heavy loads that included men and animals. By the 193os, the kalak industry collapsed, when modern vessels replaced these boats.
+
+Perhaps the principal reason why industry did not develop further in Iraq during the interwar period was the discovery of oil and the beginning of its exploitation. In 1912, a group of parties representing British, Dutch, and German interests formed the Turkish Petroleum Company (TPC), which received government concessions to look for oil around Mosul and Baghdad. Oil was found in 1927 near Kirkuk and from that time it became Iraq's major export, thus mitigating the need to develop a manufacturing economy.
+
+## Transjordan
+
+The territory that became Transjordan was originally part of the British mandate that included Palestine. For political reasons, the British divided the mandate and in 192ı handed over part to Emir Abdullah, whose brother Faisal became king of Iraq the same year. Transjordan began as a quasi-independent state in 1923 with British involvement in financial, military, and diplomatic matters continuing until full independence was achieved in 1946.
+
+The country was essentially agricultural, with scarcely any industry. As in many parts of the region, some agricultural produce was exported, mostly in an unrefined state, and a limited number of manufactured goods were imported from abroad. Primitive equipment such as wooden olive presses continued to dominate the agricultural sector, while weaving occurred in small workshops. Bedouin garments known as abayas were produced along with some rugs and carpets, while Bedouin weavers made iqals or head dresses and plaited belts.
+
+The government sought to stimulate craft production by establishing an Arts and Crafts School in Amman, where courses in theoretical and practical subjects were offered over a period of three to four years. Classes were provided in carpentry, furriery, cane work and upholstery. Graduates either opened their own workshops or found work in existing ones. The major hindrance to developing mechanized factories during this period, however, was the lack of electric power, which was available almost exclusively in Amman.
+
+## Palestine
+
+Palestine was part of the Ottoman Empire until World War I. Though Palestinian deputies sat in the Ottoman parliaments, the Ottoman rulers considered the region marginal and devoted only modest resources to its development. A large commitment, however, was the construction of the Haifa branch line as part of the extensive Hijaz Railway. During the late 19th century, absentee Arab landlords, who lived in Cairo, Damascus, or Beirut, owned a considerable portion of the land. The economy was predominantly agricultural and large numbers of local Arabs leased land from distant owners. Leaders of modern agriculture were the German Templars, who were followed by the Jews.
+
+A first wave of Jewish immigrants from Eastern Europe and Yemen came to Palestine in the 188os. With savings they brought or with support from Jewish

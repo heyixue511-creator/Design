@@ -1,0 +1,588 @@
+ALGUNAS VERDADES SOBRE LA URSS
+
+Tor Viceate Lonbardo Talrdane ENSESANZAS DE LA REVOLUCION Por GatOn Lifarga LA CULTURA SOVIETICA Por Rafael Roroes Prdcaeza LA URSS: GIGANTE GRANTTICO DE PAZ
+
+Pee Ladio M. Redrigvez
+
+MOS LA ATAL DE UN L
+
+EL TRTUNPO DEL SOCIALISMO EN LA UNTON SOVIETICA Por M. Diaa Ramires.
+
+LA MUJIR Y EL NESO EN LA URSS Por Me del RefurioGurcls
+
+MUSÍCA SOVTETICA EN MEXICO Por José Porar UN RASGO DISTINTTVO DE LA REVOLUCION RUSA
+
+NUM. 362
+
+# SUPLEMENTO DE
+
+![](images/7b9aaa6710b0d1377a5304ee5e3048f2146b2f97f00d20dd9e9d8aad69358555.jpg)  
+Organe-Central debPartidoComunista de México Secciesdala latersaciosel Comuzisa
+
+HERNAN LABORDE
+
+México D. F., 7 de Novienbre da 1935
+
+## LOUIS ARAGON POETA REYOLUCIONARIO
+
+La glorans revolucióa rasa de octubre de 1917, zbrió para Ias masse trsbajadorss del munde enzere el camino da la toma del poder. Lous Aragón he escrite erte grandioso porma, pene wado ya en ei Octubre Rojo Mundil, la bora ea qaa, sigukendo el cynplo del proctsnado raso, lor oprumidos de sodo al plomets smplantea loe sovsett. Louia Arsgéa, qoe adn deatro de las filas de la posia bucgusa decadente ocopó siempre un aco poo, eniregs dusdo hace tiempo se formadabie calento a la casse del prolcariado y es sin duds uoo do los msáe grende artptas de le Revohución. Por psibbca erte y otroe poemso faé doramence penegsido en Francu.
+
+La tradocción del feuncés al cipañol, re debé a Rafsel Alberss
+
+Regutrado ocmo Articalo de 2a Claso en la Ofielna Ceairad do Ccrreos con fecha 9 do jalio de 1835.
+
+# A 18 AÑOS DE LA REVOLUCION PROLETARIA
+
+![](images/e40c8218f14d46169c8ae5e28bf95a7905e140e0514e41a36fcf94428fabccba.jpg)  
+Fig. 29.13: El Machete with a masthead by Xavier Guerrero, front page, 1935. CONADICOV archives.
+
+Por LOUIS ARAGON
+
+Proletarios de lodos los peises, unlost
+
+La pelubra, e ropruentante del Partido Comunisie Comsradas. En nombre del Partido Comumistel
+
+Oh, clamor de las nubes!   
+Tummitos de granizos? Laces   
+del diabio que se estiral   
+¿Péparos anmnciosores de la lluvial   
+asid el meusaje de bas llamios   
+Z Sss Rr Ror en ed pasje de les fours del celo Sos Sss Ffbuis   
+En nombre del Partido Comuniste.   
+Qué dijo? Qui dHo?   
+Los cunriios modesfor donde canta la radio   
+se sobresaltan. Las botellas   
+cory de Lor manol que las sostesian   
+Los bulesoren   
+ue peranse alroprilon. ué   
+dío? 134   
+duboi   
+Ea rombre del Portilo Comuniila   
+En todos los mevios del muado,   
+le voz de terre   
+goipea los oficialrs de marine, los pesejeros de primere cae.   
+Un iraje de masclina se denvanece sobre e puente, mientras
+
+en wombre del Partido Comunila.
+
+Uns esteción elécirics en e corezón de las momtaies,. los cbalancs que se cruzan donde se reuuen los arrieros, parados pare beber en la laberus. en el mercado de cabdlos, en ed centro de une lonn
+
+los bombres de cobre y de infierno Los empleados de ferrocarriles pardndose en u campo
+
+todo ticmbla vomo un vaso que cboce on nombre del. Partido Comaunista.
+
+Los fugitivos eu los bosques, es los alredeyores. en los pueblos lejanos, los rerudnos de las Juventudes Patriotes, los éltimos regimtientos fieles ad Becerro de Oro, ios guardias blancos en la noche negre,. los seres anlelinvisnos refugiedos en les eldeas ensengrenladas, los fósiles de las cancstlerias, las fieros de los Bencos se sobresalfen al nombre del Partido Comunista.
+
+¿Qut es éslo? Um temblor de bojas,   
+de alas. ¿Qué es ésto?   
+Un ruido de cadenas que st rompen, un. ruido   
+de iglesias que se derrumban, de prisoues que se abren,   
+um ruido de cdrcrles abolidas, de patibulos   
+que s parten, y es em fin   
+Le benders rojs que mngre sobre los mronumenlos e
+
+en nombre del Partido Comunds!a.
+
+Em mombre del Parlido Comuntsta   
+uo canto de liberiad seDrysnis' por encimna del.Cbnite mente Nesro Los edmiuistradores deybfadugascor coen de los sellos 'de correon Los Soviets en Túnezthbe Soskis es Is Martirical, Los Soviets en todas porttst   
+Aném, Aném, dale la momo s-los obreros rokor, dritot Salta, volcén colonkadà   
+Cruie, imperio francts, rilogala barapo trtoplsetdnene) y d imono caerpo oprido e teaa e un fortnle de rdngos, mono   
+d grtto del Portido Communiptmer
+
+had become the official organ of the Communist Party, and the hammer and sickle were added to the masthead. The paper ceased publication in 1929, the year before the party was banned by President Plutarco Calles.
+
+Another radical artists' group, the Liga de Escritores y Artistas Revolucionarios (League of Revolutionary Artists and Writers) (LEAR), formed in 1933. It drew in some members of SOTPE but included other new members as well, many of whom were also members of the Communist Party of Mexico. LEAR supported the Soviet Union and criticized the Mexican government. Although President Cárdenas instituted broad social reforms, LEAR members opposed him for his first two years in office. Initially LEAR promoted the working class and affirmed its solidarity with the Soviet Union, but by 1936 it had become a broad Popular Front organization that united with other groups to oppose fascism in Mexico and abroad.
+
+Beginning in 1934, LEAR published a magazine, Frente a Frente (Front to Front), which took its title from the idea of class warfare. In the magazine's first three issues, considered as its initial phase, the editors employed woodcuts almost exclusively as illustrations. The cover of the first issue by Leopoldo Méndez (1902- 1969), revived the 19th-century print style known as the calavera, which featured skeletons in the roles of people. Méndez's cover, which depicted a crowd of skeleton-people inaugurating the Palace of Fine Arts in Mexico City, portrayed Diego Rivera and Carlos Riva Palacio, president of the new National Revolutionary Party, as observers yet collaborators in the celebration. LEAR also began to publish a series of large broadsides, which publicized political issues. Directed to the working class, they combined woodcut illustrations with political texts. The woodcuts that Méndez created for these broadsides inaugurated a new type of political print that illustrated dramatic political conflicts in stark and violent terms.
+
+After the first three issues of Frente a Frente, there was a change of editors and a new series with a different format began. Photographs, many from
+
+European sources, were now used almost exclusively to correspond with a shift to more news stories. Covers, which featured photographs and photomontages, more often depicted world events rather than domestic conflicts. The work of John Heartfield and the Russian Constructivists were known in Mexico and one cover of Frente a Frente incorporated work by both. Twelve issues of the journal appeared and its demise coincided loosely with the dissolution of LEAR, sometime in 1937 or 1938.
+
+From the ashes of LEAR, the Taller de Gráfica Popular (Popular Graphics Studio) (TGP) was born. The idea came from Leopoldo Méndez, who joined with Luis Arenal (1908/1909–1985) and Pablo O'Higgins (1904-1983) to set up a workshop where artists could produce their own prints as well as graphics to publicize political events and promote social causes. In their founding statement, the members of the TGP declared their commitment to working collectively in order to serve the Mexican people. Besides individual prints and suites of prints and occasional book illustrations, members produced brochures, leaflets, flyers, posters banners, and backdrops for political demonstrations, labor rallies, and other public events. A favorite medium was the flyer or volante, which could be produced cheaply in different media. Many were illustrated with linoleum cuts, which, along with lithography and handset type, was a favored means of production. Artists active in the early years included Alberto Beltrán (1923–2002), Angel Bracho (1911–2005), Francisco Dosamentes (1911–1986), Francisco Mora (1922-2002), Isidoro Ocampo, José Chavez Morado (1909–2002), and Alfredo Zalce.
+
+Among the initial projects, besides prints, were volantes to promote the TGP and solicit work. An early volante by Xavier Guerrero seeking subscriptions for monthly broadsides includes a linocut logo for the workshop, which he probably designed. Another volante by José Chavez Morado promoted graphic propaganda as a means to unite communities against oppression. The linocut image depicted a man, accompanied by a cowboy with a lasso, giving the boot to an old gunslinger. The TGP continued the strong antifascist commitment of the LEAR, which was reflected in the imagery of many of the early prints. Alfredo Zalce, for example, who had previously published caricatures in Multicolor and other popular magazines, produced a broadside with comic drawings entitled Calaveras Vaciladoras de la Guerra (Vacillating Calaveras Against the War).
+
+## Brazil
+
+After a coup overthrew the Brazilian monarchy in 1889 and the country became a republic, modernization accelerated. At the beginning of the 2oth century, coffee was the country's leading export and the success of the coffee industry contributed to expanded urbanization in Rio de Janeiro, which became the country's capital, and Sao Paulo, both located in coffee-producing states. Emigrants came to Brazil in increasing numbers, largely from Italy, Portugal, Spain, and Germany, and as in Argentina and Uruguay, many established their own enterprises. The printing industry in Rio de Janeiro and Sao Paulo, for example, was largely founded by immigrants, especially Italians.
+
+With urban growth, the division between the living standards of city and country dwellers increased. Modernization continued in the cities, particularly in the arts, business, and the development of progressive social mores and political values. Meanwhile, society in rural areas remained undeveloped. Large numbers of country dwellers worked under difficult conditions for wealthy owners of cattle farms, coffee plantations, and other agricultural enterprises. Despite the predominance of agricultural exports in the Brazilian economy, a growing interest in industry also existed, although there was little incentive to emphasize it until after World War I, when foreign imports dropped off and the need for domestic products became stronger.
+
+Throughout the 192os, various groups including some military officers challenged the prevailing politicians with demands for a stronger central government, agrarian reform, better working conditions, and a greater commitment to industrialization. In 193o, the ruling elite was ousted and Getúlio Vargas, former governor of Brazil's southernmost state, Rio Grande do Sul, became the new president. In 1937, Vargas assumed dictatorial powers and established the Estado Novo (New State), which he ruled until a military coup forced him to resign in 1945. Vargas had a strong commitment to industrialization and he fostered centralized efforts to increase Brazil's industrial independence, particularly in the production of military equipment. During his regime, he fostered a national steel industry, established the Fábrica Nacional de Motores (National Motor Factory), and supported the most advanced aircraft industry in Latin America.
+
+## Decorative arts and furniture
+
+The first Brazilian training school for skilled workers in the decorative arts was the Liceu de Artes e Ofícios de Sao Paulo (Sao Paulo School of Arts and Trades), which began as the Society for the Propagation of Popular Instruction in 1873 and then changed its name in 1882, when the curriculum was reformed. Modeled on the ideals of William Morris and the British Arts and Crafts movement, the school aimed to train artisans and workers for local industries. It introduced a curriculum that included some mechanical design as well as numerous courses in fields such as cabinetmaking, wood and metalworking, and locksmithing. In 1895, the school underwent a broader reform under the direction of an architect-engineer, Francisco de Paula Ramos de Azevedo (1851-1928), who wanted to create a School of Fine Arts. He introduced courses in drawing, clay and plaster modeling, and painting, which he combined with professional training in carpentry, cabinetmaking, metal and woodworking, and the graphic arts among other courses. After 1905, the Liceu began to license and sell the furniture and other products from its workshops just as the Bauhaus would do some years later.
+
+The school had its own building, which Ramos de Azevedo and a collaborator, Domiziano Rossi (1865–192o), designed in an eclectic Italian style. By 1905, students and graduates were involved in the design of decorative elements for numerous public buildings in Sao Paulo. These projects included facade ornaments, ironwork, and furniture, which were also commissioned for various private residences, along with ceramic tiles and vases and cast bronze ornaments. The enormous chandelier and the furniture of the Sao Paulo Municipal Theater were produced at the school as were the decorative friezes of the building that the Banco de Sao Paulo occupied. Art Nouveau influences could be seen in some of the villas that Sao Paulo coffee magnates and other entrepreneurs commissioned around the turn of the century, and the style was found as well in other parts of Brazil.
+
+Similar to architecture, where its influence was modest, Art Nouveau did not have a great impact on the decorative arts. In ceramics, the leading Brazilian figures were Teodoro Braga (1872–1935), his student Manoel Pastana (1888–d.o.d. unconfirmed), and Fernando Correia Dias (1893–1935), all of whom trained as painters. Working in other media as well, they were more interested in the indigenous examples from Brazil's nativist cultures than they were in European models. Braga and Pastana were from Belém in the Amazon region and made strong references to the region's pre-Columbian Marajoara culture in their work. Ceramic vases from the early 192os that are attributed to Braga display raised figures of Amazonian fauna—notably beetles and alligators—although as scholar Paulo Herkenhoff points out, Braga did not develop the symbolic meanings of these figures as was the case in the original Marajoara pottery. In 1927, when he participated in the applied arts section of the National Salon of Fine Arts in Rio de Janeiro, Braga showed a group of vases in wrought metal for which he transformed the symbolic language of Marajoara ornamentation into modern motifs that suggested Art Deco. Braga later taught at the Escola Paulista de Belas Artes (Sao Paulo School of Fine Arts), which had been founded in 1925 and where the modern architect and city planner Lucio Costa (1902–1998) was briefly the director in 1930.
+
+Manoel Pastana, like Braga, produced vases and other objects in metal that had applied animal forms. A number of these objects recreate symbols and legends from Amazonian tribes. Besides his completed work, Pastana made many renderings of objects that were decorated with figures of Amazonian flora and fauna. These ranged from furniture and lamps to coffee and tea sets, trays, and also parasols. Pastana's designs were eccentric. Had they been produced, they would have been regarded as novelties rather than modern decorative objects. His drawing for a coffee and tea set with toucan and palm tree motifs, for example, recalls the Wedgwood teapots whose forms were derived from fruits and vegetables.
+
+The artist Fernando Correia Dias (1893-1935), who emigrated to Rio de Janeiro from Portugal in 1914, was also known for ceramic pots, plates, and urns that were painted with native motifs. Though Portuguese, Correia Dias adapted his designs from the same sources as did Braga and Pastana. Primarily a graphic designer, he also drew numerous vignettes based on Marajoara patterns or Amazonian flora or fauna. Dias characterized his vignettes and ceramic designs as "nationalist," and considered them a contribution to a new Brazilian cultural identity.
+
+By contrast, the furniture industry adopted a wide range of European styles from conventional historic periods to Art Deco and German modernism. One of the large firms that specialized in furniture and interiors in historic styles was Laubisch, Hirth and Company, which employed more than 35o people including cabinetmakers, carpenters, upholsterers, and others who reproduced existing historic models as custom pieces for the firm's clients.
+
+European modern design made its first impact in Brazil through the work of John Graz (1891–1980), a Swiss artist who came to Sao Paulo in 192o. He had studied decorative arts at the École de Beaux Arts in Geneva and was then a student of decorative art, poster design, and advertising at the School of Fine Arts in Munich, where he became familiar with the modern poster work of Ludwig Hohlwein and others.
+
+Subsequently, Graz learned about the Cubists and Fauves in Paris before he began a successful career as a commercial and decorative artist and illustrator in Geneva. After he came to Sao Paulo, he married the Brazilian craftswoman and decorative artist Regina Gomide (1897–1973), whom he had met several years earlier in Europe and with whom he would collaborate on numerous projects for interiors.
+
+Initially Graz showed his paintings and worked as an illustrator, but by the late 192os he began to focus on interior design. He adopted visual motifs from the Cubists and the French Art Deco designers, while also applying geometric forms where appropriate. His clients tended to be wealthy Paulistas for whom he designed homes with everything from metal gates, painted murals, and stained-glass windows to modern furniture, bathroom fixtures, and gardens. Graz is sometimes considered to be Brazil's first comprehensive designer as well as the first in Brazil to use metal in interior design. He incorporated metal tubing into some of his furniture and also adopted copper and steel sheeting for other decorative purposes. Regina Gomide worked in various decorative arts. She made pillows and tapestries that featured modern motifs and also designed rugs with geometric forms.
+
+Along with Graz and Gomide, various other architects, artists, and designers were interested in the modern interior. During the 193os, the painter and sculptor Cássio M'Boi (19o3-d.o.d unconfirmed) created a series of carpets with strong geometric designs, along with occasional furniture pieces. A number of artists and architects designed modern furniture for their own homes and for occasional clients. Among them was the Russian émigré architect Gregori Warchavchik (1896-1972), who introduced modern architecture to Brazil. He came to Sao Paulo in 1923 and by 1928 he had built a house for himself, which was considered to be the first modern residence in the country. Two years later he built a second house, the Casa Modernista, which he opened to the public as an exhibition home. He designed most of the modern furniture that was displayed in its various rooms, thus giving the public a chance to see what a modern interior might look like.
+
+As Maria Cecilia Loschiavo dos Santos has noted, Warchavchik developed a complete range of furniture between 1928 and 1933, with all pieces executed according to modernist principles. He worked in wood, using geometric planes and volumes to create tables, chairs, desks, and shelves. He also designed chairs with curved chrome tubing and upholstered seats. For the reading room of the Paulista Association of Medicine, Warchavchik created a long table and chairs consisting mainly of wooden planes in varied shapes. But the chairs had planar siding that was wider than necessary, giving them a ponderous appearance despite the designer's rationalist intentions.
+
+Another designer of modern furniture was the Lithuanian artist Lasar Segall (1891-1957), who first visited Brazil in 1912 and returned to stay in 1923. Though primarily a painter—Segal was a founder of the Dresden Secession—he was also interested in furniture design, particularly for his own residence, and relied on geometry, although he was not as reductive as Warchavchik. The architect Henrique Mindlin (191- 1971), who taught at the Mackenzie Engineering School, also experimented with modern furniture, producing pieces for several clients whose houses he designed. Similar to other modernist furniture designers, Mindlin featured planar surfaces, but his background in engineering as well as architecture enabled him to consider some subtle structural elements that made his work distinctive. By contrast, the furniture designs of the Brazilian architect Flávio de Carvalho (1899-1973) were more eccentric than those of the other modernists due to his strong interest in individual expression.
+
+The pieces by these architects and artists were important for the future of Brazilian furniture design even though they were not mass-produced. Their effect on the furniture industry was to disencumber other designers of the historicist styles that had dominated furniture design for the homes of middle-class and wealthy patrons. However, the mass furniture market was quite conservative and consequently Brazil lacked furniture companies like Thonet in Europe or Heywood-Wakefield in the United States that were ready to invest in modern design.
+
+Nonetheless, as Maria Cecilia Loschiavo dos Santos has shown, there were various companies that sought to produce furniture that was distinct from the replication of historic styles. In 189o, the Companhia de Móveis Curvados (Curved Furniture Company) found a way to mass-produce curved wooden furniture using Thonet's bending process, only with Brazilian woods. Several decades later another furniture company, Indústria Cama Patente, began to manufacture beds and cribs with bent wood. Based on a design of 1915 by Celso Martinez Carrera (1884-1955), a Spanish immigrant who worked for the company, Indústria Cama Patente was able to replicate the iron beds that had been produced in Britain since the 183os. Following World War I, Cama Patente's wooden bed became a prime example of import substitution, since it had become impossible to import iron. Consequently the bentwood model was available to medical clinics, which had previously purchased iron beds. The wooden bed was also immensely successful throughout the country for domestic use as it was sold at a comparatively low price and was thus widely purchased by working-class and middle-class customers.
+
+## Industrial products
+
+Brazil had participated in major international exhibitions abroad since the 186os, although its pavilions offered little to convincingly document the rise of a modern nation. In 1908, however, when the country mounted its own national exhibition to commemorate the 1ooth anniversary of trade with the Atlantic nations, a large number of domestic industries displayed their wares. At the time, official estimates counted approximately 3,ooo industrial establishments, though most of them were small. Textiles were the most important products and the leading industrial centers were Rio de Janeiro, Sao Paulo, and Rio Grande do Sul. Despite the emergence of industrial enterprises in these centers, the pavilion designs featured pastiches of European historic styles as exemplified by the pavilion for the state of Sao Paulo with its myriad cupolas and heavy Baroque ornamentation.
+
+Industrial production - continued to expand, although without any dramatic leaps or startling innovations until the Estado Novo. Small manufacturers made carts, wagons, and sailboats, drawing on traditional craft skills. The production of refrigerators had begun before World War I and continued thereafter. One of the oldest industries was the fabrication of agricultural equipment, which began in the 19th century. The manufacture of simple tools developed into the design of agricultural machines for coffee and rice production.
+
+This level of manufacturing, which consisted primarily of small craft workshops and machine shops, was typical for other countries besides Brazil that were trying to industrialize during this period. In some instances, the machine shops developed into factories and adopted more advanced methods of production. However, Brazil provided relatively few opportunities for learning technical skills. Industrialists found it cheaper to hire skilled workers and engineers in Europe and the United States and thus made few demands on the government for local training institutions.
+
+It was not until the 1920s and 193os that factories in Brazil began to produce heavy machinery, transportation equipment, and electrical appliances in any significant volume. A number of these factories were subsidiaries of foreign companies whose products were designed abroad and manufactured in Brazil. After World War I, such factories were mainly owned by American companies. Lamps were produced at a factory General Electric ran in Rio de Janeiro, while a subsidiary of International Harvester made agricultural machinery, and office equipment was manufactured at a factory that Addressograph-Multigraph owned. During the 193os, the Dutch electronics conglomerate Philips manufactured radios with streamlined Bakelite housings and sold them widely at a moment when radio broadcasting was just becoming popular.
+
+![](images/2f9bd4027363e61a9e4d657465fd1a7adea51ae23ab55e9613153d42b49f3a90.jpg)  
+Fig. 29.14: Companhia Mogiana de Estradas de Ferro, automotriz, 1937. Arquivo Público do Estado de São Paulo.
+
+Automobiles were assembled in Brazil in factories owned by General Motors, Ford, and Chrysler. A local coachbuilding firm, Companhia Grassi in Sao Paulo, designed and built intercity buses and other vehicles on imported chassis. In 1933, Grassi designed a bus for the General Transport Company, a subsidiary of the Sao Paulo Railway Company. Known as "King Kong" because of its imposing appearance, it was intended to transport passengers between Sao Paulo and Santos. The Grassi designers also introduced streamlined buses, adopting the techniques of American auto styling. Unlike their counterparts designed by rival companies, the Grassi vehicles no longer had the extended engine frames but instead featured frontal sections with slightly rounded forms and stylized grills reminiscent of American luxury cars. Compared to other companies in Brazil that produced buses during this period, Grassi was by far the most sophisticated and perhaps the only one that adopted advanced American styling.
+
+As early as the 192os, the railroad industry had developed sufficiently to produce, albeit on a small scale, locomotives and railroad cars that were designed by engineers or were based on foreign models. One of the first railroad companies in Brazil was the Companhia Mogiana de Estradas de Ferro, which was founded in 1872 to serve the states of Sao Paulo and Minas Gerais. In 1921, the company manufactured a steam locomotive known as the Mikado, which won a grand prize at the 1922 exhibition in Rio that commemorated a century of independence from Portugal, and in 1937 the firm introduced its first automotriz, a railroad car that did not need to be pulled by a locomotive because it had its own motor (Fig. 29.14). The styling was adopted from American streamlined trains of the same period. The major production of ships was in the Brazilian government's naval shipyard in Rio de Janeiro, which had more than soo employees, but there were also government shipyards in other parts of the country. In addition, large vessels were produced in private shipyards such as that of M. Buarque and Company.
+
+## Manufacturing and the Estado Novo
+
+Shortly after Getúlio Vargas assumed dictatorial powers in 1937, the new constitution gave the state the right to intervene in the economy when it saw fit. The government's authoritarian and technocratic role was intended to make Brazil self-sufficient in consumer goods, but it also appealed to the military, which was able to command basic industries to produce its own materiel. The term "nationalization" was adopted, not to mean complete government control of industry but instead to signify the adoption whenever possible of local raw materials and semi-finished components.
+
+The Vargas administration was particularly interested in large enterprises. Among its projects were the nation's first integrated steel mill in Volta Redonda and the National Motor Factory, which was established in 1943. The design demands of the regime were essentially for engineers, who were required for shipbuilding railroad expansion, weapons manufacture, and the new aircraft industry. In 193o, the army had established the Escola Técnica do Exército (Military Technical School), where it trained staff for factories and industrial laboratories. Following the design of Brazil's first aircraft by Antonio Guedez Muniz (1900-1985), the technical school created a program in aeronautical engineering.
+
+Guedez Muniz was the pioneer of the Brazilian aircraft industry. He designed his first airplanes while attending the School of Aeronautics in France. In 1935, back in Brazil, he supervised the production of two prototypes of his first Brazilian plane, the M-7. For the design, he had to coordinate the efforts of several different enterprises, which produced both the technical components and the fabric for the wing skin. Guedez Muniz also advocated the use of Brazilian woods for the frames. In 1936, with the support of Getúlio Vargas, the Companhia Nacional de Navegação Aérea (National Company for Aerial Navigation) (CNNA)
+
+manufactured the first two of Guedez Muniz's M-7 aircraft and later constructed others. The CNNA also produced several of his subsequent designs—the M-9, and then the M-1o and M-1. The latter was a small monoplane similar to the Piper Cub, which was made entirely of Brazilian woods. The Empresa Aeronáutica Ypiranga was a company that initially made two gliders, known as Primary and Secondary, which were both copied from German examples. The firm also produced the prototype of a single-engine biplane but only five were built.
+
+## Exhibitions during the 1930s
+
+When Vargas came to power in 193o, he had no strong interest in national or international exhibitions. Brazil did not participate in either the Century of Progress Exhibition in Chicago (1933-1934) or the Brussels World's Fair in 1935, but in 1936, Vargas supported a proposal for a national event, the Exposição do Estado Novo (Exhibition of the New State). The proposal was approved, planning initiated, and the exhibition opened in December 1938 in Rio de Janeiro. Its purpose was to counter the divided political culture of the previous period and project the image of a unified political state that had eliminated regional differences. The new unity was symbolized by a monumental rectilinear tower that rose above the exhibition entrance, bearing in large relief letters the words "O Novo Brasil 1930-1938" ("The New Brazil 1930–1938”). The various pavilions featured extensive displays of information graphics—graphs, maps, photographs, and models that publicized the achievements of the Vargas regime.
+
+Historian Daryle Williams has noted that the Exposição do Estado Novo was a prelude to the positive national image that the Vargas regime would present at three very different events—the Golden Gate International Exhibition in San Francisco and the New York World's Fair, known as the "World of Tomorrow," both in 1939, and the Exposição do Mundo Português (Exhibition of the Portuguese World) in Lisbon the following year. For the two American fairs, the regime presented the image of a modern Latin American nation that could hold its own with its North American counterpart, while for the Lisbon exhibition, which served its own propaganda purposes for Portugal's dictator António de Oliveira Salazar (see Chapter 27) Brazil had the opportunity to assert its role as a powerful presence in the Portuguese-speaking world.
+
+The New York pavilion was designed by architects Lucio Costa (1902–1998) and Oscar Niemeyer (1907– 2012), both strong disciples of Le Corbusier. Costa had led the team that developed the new Ministry of Education and Health, a Corbusian structure that was among the first modern buildings in Latin America. In order to create a modern pavilion for the New York fair, the government had to overturn a decree that mandated the design of all buildings representing Brazil abroad to be in the Neo-Colonial style. Wishing to draw attention away from the fact that the Vargas regime was a dictatorship, the government adopted modernism as the prevailing trope of it exhibit. This was evident first of all in the building, whose basic modernist rhetoric eschewed any association with Spanish-American, colonial, or nativist styles. The exhibit inside featured a display of Brazilian commodities that included tropical hardwoods, fibers, and mineral ore. At this stage of industrial development, Brazil had little to show in the way of manufactured goods that were worthy of export. Instead, the exhibit featured raw materials and their potential industrial applications. The exhibition strategy was to present these materials in a simple manner and to avoid the cluttered rhetoric of a typical museum display. Central to the exhibit besides raw materials was coffee, still Brazils principal consumer product. The pavilion featured a display that explained the coffee-growing cycle and had a coffee bar that was decorated with tropical motifs.
+
+The image of Latin American modernism that the pavilion projected was influential in developing numerous cultural ties between Brazil and the United States. Of particular significance was the Brazil Builds exhibition that the Museum of Modern Art presented in 1943. It contrasted a broad panorama of new buildings that had been constructed during the Vargas years with the richness of Brazil's architectural past. The exhibit was part of President Franklin Roosevelt's Good Neighbor Policy, which also included a visit by Walt Disney to Latin America to explore possible cooperative projects. One result was Disney's creation of the animated Brazilian parrot Zé Carioca, who was inspired by a drawing sent to him by the Brazilian caricaturist J. Carlos. Zé Carioca first appeared in the Disney cartoon Saludos Amigos in 1942 with singer Carmen Miranda, the "Brazilian Bombshell."
+
+The Brazilian pavilion for Lisbon showed no traces of the modernism that characterized Costa's and Niemeyer's New York building. Its entrance, in fact, signified that Brazil's cultural roots preceded the arrival of the Portuguese by depicting sculptural figures that were drawn from the pre-Columbian Marajoara civilization. These were designed by architect Roberto Lacombe (dates unconfirmed) who was also in charge of creating the interior exhibit, which featured separate displays that were dedicated to health reform, transportation, the press, and related topics. Whereas, the interior design of the New York pavilion played down the dictatorial presence of Vargas, the Lisbon pavilion featured a large photomontage mural that chronicled the achievements of the Vargas regime. The differences in design between the New York and Lisbon pavilions showed how the Vargas regime was navigating between the image of a Latin American nation that could serve as a useful ally to American interests——which it did during World War II—and a country that presented itself to its former colonial occupier as a strong unified nation whose coherence was enforced by the authoritarian power of Getúlio Vargas.
+
+## Graphic design
+
+## The influence of the Semana de Arte Moderna
+
+Modern art was introduced to Brazil through the Semana de Arte Moderna (Modern Art Week), held in Sao Paulo in 1922 in conjunction with the
+
+International Exhibition of the Centennial of Brazilian Independence, which was intended to commemorate Brazil's accomplishments since gaining independence from Portugal. In its own way, the Modern Art Week participated in this declaration of independence. The concern of the organizers was to distinguish modernism in Brazil from its origins in Europe. Most of the artists involved had studied or traveled in Europe and their intent in embracing Brazilian culture was not to create a nostalgic nativist art. Rather, they sought to define modernism with a Brazilian character, not only in painting and sculpture but in architecture, literature, and music as well.
+
+This intent was evident even in the design of the catalog cover by Emiliano Di Cavalcanti (1897-1967), one of the Modern Art Week organizers, which featured a loosely rendered ink drawing of a nude woman on a pedestal surrounded by foliage and decorative forms. By the time of the Modern Art Week, Di Cavalcanti had already established himself as a caricaturist and illustrator as well as a painter. His drawings graced the covers of the leading Sao Paulo publications, while he assumed a more serious style of illustration for books and magazines that was influenced by the stark black and white contrasts of Aubrey Beardsley as well as other European artists. His book covers drew on abstract design elements and lettering associated with avant-garde art.
+
+Leading artists and theorists besides Di Cavalcanti who participated in the Modern Art Week include the poet and polemicist Oswald de Andrade (1890-1954), author of the manifesto Pau-Brasil (Brazil Wood) of 1924 and the “"Manifesto Antropófago" ("Cannibal Manifesto") of 1928; poet, novelist, art historian, and critic Mário de Andrade (1893-1945), who published the seminal novel Macunaíma in 1928; the painters Anita Malfatti (1889-1964), considered to be the first Brazilian artist to introduce modern pictorial ideas from abroad, and Tarsila do Amaral (1886–1973); and the poet and painter Paulo Menotti Del Picchia (1892–1988). All were active in the publishing world either as authors, book designers, or illustrators, and their books were landmarks of modern design in Latin America. In his Pau-Brasil manifesto and the "Manifesto Antropófago", Oswald de Andrade characterized Brazilian modernism by its ability to cannibalize European culture for its own ends. With this argument, he and others associated with the Brazilian modern movement were asserting simultaneously their desire to be modern and their refusal to adopt European precedents.
+
+The art critic P. M. Bardi has noted that the new visual ideas that were introduced in the Modern Art Week exhibition soon began to penetrate the world of book and magazine publishing and consequently had a considerable effect on popular graphic styles. Following the event, some of the organizers including Mário de Andrade launched a cultural review, which they called Klaxon to signal their intent to noisily proclaim the advent of a new culture. The review, which lasted for only nine issues, radically introduced the visual rhetoric of the Soviet avant-garde, particularly the design of the first cover with its large “A" that ran the length of the page and its limit to black, white, and red, both of which seem to be indirect quotations from El Lissitzky's avant-garde books of the same period (Fig. 29.15). Similarly, the way the cover design incorporated a single letter in multiple words recalled Lissitzky's idea of visual economy.
+
+Klaxon published articles and poetry in various languages and brought numerous examples of European avant-garde writing to the attention of its Brazilian readers. However, the editors, among whom Mário de Andrade was a central figure, were adamant in separating themselves from any particular avant-garde movements. "Klaxon,"they declared, "is klaxonist." The review's advertising was also innovative and even included a parody ad for a factory that produced sonnets, madrigals, ballads, and quadrinhas, a poetic form with four stanzas. 'Thus, the Constructivist rhetoric of the cover was mingled with a Dada spirit that was evident as well in the occasional page with an eclectic mix of types.
+
+![](images/4256c4d5a163ec0073c4f036b06ad2b22311f4a0caf9a063a097a0d085c6c0e8.jpg)  
+Fig. 29.15: Klaxon, cover, 1922. Biblioteca Brasiliana Guita e José Mindlin Universidade de São Paulo.
+
+Klaxon and another avant-garde review that followed it in 192s, Terra Roxa e Outras Terras (Purple World and Other Worlds), were the two publications of the 192os that best represented an interest in avantgarde typography. Both were printed by the Typografía Paulista in Sao Paulo, which otherwise specialized in publications dedicated to the Italian community. Other avant-garde publications that Modern Art Week participants produced include Oswald de Andrade's 1925 book of poems, Pau-Brasil, which was illustrated by Tarsila do Amaral who also designed the ironic cover that featured a vertical Brazilian flag with the name "Pau-Brasil" inside the flag's blue globe (Plate
+
+53). In 1928, the first issue of the Revista de Antropofagia (Cannibalism Review) appeared, featuring de Andrade's "Manifesto Antropófago". In its first phase the review lasted for ten issues, after which it became a tabloid and was circulated for a brief period on a weekly basis by the Diário de Sao Paulo. In this form, the editors also experimented with the typography, featuring isolated quotes in large bold type as well as a mix of typefaces within the orderly two-column layout. With the coming to power of Getúlio Vargas in 193o, the climate for intellectual cosmopolitanism and political irreverence changed and the avant-garde impulse to create a modern expression of “Brasilidade” or Brazilianness subsided.
+
+## Printers and typographers
+
+Both Rio de Janeiro and Sao Paulo were centers of publishing in the 19th and early 2oth centuries and each had its share of printing establishments. Most of these, particularly in Sao Paulo, were founded by immigrants who also published books, magazines, and ephemeral materials including posters in their own languages as well as in Portuguese. Among the oldest of them was a print shop that was founded by Henrique Gröbel in 1887. It printed one of the most interesting illustrated magazines of the 192os, A Garoa (The Girl). The Typografia Paulista, founded by an Italian, José Napoli, in 1904, published periodicals for the Italian community but as already mentioned also printed two of the leading avant-garde reviews, Klaxon and Terra Roxa Outras Terras. Weiszflog and Company, established around 19o8, published a monthly magazine called O Imigrante (The Immigrant) in multiple languages and was associated with the designer Mauricio Bünhaeds (dates unconfirmed) in the design and printing of commercial packaging. Other firms included Duprat and Company, Typografia Moderna, and Typografia Ideal. The latter specialized in printing playing cards In the 192os, the print shop founded by Elvino Pocai dedicated itself to high-quality limited edition books.
+
+One of the large printing establishments was run as part of the earlier mentioned Liceu de Artes e Ofícios de Sao Paulo (Sao Paulo School of Arts and Trades). It had a well-equipped graphic studio and print shop, where students and their teachers produced work of the highest quality. Despite the plethora of printing enterprises in Brazil, however, there was an absence of type foundries. Type was imported from abroad, mainly from France but also from Germany. Even experimental publications like Klaxon had to depend on whichever imported fonts were available in a particular print shop.
+
+## Book publishing and design
+
+At the end of World War I, the book trade in Brazil was still not well developed. In fact, some books by Brazilian authors were published in Europe and then distributed at home. There were few bookshops or other outlets for selling books and this made distribution difficult. Art Nouveau and occasionally the Arts and Crafts aesthetic of William Morris were strong influences on the design of book covers and some layouts. This was evident in the cover and layout that Fernando Correia Dias created for Nos (Us), a book of poems by Guilherme d’Almeida, in 1917. The cover, which recalls the work of the American Arts and Crafts designer Will Bradley as well as the drawing style of Aubrey Beardsley, featured the title in red decorative letters, a stark black and white drawing of a woman in a tragic posture, and the author's name in stylized medieval letters. The text layout had wide spacing between the lines of type, considerable white space, and decorative initials such as might be found in the Kelmscott Press books of William Morris. Correia Dias's cover and illustrations for this book were among the many he did for books and magazines in the ensuing years. His versatility was typical of numerous Brazilian artists and illustrators who moved easily back and forth between fine art, book publishing, and the world of magazine design. The Beardsley influence was more directly evident in Emiliano de Cavalcanti's early work, particularly his title page for Oscar Wilde's Ballad of Reading Gaol of 1919 and his illustrations for the same author's partially completed play, A Florentine Tragedy, of 1924.
+
+The man who is often credited with launching modern Brazilian publishing is José Bento Monteiro Lobato (1882–1948), an author and journalist who was also a staunch nationalist. In 1918, Monteiro Lobato published a highly successful collection of stories, Urupês (White Fungus), about life in the Brazilian interior. The book served as a rallying cry for the emerging nationalist movement. It had a cover, which depicted typical Brazilian vegetation, and illustrations by the painter José Wasth Rodrigues (1891–1957). At the time Urupês was published, Monteiro Lobato bought the journal Revista do Brasil for which he established a new layout, cover design, and the use of vignettes as decorative elements. His design sense was significantly different from the modernists, however, and in 1917 he achieved great notoriety by writing a harsh review of the artist Anita Malfatti's first exhibition after her return from abroad, claiming that her visual distortions were the result of mental disturbances.
+
+Monteiro Lobato began to develop a publishing enterprise, which he revolutionized in a number of ways. One was to focus more attention on his books' cover designs, which at the time were mainly reproductions of their title pages on gray or yellow paper. Monteiro Lobato also modernized the layouts of his books along with the Revista do Brasil, changing from crowded page designs to cleanly designed typographic spreads. He employed Juvenal Prado (1895-198o) to transform the mundane lettering on the cover of Revista do Brasil to a more ornate and decorative design. Prado also created a number of decorative tailpieces for the magazine. Though he specialized in lettering and ornamental design, he produced narrative covers and illustrations as well.
+
+Monteiro Lobato commissioned leading artists, caricaturists, and illustrators to design his book covers. Most were best known at the time as contributors to Brazil's popular magazines. They included Antônio Paim Viera (1895–1988), Mick Carnicelli (1893–1967), and Benedito Carneiro Bastos Barreto (1896-1947), known as Belmonte. Within several years, Monteiro
+
+Lobato had made extensive investments in printing equipment and around 1926 joined with a partner to form the Companhia Editora Nacional, which published a broad selection of books in many fields. As his list expanded, so did Monteiro broaden the range of artists whom he commissioned to design book covers. To the list of those to whom he had already given commissions, he added the decorative artist and interior designer John Graz, along with Juvenal Prado and Fernando Correia Dias.
+
+Around 193o, the design and printing of Brazilian books had reached a low ebb with the exception of Monteiro Lobato's Companhia Editora Nacional, which he had founded after the failure of his first publishing enterprise, Companhia Editora Monteiro Lobato. Among the few other publishers who appreciated Monteiro Lobato's commitment to design was José Olympio, whose Livraria José Olympio Editora published a wide range of political and literary works in the 193os and 1940s. The reputation of Olympio's press for handsome books was due to Tomás Santa Rosa (1909–1956). An aspiring artist, Santa Rosa had moved to Rio de Janeiro from the north-east of Brazil and began designing books to earn a living. His first books were for Ariel Editora, which also published a literary review. Two of the books were novels by Jorge Amado, who was also from the north-east. For Amado's novel Cacáu (Cocoa), Santa Rosa created a cover that integrated the bold expressive lettering of the title with a lively illustration and the author's name underneath (Plate 54). He also designed the layout, which revealed his attention to the total integration of typography, margins, line spacing, and the placement of illustrations. While Monteiro Lobato had a sense of the relation between a publication's cover and its interior, Santa Rosa brought a more modern and coherent sensibility to book design. He developed distinctive visual identities for the various Olympio series, which then contributed to the publisher's overall identity. José Olympio published a number of authors who were part of the socially oriented regionalist movement such as
+
+Jorge Amado, José Lins do Rego, Rachel de Queiroz, and Graciliano Ramos, all of whom wrote about the Brazilian north-east. For the cover of Ramos's seminal novel, Vidas Secas (Barren Lives), which chronicled the poverty of north-eastern Brazil, Santa Rosa featured a black and white illustration of a peasant sitting against a stark backdrop with a bare tree and a mountain range. The illustration was placed on a reddish brown surface, perhaps to represent the parched earth. Beneath it was the title in large italic letters. The format was part of a series whose covers featured comparable illustrations with text underneath. Santa Rosa remained with José Olympio until 1954, during which time he produced many memorable book designs both for covers and typographic layouts.
+
+A number of notable book designs, particularly covers, were also created for writers associated with the Brazilian modernist movement, particularly Oswald and Mario de Andrade, the poet Raul Bopp, the critic and essayist Guilherme de Almeida, and Antônio de Alcântara Machado. While visually dramatic, for the most part they lacked the coherence between image layout, and type that characterized the designs of Santa Rosa. One of the most intriguing of these more experimental books, however, was the cover and layout design that Antônio Paim Viera (dates unconfirmed) did for Antônio de Alcântara Machado's novel Pathé-Baby in 1926, perhaps the most original layout done during the 192os, The title was taken from the name of a small home projector that Pathé Frères first marketed in 1922. It influenced the structure of the book, which was designed to recall the atmosphere of a movie theater. Paim Viera created a fold-out cinematic sequence of drawings that humoristically depicted a musical quartet who disappeared progressively as they accompanied a silent film.
+
+Besides the few publishers in Rio de Janeiro and Sao Paulo who understood the value of well-designed books and covers, there were several in other parts of Brazil who also believed in the value of design. Prominent among them was Livraria do Globo in
+
+Porto Alegre, a city located in the southern province of Rio Grande do Sul, where many Germans immigrants settled. Though founded in 1883, Livraria do Globo only began an active book-publishing program in the late 192os. In 1929, the firm also started to publish a journal, Revista do Globo, which featured high-quality graphic design. A number of the covers were done in a variety of styles from Art Deco to realism by Sotero Cosme (1905-1978), a talented artist, printmaker, and cartoonist.
+
+Whereas Monteiro Lobato and José Olympio emphasized Brazilian authors, Livraria do Globo was better known for its translations, particularly of English and American writers but also of German, French, and Russian authors as wel. One of their featured Brazilian authors was the novelist Érico Veríssimo, who was also in charge of Livraria do Globo's translations from English to Portuguese. The publisher developed a special relationship with Getúlio Vargas, who was also from Rio Grande do Sul, and published didactic materials for the government's education program.
+
+Livraria do Globo's major designer was Ernst Zeuner (1895-1967), a German who emigrated to Brazil in 1922. As a student in Germany, Zeuner attended the Leipzig Hochschule für Graphische Kunst und Buchgewerbe (Leipzig Academy of Graphic Arts and Book Design), where he preceded the young Jan Tschichold by several years. Both men were strongly influenced by Walter Tiemann, who taught lettering and type design at the Leipzig Academy. Besides studying in Leipzig, Zeuner worked there as a calligrapher and illustrator and was exposed to the latest developments in printing technology.
+
+When he arrived at Livraria do Globo, Zeuner found a traditional approach to book design that he was able to modernize. With his multiple talents in illustration, layout, and typography, he created book covers and illustrations for novels as well as vignettes and other graphic elements as exemplified by his cover for Érico Veríssimo's Fantoches. To handle the broad range of graphic design projects that Livraria do Globo was becoming engaged with, management created a Design Department and put Zeuner in charge. Few Brazilian artists were trained in the range of activities that the department undertook, and Zeuner served as a mentor to numerous young artists, many from Porto Alegre, who came to work for the company. By the end of the 193os, the quality of work that the Design Department produced was of a high level. Under Zeuner's guidance, which derived from his experience in Leipzig, the book covers of Livraria do Globo always displayed an appropriate balance of expressive lettering and striking illustrations.
+
+Among the designers who joined the Design Department were João Fahrion (1898–1970), who had studied painting in Europe and who did covers and illustrations for children's books; Edgar Koetz (1913- 1969), who created book covers and illustrations; and Nelson Boeira Faedrich (1912-1994), who illustrated more than 1oo books for Livraria do Globo and did numerous covers as well. Besides designing books, the Design Department produced the monthly Revista do Globo, whose covers often adopted an Art Deco style similar to other Brazilian magazines of the period
+
+## Magazines
+
+Illustrated magazines have a long history in Brazil and are connected as elsewhere in Latin America with the rise of urbane metropolitan populations. The major illustrated magazines in the late 19th century were the Revista Illustrada (Illustrated Review), which the Italian cartoonist Ângelo Agostini launched in Rio 1876, and the Semana Illustrada, published in Sao Paulo by Henrique Fleuiss (see Chapter 15). These magazines were strongly influenced by the layouts and caricature styles of French publications of the period.
+
+The relation to French graphic styles continued in a different form after the turn of the century when Art Nouveau decoration, particularly in lettering design, made a strong impact on new cultural magazines like Kosmos, which was founded in 1904 and continued until 1909. Although Art Nouveau had waned in
+
+Europe by about 19o5, it continued to influence the look of some Brazilian publications, particularly book covers and layouts, as already mentioned, rather than magazines, for years to come.
+
+Among the first illustrated magazines of the new century were O Malho (The Mallet), founded in 1902, and the children's magazine O Tico-Tico, which appeared three years later, as well as Fon-Fon!, and A Careta (The Grimace), both of which were first published in 1908. Rather than relying on fine artists, these magazines, which strove to depict modern urban life, counted heavily on a new generation of caricaturists who drew covers, illustrations, and cartoons. Prominent among them was J. Carlos (1884–195o), whose full name was
+
+![](images/ef64dae04e4171898ac93e99aa614ccc4d68a4169a141c0a65b157cfa80a8f42.jpg)  
+Fig. 29.16: J. Carlos, Para Todos, cover, 1929. Biblioteca Brasiliana Guita e José Mindlin Universidade de São Paulo.
+
+José Carlos de Brito e Cunha. His style eschewed the complicated textures of the 19th-century French caricaturists, who worked primarily in black and white and achieved their effects through intricate linear patterns. J. Carlos had an eye for exaggerating the features of a subject and did so with a comic touch. His line was fluid and instead of textural shading, he relied on flat areas of color. Not all his drawings were cartoon-like, however. He could also draw in a French Deco style.
+
+J. Carlos was a regular contributor to O Malho, Fon-Fon!, and A Careta, serving as the principal illustrator for A Careta from 1908 to 1921, when he left to become the art director as well as an illustrator for O Malho. S.A., a company in Rio de Janeiro that published some of the major illustrated magazines——Para Todos (For All), Ilustração Brasileira (Brazilian Illustration), and O Tico-Tico (Fig. 29.16). For O Tico-Tico, Carlos created not only covers but also vignettes for story titles and several comic strips. He was one of a group of cartoonists who began to publish in the illustrated magazines in Rio early in the century. The other major figures were Calixto Cordeiro (1877-1957), who signed his work K.lixto and was art director of O Malho and Fon-Fon! for a period, and Raul Paranhos Pederneiras (1874–1953), known simply as Raul. According to art historian Rafael Denis, these two and J. Carlos formed the "golden trio" of Brazilian caricature.
+
+A new generation of magazines was published in the 192os. Some continued the style of the preceding period, while others adopted aspects of the Art Deco style, then popular in Paris and New York. Antonio Paim Viera, designer of the aforementioned book Pathé-Baby, founded A Garoa (The Drizzle) in 1921. At the time, Paim, as he was known, was already contributing to various magazines and was designing book covers and illustrating books. The art editor was Juvenal Prado, who, like Paim, was also active as a book illustrator and decorator as well as a designer of book covers.
+
+A Maçã (The Apple), which first appeared in 1922, rapidly became Rio's most popular weekly, although
+
+![](images/5e0cade44d9d4273235e356abe14a86bee9eff721c648f9a9bd2d6faf8ae8a7b.jpg)  
+COMBINANDO....
+
+![](images/f1b4efbed5de13132d4b602ee501c9fe6bde0ea09d38e61345c8bb68ec0488cb.jpg)  
+- Quer ontrar na minha -combinação,? - Nāo, senhora. Prelorie que a senhora sahisse d'elia..
+
+Fig. 29.17: A Maçã, cover, 1922. Biblioteca Brasiliana Guita e José Mindlin Universidade de São Paulo.
+
+it lasted only seven years. It was a satirical magazine, which was published by the well-known author of critical essays and satirical tales, Humberto de Campos (1886–1934). Its popularity was due at least in part to its lively design, which adopted elements from the French fashion publications but included original elements as well. The initial art director was Manlius Mello (dates unconfirmed), who worked under the pseudonym Ivan.
+
+More than most other magazines, the covers of A Maçá usually featured a risqué scene or at least an attractive young modern woman with bobbed hair, sometimes in undergarments or even nude (Fig. 29.17).
+
+The drawing styles of the covers were extremely diverse and the masthead changed several times, beginning with a serpent entwined with the letters of the title for which were later substituted various forms of lettering. None of these were particularly satisfying. Among the artists associated with A Maçá were the caricaturists K.lixto along with the Uruguayan Andrés Guevara (1904–1963), whose harsh graphic style became a stronger influence on younger cartoonists than the more gentle humorous approach of J. Carlos. Guevara's mordant political caricatures and anti-Nazi cartoons later appeared in such publications as Crítica and Fôlha Carioca (Rio Sheet). The most impressive graphic quality of the magazine, however, was the lively page layouts, which ranged from line drawings that framed the columns of type to title pages that integrated the printed copy into symmetrical ornamental designs.
+
+By the late 192os, some of the popular magazines used photography extensively. Notable among them were Para Todos and O Cruzeiro (The Cross). Inaugurated in 1928, O Cruzeiro featured a mixture of articles that covered many aspects of modern living from contemporary interior design to ceramics and art. Layouts for the photographic articles included titles with diverse lettering styles. In an article on indigenous culture that highlighted several drawings of Brazilian Indians by Henrique Cavalleiro (1892–1975), the artist included a script based on Indian ornaments that was specially designed for the magazine. O Cruzeiro also published stories that were illustrated by prominent artists including Osvaldo Teixeira (1905–1974), the Surrealist Ismael Neri (1900 1934), Orózio Belém (1903–1985), and the modernist Gilberto Gaetano Fabregat (dates unconfirmed). The eclectic covers ranged from portraits of modern women inspired by Art Deco to more humorous illustrations by J. Carlos. Numerous artists also drew covers for another popular magazine, A Cigarra (The Cicada). They included two women, Noemia Mourão Moacyr (1912–1992) and Hilde Weber (1913–1994), a German émigré, along with the painter and designer Diógenes de Campos Ayres, known as Diógenes (1881–1944).
+
+Many of the illustrated magazines such as O Malho and A Careta that appeared before or after World War I continued publication during the 193os despite the heavy censorship of the Vargas administration. Some cartoonists like J. Carlos even published caricatures of Vargas himself. The regime had its own propaganda magazines, however, and as in architecture, supported the most advanced modernist aesthetics. In the case of the monthly large-format propaganda publication S. Paulo, this meant photo essays and photomontage. S. Paulo presented the city as a dynamic modern metropolis that was undergoing rapid modernization and was ripe for foreign investment. In a spread that presented a montage of tall buildings to convey a sense of intense construction, the editors melded the images together behind a photograph of a newsboy hawking papers. The boastful rhetoric as well as the actual montage techniques and visually rich rotogravure printing strongly recalled a comparable publication, USSR in Construction, published in the Soviet Union during the same period.
+
+## Advertising, packaging, and propaganda
+
+Both French and American advertising were initial influences on advertising in Brazil—French for the Art Nouveau style of expressive lines and dreamy women, and American for the practical depictions of products. Principal venues for advertising were the pages of the many illustrated magazines, which published black and white ads with illustrations and occasional lettering drawn by artists whom the companies hired for specific jobs. Typical of these artists was the Italian Umberto della Latta (1883-1961), whose drawing skills were applied to advertisements as well as to numerous magazine covers. He did a series of ads for Falchi Chocolates that employed exotic settings. One depicted an Oriental princess in historic garb holding a saber in one hand and a tray with the chocolate in the other, while another portrayed a colonial setting with a bewigged servant bringing chocolates on a tray to an aristocratic patron. By the 192os, however, publicity agencies had begun to take over more product advertising and the idiosyncratic and decorative imagery of the prior years declined.
+
+![](images/62fc7c189b9c44d10629a43ebc09aa2c44a3990e662e452b72f3a5b6b253c13c.jpg)  
+Fig. 29.18: Tatuzinho cachaça label. Photo: Edson Rontani Jr.
+
+Complementing the early newspaper advertisements were various types of lithographed materials in color, ranging from posters to ornate labels for beer, cigarettes, and the typical Brazilian drink, cachaça, made from fermented sugar cane juice and sugar. The designs of cachaça labels numbered in the hundreds. Among the best known was the armadillo icon for the Tatuzinho distillery, which was founded in 1909 (Fig. 29.18). Other cachaça icons range from pinups and Indians to native birds and gauchos, each expressing some aspect of a regional identity.
+
+One of the early packaging designers was Maurício Bünhaeds, who arrived in Brazil from Vienna in 1889 and worked in Sao Paulo, where he was associated with the previously mentioned Weiszflog printing establishment. In Rio de Janeiro, the Estamparía Colombo, founded by the entrepreneur Raymundo Ottoni de Castro Maya, created lithographed labels and packaging for a large number of enterprises including the iconic can for Castro Maya's own Carioca coconut fat. Among the distinctive packages of this period were those for the different brands of cigarettes produced by the Souza Cruz Cigarette Company. The company not only considered the packaging but also the brand name and may have been the first to name a cigarette brand after a woman. The lithographed package for Dalila cigarettes featured a supine woman in a diaphanous garment lounging languorously on a chair with a cigarette in one hand. Following the success of the Dalila brand, the company launched others with women's names—Salomé, Marly, Odette, Selma, Diana, and Yolanda, which was probably the most successful of these. Other well-known packages, some with characteristic trademark figures, were designed for Fiat Lux matches, Duchen biscuits, Minancora ointment, and Leite Moça condensed milk.
+
+The first Brazilian advertising agencies included Eclética and Moderna, founded in 1919, and the Agência de Publicidade Pettinatti, established in 192o. In 1929, Armando D'Almeida, an experienced advertising executive who had worked in General Electric's advertising department, decided to establish his own agency. That same year, J. Walter Thompson opened an office in Brazil and introduced high-powered American methods to Brazilian advertising. An early client of theirs was General Motors for whom the agency undertook a national advertising campaign to promote GM's Chevrolet, the first such campaign in Brazil. In 1931, N. W. Ayer from Philadelphia established a Brazilian office, and McCann-Erikson, which had offices elsewhere in Latin America, came to Brazil in 1935. Competitors included Standard Propaganda, founded in 1933, and the Empresa de Propaganda Época, founded by the German poster and book cover designer Baron Geza von Puttkammer (dates unconfirmed) in 1933.
+
+A specialized.agency was the Companhia dos Annuncios em Bondes (Tramway Advertising Company), established in Rio in 1917, which produced advertising posters for streetcars. In 1927 the company hired as its art director Henrique Mirgalowsky (dates unconfirmed). He supervised a talented group of artists whom the company had brought together. Mirgalowsky, a Polish artist who had emigrated to Brazil, was important for the creation of a modern Brazilian poster style. Others who contributed to this style in the 192os and 193os included the Brazilian Ary Fagundes (19o3-d.o.d unconfirmed) and a number of immigrant designers—Geraldo Orthof (1903- d.o.d unconfirmed), Theo Gygas (dates unconfirmed), and Fulvio Pennacchi (1905-1992), who was primarily a painter but like Orthof became a pioneer in the development of outdoor advertising in Brazil.
+
+Posters also played a more political role after Vargas came to power in 193o. In 1932, the writer Plínio Salgado founded a nationalist political movement known as Integralismo, which was modeled to some degree on the Fascist Party in Italy. Instead of black shirts and hats, however, the Integralists wore green shirts and peaked caps. Similar to the Nazis, they attacked Marxism and liberalism and some in the movement were also anti-Semitic. In 1938, the year after Vargas attained absolute government power after a coup, he cracked down on the Integralists and the movement disintegrated. While in its active recruiting phase, however, the Integralists distributed posters, some modeled on the famous World War I recruiting posters that foregrounded Lord Kitchener and Uncle Sam. One featured a uniformed Integralist with the movement's flag, most likely modeled on the Nazi flag except that it had the movement's symbol——a sigma instead of a swastika—pointing his finger at the viewer. The slogan at the top read, "Brazil needs you, a paraphrase of "Uncle Sam Wants You," on James Montgomery Flagg's World War I poster.
+
+In 1939 the Vargas regime created its own propaganda agency, the first in Latin America: the Departamento de Imprensa e Propaganda (Department of Press and Propaganda) or DIP, which had been preceded by several other organizations. Headed by Lourival Fontes (1899–1967), the DIP had broad powers of censorship and media control, which it used to promote the vision of a strong cohesive nation under the leadership of Vargas. The regime used various graphic means to this end including posters by Ary Fagundes and other artists. Fagundes, whose work might be considered in relation to modern European and American poster designers like A. M. Cassandre, Joseph Binder, and E. McKnight Kauffer, designed a number of posters for events such as the Brazilian Congress of Urbanism, actions to support Brazil's involvement in World War II, and a call to laborers to participate in the nation's industrialization. Posters were also commissioned by private organizations such as the Centro Carioca, which sponsored an annual Congresso de Brasilidade (Congress of Brazilianness), announcing the event with patriotic propaganda imagery. Propaganda that promoted the regime would prevail until Vargas was overthrown by a military coup in 1945.
+
+## Bibliography
+
+## Bibliographic essay
+
+With few exceptions, the literature on product design and graphic design in Latin America is in Spanish or Portuguese. Various volumes of The Cambridge History of Latin America, among other books, provide social, economic, and political background. A few books on industrial development such as Lloyd Hughlett, Industrialization of Latin America; Warren Dean, The Industrialization of São Paulo, 1880-1945; Wilson Suzigan, Indústria Brasileira: Origem e Desenvolvimento; and Sanford Mosk, Industrial Revolution in Mexico also contain some material on the development of products. Maria Cecilia Loschavio dos Santos, Móvel Moderno no Brasil is the rare volume that focuses exclusively on an aspect of Latin American product or furniture design.
+
+There has been extensive writing on aspects of graphic design in Latin America—posters, magazines and book design, and advertising. Helpful books on graphic design include two by Rafael Cardoso Denis on Brazilian design—his edited volume O Design Brasileiro antes do Design. Aspectos da História Gráfica, 1870-1960 and his introductory design history text, Uma Introdução à História do Design. Chico Homem de Melo, Linha do Tempo do Design Gráfico no Brasil is a broad and detailed survey of Brazilian design history. On Cuba, Vicki Gold Levi and Steven Heller, Cuba Style: Graphics from the Golden Age of Design has a lot of useful images with brief introductory texts. There is extensive documentation on graphic design in Mexico during this period. Julieta Ortiz Gaitán, Imágenes del Deseo: Arte y Publicidad en la Prensa Ilustrada Mexicana (1894-1939) is an authoritative account of Mexican advertising, magazine publishing, and illustration from the 189os to World War II and I have relied heavily on it. Cuauhtémoc Medina Diseño antes del Diseño: Diseño Gráfico en México, 1920-196o is the catalog of an exhibition that has an excellent introductory text and many illustrations. I have also profited from two voluminous histories of Mexican graphic design:
+
+Luz del Carmen Vilchis Esquivel, Historia del Diseño Gráfico en México, 1910-2010 and Giovanni Troconi, Diseño Gráfico en México; 100 Años, 1900-200o. The Taller de Gráfica Popular has been covered in numerous volumes. Besides these and other books, I have also found invaluable information on many websites in Spanish, Portuguese, and English.
+
+## Books
+
+## General: Arts
+
+Ades, Dawn. Art in Latin America: The Modern Era, 1820-1980. Contributions by Guy Brett, Stanton Loomis Catlin, and Rosemary O'Neill. New Haven and London: Yale University Press, 1989.
+
+Art Déco na América Latina. 1º Seminário Internacional Centro de Arquitetura e Urbanismo do Rio de Janeiro. Rio de Janeiro, Prefeitura da Cidade do Rio de Janeiro/SMU, Solar Grandjean de Montigny — PUR/RJ, 1997.
+
+Castedo, Leopoldo. A History of Latin American Art and Architecture from Pre-Columbian Times to the Present. Translated and edited by Phyllis Freeman. New York and Washington: Frederick A. Praeger, 1969.
+
+Catlin, Stanton Loomis and Terence Grieder. Art of Latin America since Independence. New York: October House, 1966.
+
+Collazos, Óscar, Los Vanguardismos en la América Latina. Barcelona: Ediciones Península, 1977.
+
+Craven, David. Art and Revolution in Latin America 1910-1990. New Haven and London: Yale University Press, 2002.
+
+de Moraes Belluzzo, Ana Maria, ed. Modernidade: Vanguardas Artísticas na América Latina. São Paulo: Fundação Memorial da América Latina, 1990.
+
+de Usabel, Gaizka S. The High Noon of American Films in Latin America. Ann Arbor: UMI Research Press, 1982.
+
+Franco, Jean. An Introduction to Spanish-American Literature. London and New York: Cambridge University Press, 1969.
+
+Gabara, Esther. Errant Modernism: The Ethos of Photography in Mexico and Brazil. Durham and London: Duke University Press, 2008.
+
+Henríquez Ureña, Max. Breve Historia del Modernismo. México and Buenos Aires: Fondo de Cultura Económica, 1954.
+
+Henríquez-Ureña, Pedro. Literary Currents in Hispanic America. Cambridge, MA: Harvard University Press, 1945.
+
+Lejeune, Jean-François, ed. Cruelty & Utopia: Cities and Landscapes of Latin America. New York: Princeton Architectural Press, 2003.
+
+Lynes, Russell. Good Old Modern: An Intimate Portrait of the Museum of Modern Art. New York: Atheneum, 1973.
+
+Noyes, Eliot F. Organic Design in Home Furnishings. New York: The Museum of Modern Art, 1969 (c. 194I).
+
+Segre, Roberto, ed. Latin America in its Architecture. Fernando Kusnetzoff, editor of the English edition. Translated from the Spanish by Edith Grossman. New York and London: Holmes & Meier, 1981.
+
+Sosnoski, Saul, ed. La Cultura de un Siglo. América Latina en sus Revistas. Madrid and Buenos Aires: Alianza Editorial, 1999.
+
+Sullivan, Edward J., ed. Latin American Art in the Twentieth Century. London: Phaidon, 1996.
+
+Traba, Marta. Art of Latin America 1900-1980. Washington, DC: Inter-American Development Bank, 1994. Distributed by the Johns Hopkins University Press.
+
+Turner, Jane, ed. Encyclopedia of Latin American Carribean Art. London: Macmillan, and New York: Grove's Dictionaries, 2000.
+
+Unruh, Vicky. Latin American Vanguards: The Art of Contentious Encounters. Berkeley, Los Angeles, and London: University of California Press, 1994.
+
+General: Economics, History, Development Arciniegas, Germán. Latin America: A Cultural History.
+
+Translated from the Spanish by Joan MacLean. New York: Alfred A. Knopf, 1970.
+
+Bethell,Leslie, ed. The CambridgeHistoryofLatinAmerica Volume 4, c. 1870–1930. Cambridge and New York Cambridge University Press, 1986.
+
+ed. The Cambridge History of Latin America, Volume 5, c. 1879–1930. Cambridge and New York: Cambridge University Press, 1994.
+
+-ed. The Cambridge History of Latin America, Volume 6, pt. I. Latin America Since 193o: Economy and Society. Cambridge and New York: Cambridge University Press, 1994.
+
+-ed. The Cambridge History of Latin America, Volume 8, Latin America Since 193o: Spanish South America. Cambridge and New York: Cambridge University Press, 1994.
+
+—ed. The Cambridge History of Latin America, Volume 9, Brazil since 1930. Cambridge and New York: Cambridge University Press, 2008.
+
+ed. Latin America: Economy and Society since 1930. Cambridge and New York: Cambridge University Press, 1998.
+
+Bulmer-Thomas, Victor. The Economic History of Latin America since Independence, 2nd ed. Cambridge Latin American Studies 77. Cambridge and New York: Cambridge University Press, 2003.
+
+Bulmer-Thomas, Victor, John H. Coatsworth, and Roberto Cortés Conde, eds. The Cambridge Economic History of Latin America, Volume 2: The Long Twentieth Century. Cambridge and New York: Cambridge University Press, 2006.
+
+Cardenas, Enrique, José Antonio Ocampo, and Rosemary Thorp, eds. An Economic History of Twentieth-Century Latin America, Vol. I: The Export Age: The Latin American Economies in Late Nineteenth and Early Twentieth Centuries. Houndmills and New York: Palgrave, 2000.
+
+eds. An Economic History of Twentieth-Century Latin America, Vol. 3: Industrialization and the State in Latin America: The Postwar Years. Houndmills and New York: Palgrave, 200o.
+
+Coerver, Don M. and Linda B. Hall. Tangled Destinies: Latin America & The United States. Albuquerque: University of New Mexico Press, 1999.
+
+Connell-Smith, Gordon. The United States and Latin America: An Historical Analysis of Inter-American Relations. London: Heinemann Educational Books, 1974.
+
+Davies, R. E. G. Airlines of Latin America since 1919. Washington, DC: Smithsonian Institution Press, 1984.
+
+Herring, Hubert. A History of Latin America from the Beginnings to the Present, 2nd ed., rev. New York: Alfred A. Knopf, 1967.
+
+Hughlett, Lloyd J., ed. Industrialization of Latin America. Westport: Greenwood Press, 1946.
+
+New York World's Fair 1939. Official Guide Book, 2nd ed. New York: Exposition Publications, 1939.
+
+Phelps, Dudley Maynard. Migration of Industry to South America. The Evolution of International Business 18oo–1945, Vol. 7. New York and London: McGraw-Hill, 1936.
+
+Skidmore, Thomas E. and Peter H. Smith. Modern Latin America, 2nd ed. New York and Oxford: Oxford University Press, 1989.
+
+Thorp, Rosemary. Progress, Poverty and Exclusion: An Economic History of Latin America in the 2oth Century. Washington DC: Inter-American Development Bank, 1998. Distributed by the Johns Hopkins University Press.
+
+—ed. Latin America in the 193os: The Role of the Periphery in World Crisis. London: Macmillan, 1984. -ed. An Economic History of Twentieth-Century Latin America, Vol. 2: Latin America in the 193os: The Role of the Periphery in World Crisis. Houndmills and New York: Palgrave, 2000.
+
+## Cuba
+
+Alonso, Alejandro G., Pedro Contreras, and Martino Fagiuoli. Havana Deco. New York and London: W.W. Norton, 2007 (c. 2003).
+
+Bethell, Leslie, ed. Cuba: A Short History.
+
+Cambridge and New York: Cambridge University Press, 1993.
+
+Bondil, Nathalie, ed. Cuba: Art and History from 1868 to Today. Montreal: Montreal Museum of Fine Arts, 2008.
+
+Gott, Richard. Cuba: A New History. New Haven and London: Yale University Press, 2004.
+
+Levi, Vicki Gold and Steven Heller. Cuba Style: Graphics from the Golden Age of Design. New York: Princeton Architectural Press, 2002.
+
+Massaguer; Su Vida y Su Obra, Autobiografia, Historia Grafica, Anecdotario. Havana: Cinuentenario Massagueriano, 1957.
+
+Pérez Jr., Louis. On Becoming Cuban: Identity Nationality & Culture. New York: The Ecco Press, 1999.
+
+Schwarz, Rosalie. Pleasure Island: Tourism and Temptation in Cuba. Lincoln and London: University of Nebraska Press, 1999
+
+## Mexico
+
+60 Años: Taller Gráfica Popular. México D.F.: Consejo Nacional para la Cultura y las Artes, Instituto Nacional de Bellas Artes, 1997.
+
+Agrsánchez Jr., Rogelio. Cine Mexico: Posters from the Golden Age, 1936–1956. Introduction by Charles Ramírez Berg. San Francisco: Chronicle Books, 2001.
+
+Apuntes para la Historia y Crítica de la Arquitectura Mexicana del Siglo XX: 1900-198o, Vol. I. Mexico D.F.: Secretaria de Educacion Publica, instituto Nacional de Bellas Artes, 1982, nos. 20–21.
+
+Art Déco: Un Pais Nacionalista, Un México Cosmopolita. México D.F.: Museo Nacional de Arte, 1997.
+
+Beezley, William H. Judas at the Jockey Club and Other Episodes of Porfirian Mexico, 2nd ed. Lincoln and London: University of Nebraska Press, 1989.
+
+Blanco, Jorge Ayala. La Aventura del Cine Mexicano en la Época de Oro y Después. México D.F.: Editorial Grijalbo, 1993.
+
+Burian, Edward R. Modernity and the Architecture of
+
+Mexico. Foreword by Ricardo Legorreta. Austin: University of Texas Press, 2007.
+
+Caplow, Deborah. Leopoldo Méndez: Revolutionary Art and the Mexican Print. Austin: University of Texas Press, 2007.
+
+Costa, Gina. Para la Gente: Art, Politics, and Cultural Identity of the Taller de Gráfica Popular. Selected Works from the Charles S. Hayes Collection of Twentieth-Century Mexican Graphics. South Bend, IN: Snite Museum of Art, University of Notre Dame, 2009.
+
+Covarrubias, Miguel; Homenaje. México D.F.: Centro Cultural Arte Contemporaneo, 1987.
+
+Cronos y Cromos. México D.F.: Central Cultural Arte Contemporaneo, 1994.
+
+Debroise, Olivier. Mexican Suite: A History of Photography in Mexico. Austin: University of Texas Press, 2001.
+
+De la Torre Villar, Ernesto. Ilustradores de Libros: Guión Biobibliográfico. Mexico D.F.: Universidad Nacional Autónoma de México, 1999.
+
+Del Carmen Vilchis Esquivel, Luz. Historia del Diseño Gráfico en México, 1910-201o. Mexico D.F.: Instituto Nacional de Bellas Artes/Conaculta, 2010.
+
+De los Reyes, Aurelio. Cine y Sociedad en México, 1896–1930: Vivir de Sueños, Vol. 1 (1896–1920). México D.F.: Universidad Nacional Autónoma de México, 1983.
+
+El Diseño de Clara Porset: Inventando un México Modernol Clara Porset's Design: Creating a Modern Mexico. México D.F.: Museo Franz Mayer/Universidad Nacional Autónoma de México/Turner, 1983.
+
+Gaitán, Julieta Ortiz, Imágenes del Deseo: Arte y Publicidad en la Prensa Ilustrada Mexicana (1894— 1939). Mexico D.F.: Universidad Nacional Autónoma de México, 2003.
+
+Gallo, Rubén. Mexican Modernity: The Avant-Garde and the Technological Revolution. Cambridge, MA, and London: MIT Press, 2005.
+
+Hannes Meyer: Architekt Urbanist Lehrer, 1889-1954. Frankfurt: Ernst & Sohn, 1989.
+
+Heinzelman, Kurt, ed. The Covarrubias Circle: Nikola
+
+Muray's Collection of Twentieth-Century Mexican Art. Austin: University of Texas Press, 2004.
+
+Ittmann, John, ed. Mexico and Modern Printmaking: A Revolution in the Graphic Arts, 1920–1950. With contributions by Innis Howe Shoemaker, James M. Wechsler, and Lyle W. Williams. New Haven and London: Yale University Press, 2007.
+
+Kirkwood, Burton. The History of Mexico. Westport and London: Greenwood Press, 20oo.
+
+La Patria Portátil: 1oo Years of Mexican Chromo Art Calendars. México D.F.: Museo Soumaya, 1999.
+
+Medina, Cuauhtémoc. Diseño antes del Diseño: Diseño Gráfico en México, 1920–196o. Mexico D.F.: Museo de Arte Alvar y Carmen T. de Carillo Gil, 1991.
+
+Mosk, Sanford. Industrial Revolution in Mexico. New York: Russell & Russell, 1950.
+
+Salinas Flores, Oscar. Clara Porset: Una Vida Inquieta, Una Obra sin Igual. México D.F.: Universidad Nacional Autónoma de México, 20o1.
+
+Stewart, Virginia. 45 Contemporary Mexican Artists: A Twentieth-Century Renaissance. Stanford: Stanford University Press, 1951.
+
+Taller de Gráfica Popular: 4 Decadas del Grabado en Mexico. Catalog, n.d
+
+Taller de Gráfica Popular: Plakate und Flugblätter su Arbeiterbewegung und Gewerkschaften in Mexiko, 1937-1986. Berlin: Ibero-Amerikanisches Institut - Preussischer Kulturbesitz, 2002.
+
+Tenorio-Trillo, Mauricio. Mexico at the World's Fairs: Crafting a Modern Nation. Berkeley, Los Angeles, and London: University of California Press, 1996.
+
+Tibol, Raquel. Gráficas y Neográficas en Mexico. Mexico D.F.: Secretaría de Educación Pública and Universidad Nacional Autónoma de México, 1987.
+
+Troconi, Giovanni. Diseño Gráfico en México; 1oo Años, 1900–2000. Mexico D.F.: Artes de Mexico, 2010.
+
+Villalba, Angela: Mexican Calendar Girls. Foreword by Carlos Monsiváis. San Francisco: Chronicle Books, 2006.
+
+Williams, Adriana. Covarrubias. Edited by Doris Ober. Austin: University of Texas Press, 1994.
+
+## Brazil
+
+Amaral, Aracy. Artes Plásticas na Semana de 22. São Paulo: Editôra Perspectiva, 1970.
+
+Bardi, P. M. História da Arte Brasileira: Pintura, Escultura, Arquitetura, Outras Artes. São Paulo: Edições Melhoramentos, 1975.
+
+—O Modernismo no Brasil. São Paulo: Sudameris - Banco Francêsm e Italiano para a América do Sul S/A, 1978.
+
+Batista, Marta Rossetti, Telé Porto, Ancona Lopez, and Yone Soares de Lima, eds. Brasil: 1º Tempo Modernista - 1917/29 Documentação. São Paulo: Instituto de Estudos Brasileiros, 1972.
+
+Burns, E. Bradford. A History of Brazil. New York and London: Columbia University Press, 1970.
+
+Cavalcanti, Lauro. When Brazil Was Modern: Guide to Architecture 1928–1960. Translated by John Tolman. New York: Princeton Architectural Press, 2003.
+
+Cunha Lima, Guilherme. O Gráfico Amador: As Origens da Moderna Tipografia Brasileira. Rio de Janeiro: Editora UFRJ, 1997.
+
+Dean, Warren. The Industrialization of São Paulo, 1880-1945. Austin and London: University of Texas Press, 1969. Published for the Institute of Latin American Studies.
+
+de Azevedo, Fernando. Brazilian Culture: An Introduction to the Study of Culture in Brazil. New York: Macmillan, 1950.
+
+de Castro Lopes, Sonia. Lourival Fontes: As Duas Faces do Poder. Rio de Janeiro: Litteris Editora, 1999.
+
+de Lima, Yone Soares. A Ilustração na Produção Literária São Paulo – Décade de Vinte. São Paulo: Instituto de Estudos Brasileiros, 1985.
+
+Denis, Rafael Cardoso. Uma Introdução à História do Design. São Paulo: Editôra Edgard Blücher, 1999.
+
+Denis, Rafael Cardoso, ed. O Design Brasileiro antes do Design. Aspectos da História Gráfica, 1870-196o. São Paulo: Cosac Naify, 2005.
+
+Ferreira, Márcia Christina. Santa Rosa e a Invenção do Livro Modernista. Projeto Conclusão: PUC Rio de Janeiro, 1997.
+
+Goodwin, Philip L. Brazil Builds: Architecture New and Old 1652–1942. New York: The Museum of Modern Art, 1943
+
+Gráfica Arte e Indústria no Brasil: 18o Anos de História. Sáo Paulo: Bendeirante S.A. Gráfica e Editora, 1991.
+
+Hallewell, L. Books in Brazil; A History of the Publishing Trade. Metuchen, NJ, and London: The Scarecrow Press, 1982.
+
+Homem de Melo, Chico. Linha do Tempo do Design Gráfico no Brasil. São Paulo: Cosanaify, 2011.
+
+Johnson, Randal. The Film Industry in Brazil: Culture and the State. Pittsburgh: University of Pittsburgh Press, 1987.
+
+Lima, Herman. História da Caricatura no Brazil, Vol. I. Rio de Janeiro: Livraria José Olympio Editôra, 1963.
+
+Loschavio dos Santos, Maria Cecilia. Móvel Moderno no Brasil. Sáo Paulo: Livros Studio Nobel, Editora de Universidade de São Paulo, 1995.
+
+Pontual, Roberto. Dicionário das Artes Plásticas no Brasil. Rio de Janeiro: Editôra Civilização Brasileira, 1969.
+
+Sobral, Julieta. O Desenhista Invisibel. Rio de Janeiro: Folha Seca, 2007.
+
+Suzigan, Wilson. Indüstria Brasileira: Origem e Desenvolvimento. Sáo Paulo: Editôra Brasiliense, 1986.
+
+Viégas, João Alexandre. Vencendo o Azul: História da Indústria e Tecnologia Aeronáuticas no Brasil. São Paulo: Livraria Duas Cidades, 1989.
+
+Williams, Daryle. Culture Wars in Brazil: The First Vargas Regime, 1930-1945. Durham and London: Duke University Press, 2001.
+
+## Chapters in books
+
+Cardoso, Rafael, "Ambiguously Modern: Art Deco in Latin America," in Charlotte Benton, Tim Benton, and Ghislaine Wood, eds. Art Deco 1910-1939.
+
+Boston, New York, and London: Bulfinch Press, 2003.
+
+Johnson, Randal, "Regarding the Philanthropic Ogre: Cultural Policy in Brazil, 1930-45/1964-90," in Daniel H. Levine, ed. Constructing Culture and Power in Latin America. Ann Arbor: University of Michigan Press, 1993.
+
+## Articles
+
+"Diseño antes del Diseño," Mexico en el Diseño 2, no. 8 (Febrero–Marzo 1992).
+
+Encinas, Rosario, "José Vasconcelos (1882-1959)," Prospects 24, nos. 3–4 (1994).
+
+The Journal of Decorative and Propaganda Arts 22 (1996) Cuba theme issue.
+
+The Journal of Decorative and Propaganda Arts 26 (2010) Mexico theme issue.
+
+The Journal of Decorative and Propaganda Arts 21 (1995) Brazil theme issue.
+
+López, Bruno. “Trayectoria del Cartel en el Cine Mexicano," DX 2–3 (2000).
+
+México en el Tiempo: Revista de Historia y Conservación 32. El Cartel en México Special Issue.
+
+Rivadulla Jr., Eladio, "The Film Poster in Cuba (1940– 1959)," Design Issues 16, no. 2 (Summer 2000).
+
+Tenorio Trillio, Maurice, "191o Mexico City: Space and Nation in the City of the Centenario," Journal of Latin American Studies 28, no. 1 (February 1996).
+
+## Internet
+
+Design Gráfico Brasileiro, http://designgraficobrasileiro.wordpress.com/category/diogenes/ (accessed October 2, 2014).
+
+Gaitán, Julieta Ortiz, "Francisco Eppens y Los Mensajeros del México Moderno," Revista Electrónica Imagines, instituto de Investigaciones Estéticas,http://www.esteticas.unam.mx/revista imagenes/dearchivos/dearch\_ortizgaitano2.html (accessed October 2, 2014).
+
+Herkenhoff, Paolo (1993), “Brasil Marajoara — A Modernidade das Artes Decorativas," FAU-UFPA,
+
+http://fauufpa.wordpress.com/2o1/07/o1/brasilmarajoara-a-modernidade-das-artes-decorativas/ (accessed October 2, 2014).
+
+"O Malho” Revista Internética Joáo do Rio, http:// www.joaodorio.com/site/index.php?option=com\_ content&task=view&id=422&Itemid=117 (accessed October 2, 2014).
+
+Simioni, Ana Paula Cavalcanti, "Regina Gomide Graz: Modernismo,ArteTêxtileRelaçõesdeGêneronoBrasil," Revista do Instituto de Estudos Brasileiros, http:// www.revistasusp.sibi.usp.br/scielo.php?script=sci\_ arttext&pid=S0020-38742007000900006 (accessed October 2, 2014).

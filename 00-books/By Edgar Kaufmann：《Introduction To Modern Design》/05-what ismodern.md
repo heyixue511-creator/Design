@@ -1,0 +1,536 @@
+# what is modern
+
+# interior design?
+
+BY EDGAR KÁUFMANN, JR.
+
+THE MUSEUM OF MODERN ART NEW YORK
+
+## TRUSTEES OF THE MUSEUM OF MODERN ART
+
+JOHN HAY WHITNEY, CHAIRMAN OF THE BOARD; HENRY ALLEN MOE, FIRST VICE-CHAIRMAN; PHILIP L. GOODWIN, SECOND VICE-CHAIRMAN; WILLIAM A. M. BURDEN, PRESIDENT; MRS. DAVID M. LEVY, FIRST VICE-PRESIDENT; ALFRED H. BARR, JR., MRS. ROBERT WOODS BLISS, STEPHEN C. CLARK, RALPH F. COLIN, MRS. W. MURRAY CRANE, RENE D'HARNONCOURT, MRS. EDSEL B. FORD, A. CONGER GOODYEAR, MRS. SIMON GUGGEN-HEIM, WALLACE K. HARRISON, JAMES W. HUSTED,\* MRS. ALBERT D. LASKER, MRS. HENRY R. LUCE, RANALD H. MACDONALD, MRS. SAMUEL A. MARX, MRS. G. MACCULLOCH MILLER, WILLIAM S. PALEY, MRS. BLISS PARKINSON, MRS. CHARLES S. PAYSON, DUNCAN PHILLIPs,\* ANDREW CARNDUFF RITCHIE, DAVID ROCKEFELLER, MRS. JOHN D. ROCKE-FELLER, 3RD, NELSON A. ROCKEFELLER, BEARDSLEY RUML, PAUL J. SACHS, 头 JOHN L. SENIOR, JR., JAMES THRALL SOBY, EDWARD M. M. WARBURG, MONROE WHEELER.
+
+\*HONORARY TRUSTEE FOR LIFE.
+
+Copyright 1953. The Museum of Modern Art, New York. Printed in the United States of America
+
+## introduction
+
+This booklet grew from a small exhibition first prepared for the Museum of Modern Art in 1947, Modern Rooms of the Last Fifty Years. Its purpose is to show the art of arranging objects for agreeable living as this art developed in the first century of modern design, 1850-1950; to observe in this history a few dominant traits; and to show that these traits are evident in good interiors today. It is intended as a companion and supplement to a booklet issued earlier by the Museum of Modern Art, What is Modern Design?
+
+To paraphrase that publication: modern interior design is planning and making rooms suited to our way of life, our abilities, our ideals. It began a century ago when creative, perceptive people reacted to vast problems posed by technological change, especially by mass production. Modern interior design, in a steady development since then, has taken a number of outward forms. Along with examples of present day rooms, some earlier ones are pictured here whenever these help to explain today's interior design.
+
+The rooms illustrated were chosen as typical and revealing; emphasis is placed on rooms in use, as effective backgrounds for people. Most of the illustrations show living rooms, key interior in any home. Principles of design observed at work there can in the main be applied to other parts of the house. Each illustration was chosen first for its informative quality and only then for the importance of the work represented. Some excellent and well-known modern interiors were omitted because too many photographs were required to explain their worth, others, because no satisfactory photos were available.
+
+The aim of this study is to deepen the appreciation of modern interior design; it cannot begin to teach the practice of it.
+
+The first section of this booklet has to do with some dominant traits of modern interiors, the next with certain important points of view that have affected the development of modern design. The merging of these viewpoints in our own times is shown in the third section of the book; special pages are devoted to regional expressions in the U.S.A., and in this last section the dominant traits are again pointed out. A list of recommended reading is added for students who wish to consider more thoroughly and from various viewpoints the problems raised here.
+
+The first section shows four main traits of modern rooms: COMFORT, QUALITY, LIGHTNESS and HARMONY.
+
+![](images/e58de1a4de4e95003a5757ad141cad38d3995e9a66cb24e877af2be2e81c08e7.jpg)  
+fig. 1. William Morris. Drawing room, Kelmscott Manor, Kelmscott village. 1872. In 1859 William Morris built a home for his family. He and his friends, Philip Webb, architect, D. G. Rossetti, poet, and Edward Burne-Jones, painter, designed and made the house and its furnishings. Later the Morrises moved with their belongings to an old manor house in a London suburb and arranged them as shown here.
+
+## comfort
+
+Everyone wants to be comfortable in his own home. But concepts of comfort have varied greatly at various times in various places. The prevailing idea of comfort in the Western world today seems to have had its beginning in France two hundred years ago.
+
+In modern design this idea of comfort has been an integral force since the earliest days, around 1850. One of the first great modern designers was William Morris, an Englishman whose philosophy is fundamental in the practice of design today. Figure l shows his living room, set up in 1872 in an old manor at the edge of the Thames. To us this room looks more medieval than modern; yet it differs from a medieval room precisely in its sense of comfort. This room speaks to the eye of relaxation, of pampering the individual, and of friendly association between individuals who share its
+
+![](images/fcd46af079076db7f61f44d6f2029211cb35a349166b4c2cf6d045dd63513e8b.jpg)
+
+atmosphere. Not only does it express comfort in visual signs; it provides practical comfort throughout. Cold stone is insulated with hangings and carpeting; drafts are avoided by high-backed seats that are also room-dividers; private enthusiasms are openly displayed in the eighteenthcentury furniture and in many Eastern curios used as decoration. Not least in setting the tone are two original Morris chairs, developed in Morris' own cabinet shop about five years before this room was furnished. These chairs were widely copied, and the “Morris Chair" became a best-selling symbol of modern comfort in the United States for a half century.
+
+Just as the popularity of the "Morris Chair" began to wane, America's lively patriarch of modern architecture, Frank Lloyd Wright, was building Taliesin, his country home in Wisconsin. The main room
+
+fig. 2. Frank Lloyd Wright. Living room, Taliesin, Wisconsin. 1911-1946. This great room is anchored in the stone wall; most of the other walls are windows. The large space under the sloping roof dominates and unifies the parts. Other rooms seem clear because there are no hidden corners, no unexplained spaces; in Wright's work mystery is part of the scheme. Clarity here depends on a mighty blending enlivened by accents — contrasted light and shade, beautiful works of art, or a counter-movement in the long lines of cypress wood. The great structure and handsome materials promise to be just as fine around the corner, and this gives an unequalled sense of fullness and excitement to Wright's work.
+
+of this house expresses a love of comfort very like Morris'(fig. 2). Furnishings and architecture harmonize better, of course, than in Morris' old manor. Heating and concealed insulation have allowed the wall hangings to dwindle to mere decoration (the Japanese screen and the Chinese rug hung over the balcony). Even on the floor, rugs here are more symbols of luxury than necessities. Medievalism has evaporated, too. Yet the general tones of both rooms are similar, and certain features — Oriental art, the bench as room-divider next to the fireplace, the individual club chair — are repeated because they still seemed desirable.
+
+These rooms by leading modern designers of two successive generations reveal a continuing interest in comfort; our own ideas of comfort are not very different in the 1950s. What are the roots of this durable attitude? Greece or Rome, the Orient or the Middle Ages cannot show us rooms of this sort. The idea of comfort which seems so natural today began in eighteenth-century France. There a leisurely aristocracy reacted sharply to the iron formality of court life established by Louis XIV. As the Sun King grew old and ineffective, an attitude developed among the nobility of sans-gêne, an easy but polite manner, without constraint. At first this was practiced in boudoirs or country châteaux, but in a few years it became the norm of sociability. This sans-gêne was based on the levée, when the King, great noble or lady graciously received propped up in bed. Then the truly comfortable person was the one reclining. This attitude gradually became the model of general comfort in public (fig. 3). By the 1840s there was a choice of living room furniture built especially for relaxation; it was such chairs that led directly to William Morris' chairs seen in fig. l. Egalité and Fraternité were given their expressiòn in furniture even before Liberté spread this to the public on both shores of the Atlantic Ocean.
+
+fig. 3. After J. P. Moreau, le jeune. Portion of "N’ayez pas peur, ma bonne amie." c. 1775. Comfort at the time of Louis XVI.
+
+![](images/ee353d56b9a684580cb011f79d3d2a867ded07ab9ee09dc79f76ed8919c7a571.jpg)  
+fig. 4. E.L. Lami. Parisian interior.c.1840.The Romantics' idea of comfort.
+
+![](images/4b669100bf4e2606b188d780f7136b3f1e2fbd3e447f9364035829e1b1c8f86d.jpg)  
+fig. 5. Saul Steinberg. Comfort now.
+
+![](images/5bf45a2c8578443000df1ff0a51a4e1c37a7cd8a4cd373b3b4e10a527ffd0581.jpg)
+
+![](images/2559eeab3cc66b9cc563be91f4ec978177822d784414db81468e100241b99ede.jpg)
+
+## quality
+
+Quality is often taken to mean good quality, but this optimistic overtone obscures a more valid, valuable meaning: the characteristic constitution, the very grain and nature of a thing is its quality. Respect for quality has been a main feature of modern design from the start, yet its sources are quite distinct from those that fed the traditions of comfort.
+
+In eighteenth-century design every gay deception was practiced. Among the toys of
+
+![](images/6071073b9dd4ac6d519a0d10af1cf446689ded7b5aa1a9aac96c21c23ea17de5.jpg)
+
+fig.6. William Morris, designer and   
+and Philip Webb, architect. Library   
+added to Tangley Manor, near Guilford Surrey. 1893. Two years after William Morris founded his famous Kelmscott Press, Philip Webb enlarged 7 an Elizabethan house, which was   
+furnished by Morris' firm. Morris'   
+personal talent for pattern is shown   
+in the carpet, on an upholstered chair, and at the large window (curtains   
+are pulled over the upper casements). The big, round coverless table was a   
+favored piece of Morris furniture. The uncluttered arrangement of this room was not as a rule acceptable to Morris'   
+clients, many of whom demanded   
+quantities of antiques and mementos.   
+The Tangley Manor Library was   
+remarkably modern; compared to the   
+room at Kelmscott (fig. I)   
+historical reminiscence has been   
+eliminated almost entirely.
+
+that world were sham Gothic ruins and similar rustic retreats, first devised as garden ornaments. Times changed; the works of the Middle Ages, once thought grotesque, were admired as reservoirs of profound truth, records of a sincere and noble way of life: a view consonant with the high romantic ideals and religious aspirations of the early nineteenth century.
+
+This solemn medievalism emphasized a
+
+fg. 7. Frank Lloyd Wright. Living room at Wingspread, near Racine, Wisconsin. 1937. Less than a quarter of this great room is shown here. The fireplace on the right is part of a large central mass around which the living and dining areas are disposed in a continuous ring, varied by changing levels of floor and ceiling and shielded from one another by handsome oak cabinetwork. On all sides french doors lead out to terraces, gardens and courts that join rolling acres of farmland. Various bedroom and service wings spread out from this center. An intricate steep sloping roof over the living room is handed with many rows of high windows, assembling the diffuse areas of the house into majestic unity.
+
+sense of quality that modern interior design inherited. The Gothic Revival at its height preached craftsmanship and the craftsman's joy in his material for its own sake. To express the nature of materials skilfully was the acknowledged goal. Mid-nineteenthcentury designers wanted not to imitate effects but to follow principles which had produced the glorious arts of the past (in 1852 Greenough the American sculptor and theorist announced: "I contend for Greek principles, not Greek things."). This was the decisive change: principles, not effects. The road was open to a new idiom of design, destined to express the life of its own times.
+
+William Morris provides an early example (fig. 6). This library, added to an ancient house, has a powerful beamed ceiling which sets the tone of the architecture; the great round table sets that of the furnishings— ample, strong, convenient and uncluttered. The same words could be used to describe Frank Lloyd Wright's big living room for the Johnsons, a portion of which is shown in fig. 7; a great change from Morris is the full fusion of furnishings and architecture (an aspect of modern design discussed later as HARMoNY). Few modern rooms have achieved a characteristic and unified expression of purpose, structure and materials equal to this one; it is the embodiment of quality. The bedroom designed by Edward D. Stone for A. Conger Goodyear (fig. 8) is closer to Morris' room at Tangley than to this room by Wright; but the furnishings, the works of art, the building and the garden beyond, share the eloquence of things, serenely themselves, free to show their intrinsic qualities in full concordance with each other. George Nelson's room (fig. 9) is, like Wright's, crisply architectural though composed of less weighty elements. The Wright and Nelson rooms both include an extra quality, light, effectively displayed itself and distributed to enhance the qualities of forms and materials. These four rooms and many others shown here indicate what varied qualities have been expressed successfully in modern interiors.
+
+![](images/d4a95bdd3a07a0b4fdc97738e548df56a007e1475eca1dcedd9fde3b7367ede6.jpg)  
+fig. 8. Edward D. Stone. Bedroom, Goodyear house, Long Island. 1939. That old and new elements can join in concord is clear enough here. The Windsor chair and the Lehmbruck statue have equal authority for all their differences. The traditional patterns of bedspreads and rugs would seem isolated without the Burchfield watercolor.
+
+fig.9. George Nelson. Living room, displayed at the Detroit Institute of Arts. 1949. An extensive exhibition of modern home furnishings included this room, designed to use a minimum of movable furniture. The cushioned benches, rear and foreground, were built in as was the commodious storage wall including desk, music apparatus, library and cupboards.
+
+![](images/a35b0c0154766461f87b9d381a6b82011dbf455e17e90c59b6c59a771e704a0f.jpg)
+
+![](images/be3dd94d81005a726099326b1a2f5b7949f32fe6ca78bbe66d620f49e48b3ad4.jpg)
+
+fig. 11. James A. McNeill Whistler.Portrait of Mrs. Leyland. 1874. While William Morris was reviving handicraft in England and Louis Sullivan was studying architecture at the Beaux-Arts, Whistler was upsetting the art world with portraits like this (or the famous one of his mother) where he emphasized the composition of areas and tones, the visual elements of his art, rather than subject matter or realistic detail; this in the teeth of triumphant academism (Landseer, Meissonier are still familiar names). Whistler's taste as a designer of interiors can be seen in this picture: simple wall areas, light floor runners whose pattern reveals a flat woven texture, simple flowers freely spaced (so unlike the big tight bunches of dun, dried grasses and reeds, fig. 57, that Makart made stylish). Perhaps most revealing is the way Mrs. Leyland's dress fits this interior—a dress free, light, and casually enlivened with ribands and flowerlets; it puts the whole room at the service of its wearer.  
+![](images/d5af08a996b55e5856dfb44a110338efddc67093fb6918b58c24332bad24c979.jpg)  
+fig. 10. Edward S. Morse. Traditional Japanese room. From Japanese Homes and their Surroundings. 1885. In a Japanese house bedrooms at night become sitting rooms by day. Bedding and clothing are stored in cupboards, seen near the exterior wall. The arrangement and detailing of these cases is a feature of design in Japan, where movable furniture is scarcely known. It is worth comparing the ideas and the resulting design of this room with George Nelson's (fig. 9).Next to the cupboards is a recess used to display a work of art; this is changed from time to time. (No main Japanese room would be thought complete without one special work of art, presented with dignity and care). On each side, sliding screens open the room to a carefully scaled garden and to other rooms.
+
+## lightness
+
+To maneuver light, as Wright or Nelson did in the last rooms, is generally considered an architect's problem. Yet, with the development of artificial lighting, designers have become more active in this field. Ideally no line need be drawn between architect and interior designer; today light is accepted as a necessary component in creating a good room.
+
+To capture the Ariel spirit of light implies light colors to reflect changing nuances. Light tones came to modern rooms first in the 1870s through James A. McNeill Whistler, an American painter living in London, accepted then as a controversial modern master. Whistler had studied in Paris before moving across the Channel; he caught the new enthusiasm of the Impressionists for Japanese woodblock prints, little regarded in Japan where they filled a popular need for souvenirs. But to modern European artists in 1860 Japanese prints seemed full of revolutionary suggestions. From these prints, Whistler took the idea of clear tones for the walls of rooms (fig. 1l), so unlike the Rembrandtesque gloom typical of Victorian interiors (fig. 57). He began to emulate the Japanesé sparseness of furniture and decoration, their careful composition of the few chosen elements in a room. All this might have
+
+remained a fad, but for the great popular curiosity about Japan, newly opened to Westerners, full of romantic allure and mysteries.
+
+Among many books, E. S. Morse's Japanese Homes and their Surroundings was perhaps the most influential in Britain and the U.S.A., going through many editions after 1885. Fig. 10 shows one of Morse's accurate drawings which did much to inspire lightness in interiors—to make them open to daylight and view, to keep them light in line and tone, uncluttered. The Japanese way of expressing structure and materials frankly was in perfect accord with the principles of the contemporary Gothic Revival. Japan made major contributions to modern design; the principal one was a sense of lightness.
+
+In Scotland a second generation of modern designers was led by Charles Rennie Mackintosh, whose home, remodeled in 1901, is shown in fig. 12. Such rooms are clearly influenced by the idea of lightness of line and tone. The trend never wavered. As a brilliant example midway between Mackintosh and the present, see fig. 13, Marcel Breuer's refurnishing of a Berlin flat in 1930.
+
+Today lightness seems a natural trait in a room; witness two last examples, one American, one European, quite diverse in many details (figs. 14 and 15). Lightness in modern interiors is sometimes said to originate in practical or functional considerations, but it is more probably a matter of predilection. Lightweight furniture can make housekeeping less burdensome; whether light tones and glass table tops do so is doubtful. On the other hand, Constructivism — a modern trend in fine art toward skeletal frameworks and transparent volumes — has tended to reinforce the modern designer's interest in open structures, free spaces and light lines which can be traced back to the Japanism of the ’70s and '80s.
+
+![](images/819566bd903b684a4664c6a8506bb3b9aa2c2081161bd585c4ee2cb82b4c0b51.jpg)
+
+fig. 12. Charles Rennie Mackintosh. Living room, Glasgow. 1901. A light background accented by dark movable pieces is a dramatic device used again and again in modern design (even as this is written there is a Alurry of black and white design). Mackintosh, one of the inventive pioneers of the movement, tried his hand at it. A clear separation of structural framework and filler panels marks the armchair, but in fact governs all the detailing, even the whitewashed planks tacked with studied negligence over the mantel piece so that an inner framework is necessarily imagined. The long lines limiting wall areas would be considered "Mondrianesque" today, but a glance at fig. 10 will show whence this motif, so enduringly useful, entered modern Western design.
+
+fig. 13. Marcel Breuer. Dining room, Boroshek apartment, Berlin. 1930. A long thin storage cabinet enlivens the architecture by sharp perspective lines (seen also in the Corbusier room, fig. 32) over which the eye slides as quickly as over the gleaming chromium tubes of the furniture. Repetition of standard elements is used decoratively —for example, the one-two-two-one of the chair legs, and the three closed cabinets, each the same length, followed by equal open spaces. The little touch of contrast at the silver drawer is typical of Breuer. Especially noteworthy are the S-shaped chairs. At the same time as Mies, Breuer developed cantilevered tube-metal chairs; for the first time carefully designed chair frames contributed to the comfort of users.
+
+![](images/923c6bf331f1f379c6487d588b1d38cc5f4e7e918281e3b7080987e2e62f2f4e.jpg)
+
+![](images/ff0ecd6999b06f6c38aa6984b0ec69511a944e2182fb16207d65b20bce9fa1bd.jpg)
+
+fig. 14. Finn Juhl. Room installed at the Museum of Industrial Arts, Trondheim, Norway. 1952. Many familiar characteristics are united in this room. the latest of an historical series showing major modern design tendencies. Clear, natural tones; rows of cabinets; a wall that can be made transparent; built in lighting; structural emphasis in the furniture and even in the floor board pegs; handicraft (the rug, ceramics, silver) mixed with machine products (plywood, telephone, radio, typewriter): these are all discussed in more than one place in this booklet, Yet this is an entirely original room, distinct from other modern or Scandinavian designs and from other rooms by Juhl, A tradition doesn't hamper, it helps the creative designer.
+
+fig, 15. Florence Knoll, Living room, exhibited at the Detroit Institute of Arts. 1949. Compare the confident use in this interior of several elements tried out hesitantly by Mackintosh half a century earlier (fig. l2). This room not only leans on the past but improves on it. The fireplace, in fact much like Mackintosh's, is not so elaborated. It is one feature of an ingenious wall, sharing the honors with a skylight and shelf which, parallel, reinforce each other. This skilled device depends on light, also gently reflected on the board wall at the back. A friendly unassuming atmosphere is created. The furniture is designed by several artists, while in the older room only one major talent was put to use.
+
+![](images/2f0934299c2b1ed2fd3a2b941c3225b7816fa12200ab54ca838d7fb196af6536.jpg)
+
+## harmony
+
+The last dominant trait of modern rooms which has been selected for comment is perhaps the most ambitious — harmony. When designers turned their attention to principles rather than effects (see page 7) they soon perceived that certain periods of art in the European past or in remote civilizations quite naturally produced harmonious interiors. They found rooms (public or private) where, in architecture, furnishings and fine arts, one spirit, one viewpoint united diverse skills in a symphonic unity far more impressive and meaningful than the curio cabinet effect of a typical Victorian interior (fig. 57). This lesson was learned not only by modern designers but by those imitating the past, who began to turn out “period rooms" accurate in every detail. It was the death knell of historic revivals, for after a while no one could escape seeing that what made the past great was not revived in these painstaking waxworks. While this lesson was being learned reluctantly by traditionalists, modern designers were exploring beneath the surface of design, trying to get at the gist of style itself, and learning to forget the multiform “styles"of the nineteenth century, Gothic, Japanese or what not.
+
+A signal success in this endeavor is Frank Lloyd Wright's, as photos of the Lewis house (1940) will show (figs. 16 and 17). The furniture is boldly architectural, in fact, blocky. Natural tones of wood, brick and wool dominate the scene. This room speaks of comfort and expresses well its own quality. Can it also be said to show lightness? Perhaps so, if the focus of attention is adjusted not to line and tone as earlier examples required, but to the quality (already noted in Wright's work in fig. 7) of daylight permeating the space and to the theme of heavy masses levitated. This theme is introduced grandly at the chimneybreast, varied in the thick horizontals of the furniture, and hovers over the entire room in the concentric pattern of the board ceiling. This is but one fibre Wright has woven into the big harmony of the room.
+
+Whence does Wright derive his mastery of harmony, this sense of the whole? He himself says that it comes from devotion to underlying principles which he learned from his master, the American architect, Louis Sullivan, who sought principles "so broad as to admit of no exceptions." Sullivan in turn has told that this concept came to him about 1875 while at the Beaux-Arts in Paris. It may be worthwhile to look back at efforts of the late nineteenth century, to observe some early successes in the modern designers' search for a harmony that unites and invigorates the arts.
+
+Two harmonizing themes become apparent in these past essays: right angles on one hand and on the other, curves. Bruce Talbert's room (fig. 18) is three years earlier than the one by Morris at Kelmscott (fig. 1). Its detail is more literally antiquarian (every source is used from the Romanesque to the Jacobean) but this detail is more fully absorbed into a big scheme; even the rich variety of surface patterns is kept subservient to the harmony of the whole. H. H. Richardson's entrance hall in the John Hay house is far more grand (fig. 19). The elements he employed were not very different from Talbert's nor his method of bringing them together; but Richardson of course was a designer of the first rank.
+
+C. F. A. Voysey was among the first in England to eliminate nostalgic details and welcome clear, light tones (fig. 20). The linear themes in this room are well organized and coherent, yet not quite merged with the architecture — though one man designed the whole. Earlier, Frank Lloyd Wright had been able to master harmony and dismiss the past with one coup in a most convincing, if somewhat stiff, room (fig. 21) added to the house of Edward Waller outside Chicago. The clearly articulated horizontal zones of the architecture (echoed quietly in the chair backs) give rise to solutions still valid today: picture windows, banked windows, built-in seats (with heat grille below) and too, the emphasis on natural, unornamented materials. Richardson, Sullivan and Wright, the American innovators, were consistently
+
+![](images/947ee04c51d70945899b9c9851634ed91686236d490c4ea20a2740dc75502924.jpg)
+
+fig. 16. Frank Lloyd Wright. Living room, Lloyd Lewis house, Libertyville, Illinois. 1940. Like the bold table tops, like the brick chimney panel and board ceiling, the Lewis house itself hovers low. Raised up above the prairie to encourage passing breezes, the house is still broad and restful enough to seem to belong to its setting. Vertical tree trunks cross its length, and its main lines echo into the distance as axes of a delightfully designed garden. Big sheltered windows open onto the balcony-terraces enclosed and roofed in insect screening. Modest in size, built of local materials, and unpretentiously equipped, this home might well be considered one of Wright's masterpieces, so harmoniously disposed are its elements inside and out, so naturally do its simple, durable furnishings convey a sense of comfort and ease.
+
+fig. 17. Frank Lloyd Wright. Dining area, Lloyd Lewis house, Libertyville, Illinois. 1940. This is the same area seen at the back, left, of fig. l6. A shift of floor and ceiling levels, a change of light source, more constricted versus ampler space, these are devices Wright has used to differentiate this from the main living room. In a similar way, the dining space adjoins the kitchen (whose shelves are visible in fig. 16), in accord with the simple housekeeping the clients required. Against the themes of differentiation Wright has introduced those of continuity: free flowing space, blended light, uniform surfaces of brick, wood, glass and textile. This is in accord with the harmony that marks good architecture and interiors, however simple their elements or modest their size.
+
+![](images/d7420b4685779a4dd97c153dbf7bc2050fe7304e52385c42dc3b59934a6940ca.jpg)
+
+![](images/50455de214198c64f89e4a0b41ee72bbd7b412a1db40d3bfcdef5ff4876b0995.jpg)
+
+![](images/882c35a265c574ea6a407770c96eb7d65c7c913c4793dd9e6116a13499e25173.jpg)  
+fig. 18, Bruce Talbert, Living room, England. 1869. The feature of this room is a big “picture" window, designed more subtly than it would be today.  
+fig. 19. H. H. Richardson. Entrance hall, John Hay house, Washington, D. C. 1885. Hay and his friend Henry Adams lived next to each other in Richardson houses, later wantonly destroyed.
+
+fig. 20. C. F. A. Voysey. Entrance hall of his own house in Chorley Wood, Hertfordshire. 1900. Soft greens, white, purple, vivid blue and red enlivened this country room.
+
+fig. 21. Frank Lloyd Wright. Dining room added to Edward Waller's home, River Forest, Illinois. 1899. As a youth, Wright admired Voysey's work (fig. 20) but soon surpassed it.
+
+ahead of their European contemporaries in design.
+
+Americans will not be found among the designers who depended on curves as a unifying theme. Some inspiring results were achieved in this manner, which is by no means the blind alley it was generally judged to be only a few years ago. Some reasons for the present revaluation of this work will be mentioned in a later section, NATURE. An early but eloquent example is Baron Horta's entrance hall in the Tassel house, Brussels. Half a century of ingenious greenhouse engineering lay behind this glass and iron magic cave, but Horta's creative lyricism transformed what had been serviceable for plants into something delightful for people. Since Paxton's Crystal Palace of l85l in London everyone knew it could happen, but forty-odd years were required for the accomplishment. A less spectacular yet consistently charming essay in the harmony of curves is seen in fig. 23, Richard Riemerschmid's music room for an exposition in Dresden, 1899. The built-in study table is echoed in the line of the
+
+![](images/956f186eaf7fedd95491263e073a2aa64368cc25a9c2a67549392a2aa63024d4.jpg)
+
+![](images/7c58ddb22786701f13bb34701842d687fa58ab9c88c53ba48aeba98ab0a4e9fe.jpg)
+
+![](images/74ecd66b43e6b27f21cdca8929796675d417eec46bdf734cd95cd4766919d7d2.jpg)
+
+![](images/7192c24c58bd48967214db2112433d2e9e85f2d7de99af41a88860450b8f497d.jpg)
+
+window mullions, and the chandelier repeats the rhythm of the painted frieze. Mackintosh was one of the most influential designers of his day. The drawing room he designed for his fiancée's parents in 1899 (fig. 25) shows a firm grasp of the problem of harmony as then understood. Gaudí, the maverick Catalan genius, used to shape structure, trim and furniture with forçeful sculptural modeling that went even farther than Horta and Mackintosh beyond mere ornament. His room of 1907 (fig. 24) is weird, but not weak, and this idiosyncratic above left: fig. 22. Victor Horta. Entrance hall, Tassel town house, Brussels. 1893. The architect mastered space and light (as well as line).
+
+![](images/bef6752f5ef63723ed614eb28ab5b6a27142fa0892cefb60d2ab3f76ecdf3017.jpg)
+
+above right: fig. 23. Richard Riemerschmid. Music room in an exhibition at Dresden. 1899. These comfortable, graceful chairs have been revived in the U.S.A. recently.
+
+left: fig. 24. Antoni Gaudi. Tea corner in the Batlló house, Barcelona. 1907. Extraordinary imagination governed by a strict coordination of molded shapes.
+
+below: fig. 25. C. R. Mackintosh. Drawing room, Dunglass Castle, near Glasgow. 1899. Ovoid planes, positive and negative, crisply and dramatically composed within a vaulted space.
+
+![](images/54ab2910fd9c81364354447b0e822e9762ca24aea56ac5eead857a75aac3eb59.jpg)
+
+![](images/dfcf2fc1782296d5039346aab0c078d53d56af373a3bdabcd7890adbf07e188f.jpg)
+
+harmony contains powerful suggestions as yet unexploited by later designers.
+
+The interior in fig. 26 may serve as an example of the continued trend toward harmonious control of the diverse elements in a room. Girard's big living room has a rich vitality held in check by bold, strong structure. It hints of new adventures and accomplishments in design, yet the four traits that have marked modern interiors from early times are all evident — comfort and quality, lightness (in the uncluttered space, pervasive light and clear, natural tones) and harmony. These traits are the expression of ideals in modern interior design. But other influences have also helped to shape modern rooms. Two seem paramount: modern man's attitudes to the machine and to nature.
+
+## the machine
+
+Modern design was born of the turmoil called the Industrial Revolution. After many thousand years of manual drudgery, machines took over man's work. So relentlessly far-reaching was the result that all human society was revised, populations swelled; new empires arose; the values men lived by, their dreams, their understanding of the natural world around them, all changed. A new cosmos was outlined by Isaac Newton, his universe was the Great Machine. As men fig. 26. Alexander Girard. Living room, Rieveschl house, Grosse Pointe Farms, Michigan. 1952. A broad roof slopes upward, and light breaks through at both sides, above. The built-in seats and fu rugs are grouped around a fireplace which lies out of the picture to the right. A light wall in the center marks the study alcove. The books line a ramp to guest rooms. These ánd other areas are disposed as linked pavilions around a series of garden courts, facing away from adjoining properties. Spaciousness and light harmonize a rich diversity of comforts.
+
+once had deified the beasts they hunted, or the stars that guided them to green pastures, or the earth they plowed and reaped, now they came to have faith in the power of the machine, to believe in its effective logic.
+
+At first the machines required no new designs, goods could be mass produced that looked quite a lot like hand-made products. But early machine-made wares were generally shoddy; users felt cheated. Around 1850 it became clear that standards of quality were required, suited to the new society that had taken shape, and that this called for design that would speak for the new values, not in the discredited accents of imitation tradition, but in a voice that carried conviction and promised to keep pace with life itself.
+
+The first need was for standards of quality. We have seen that this led men to a revaluation of the Middle Ages, to a revival of handicraft, to a rejection of the machine. In this ivory tower a research center was set up where some design fundamentals were tested and announced. Meanwhile the world went on its industrialized way. Soon designers were at work applying the research theories in the field. By the dawn of the twentieth century the first results were beginning to show, hints of new design suited to a power plant world (figs. 21, 22 23, 25). The full flowering of this new expression was retarded by the First World War; then the 1920s and '30s saw a burst
+
+![](images/81dfe5fd684c715e36a60cdbabc4f1f9410577663c555922087f58a82ac24863.jpg)
+
+fig. 27. Walter Gropius and Marcel Breuer.   
+Lobby in an exhibition of   
+the German Werkbund   
+at the Salon des Artistes   
+Décorateurs, Paris. 1930.   
+An example of bravura   
+in the new style that took   
+the forms and materials of   
+modern technology, as well   
+as its conveniences, out of   
+the factory and reworked   
+them for residential use. Some of the best current design   
+is a direct development   
+of what was shown here;   
+though today a wider range of materials, colors, and   
+shapes would be natural and desirable.
+
+fig. 28. Otto Wagner. Reception room for Die Zeit, a daily newspaper, Vienna. 1902. Shiny metal pipe furniture with thin slab tops, continuous horizontal wall bands, mirror used to augment perspective, white plaster and reiterated lights are, separately and together, elements of unexpected originality at this date. In 1928 le Corbusier could still shock and stimulate observers with the same elements (fig. 32). Wagner was the leading official architect of imperial Austria, thoroughly versed in the classic and renaissance revival styles, an opulent and correct academician. At the height of his career he began to evolve an early version of modern design, tolerated because of Wagner's exalted professional status. He trained some leading modern architects. Wagner and Wright admired each other's work.  
+![](images/64c1b30db4e4fe40f6b66819193dc2c137fbefefc1ef04562b361b818a84ad18.jpg)
+
+of vigorous design which may well be called the Machine Style (figs. 27 to 34). This culminated in the first victorious campaign to give modern man a background eloquent of his skills and aims, suited to his needs.
+
+It is ironic that the machine should have found a triumphant expression just as it had to abdicate a great position in men's minds. In the very decades of the Machine Style the end of the machine was ensured by the beginning of man's control over radiant energy, a power vastly more gripping and effective. If the music of the spheres once
+
+turned into a whirr of gears, now space surges with supersonic forces which we cannot sense, but which we plan to use.
+
+There are those today who delight in denouncing the Machine Style (it seems a little late) , and these folk usually take the name Bauhaus as a convenient symbol of the whole movement. Nor is this unjust. The Bauhaus was a training center for all the arts: it was established in Germany between the World Wars to explore and develop man's technological resources expressively and functionally, to suit both bodily and
+
+![](images/b75daaf180124bd8b9f2ddc8ebd1194765ce9fbdf1677df4213205e5cfc69d68.jpg)
+
+fig. 29. L. Mies van der Rohe. Library and living area, Tugendhat house, Brno, Czechoslovakia. 1930. Each component of this interior is so contrasted and so spaced that esthetic values register fully. Continuous planes of floor and ceiling unify the entire space. Freestanding screens, like the dark figured onyx wall shown here, define areas for different uses; the structural load is borne by cross-shaped steel columns, sheathed in polished metal. Matte materials enclose the big space; most smaller elements within it have shiny, mirroring finishes. Oriental rugs, patterned and plain, are placed under furniture groupings. The windows at the back are doubled, forming a conservatory for tropical plants. The windows at the right open on a large garden. Shantung silk curtains hang at the glass and can be pulled along a track, centered on the ceiling, to close off the library. This house is now a ruin.
+
+![](images/1d516761291c5ed078a90c31e45e674405a6be11de9aecd4d6e1d37b356a64ba.jpg)
+
+spiritual needs. A group of brilliant creative men and women taught and studied there under the guidance of the founding director Walter Gropius. The Bauhaus was in touch with two leading but less systematized groups of creative designers in Europe, de Stijl in Holland led by Theo van Doesburg and l’Esprit nouveau in France whose chief was Charles le Corbusier. These three groups evolved the Machine Style. After World War I French-German relationships were tense; when, in 1930,
+
+fig. 30. Charles le Corbusier and Pierre Jeanneret. Living room in the Pavillon de l'Esprit nouveau at the International Exhibition of Modern Decorative and Industrial Arts, Paris. 1925. The Pavillon alone in the 1925 exposition presented interiors from which gingerbread and plush were banished, and where a decent, harmonious tone prevailed. Le Corbusier and Jeanneret began to design furniture when they made simple rectangular cabinets as room dividers, composing structure and space in these small units much as they did in the larger shell of the house itself, harmoniously correlating the two design scales. Tables were readily developed along the same lines. Not specially designed, simple leather-covered arm chairs and bentwood work chairs sufficed in 1925, but four years later (fig. 32) the same designers had evolved a full repertory of interior furnishings.
+
+Bauhaus men were invited to lead the first exhibition of the German Werkbund in Paris this amicable gesture assured the Machine Style of international (though, as it proved, temporary) validity. A view of the main space in this exhibition is given in fig. 27. The chairs shown there are "machines for sitting," comfort is translated from cushions to spring-shaped frames. (For eighty years this idea had been played with, and only in 1926 found its expressive form.) Quality is expressed in the machine equivalents of handicraft materials and practices — for wood, steel tubes and sheets of glass; for static solidity, tensile strength. Lightness finds its natural expression in thin frames, perspicuous space and abundant illumination. The whole scene is one harmo nious web, woven to glorify the machine, to let it shimmer in men's sight. It is only just to remember that a vision of the new style had been embodied a whole generation earlier (unaccountably without emulation or much applause) in some works of Vienna's leading architect, Otto Wagner (fig. 28). Today, fifty years after this room was set up, not only the tubular metal tables, but also the lighting system looks surprisingly modern.
+
+Gropius was the first director of the Bauhaus; the last was Mies van der Rohe, lyric constructor and exacting technician of the Machine Style. It was Mies who in 1926 gave practical and beautiful realization to the idea of a spring-frame chair which can be seen in the study area of this main floor of the Tugendhat house (fig. 29), to the left of the great onyx screen. To the right lies the conversation area. This living-floor was the most refined and complete statement of a Machine Style interior: understandably it has become world famous. A year after the Tugendhat house was built, Mies used the same chairs and the same logic of structure in a less luxurious but equally beautiful room at a Berlin exposition (fig. 31). Rug and wood paneling define the living area.
+
+Le Corbusier, like his German and Dutch counterparts, faced powerful conservative opposition. In the midst of the frippery of the Paris 1925 international exhibition of fig. 34. Mart Stam. Study in house designed for the Weissenhofsiedlung exposition, Stuttgart, Germany. 1937. Stam, a Dutch architect, was prominent in European design between the two world wars. Like most progressive architects, in 1926 he was invited to build and furnish a house in Weissenhof, a Stuttgart suburb where, under the direction of Mies van der Rohe, a bold housing development was being erected. The completed buildings were opened as a public exposition the following year, and became famous as the most stimulating, convincing demonstration of modern design for daily life produced during these fruitful years, 1919-1939. Weissenhof was the progressive answer to pretentious 1925 art décoratif.
+
+![](images/8aca3441a8a57b58251734cea7cb87a976bf13d7b77014c743b5d996fac553e9.jpg)  
+fig. 31. L. Mies van der Rohe. Dining and living areas in a model home at the Building Exposition, Berlin. 1931. The relationships of elements in this interior are like those seen in figure 29; but in more limited space the architect has used bolder tonal contrasts. The painting is hy Kandinsky who was then teaching at the Bauhaus where Mies was Director. Today Mies heads the architectural faculty of Illinois Institute of Technology, Chicago. His recent buildings have greatly influenced architecture and interior design here and abroad. The furniture illustrated is by Mies; unfortunately he has not continued to work in this field.
+
+fig. 32. Charles le Corbusier and Pierre Jeanneret; Charlotte Perriand, collaborator in furniture design. Living room of annex to the Church house, Ville d'Avray, France. 1929. In this clean, sparse, masculine room there is a strict separation of supporting framework and large taut sheets; this is carried out in the details of the wall cabinets, the furniture and the building itself. The greatest amount of space is left for people and, in the same sense, the greatest freedom is left for the eye and the mind to move without hindrance. The final effect is controlled clarity.  
+![](images/7418ad49f085d2ea5fc71c4d9488770124a1f80aeaf0430e68b6692f1bd96434.jpg)
+
+![](images/a824f227a65709bf09df54f75d9bb6be64dce69af670c48ad1083937ee6b91d2.jpg)  
+fig. 33. Erwin Gutkind. Study designed for the Building Exposition, Berlin. 1931. Gutkind has created spaciousness in a small area by keeping the fixed furniture in one low unbroken mass providing a big display and work surface. The floor area is left clear in the center for a light metal chair and occasional table. Large fields of white, black and two intermediate tones are so disposed that an even simpler division into two areas results: the black cases unite with the dark middle tone; the window wall and carpet are thrown together. Each object and surface is allowed its maximum effect; this heightens even ordinary materials till they have a decorative intensity.
+
+![](images/0f3480b0ec71e9d6a41874eb63c786feae1632229ce15706294dc8b727b53a71.jpg)
+
+moern decorative arts (when academic reactionaries hoped to substitute effects for principles in modern design) it was le Corbusier's Pavillon de l’Esprit nouveau (fig. 30) which provided a full clear statement of insurgent achievement in interior design. Four years later, with the help of colleagues, he had evolved furniture to complement his architecture (fig. 32). As a model of the Machine Style this room is as thorough as anything of Mies', more logical if less charming. This room should be compared also to Breuer's in fig. 13. Both designers use shiny steel tube frames and slung canvas for chairs. Both paint plaster white. Both emphasize long horizontal wall cabinets. Both use non-mechanistic elements for warmth: Breuer, oriental rugs and ceramics; le Corbusier, wood, leather and tile in large areas.
+
+Two last examples of the Machine Style will indicate that it was not limited to metal furniture and white walls. Gutkind's little study (fig. 33) is a logical essay in enlarging the effect of a small space. Walls are painted different tones, furniture is massed against the walls quasi-architecturally. The few movable pieces are very light. (The chair is Breuer's variation on a spring frame.) These features were widely used and still have validity in interiors today. Stam's room (fig. 34) shows how many of the effects gained in metal could be achieved in wood too, a less expensive, less clamorous material. For this, the technique of bending wood evolved by Michel Thonet in Germany in 1836 played a large role (fig. 30 also shows a Thonet chair).
+
+The Machine Style translated the ideals of the Gothic Revival and its heirs into technologically up-to-date materials and processes. One spirit prevails in the work of the right angle designers of 1900 (figs. 18 to 21) and in that of the men after 1920 (figs. 27 to 34) . The nature of materials, productive skill and forthright function are dramatized equally in both. The utility of the thing made, how it is made, what it is made of, that is the gist of such design.
+
+## nature
+
+This spirit failed to satisfy many progressive designers of the 1930s and '40s who thought people were more important than the things they made or than the machines used to make them. Frank Lloyd Wright's idea, voiced early in the century, the machine at the service of man, had summed this up before. As in Wright's work, in the recent reaction from mechanization there has been an urge toward nature, toward wood, clay, earthy colors and touch-tempting surfaces. This return to nature had antecedents in the designers whose curved and modeled work we have already seen (figs. 22 to 25) and, still farther back, around l850, in the very beginnings of modern design (fig. 37).
+
+The Industrial Revolution was accompanied by a growth of the natural sciences (both were among the outcomes of eighteenth-century skepticism and empiricism) ; add to this the Romantics' love of wild scenery and it is clear that men and women of the nineteenth century were fascinated by nature intellectually and emotionally. Designers would not fail to share this sentiment: at the l851 exhibition in the Crystal Palace there were multitudes of objects whose forms and surfaces showed vegetable life with appalling realism carpets, textiles, shawls, pitchers, vases, infants' cribs and adults' chairs. In the 1870s and '80s the widely admired designers of France produced pottery, glass and cabinetwork in a similar vegetal style. Naturalism is an inherited trait of modern fig. 36. Aino and Alvar Aalto's furniture in the living room of the Oboler house by Frank Lloyd Wright, Los Angeles, California. 1941. Bent plywood was used for furniture frames by several enterprising designers of the 1930s. The technique derived from bentwood, but the forms were affected by those evolved in the 1920s for metal furniture frames. This was technically possible since plywood has more tensile strength than solid wood, a characteristic exploited to the full in the large armchair on the right, cantilevered like the metal chairs in figures 13, 27, 29, 31, 33. Although here architecture and furniture seem concordant, Wright himself is resolutely opposed to bending wood, dislikes this furniture.
+
+![](images/9eeffc2ad2cc808a0545769bbcc38718301f55de8891fe8a75419e755cb022a2.jpg)  
+fig. 35. Marcel Breuer, in collaboration with F. R. S. Yorke. Dining room in modern home designed for the Royal Agricutural Show, Bristol, England. 1936. In modern architecture plywood is not the only example of an old craft material reappearing in unusual form. Rough stone walls once carried with them such connotations of chill utility that it would have been unthinkable not to cover them in any dwelling except that of a poor peasant. Today most modern architects use the homely strength of stonework to enrich interiors. At Bristol it is used as a foil for the silky veneers that cover floor and ceiling, divide the rooms and sheath the cabinets. Easy spacing emphasizes the contrast of materials.
+
+![](images/8cac2668b6d686f990e0fc5ed4f53517e11e87f30fe02ce9b0550cb6bf16ccec.jpg)
+
+![](images/bd90788b2dd8bec0a3af0b588ba606dccaf78d0ece1e92709a221578b5683744.jpg)
+
+fig. 37. Mid-nineteenth-century naturalism.
+
+Grainger of Worcester, England. Ceramic jug exhibited in the Crystal Palace. 1851.
+
+Owen Jones. Sample flat pattern, based on horse-chestnut leaves; from Jones's Grammar of Ornament. 1856.
+
+Higgins of London. Silver-plated cream ladle, its forms taken from a buttercup, "appropriately," according to the Art Journal Catalogue where this and the jug are illustrated. Exhibited in the Crystal Palace. 1851.
+
+fig. 38. Charles le Corbusier and Pierre Jeanneret. Summer house at Vaucresson, France. 1934. Nature embellishes modern construction in this pleasure pavilion, as in many works by progressive designers of the 1930s. Concrete vaults replace conventional modern flat roofs; rock walls fill spaces between concrete posts, like nearby walls of glass block or plate glass. Man-made forms counter those of nature in design harmonies as lovely as any of the past, but more meaningful for our times.
+
+![](images/bcbba1e73f13779defe72f2745934a04c3a010b0294145452b0b13fb1ae291cd.jpg)
+
+![](images/5d01afd03e4cda97a8a1a8b82d1a47391e12c18c9b34fafacdb551cc9f1fd669.jpg)
+
+interiors. It could be said that, in modern design, nature was first imitated (1850s) then symbolized (1890s) and finally assimilated (1940s).
+
+It is this assimilation that characterizes modern interior design today. The designers of the later 1930s and ’40s who felt limited by the Machine Style were not eager to abandon the advances this style represented —expressive clarity, technical mastery and critical acclaim. Hence, they did not seek to replace it with a naturalistic counterstyle (as once the nineteenth-century admirers of Gothic sought to displace the classicizing styles). Rather they began to enrich and enlarge the language of the Machine Style, blending elements into it until a new amalgam appeared, not only different but more adaptable than any earlier form of modern design. The two trends——toward nature and toward technology——had a common ancestry in the eighteenth century and were never entirely divorced in practice (no more than the right-angled and rounded trends of the 1890s-1900s were strictly separate). The best designers of our epoch almost without exception have produced works which demonstrate clearly man's growing interest in integration with the natural world which accompanies his increasing control over it through science. In doing so, designers express no sense of contradiction. The
+
+![](images/2f9ba90c1200719ee864eae41511c0f91dfea764490f0aa302d048a882d6acd9.jpg)
+
+opposition of nature and machine is a device of interpretation, not a fact of experience.
+
+Breuer and Le Corbusier, leaders of the Machine Style, were among the first to go further, dramatizing the integration of nature and science as the milieu of modern man (figs. 35 and 38). Aalto and Mathsson used wood from northern forests for furniture (figs. 36 and 39) continuing the bentwood tradition begun a century earlier by Thonet (figs. 30 and 34). In the same spirit Charles Eames designed his first furniture (fig. 40) which has established its place among the positive and stimulating achievements of our art. Nature as a principal factor in the work of progressive designers today can be seen clearly in two recent interiors (figs. 41 and 42), which feature forms that demonstrate modern technology without using the older idiom of the Machine Style.
+
+fig. 39. Bruno Mathsson. Furniture displayed in New York City. 1953. Mathsson lives in the woodworking district of Sweden. Like Aalto in Finland, he believed that the materials and crafts of his country could be given progressive forms equaling (but not imitating) the good modern work of France, Germany and Holland. In the mid-1930s he began to design and produce furniture which he has continually improved and refined. Mathsson introduced tapes for comfortable, inexpensive seating—widely used today. He pioneered the reintroduction of complex curves in furniture design, expressing virtuosity and promising comfort. Mathsson's furniture is low to the floor, and light in weight. His patiently evolved designs help many modern interiors toward the expression of comfort, quality, lightness and harmony.
+
+fig. 40. Charles Eames. Furniture first displayed at the Museum of Modern Art, New York. 1946. Charles Eames with Eero Saarinen won first prize for furniture designs in a Museum of Modern Art competition, 1940. War production brought Eames new insight into industrialized methods and materials. His subsequent designs are shown here. Linear rhythmic edges and the form-fitting shapes recall Gaudí (fig. 24); sinçe his day, designers have learned to separate clearly seats and backs from supporting framework. Here Eames uses the joint between them as the comfort-giving element; resilient rubber discs weld the parts together and flex with a sitter's movements. With these thin planes hovering in mid-air, a new expression became possible in modern rooms and quickly won world-wide admiration.
+
+![](images/159950ecc0f8fdcceda81faddcda094c3a519008a01b783ea88c57116d7afdbc.jpg)
+
+![](images/e99b1055e477a86c877e6a4d1fc70b1a6b11983415135e3cd7a5466f6304d8bd.jpg)
+
+After tracing the modern tradition in interior design, it is natural to ask how it influences rooms that people live in today in the United States. Some photographs on the next pages should indicate what the answer may be. These are divided into regional groups: climate, terrain and communications give differing accents to the homes of each region, although all share in the main tradition of modern interior design.
+
+fig. 41. P. Schweikher and W. Elting. Living room, Schweikher house, Roselle, Illinois. 1938. Continuing interlocking horizontal lines and a strong sheltering roof are devices seen in earlier illustrations. The empasis on structural materials inside shows the influence of Wright. But the blend here has its own character which not only justifies the designers relationship to the modern tradition, but harmonizes carefully selected elements as they define light and space.
+
+![](images/19e4eefca7f2104b1bd44fb0bf671d7ba904b5991fd159ecb25031fcba73c2bd.jpg)
+
+fig. 42. Alexander Girard. Living room of his own home, Grosse Pointe Farms, Michigan, 1948. In this room the tone is set by furnishings more than by architecture. Natural effects appear in the many plants and in the fur rug, but most clearly in the freely angled layout, based on human motion and repose. A tall, curving screen shields the main sitting group, facing a fireplace just beyond the left edge of this illustration. A low cabinet, containing radio and record player, serves as a back for loose cushions on a plywood platform. Two such sets of cushions are angled toward each other for easy conversation. High-backed chairs and an Indian brass table complete the group. Light comes through a long, narrow skylight, hetween exposed rafters casting shadows on the wall The opening toward an enclosed garden is screened for summer; in winter it is closed with a wood panel to match the wall.
+
+fig. 43. Russel Wright. Living room of his own house, New York City. 1951. Russel Wright is one of few men in this country who have designed nearly everything to furnish a home. This room, remodeled by him and filled with his own creations, is unusually harmonious. At the right, the end of a paneled wall enclosing stairs and storage, its top a light trough. With the book shelves opposite, this defines a narrow area between living room and dining space. The chest containing toys has a drop front, leaving the top serviceable. The flagstones of the garden continue inside the full width of the room, far enough to serve as hearth for the fire place.
+
+![](images/7eb7fe1086b1708618cb5279a5103c3c23d53809ed57c0a0e9ca1ff64597a339.jpg)
+
+## new york
+
+fig. 44. William Lescaze. Living room of the Norman house, New York City. 1941. Across a niche with built-in lights, a narrow shelf holds pictures, easily changed. Below, a cushioned daybed. Air and daylight permeate the space, sensibly located one floor above ground. The window overlooks a garden court, toward the roof terrace of a separate studio at the back. A plain carpet and simple, light fabrics keep the room relatively spacious. The lounge chairs are like those le Corbusier used (fig. 30); two chairs are by Aalto.
+
+Figures 43 and 44 show modern living rooms in New York City. Moderate climate encourages a close connection between room and outdoors. Immoderate land values encourage narrow slices of dwelling space, crowded over and alongside each other. The communications of a great Atlantic port link New York more closely to the European centers of Western civilization than to other areas. Thus the typical form of these rooms -long, low, cubical and open-ended; and their tone—urbane, restrained and adaptable. Lescaze's interior is intended for formal enterlaining, Russel Wright's for intimate groups including energetic children. Both rooms express the four traits, comfort, quality, lightness and harmony, mentioned at the start of this text.
+
+![](images/cb923fd48b39432957ae628f361a30709d42f159c8b7e74d019af43f8072836c.jpg)
+
+![](images/ab698e7a51b930344f7956012cad21e7ed3f13d19394e5c44ea76451fe265195.jpg)
+
+fig. 45. Walter Gropius and Marcel Breuer. Living room, Gropius house, Lincoln, Massachusetts. 1938. A venetian blind is installed outside the window, but is operated from within; it shields the glass from severe weather. The main windows toward the garden lie to the left. The drapery to the right marks a dining alcove, separated from a hall by a curved wall of glass block, one of the few dramatic features of this quiet interior. Dark tones are kept within a low zone in the room.
+
+fig. 46. George Howe. Dining area and balcony, C. F. Thomas house, Mt. Desert Island, Maine. 1939. The big room of this house rests on great reinforced concrete beams projecting far out from the native rock over the waters of the bay. Within, nature is seen as if from a yacht. The conveniences of civilization and the challenge of a wild landscape are skillfully joined in a carefully understated design. Howe helped to design the Philadelphia Savings Fund Society's famous modern skyscraper in 1932.
+
+![](images/08cf2771470ae182e45f1e93dd28835ec1f3cdae024c202d0d4647f2315d3096.jpg)
+
+## new england
+
+Up the eastern seaboard from New York lies a concentration of advanced educational institutions where it is natural to find homes of progressive teachers of design. In the 1930s Harvard University in particular welcomed cultural refugees from Hitler's intolerant Germany, taking two leaders from the Bauhaus, Gropius and Breuer. They settled and built homes near the University on a tract generously donated; several colleagues joined them in building. This remarkable group of houses became famous; the three living rooms shown here (figs. 45,47,48) are from this group, and remain among the best interiors in this country. They show an easier spaciousness than New York rooms, and suggest more studious and deliberate ways of life, as their suburban, academic location would require. They also look more assertively modern, as if prepared to represent a new idea in a conservative but observant community.
+
+The interiors in figs. 45 and 47 are the results of collaboration between Gropius and Breuer; each man of course dominated his own home. Gropius' room (fig. 45) is characterized by quiet forthrightness. The mechanistic severity one might have expected from the founding director of the Bauhaus fails to show. Wide, unbroken areas give identity to wall, window, book-shelving and seats. Each element is linked harmoniously to the others and to the whole not by any tangible device, but by a strong subtle control of proportions, making a masterful interior.
+
+The spaces, lighting and surfaces of Breuer's interior (fig. 47) are more complicated, yet entirely controlled. The room is high-ceilinged, with a large window at the right. Behind the horizontal book cabinet lies stairs leading up to a balcony for bed, bath and dressing space, or down to a dining-kitchen area. Both levels are open to the main room. As this home served a bachelor, the openness was practical. The narrow wood siding that sheathes the walls is regular New England practice. But the reiteration of horizontal and vertical parallels seems related to Voysey (fig. 20) while the screened panels and other features recall Japanese usage (fig. 10).
+
+Walter Bogner's living room (fig. 48) is not unlike Gropius' in its large plain surfaces, nor unlike Breuer's in its juxtaposition of different blocks of space. To the left lies a fireplace alcove with built-in seats and bookshelves. To the right is a higher, more open area for general use which flows into a dining space not seen here. The stone chimney wall is laid up in a tradition as indigenous as the wood siding Breuer used. (Breuer's room also has one large stone wall, but quite different in character and placement from this one.) The round tables are Aalto's, the chairs are Mathsson's. (Breuer's handsome chair in fig. 47 is his own design for bent plywood, the same material used in these pieces) . Another reference in the Bogner interior accounts for the centrally placed chimney mass, for the recessed light strips at the ceiling break and under the books, and for a modulated change of space (in contrast to Breuer's dramatic split levels)——a reference to Frank Lloyd Wright in whose houses these elements frcquently recur. While Gropius lit his room with table and floor lamps, Breuer used wall fixtures extensively, and Bogner, as we see, built in troughs.
+
+North of the universities, far up the coast, lie the beautiful wildernesses of Maine, favorite summer vacation areas for those who can escape the hot lowlands on each side of the Appalachian Mountains. The dining space in fig. 46 is part of the principal room of a Maine vacation house built for an artist and family by George Howe, teacher and sophisticated architect interested in modern design. The influence of Japanese architecture is evident, but there is no outright attempt to recreate an alien atmosphere or to reproduce specific details. The table and chairs once more are by Aalto whose furniture was much used in the U. S. A after an exhibition of his works held at the Museum of Modern Art in 1938.
+
+![](images/0b29265d18c092b9e6468992afb8cae5e86f0a9faffe3e047a89281170ac6d99.jpg)  
+fig. 47. Marcel Breuer and Walter Gropius. Living room, Breuer house, Lincoln, Massachusetts. 1939. A great stone chimney and simple wood siding form the other walls of this lively interior.  
+fig. 48. Walter F. Bogner. Living space of his own house, Lincoln, Massachusetts. 1939. Curtains on an S-curved track, echoing Mathsson's chair frames, shield a dining alcove from other areas.
+
+![](images/d1ccc75f703dbff919a06b4c045e8c256dd4b8f68717d8e1998ffc91a75fbb44.jpg)
+
+![](images/988a55ebd523e8a5a477b1645eb85527e285532b6a08aab933d5bb25c8c8d203.jpg)  
+fig. 49. Harwell Hamilton Harris. Bedroom, Havens house, Berkeley, California. 1943. California's sunlight streams through two pictures on these pages, and it is interesting to note that the artificial lighting of figure 50 approximates the same effect.A fourth illustration shows the soft gray light freguently found in the San Francisco Bay Region. Two characteristics make these interiors different from the New England rooms just seen: larger window areas, and heavier detailing, especially in wooden structure and trim. 'The nearness of big lumber supplies and the vast and rapid growth of the region help to explain this.
+
+## california and the west coast
+
+Gardens are an important part of architecture in California (there this booklet is misnamed, the best “interiors" are often outside) ; a temperate, seasonless climate makes outdoor living delightful throughout the year. Big window areas unite inside and out; the informality Californians love translates this fact into rooms that are like luxurious terraces, and terraces that are comfortably furnished like rooms. The canyons around Los Angeles and the magnificent steep slopes of the San Francisco Bay Region, encourage articulated house plans on various levels, interspersed with garden courts, giving a romantic and casual tone to designs for living. California design is scaled for a large background: the Pacific is its ocean, big like the sequoias and the Rockies, big like the plains between the mountains and the Mississippi.
+
+Early modern architects in California—— the Green brothers, Maybeck, and later Frank Lloyd Wright——were deeply influenced by the English arts and crafts movement, believing in the dramatization of materials and structure. Old Spanish missions provided a romantic local precedent for similar crude, vigorous forms. Oriental design was another source of inspiration, recommended by its European prestige, reiterated by trans-Pacific trade and by “Chinatowns" in the port cities. These inheritances mark modern architecture and interiors out west today.
+
+Modern Californian design has prolif-
+
+![](images/d5cbc523356529ed85e2452bb90339f23079e7a38989be03a4698772f88962ea.jpg)
+
+fig. 50. Richard Neutra. Living area of the J. B. Nesbitt house, Brentwood, California. 1942. Current practice is close to its roots of half a century ago; compare this photograph to the Japanese room (fig. 10) and to a Morris-Webb interior illustrating the English return to the crafts (fig. 6).Modern structural and technological devices are also part of Neutra's room: the strongly framed roof rests on thin posts; the great garden wall of plate glass slides open when desired; the center of the house is constructed as one varied but free space.
+
+fig. 5l. Gardner A. Daily. Living room, Owens house, Sausalito, California. 1939. Another house in the environs of San Francisco. The windows are like fhose in the Harris house (figs. 49 and 52), but ceilings are horizontal and the floor is uncarpeted. Low bookcases form the back of a seat at right angles to the fireplace, dividing the room as we have seen it done by William Morris and Frank Lloyd Wright (figs. 1 and 2). Sturdy, emphatic wood construction reflects English Arts and Crafts design; light colors, characteristic of the San Francisco scene, continue Whistler's innovations of the 1870s.
+
+erated till its ramifications are nearly uncountable. The illustrations present an earlier stage of its growth, less rich and sophisticated than some work done today. Though executed before the war, these rooms show the characteristic elements of Californian interior design forthrightly developed
+
+![](images/08fef1a570f1147f2040c240e6f6012a1522017c78abcb466d6fea5744a04892.jpg)
+
+A less casual variant of west coast design flourishes around Portland and Seattle. Delicate scale and refined detailing mark the architecture. A warm, damp climate encourages lush gardens, set against the grandeur of the Columbia River valley. This region is evolving its own variety of modern interior design.
+
+Despite differences between west and east coasts the fundamental tradition of modern
+
+fig. 52. Harwell Hamilton Harris. Living room, Havens house, Berkeley, California. 1943. The principal room in an unusual structure, cantilevered on great trusses out from a steep hill in Berkeley. The cost of construction is partly balanced by the cheapness of a steep site. The sloping ceiling in the living room shows the under-surface of one truss. Around the living room fireplace, light fixtures and seats are built in. The chairs in both rooms are Mathsson and Aalto designs. Matting carpets the floors. The windows are continuous from floor to ceiling.
+
+interior design remains effective. The love of nature is clear enough. Technology is constantly strained to fit structures to steep, irregular building sites, to provide large, unintęrrupted window walls under heavy, wide roofs. Nature and science are closely integrated in these designs. Californian informality and comfort run hand in hand. The sense of quality, of the characteristic, has made the "Bay Region Style" in modern architecture and interiors known the world over. Light colors, lightness of line in furnishing, the conscious control of light itself as a feature of interior design—these are part of current practice out west. Harmony is sought, and is as often achieved along the Pacific as elsewhere in the United States.
+
+![](images/19eac40794e8bb666cf74980bbc824a00632d4c016d1b762724d477ac3da77b3.jpg)
+
+![](images/0a7b68a9c81892061a6d4cd1b2fa396ebf069e6273fba31543b413f182eaa1b5.jpg)
+
+fig. 54. P. Schweikher and W. Elting. Living room, Schweikher house, Roselle, Illinois. 1938. This photograph shows another corner of the Schweikher living room seen in fig. 41. Built-in bench and cabinets emphatically echo the heavy structure of the roof, more gently repeated in the wide flooring. The room seems composed of three elements only: wood, brick and glass. Wright comes to mind once again; he has built much in the region; younger men learn from his examples. Yet these Midwest rooms are not merely of a school, each strikes its independent note and each uses science to provide a frame for living in touch with nature.
+
+![](images/cec5fa59ec29a314b8f60e876c0160ff44d4fd54443f0a3a2499f85952cceb5c.jpg)
+
+fig. 53. Alden B.Dow. Living room, Bennett house, Midland, Michigan. 1952. The rooms on this page, from communities around Lake Michigan, are related to what we saw on the seacoasts, blending the influences of each. Both interiors are more suave than much California design; more spacious, less intricately conceived than New York or New England rooms. Alden Dow, an active architect in the Detroit area, has used the wide, dignified spacing of Mies (figs. 29 and 31) with dramatic levels and simple materials that recall Wright (figs. 16 and 17). In combining these and other influences Dow has given his personal version of the parts essential to modern interiors.
+
+## the middle west
+
+The Middle West has developed a strong regional design tradition. Richardson, Sullivan and Wright produced masterworks in or near Chicago and its early rival, St. Louis. Though their buildings are generally ignored and misused, the teachings of these men continue to affect architects and designers.
+
+Three important schools of modern design have developed in the Midwest: Eliel Saarinen's Cranbrook, near Detroit; Moholy-Nagy's American continuation of the Bauhaus in Chicago; and, in that same city, Mies' school of architecture. Around them (or in opposition) much activity has centered, and their students have scattered to enrich this area and others.
+
+At the turn of the century Chicago provided engineers and patrons who evolved structure and basic forms for the first steelframed skyscrapers, the most dramatic, spontaneous visual expression of the United States.
+
+In view of this, the Midwest is less original in interior design than one might expect; it has assimilated and blended ideas from other areas with its own rich indigenous source for modern interior design, the works of Frank Lloyd Wright.
+
+## conclusion
+
+This booklet closes with two interiors by the deanof architectural design in the United States, whose wide, profound influence has been acknowledged all over the world, who has built and arranged more interiors than any of his colleagues— that same Frank Lloyd Wright (figs. 55 and 56). Fig. 55 is from a small, beautiful home near Lansing, built for two busy teachers. In the center of the picture, an alcove facing the fire (the hearth shows at the left) has a dropped ceiling and a separate set of high windows. The high, open area of the main room receives blended light from a strip between the roof levels and big garden windows at the right. Except for the brick chimney, walls are of wood planks, inside and out. The ceiling is plywood; the floor concrete, colored red and carrying the heating coils. Seats, shelves, cabinets, even tables are built in; naturally a few movable chairs are part of the furnishings, though not seen in the photograph. The lower room (fig. 56) is from a house in the Arizona desert, more luxuriously furnished and more dramatically scaled. But in both the hand of creative mastery is evident, a victory and a challenge for modern interior design in the United States.
+
+What do these two rooms in particular reveal about the traits and attitudes which, this booklet claims, underlie the hundredyear-old tradition of modern interior design? Neither one is excessive in its emphasis on modern technology, nor on nature, for that matter. A close relationship between man and the natural world around him is assumed but not stressed. We see no fur throws, no "free-form" coffee tables, no tropical plants, no growing trees embodied in the rooms. Nor can we find, on the other hand, shiny metal trim, great walls of glass, intricate structure exposed. If these devices are avoided, it is not to sidestep dramatic effect. In the Michigan
+
+![](images/3f27c29572f8c5caf5fe2a4b744a0565a48a50bc27f20bb2681857263f4dc061.jpg)  
+fig. 55. Frank Lloyd Wright. Living room, Goetsch-Winckler house, Okemos, Michigan. 1939.  
+fig. 56. Frank Lloyd Wright. Living room, Pauson house, Phoenix, Arizona. 1940. Since burned.
+
+![](images/9812780c41b550efff9f4e83c26125bedaf1bbffe8315e24c7c8c1d202a183b2.jpg)
+
+![](images/5553f273757c8c621a23c58bb09af51aacdca202af9466756e6649cf472df9ed.jpg)
+
+Unprincipled pilfering of the past: what modern interior design had to fight.
+
+fig. 57. Hans Makart's studio in Vienna. circa 1875. Makart's big, decorative, historical paintings were so popular that the Austrian State gave him this up-to-date studio; with a corrugated tin roof and brilliant "gasolier" above the antiquarian props. Bunches of dried grasses (made fashionable by Makart) can be seen high up in front of the baldachin on the right.
+
+home, drama is provided by an even flood of light through an evenly flowing horizontal space; in the Arizona house, by a tall, cool cavern against the wide, white-hot desert. Nature and science do not enthral man in these interiors, they enlarge his experience. If you question to what degree harmony or lightness have been achieved, or practical comfort, or the intrinsic sense of how an interior is constituted (its quality), you might compare these illustrations to the one on this page, which shows a room in the grand style, arranged by an applauded artist in the days when modern design had just begun its fight. In human terms, the fight has been a good one.
+
+This supplements and continues a list in a companion booklet, What Is Modern Design? published by the Museum of Modern Art in 1950. Periodicals, the main source of information about current interior design, are listed in both publications. In the United States popular magazines (House Beautiful, House and Garden, Life, Living, etc.) also contain interesting material on interior design. Books are listed here in two groups: surveys of modern design as it is practised; and history and theory of modern design. In the second group no reasonable separation can be made between books about architecture, interior design and product design, since all these activities serve interrelated human wants; the best analyses are usually based on cumulative experiences in the whole field of design for use. For other recommended books see the list in What Is Modern Design?
+
+## 1. CURRENT PERIODICALS
+
+ARCHITECTURAL RECORD. Published in New York by F. W. Dodge Corporation.
+
+THE ARCHITECTURAL REVIEW. Published in London by the Architectural Press.
+
+ARCHITEKTUR UND WoHNFORM. Formerly Innendekoration. Published in Stuttgart by Verlagsanstalt Alexander Koch. ARTs & ARCHITECTURE. Published in Los Angeles by John D. Entenza.
+
+BAUKUNST UND WERKFORM. Published in Frankfort a. M. by Verlag der Frankfurter Hefte.
+
+DANSK KUNSTHAANDVAERK. Puhlished in Copenhagen by Landsforeningen Dansk Kunsthaandvaerk.
+
+DEsiGN. Published in London by the Council of Industrial Design.
+
+Domus. Arte e Stile nella Casa . . . nell'Industria. Published in Milan by Editoriale Domus. (Main articles summarized in English).
+
+ForM. Published in Stockholm by Svenska Slöjdforeningen. (Main articles summarized in English).
+
+FURNITURE FoRUM. Published in Englewood, N. J. by Philip L. Pritchard.
+
+HousE & HomE. Published in New York by Time, Inc INTERioRs. Published in New York by Whitney Publica tions.
+
+PROGRESSIVE ARCHITECTURE. Published in New York by Reinhold Publishing Corporation.
+
+SPazio. Rassegna Mensile delle Arti e dell'Architettura. Published in Rome by Gruppo Editoriale Spazio.
+
+WERK. Schweizer Monatsschrift für Architektur, Kunst und künstlerisches Gewerbe. Published in Winterthur by the Bund Schweizer Architekten. (English summaries of main articles).
+
+2. SURVEYS OF CONTEMPORARY DESIGN
+
+ALOI, RoBERTo. L'Arredamento Moderno. 5a serie. Milan, Hoepli, 1952.
+
+ALOI, RoBERTo. Esempi di Arredamento Moderno di Tutto il Mondo. Milan, Hoepli, 1950—in progress. A series: 1, Sedie. — 2, Tavoli. —- 3, Sale da Pranzo, — 4, Camere da Letto. — 5, Sale di Soggiorno., etc.
+
+BILL, MAx. Form; a Balance-Sheet of Mid-Twentieth Century Trends in Design. Basel, Karl Werner, 1952.
+
+Domus. Quaderni di Domus. Milan, Editoriale Domus, 1945—in progress. A series: 1, I Libri.—2, Gli Studi.— 3, Camini. — 4, La Cucina. — 5, L'Illuminazione. — 6, Tavoli. — 7, L'Elemento "Verde". — 8, Sedie. — 9, I Letti. — 10, Le Tende., etc.
+
+HALD, ARTHUR and SKAWONIUs, SVEN ERIK. Contemporary Swedish Design, A survey in pictures. New York, Pellegrini & Cudahy, 1951.
+
+LoFFELHARDT, HEINz. Hausrat aus Keramik, Glas, Metall, Holz. Stuttgart, Gerd Hatje, 1951.
+
+NELsoN, GeoRGE, ed. Chairs. New York, Whitney Publications, 1953.
+
+NELsoN, GEoRGE, ed. Living Spaces. New York, Whitney Publications, 1952.
+
+THE SOCIETY OF INDUSTRIAL ARTISTS. Designers in Britain, A Biennial Review of Graphic and Industrial Design. London, Allan Wingate; New York, Museum Books, 1949 — in progress. Already published 1947, 1949, 1951.
+
+SoCIETY OF INDUSTRIAL DESIGNERS. U. S. Industrial Design. New York, Studio Publications. Yearbooks: 1949-1950 and 1951.
+
+ZETTI AND SPREAFICo, eds. Quaderni Triennale Domus. Milan, Editoriale Domus, 1952 — in progress. A series: 1, Pizzi, Ricami, Tessuti, Paglia e Vimini. — 2, Oreficeria, Metalli, Pietre, Marmi, Legni, Pelli, Materie Plastiche. — 3, Vetri. -— 4, Ceramica., etc.
+
+## 3. HISTORY AND THEORY OF DESIGN
+
+ARGAN, GIuLIO C. Walter Gropius e la Bauhaus. Turin, Giulio Einaudi, 1951.
+
+ARCHITETTI DEL MOVIMENTO MoDERNO. Milan, Il Balcone, 1947-1950. A series: 1, William Morris. — 2, Giuseppe Terragni. — 3, Frank Lloyd Wright. — 4, Tony Garnier. -— 5, Alvar Aalto. — 6, Erik Gunnar Asplund. — 7, Joseph Maria Olbrich. — 8, Charles R. Mackintosh.
+
+CiRLoT, JuAN E. El Arte de Gaudí. Barcelona, Ediciones Omega, 1950.
+
+CoNDIT, CARL W. The Rise of the Skyscraper. Chicago, University of Chicago Press, 1952.
+
+GIEDION, SıcFRIED. Space, Time and Architecture. Revised, enlarged edition. Cambridge, Harvard University Press, 1953. (1st ed., 1941).
+
+HoWARTH, THoMAs. Charles Rennie Mackintosh and the Modern Movement. London, Routledge and Kegan Paul, 1952.
+
+IvıNs, WöLLIAM M. Prints and Visual Communication Cambridge, Harvard University Press, 1953.
+
+KAUFMANN, EDGAR, JR. Taliesen Drawings, Recent Architecture of Frank Lloyd Wright. New York, Wittenborn, Schultz, 1952.
+
+LANGER, SUsANNE K. Feeling and Form, a Theory of Art. New York, Scribner's, 1953.
+
+LENNING, HENRY F. The Art Nouveau. The Hague, Mar tinus Nijhoff, 1951.
+
+MoHoLY-NAGY, SIBYL. Moholy-Nagy, Experiment in Total ity. New York, Harper & Bros., 1950.
+
+MosER, WERNER M. Sechzig Jahre Lebendige Architektur, Sixty Years of Living Architecture: Frank Lloyd Wright. Winterthur, Buchdruckerei Winterthur, 1952. (Text in English and German).
+
+## photograph credits
+
+Frontispiece, photograph Ezra Stoller.
+
+Fig. 1, from Morris, Collected Works; fig. 2, Ezra Stoller; figs. 3 and 4, courtesy Musée des Arts Decoratifs, Paris; fig. 5, courtesy Saul Steinberg; fig. 6, from Muthesius, Das Englische Haus, 1908-1l; fig. 7, Gottscho-Schleisner; fig. 8, Ezra Stoller; fig. 9, Elmer L. Astleford; fig. 11, courtesy Frick Collection, New York; fig. 12, Annan, Glasgow; fig. 13, from Die Deutsche Wohnung Gegenwart, 1930; fig. 15, Elmer L. Astleford; figs. 16 and 17, Hedrich-Blessing Studio; fig. 18, courtesy Architectural Review, London; fig. 19, courtesy The Metropolitan Museum of Art, New York; fig. 20, from The Studio, London; fig. 21, Chicago Architectural Photography Co.; fig. 22, courtesy L'Art Nouveau, The Hague; fig. 23, courtesy Alexander Koch Verlag, Stuttgart; fig. 24, courtesy Archiu Mas,
+
+MumForD, LEwIs, ed. Roots of Contemporary American Architecture: a series of thirty-seven essays dating from the mid-nineteenth century to the present. New York, Reinhold, 1952.
+
+NEw YoRK MusEUM OF MoDERN ART. Mies van der Rohe, by Philip C. Johnson. Revised and enlarged edition. New York, Museum of Modern Art, 1953. (1st ed., 1947).
+
+ScoTT, GEoFFREY. The Architecture of Humanism, a Study in the History of Taste. London, Constable, 1948. (Reprint of 1924 edition).
+
+SuMMERsoN, JoHN. Heavenly Mansions, and Other Essays on Architecture. London, Cresset Press, 1949.
+
+THOMPsON, D'ARCY WENTWORTH. On Growth and Form. A new edition. Cambridge, The University Press; New York, Macmillan, 1948. (1st ed., 1917).
+
+VICTORIA & ALBERT MUSEUM, LONDON. Exhibition of Victorian and Edwardian Decorative Arts: Catalogue. London, H. M. Stationery Office, 1952. Supplemented by plates issued as Victorian and Edwardian Decorative Arts (Small Picture Book No 34, 1952).
+
+KUNSTGEWERBEMUSEUM, ZcRICH. Um 1900. Art Nouveau und Jugendstil, Kunst und Kunstgewerbe aus Europa und Amerika (catalog). 1952.
+
+Barcelona; fig. 25, courtesy Thomas Howarth; fig. 26, Charles Eames; fig. 28, from Deutsche Kunst und Dekoration, 1903, Alexander Koch Ferlag, Stuttgart; fig. 29, courtesy Atelier Desandalo, Brno; fig. 31, Berliner Bild Bericht; fig. 32, Le Corbusier; fig. 33, from Die Schöne Wohnung; fig. 34, from Inneraüma, Deutscher Werkbund, 1928; fig. 36, Imandt Photography; fig. 38, Hagstrom; fig. 39, G. Barrows; fig. 40, Sunami; fig. 41, Hedrich-Blessing Studio; fig. 42, Charles Eames; fig. 43, Gottscho-Schleisner; fig. 46, Schnall; figs. 47 and 48, Ezra Stoller; fig. 49, Roger Sturtevant; fig. 50, Julius Shulman; fig. 51, Roger Sturtevant; fig. 52, Man Ray; figs. 53 and 54, Hedrich-Blessing Studio; fig. 55, Leavenworth's; fig. 56, Guerrero.
+
+THIS REPRINTED EDITION WAS PRODUCED BY THEOFFSET PRINTING PROCESS. THE TEXT AND PLATESWERE PHOTOGRAPHED SEPARATELY FROM THE ORIGINALVOLUME, AND THE PLATES RESCREENED. THE PAPERAND BINDING WERE SELECTED TO ENSURE THE LONGLIFE OF THIS LIBRARY GRADE EDITION.

@@ -1,0 +1,38 @@
+## The Approach
+
+The competition brief required the design of a 'sustainable city\*. This was viewed predominantly as a city made self-sufficient by sustainable technologies, especially in terms of water, waste and energy. Boonah Two's approach accepted this requirement, but took it further to conceptualize the city within the frame of Sustainment. This meant addressing not just the built form of the city but also its economy and governance. Likewise, the entire biophysical operation of the city was conceived as a \*metabolic model'. The form and daily life of the city were envisioned to be deeply implicated in the creation and maintenance of ways of working and living in which the objective of sustainment infused social interactions, the form of governance, the nature of education, leisure and pleasure, plus care for people, services, the natural and built environments. The methodological means to bring all the design objectives together turned on designing-in-time. A fifty-year timeline was set, from which to 'design from the future to the present'.
+
+Such designing-in-time generated a substantial research exercise of probabilities, like climate change impacts, social and environmental needs, population redistribution, technological change, and so on. In turn, this research informed the writing of a year-by-year scenario for the fifty years. From this, design tasks were designated to cope with the potential risks and problems identified. Crucially, these tasks were commanded by two imperatives: those things needing and able to be redirected; and, that which needed to be newly introduced.
+
+Theoretically, two ideas underpinned the total approach: (1] designing things that perceptibly ontologically designed (that is: the designing of the structuring of structures of habitus), and (2] designing relationally. The initial aim of entering the competition was to learn how to deliver these ideas via redirective practice; as such it was a professionałt development learning exercise.
+
+![](images/e673b820f9bb137661a0569d118725d49aac31dd2207d15b4c3fee1056200ff5.jpg)  
+11 Boonah main street
+
+## Design Elements:A Brief Review
+
+So far in this account the content of Boonah Two has remained rather abstract. To correct this, what follows is a review of some of the key design elements and the thinking that underpinned them. All these elements figured in the designing-in-time'fifty-year scenario. Their presentation was a fusion of researched information, creative writing and design.
+
+## Designing a Metabolic City
+
+The transition from the existing settlement of Boonah to Boonah Two was conceived of metabolically. This was not restricted to the biological. Besides organic matter, a city inducts and excretes inert materials, goods, services, information, images, cultural forms, people and more.
+
+Designing a metabolic city requires the city to be established and managed as much as possible within the immediate catchment of its settlement. The city has to be directly connected to its region's ecological carrying capacity and natural resources (like water, soil, biodiversity]. This also means identifying the number of people that the catchment can support. The form of the city, the goods and services it employs, the human capital it selects and recruits, the industries and business it attracts or creates, the cultures it forms - all are essential to create and maintain its metabolism. A metabolic city has to have the capability to largely sustain itself and adaptively self-reproduce rather than just grow in size and impacts. It has to spawn another city that functions in the same way but with the ability to adapt to a different catchment and population.
+
+Base-level self-sustainment for a metabolic city means sustaining the food, energy, water, waste infrastructure, common utility materials and cultural needs of its population without defuturing its catchment. The move from Boonah to Boonah Two included retrofitting the catchment to make it largely self-sustaining in terms of food, energy, water and common utility materials. From such comparatively high base level of self-sustainment, all growth would have to equate with improved performance upon this base.
+
+Here is a range of examples of the design strategies to deliver the metabolic base of the city. it should be noted, in considering these examples, that most areas of Australia already have major water shortages, with many large cities being on the highest levet of water restriction. Equally, there are small towns where all the water has to be trucked in. During the first decade of the twentyfirst century the nation has experienced its worst drought in some areas, it is claimed, for 1,000 years. At the same time, extreme weather events - cyclones, flash floods, hail storms and bush fires - are becoming more severe and frequent.
+
+## Feeding andWatering the City
+
+The design imperative to feed the city can be significantly assisted by the development of foodscapes. Central to their creation is making the conservation of agricultural land a major priority within an overall 'geological and topographic good land use management plan.' Such a plan would not onty inteqrate rural and urban food production to maximize local food production and reduce 'food miles' but could also make a major contribution to the growth of local employment. It would take into account protection of crops against extreme weather in relation to planting. construction of wind breaks/shelters, and the design and construction of fabricated structures, including for hail protection.
+
+The plan would consider water catchment to maximize topographic surface and subsurface water movement advantage, as well as harvesting rainwater from built structures.Allstored waterwould becovered to eliminateevaporation. Experimental means of water conservation, like the use of condensers, would be explored. Likewise, all urban landscaping would be designed for ultra-low water requirements. Commercial and domestic water consumption would be regulated.
+
+## Climatic Defensive Architecture
+
+All of the city's architecture would be informed by this mode of design which seeks to (1) protect and adapt existing valued built structures from likely environmental and climatic impacts; (2] protect human life. the natural and artificial means that sustain it and its interdependent life forms; and, (3] protect and conserve vital resources (this includes civic, commercial and domestic dwellings, their ability to harvest water and function within energy and communication networks). Responding to increasing fire risk in Australia (both frequency and intensity of fires), measures would be taken to protect the city against fire. This includes: the encirclement of the city by a fire barrier several hundred metres wide (constructed from a low-grade paving material, like slag) and the design of the water supply to facilitate comprehensive fire fighting.
+
+## Construction Methods
+
+The setting up of a local, flexible and sustainable commercial and domestic systems buildings industry was adopted as a key means to: (1) establish the short term core of a nascent local economy as a catalyst for social and economic development; (2} provide the basis of an industrywith long term potential to contribute to manufacturing and exporting Rapid Assembly Sustainable Structures (RASS); and, (3) enable a convergence of the efficiencies of industrial production while reducing transportation energy and financial costs of such a materially intensive project.

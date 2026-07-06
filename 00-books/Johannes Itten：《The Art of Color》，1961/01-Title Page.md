@@ -1,0 +1,1 @@
+JOH ANNESITTEN # THEARTOF COLOR # The subjective experience and objective rationale of color Translated by Ernst van Haagen A VNR Book New York Chichester Weinheim Brisbane Singapore Toronto JOHN WILEY & SONS, INC. ![](images/88505485e9591cc5b1d4fe7f723d4a733785a12b0616a7c1d75d96b80aa50a51.jpg)

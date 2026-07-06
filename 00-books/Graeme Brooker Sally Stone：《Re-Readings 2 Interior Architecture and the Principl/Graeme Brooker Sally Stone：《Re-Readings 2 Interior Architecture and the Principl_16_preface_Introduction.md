@@ -1,0 +1,23 @@
+# Introduction
+
+> Section: preface | Source: 05-Result-MD\03-Design-History-replenish-1\02-Books\Graeme Brooker Sally Stone：《Re-Readings 2 Interior Architecture and the Principl\Graeme Brooker Sally Stone：《Re-Readings 2 Interior Architecture and the Principl\Graeme Brooker Sally Stone：《Re-Readings 2 Interior Architecture and the Principl\auto\Graeme Brooker Sally Stone：《Re-Readings 2 Interior Architecture and the Principl.md
+
+## Introduction
+
+Insertion is a very lively word: it defines that act of inserting or carefully placing something within something else. The action is deliberate, thoughtful, measured and uses the upmost care. Insertion implies a clearing away or making room, creating a space for the new element to be placed within. This is not a passive brushing or tidying up, but a much more expressive sense of unclogging, evacuating or removing unwanted detritus to make way for something important.
+
+It is interesting that another expression for creation of clear space is making room. Making room for another activity, for another use; making room for another room. Heidegger describes this clearing away as ‘admitting and arranging’. So when the removal of the rubbish is complete, something new is allowed to enter. Thus there are two distinct processes, one subtractive, the other additive. Both are dynamic, proactive and self-conscious.
+
+The new element, that is the insertion itself, is something of an intruder; it could perhaps be regarded as an infiltrator, invader or unwanted guest. Or possibly the insertion acts as a saviour, a facilitator, an emancipator. This additional element is self-contained, it is complete and independent, and although directly reliant upon its host it has an individual identity. It is definite and distinct, and thus separate from the original.
+
+When an existing building is remodelled, the strategy of insertion denotes a new element that has been placed into, around or alongside an existing building. There is a discrete and defined relationship between the new and the old, because the new element is built to fit exactly within or around the original. The dimensions of insertion are based upon the parameters of the structure that it has established the relationship with. The space that has been created by removing the unwanted accumulation of living is exact. It has definite dimensions and three-dimensional articulation, which the insertion has to adhere to. The insertion is built to fit.
+
+An architectural insertion is usually a single complex element with a specific function. This may be made of a number of parts that have been collected together, such as a circulation system, an auditorium or a meeting pod. The necessity for the insertion to be distinct means that there is generally a name for the element, which reinforces the sense of separateness or difference. It is often an indispensable element within the organisation of the building, and the users will benefit from its insertion, which will facilitate their needs. This complex object can sometimes contrast strongly with the existing building, and make quite obvious the intent of the insertion. It can of course work with the language of the host building, but invariably the new is easily distinguished from the old. It can be a dominant element within the space, or it may be subservient to the greater picture.
+
+KHBT Architects have connected two small apartments in London with a long sculptural spine. This insertion links two tiny flats which were once divided by a communal staircase. It is an element that facilitates the needs of the residents of the flat by creating a connection that unifies the once separate and distinct rooms. The insertion is long narrow strip of dark brown, ornamentally grained, walnut wood. It is a meandering ribbon that forms a dominant and useful element within almost every area of the apartment. Thus it is the work-surface within the kitchen, the actual staircase, the covering within the circulation area and it also supports the tub in the bathroom. This strip, which is constructed to fit exactly into the interior spaces, is absolutely straight, but not flat. It rises and falls with the undulations of the original building. The insertion unifies the two different spaces, linking the once
+
+separate flats and uniting them into a single usable entity.
+
+Figure 2.13 A single polished walnut spine designed by KHBT Architects unites the disparate spaces within an apartment in London. The insertion is at once the staircase and the kitchen.  
+![](images/76efc068d9cc84d58a7c10d974dd830ec8feb77994aa4025238df5a6de6a2d5c.jpg)
+

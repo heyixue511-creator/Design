@@ -1,0 +1,169 @@
+# Methods for evaluating29 information design
+
+Will Stahl-Timmins
+
+The chapter presents some principles for the evaluation of information design. The position of the paper is that the success of a design should be measured through how efectively it conveys understanding in a particular context of use.
+
+The chapter introduces some general concepts and terminology for the evaluation of information design, including both formative evaluation (the foundation of iterative/participatory design) and summative evaluation (proof of concept/ quantification of benefits).
+
+There are many approaches to evaluation available to information designers as well as opinions on best practice. Those beginning to explore the field of data visualization often encounter Edward Tufte’s preferences for simplicity and clarity (Tufte 2001), but may also hear the proponents of embellishment such as Nigel Holmes (Heller 2006; Holmes 2009). The position of this paper is that both of these perspectives, and many others, are perfectly valid for diferent contexts of use. For an audience, such as financial analysts, that is already motivated to look for information, a simpler visualization approach may be appropriate. For a data journalist or science communicator aiming to attract the attention of the less-engaged reader, more visual embellishment may be required. The key point in both of these situations is whether the information is understood or not by a particular audience.
+
+There are many ways of testing whether diferent designs have the potential to improve understanding. Due to time and budget limitations perhaps the most common kind of evaluation carried out on most information design work is an informal test. A  colleague, friend, or perhaps someone from the intended audience for the design is asked: ‘What do you think of this?’ While such simple tests can give quick responses and useful suggestions, the results are limited, particularly if the person asked is bound by rules of politeness and does not wish to ofend. Another common method of evaluation is ‘trial by fire’. A design is deployed, and web analytics or sales figures are used ‘after the event’ to determine whether the design was successful. While such analytics are useful, it can be unsatisfactory to learn about poor performance at this late stage, leading potentially to customer frustration and even reputation damage. There are many opportunities for more formal evaluation throughout an information design project. Designers can employ evaluation methods used by social scientists, or collaborate directly with experts in marketing and/or psychology (Wright 2009). Such methods are quite common in advertising, where persuasion and behaviour change is the primary objective, but can also be adapted to information design.
+
+## Selecting methods
+
+David Sless recommends the use of evaluation before, during, and after an information design project (Sless 2008). Carrying out evaluations on the performance of documents before and after a redesign project can be useful to show the efectiveness of design to a range of stakeholders. This can be described as ‘summative’ evaluation. This kind of research is characterized by the use of ‘quantitative’ (numerical) data such as web metrics or time trials. It can be useful to demonstrate the performance of a design, but often does not suggest the reasons for poor (or good) performance, or how it might be improved.
+
+In the early stages of a project, evaluation is more commonly used to refine and develop the design approaches. This more ‘formative’ kind of evaluation is the foundation of iterative/participatory design (Simonsen and Hertzum 2012). It is often more ‘qualitative’ resulting in rich data such as video, audio, or free text responses. This kind of research aims to find how designs are used and understood and can reveal unexpected use patterns or other potential issues that could influence the design. However, because of the time investment needed to process such complex research data, the number of people taking part in such research will usually be relatively small and therefore generalizations about larger populations may not be so accurate.
+
+Choosing the kind of research methods to use may be driven by considering the kind of information presented, the audience, the context of use, and the practicalities of time and budget available.
+
+## Planning an evaluation study
+
+The main aim of most information design studies will be to determine efectiveness. This could be by comparing two diferent design approaches or a new approach to the existing one sometimes referred to as ‘A/B testing’. Alternatively, responses from people using a new design may be compared to a control group of people that are not shown the design). There are several diferent ways of making such comparisons some of which are introduced below.
+
+In much scientific research, such as medical trials, the gold standard of study design is the randomized controlled trial. A group of participants is recruited and these people are randomly assigned to the diferent ‘conditions’ of the study (often diferent information presentations). Ideally, this should be a truly random selection to avoid both known and unknown ‘confounders’, or diferences between participants that could afect the outcomes. This kind of study design is useful for larger, ‘summative’ design evaluation, but ‘formative’ tests should also be randomized if possible. There can, however, be some practical barriers to randomization in information design studies. For example, for summative evaluation of a new large-scale signage system it would be impossible to randomize participants to view diferent versions of the signs, although virtual reality systems can be very useful for this kind of test (Lundberg and Nyström 2012).
+
+If preference data for one particular design over another are required, a ‘randomized cross-over’ approach can be used in which participants see two (or more) designs, but in a random order. It is generally helpful if the same questions are asked of both groups in the same order with just the designs to be tested changing in order of presentation. Alternatively, and assuming there is a large group of study participants, the order of questions asked could also be randomized (such as by shufling cards with questions on).
+
+As mentioned above, in some situations it can be dificult to control which people see which design. The example of a  large-scale signage system is one such situation. Also, in studies to find out which of a range of designs best attract attention, a live ‘in situ’ trial in which participants only see one of the design alternatives is often the most appropriate. An advantage of such evaluations is that they represent a real context of use, with multiple sources of competing information, noise, other people, etc. One way of testing in this kind of situation is a  ‘cohort study’ in which the diferent design approaches are shown to non-randomized ‘cohorts’ of people. For example, the same location could be used to display diferent designs on diferent days. The disadvantage of this is that diferent kinds of people might visit the space on diferent days, potentially introducing bias. Alternatively, diferent design approaches could be tested at the same time but in diferent (but comparable) locations. While sometimes necessary, this kind of evaluation is generally regarded as a weaker test than a randomized study, as diferent days/places could have other confounding diferences that could afect the evaluation.
+
+Sometimes, however, there is no readily available comparator. There may only be time or other resources available to develop one design, and there may not be an existing design with which to compare. In this case, a ‘pre-post’ design may be possible. For example, if an information leaflet is being designed, study participants may be given an initial test, then are exposed to the design, and then tested again. This is often regarded as the weakest study design, since no comparator is used, and the efects observed may be due to something other than the experience of viewing the design (such as being asked the same questions twice, or the perceived expectations of the interviewer). Design studies that compare diferent solutions have the advantage of assessing the performance of alternative ways that information could be displayed.
+
+Many of these approaches to evaluation can be extended to follow
+
+## Will Stahl-Timmins
+
+participants over time (known as ‘longitudinal’ studies). This can be useful when a  design is not intended as a  one-of design intervention, but something that people will refer to regularly. The main problem with longitudinal studies is participant retention. It is quite common to lose track of people through changing contact details or lack of enthusiasm, for example. This can also bias the results of a study as it may be that specific segments of people from a group are lost because the design is not meeting their needs and they lose interest, or they simply have busier lives than those who remain in the study.
+
+Other forms of bias can be countered using more sophisticated research techniques. For example, it is generally a good idea to use ‘blinding’ whenever possible. In blinded studies the person running the study does not know which design approach a  participant has been shown. Even with the best of intentions they could otherwise subtly influence responses. Researcher blinding can be organized by a third party coding the responses with a letter or number and only revealing which is which after the analysis is complete. The principles of ‘double-blinding’ often used in medical research (where neither the participant or the person running the study knows which group the participant is in) are more challenging to apply to design research – it is normally quite evident to the person running the study what the participant has seen. However, some principles can be useful. For example, if the designer is the person running the test, this should be concealed from the participants to avoid the ‘politeness’ issue. Or, better still, a neutral third party should run the study.
+
+## Sampling
+
+It is of course important to think carefully about who will take part in a research study. In design research one of the largest influences will be the intended audience of the design. It is of course usually impossible to test a design solution with every potential user (a ‘census’). For this reason a ‘sample’ of the population of all possible users is used for a research study. In an ideal world, sample study participants would be selected randomly from a list of all people in the target population. In this case (as long as the sample is large enough) it would be reasonable that the study results would be reflected in the entire population. Large web services, such as Google, often use randomization of their users, and show new versions of a web page to a small percentage of their total users to evaluate a new design. This method is purely quantitative and there is no direct contact with the participants, the data that can be gathered are limited. In many cases the designer will not be sure exactly who will be in this population that will use their design and what their characteristics will be.
+
+Other techniques can be used to sample populations. In an ‘ordered sample, every 100th user could be selected until a particular number is reached. The problem with this method is that the resulting sample could consist of those who respond most quickly to an invitation to participate, and not typical of the overall population; for example, the ones with the most time to respond.
+
+‘Purposive’ or ‘quota’ samples may be used to improve representativeness of a larger population. Participants will be asked some initial qualifying questions before they can take part in a study. For example, a quantitative study might choose to run a quota sample based on national statistics on age, gender, and region to get a sample that is ‘representative’ of the national population.
+
+The number of respondents required for the study can difer greatly depending on the kinds of data being collected. For qualitative studies, particularly those aimed at ‘formative’ evaluation during a project, around six to ten people are commonly used per design option tested (Preece 2002). Beyond this number, users tend to come across the same mistakes and the data reaches ‘saturation’ (Sless 2008). Quantitative studies tend to be much larger. Estimating the sample size needed to detect diferences in responses to design approaches can be challenging. For more information on calculating sample sizes for quantitative studies, see Real world research (Robson 1993).
+
+## Measurements
+
+The kind of data collected by a design study will largely depend on the information being presented, and the reason for the information design work being carried out. Many studies use three key metrics: time, accuracy, and preference. Other parallel metrics may also be gathered.
+
+## Time
+
+In many cases the reason for an information design project is to provide time-saving solutions. For example, e-health websites are often designed to allow patients to get quick access to information. Similarly, public information, such as transport timetables may be redesigned in order to enable a person to find the time at which a bus or train departs as quickly and eficiently as possible.
+
+In such situations a task-based study is often the most appropriate way of determining the efectiveness of diferent design approaches. Study participants could be asked to find particular information in a timetable, and then the time to find this information can be measured and compared across design approaches. Care should be taken in this kind of study to use a range of test tasks, typical of real-world use. For example, a timetable could be used to find the time of the next bus, or to find how long it takes a  bus to travel between two stops. Diferent information presentations could make diferent kinds of information within them easier or harder to access.
+
+## Accuracy /knowledge / memory
+
+It is not always appropriate to test the speed at which a person can find information; for example, if the goal of a design project is informing or educating people. Testing what kind of information is transferred, or how long this information is retained is likely to be more important. This is often assessed by asking questions after a participant has viewed a design. What is really tested in this kind of study is short-term memory for information. This can, of course, change over time. If the information needs to be retained over a longer period, a follow-up may be necessary (i.e. a longitudinal study).
+
+Sometimes, such studies can be confounded by previous knowledge so it is particularly important to test designs using either a control group. Alternatively, some kind of pre-test can help establish that viewing the design does in fact explain the knowledge levels recorded. It is also problematic to record accuracy or knowledge when a ‘correct’ response is not known, when the information presented is not clear-cut or covers controversial issue, about which participants may hold pre-existing beliefs.
+
+## Preference and confidence
+
+To measure preference some kind of comparator is required. For this reason participants may have to view more than one design, such as in a randomized, cross-over study. Preference metrics are often used in market research for advertising, but for information design research preference can be a  problematic metric. Participants could ‘prefer’ a  less eficient design for reasons other than its communicative properties – they might like the colour or type more, or they might just be familiar with an older design. Preference metrics are therefore of limited use for determining diferences between an already established presentation and a redesign. An alternative to testing preference may be to test how confident people feel when using particular designs. In many situations the level of accuracy (if this can be known) should be recorded as well, since false confidence is usually not desirable.
+
+## Insights/opinions/atitudes
+
+Another metric that has been used for data visualization studies is the number of insights gained from looking at a design. This is often useful when seeking to determine the impact of a  design, when ‘knowledge levels might require leading questions that could bias responses. Insights can be counted or recorded qualitatively. Insights can also be measured against time to find them. However, simply counting the number of insights gained while using a design can be misleading. Insights may be profound or trivial, and one profound insight might be considered more useful than five trivial ones. It may be possible for a researcher to rate the quality of insights although care is needed here as they are at risk of their own biases influencing such quality ratings.
+
+## Behaviour/intentions
+
+Data visualization and other educational materials intended to afect people’s opinions or attitudes could also be measured. As with preference studies, a comparator of some sort is very important in order to control established opinions that may not be influenced by the design being tested.
+
+However, behaviour change is notoriously challenging to measure. It can be measured through questionnaires which ask participants about their own recollection of their behaviour, but this may not be accurate, either because respondents do not remember their behaviour accurately or may not wish to disclose it. Other people (family members, carers, etc) can be asked, but behaviours can be hidden from them. There are also many situations in which a behaviour changed in the short term may not last. For this reason, longitudinal studies may be required for behavioural measurements. Intentions can be used as a proxy for behaviour, according to the theory of planned behaviour (Fishbein and Asjen 1975). This suggests that if a person states that they intend to do something, this will correlate to their actual behaviour.
+
+## Response capture
+
+There are many diferent ways of capturing and recording research data. The kind of data needed will influence capture method. For example, to measure how much a  participant knows about an area after browsing a website, one could ask them to fill out a questionnaire about their knowledge, interview them, or even ask them to keep a diary over time to see how the knowledge afects their everyday lives. In a diferent context, time to find information could be measured by an online survey or a  one-on-one session with a  researcher giving questions and recording response times. The latter option allows the time data to be supported by a video recording or even eye-tracking to assess how participants are using a design, or interviewing participants after each trial to understand more about how their responses were formulated.
+
+It is advisable to pilot data capture with a small number of participants to iron out practical issues in a study. If a questionnaire is being used. Piloting provides an opportunity to refine unclear items in questionnaires, iron out software bugs in online capture systems, and check that participants are able to do what is required of them.
+
+## Informal tests
+
+Informal tests are often the only methods available to designers who often don’t have time or budget for substantial evaluation studies. However, it is still important to think about the design’s intended audience and context of use. It may still be possible to carry out an informal test in situ, for example asking someone to use a navigational aid to find a destination, or to use your informational aid in a busy, noisy environment.
+
+When showing a design to someone as an informal test specific questions allow you to focus your investigation. For example, you could ask someone not only whether they like the design (preference, opinion data), but also ask them to find particular information (as in a time study), or to summarize the information that is being communicated (knowledge, memory). Other metrics such as people’s confidence, or the insights are appropriate, even to informal tests.
+
+## Questionnaires
+
+Often one of the quickest and cheapest methods of gathering research data is with a questionnaire. A structured series of written questions can potentially reach the large numbers of people needed for statistical analysis. They can be conducted online, via telephone, post, or in a particular location (shopping malls are a  favourite). Online and telephone questionnaires allow people from a large geographical spread to be contacted easily. Because of their potential reach and relative ease of administration, questionnaires are often used for summative evaluation.
+
+There are a number of disadvantages to questionnaire-based research Response rates are often notoriously low and may often deliver a biased sample (for example, those with more time to complete the questionnaire, or with a  particular interest in the area that is being researched). Questionnaires can also be frustrating for participants if questions are badly structured. Piloting is particularly important in questionnaire-based studies.
+
+## Interviews
+
+More formal one-on-one test sessions can be useful for assessing individual use of information design, across multiple people, in a  comparable manner. Such interviews can be conducted in person or over the phone (or with internet-based voice services such as Skype, or similar. The data recorded from such interviews can then be transcribed and analysed in depth at a later date. This kind of data can be particularly useful for formative evaluation of a design and also to understand participants’ knowledge their suggestions and improvements.
+
+A  useful technique for understanding how participants interact with an information presentation is cognitive interviewing, which was developed for evaluating questionnaires (Drennan 2002). This method has two main techniques, ‘speak aloud’ and ‘probing’. The ‘speak aloud’ protocol places a higher burden on the interviewee, but may be suitable for less experienced interviewers. Participants are encouraged (and reminded) to talk through their thought process aloud, as a ‘stream of consciousness’ as they use the information they have been presented with. For example, in a task-based interview, they might say: ‘I’m now looking down the column of names to find one beginning with B, then looking across to see which is the largest value . . .’. The second technique, ‘probing’, places more burden on the interviewer but can be more natural for the interviewee. The interviewee is asked to carry out specific tasks. The time completed to carry out the task may be recorded. After the task is complete the interviewer will ask participants to recall how they found information during a task. For example, they might ask: ‘How did you find the correct data point?’ or ‘What were you looking for after you had found the right category?’ This has the advantage that participants can carry out the task uninterrupted although runs the risk that they may not recall the details of task completion accurately.
+
+Video can be a particularly useful way of recording task-based interviews, allowing participants’ words to be captured. Video can also be used to record time and accuracy, which can later be read from the time stamp on the recording.
+
+## Observation
+
+The process of observing behaviours can be a powerful and useful data capture method, particularly for ‘in situ’ research in signage/wayfinding or other public information displays. Frequent measures recorded in observational research are time and behaviour.
+
+Caution is needed regarding the ethics of recording such information. Informed consent always must be given by participants in a research study. However, obtaining this before observing a participant in a public setting could influence their behaviour. In many information design studies it is better to seek informed consent from participants after the observation and allow them to opt out of the study if they wish. Even so, a strong case must be made for the benefits of such research to the participants in question for such research to meet the requirements of research ethics boards.
+
+Observation can also be employed in more controlled lab studies. As mentioned in the discussion of ‘cognitive interviewing’, video-recording can be used to track participants’ actions while using information to carry out a  task, although transcribing and analysing such recordings can be laborious. Eye-tracking cameras that record where participants are looking are sometimes used in information design studies. In other research areas, physiological responses that may indicate participants’ stress levels are sometimes used; for example measuring heart rate, body temperature, and galvanic skin response. Such methods are relatively unexplored in an information design context, but could potentially be employed to measure frustration or stress in intense, time-pressured situations. Brain imaging may be another area with future potential for exploration although is not yet a developed enough technology to provide the kind of detail that information designers would find helpful and cannot yet be set up in a way that might allow testing in a context that approaches the contexts or normal reading.
+
+## Focus groups
+
+While questionnaires and interviews are good ways of recording data about information displays that are intended for single users, diferent techniques are required when information displays are intended for use by multiple people simultaneously, such as museum exhibits aimed at whole families. For this kind of situation, interviewing the relevant users as groups may be more useful that individual interviews, allowing participants to interact with each other.
+
+Focus groups can also be used to evaluate designs intended for individuals. Focus groups can collect a lot of data in a short time (Freitas et al. 1998). Since participants can interact with each other, focus groups allow for discussion and may reveal diferences of opinion that might not be raised in individual interviews. So focus groups can be useful for controversial subjects, although the group dynamics of a focus group can also hide differences that might be revealed by individual research; for example, some people tend to ‘go along with’ a consensus (or, conversely, have a natural tendency to oppose such agreements.) Hence focus groups require careful management and other methods, if feasible, may be preferred as a more reliable way of gathering feedback.
+
+## Applying results
+
+Research data from formal tests can be used both to inform design process and to demonstrate performance. The results of well-conducted research are frequently complex and/or surprising. Some of the best research comes from keeping an open mind and not expecting a particular conclusion. While a clear message may or may not come through, subtle and previously unknown issues can be revealed. Particular groups of people might use an information display in diferent ways, or perhaps one part of a design document or display could be shown not to work as intended. The first step towards understanding some of these relationships is to analyse the research data that has been collected.
+
+Quantitative data may be suitable for statistical analysis. Software packages such as SPSS (<http://www-01.ibm.com/software/uk/analytics/ spss/>), Stata (<http://www.stata.com>), and R (<http://www.r-project. org>) are designed to perform common statistical tests. Statistical testing may be used to find out the probability that the results observed in a study would have happened by chance, given the number of people that have been tested. A  ‘statistically significant’ result of analysis indicates that the data from a study are unlikely to be due to chance, suggesting there is a diference due to the materials being tested. The results of a quantitative assessment generally tell a researcher whether a design is performing well or not, but not why. Therefore this kind of research is most often useful for more summative evaluations, for example, to demonstrate a level of confidence in a particular design. More information on how to perform statistical tests can be found in manuals for common statistical analysis software (Field 2005; Acock 2014).
+
+Qualitative data is perhaps more natural to most designers in that the insights it delivers can be useful for refining design concepts and implementations (as in iterative/participatory design). However, the challenges of using qualitative data to inform the design process should not be underestimated. Even just a few 30-minute interviews can produce a lot of data, and significant efort will be required to transcribe and analyse such rich information. Interviews and focus groups are often audio- or video-recorded, and transcripts of these can be useful for analysis. There are many structured strategies for analysing qualitative data. One of the most widely known is called ‘grounded theory’ analysis, which involves multiple researchers coding the statements in research transcripts according to their fit with underlying (and pre-established) theory (Glaser and Strauss 1968). However, there are more practical approaches that may prove more suitable for information design research, such as the framework approach (Ritchie and Spencer 1994). In the framework approach, transcripts are analysed both on the basis of pre-established theory but also according to themes deriving from the transcripts themselves. So, although both analysis techniques require systematic methods of coding transcripts according to diferent themes, the framework approach is more sensitive than the grounded theory approach to the issues emerging within a particular piece of research, as it happens. Software tools are also available to assist with this kind of thematic analysis, for example, QSR’s Nvivo (http://www.qsrinternational.com/products\_nvivo.aspx).
+
+After data has been analysed, the results need to be summarized and acted upon. Often they will need to be presented to stakeholders (other designers, funders, managers, etc.) A clear summary of the results of evaluation work can help to show the benefits (or lack of benefits) of a new design, and to suggest improvements that could be made in future.
+
+While many commercial information design projects may not have time or resources to undertake the most sophisticated research studies, there are opportunities for collaboration with university-based research teams in order to research the impact of design work. Academic partners may be interested in such collaborations, particularly if they feel that it would significantly add to understanding in their subject area. Formally analysed and published results in information design could contribute to a body of evidence that could lead to significant advancement of the field.
+
+## Conclusion
+
+Investigating the impact of a design can provide insights about how successfully information is being transferred, and highlights ways in which improvements can be made. This chapter has identified some of the
+
+methods information designers use to obtain feedback about their work. In the end, the only way to know whether a project is working is to measure how it afects your intended audience’s understanding.
+
+## References
+
+Acock, A. C. 2014. A gentle introduction to Stata. College Station, TX: Stata Press.
+
+Field, A. 2005. Discovering statistics using SPSS. London: Addison-Wesley, Sage Publications Ltd.
+
+Fishbein, M., and I. Ajzen. 1975. Belief, attitude, intention, and behavior: an introduction to theory and research. Reading, MA: Addison-Wesley.
+
+Glaser, B. G., and A. L. Strauss. 1968. The discovery of grounded theory: strategies for qualitative research. London: Weidenfeld and Nicolson.
+
+Freitas, H., M. Oliveira, M. Jenkin, and O. Popjoy. 1998. ‘The focus group, a qualitative research method.’ Working paper ISRC no. 010298. Baltimore, MD: Merrick School of Business, University of Baltimore.
+
+Heller, S. 2006. Nigel Holmes: on information design. Bethesda, MD: Jorge Pinto Books.
+
+Holmes, N. 2009. ‘A short film about the place for humour and wit in information graphics.’ Paper presented at DD4D (Data Designed for Decisions), Paris, 18–20 June. < https://www. youtube.com/watch?v=vetdvFXR-Zc>.
+
+Lundberg, J, and T. Nyström. 2012. ‘The use of virtual reality for high fidelity signage prototyping
+
+in wayshowing course modules – benefits, limitations and student pre-requisites.’ In Proceedings of ICERI2012 Conference, 4935–4942. Valencia: IATED. < http://liu.diva-portal.org/ smash/get/diva2:576499/FULLTEXT01.pdf>.
+
+Ritchie, J., and L. Spencer. 1994. ‘Qualitative data analysis for applied policy research.’ In Analyzing qualitative data, edited by A. and B. R. G. Bryman, 173–194. London: Routledge.
+
+Robson, C. 1993. Real world research: a resource for social scientists and practitioner-researchers. Oxford: Blackwell.
+
+Simonsen, J. and M. Hertzum. 2012. ‘Sustained participatory design: extending the iterative approach’, Design Issues, 28 (3): 10–21.
+
+Sless, D. 2008. ‘Measuring information design.’ Information Design Journal 16 (3): 250–8.
+
+Tufte, E. R. 2001. The visual display of quantitative information. 2nd edn. Cheshire, CN: Graphics Press.
+
+Wright, P. 2009. ‘What if . . . ? Designing tools to help the public make dificult decisions.’ Information Design Journal 17 (3): 202–10.

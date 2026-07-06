@@ -1,0 +1,42 @@
+# S M E UNI
+
+Above and opposite: Logo and designs for Prunier restaurant, Paris, 1926.   
+Prunier was a famous Parisian seafood restaurant. These illustrations for the restaurant constitute   
+Brodovitch's first commercial design commission. With their thick black ink, the designs resemble the Russian "lubok" (popular print).
+
+![](images/fe25918d9539f453d1d9fe4633863abe29d95057858e84699b215546867df84f.jpg)
+
+According to Cattaruzza, the Prunier work “can be divided into two parts: the decorative elements and the graphic works."35 The logos Brodovitch designed for the restaurant's menus, napkins, and windows are heavy in their use of thick black ink. Incorporating symbolic illustrations of shellfish the designs resemble the hardedged woodcuts of German Expressionism, or more likely for Brodovitch, the Russian "lubok" (popular print). With no pictorial records existing, Brodovitch's work for the interior of the Prunier restaurant has been described by its owner, Claude Barnagaud, who ran the restaurant for forty years: “On our behalf, Brodovitch made some hanging panels executed in jagged bronze to indicate the sale stands of ‘salle de dégustation' (the tasting room) in the lower part of the restaurant: 'Huîtres,' 'Coquillages,' 'Poissons,' 'Crustacés, 'Caviar,' 'Comestibles,' 'Dégustation,' 'Restaurant' [Oysters, Shellfish, Fish, Crustacea, Caviar, Edibles, Tasting, Restaurant]. The graphic design is peculiar and modern." Even though these panels were accepted as the final designs for the interiors, Brodovitch's illustrations for a new restaurant logo were apparently rejected.36
+
+Beyond the integrated approach to design, the assignment for Prunier was important in many other aspects. By now the name AlexeyBrodovitch was becoming a “guarantee of success" all over Paris.37 It has been suggested that throughout 1927 Brodovitch pursued his poster designs for a number of prestigious printing houses in Paris, and there is some evidence that supports this.38 What we do know is that Robert Block, the architect and director of Athélia, the design annex for the Parisian department store Aux Trois Quartiers, was greatly impressed by Brodovitch's work at Prunier. So much so, a year after seeing the Prunier designs he offered Brodovitch the relatively new position of art director for the Athélia studio. Managing a wide array of photographers, interior decorators, and graphic designers, the Athélia gave Brodovitch the opportunity to hone his collaborative skills further. Over a two-year period he produced a body of work that, both publicly and stylistically, included some of his most widely recognizable designs of the decade.
+
+The function of the art studio for Robert Block was simply to “fix and retain the attention of the public." To achieve this, Block outlined criteria that he believed should always be employed in the origination of modern publicity. These ideas were immensely influential to Brodovitch. Block noted three forms to which all advertising should aspire:
+
+1. Those which should surprise the public in a brutal manner, transfixing the onlooker with astonishment, even stupefaction.
+
+2. Those which allow certain ideas and names to impress themselves on the brain by continual repetition gaining a result similar to that of the drop of water wearing away the stone.
+
+3. Those which by their form or spirit arouse curiosity, interest, the desire to understand, to know.39
+
+This declaration by Block is a clear example of how commercial art frequently took the overdetermined style of the avant-garde and assuaged those works of their radical meaning. These empty vessels then became vehicles for whatever products were being sold. Of course, this is not to say that designers could not produce original and exciting work within the confines of the commercial world. If anything, throughout his life the challenge for Brodovitch was to do just this. He would have concurred with the celebrated designer Paul Rand, who once said that “to realize the production of modern advertising and industrial art in terms of functionalaesthetic perfection is to realize the oneness of art and living."4º
+
+Brodovitch's role at Athélia was to produce designs for Aux Trois Quartiers catalogues, advertisements, and even a temporary facade for the store itself.41 A significant part of these designs included work for individual departments within Aux Trois Quartiers, such as the menswear section, Madelios, and the luxury goods department Médith. Looking at the designs themselves we can see that they incorporate the rational, geometric, and spatial dimensions we have come to associate with the movements of Purism and Constructivism. This is tempered, however, by the harmony, fluidity, and joyous spontaneity we witnessed in Brodovitch's Bal Banal poster. Probably because of the conservative nature of its customers, some of Brodovitch's early advertisements for the main store, Aux Trois Quartiers, are unambitous in their use of line, type, and space. Instead, it was through the subsidiary department, Madelios, that Brodovitch's graphic ability truly came to the fore. Through the use of heavy ink, the new technique of the airbrush, and starkly cropped photographs, the designs for Madelios offer more tactile sensations. With the dynamic slant of illustrations and the negative-to-positive flow of type, advertisements such as“Phonos, Photo, Tsf." and“2 Decembre et tout le mois" aim to utilize all the dimensions of the page. In addition to this, endeavoring to impart a sense of weight to the layout, Brodovitch frequently leaves large sections of the designs white, or bleeds these empty spaces into dense rich colors. 'This “bleaching-out" is emphasized through the diffused spray of the airbrush that provides a subtle contrast to the angular lines that bisect the illustrations. This same diffusion from light to dark can also be seen in some of Brodovitch's advertisements for the Athélia studio itself.
+
+Below: "Sports d'Hiver," illustration for Madelios, menswear department of Aux Trois Quartiers department store, Paris, c. 1928.   
+The airbrush became one of Brodovitch's favorite tools throughout the late 1920s and early 1930s. As can be seen from his Madelios designs, it was most often used to impart a sense of depth and space to the illustrations.
+
+Opposite: "Phonos, Photo, Tsf.," and "2 Decembre et tout le mois," illustrations for Madelios, 1930. Brodovitch's designs for Madelios expressed a more spontaneous, tactile approach to the printed page. The slanted illustrations and negative-positive type flow impart dynamism and contemporaneity.
+
+![](images/fc1aca78cb23b82b3874c18b1f4cc1370255fc450bb89b7a2ad4cf96baa149e1.jpg)
+
+![](images/4239360641d81be8329fabaa7f46a9280c41ff4ff657028b85d9513ea4a89839.jpg)
+
+Aside from being the design department for Aux Trois Quartiers, the Athélia studio also offered interior design services to the store's customers.42Considering the circumspect nature of the Parisian public's desire for stark modernist design, Brodovitch's Athélia advertisements cleverly blend classical busts within an inventive layout. These traditional-modern motifs can also be witnessed in the recurring use of a portico throughout the advertisements for Madelios. Located at 1o, place de la Madeleine on the rue Duphot, Madelios was close to the famous building of Madeleine. Ever conscious of Robert Block's imperative that all commercial designs should “impress themselves on the brain by continual repetition, Brodovitch eleverly incorporated details of Madeleine's portico in most of the Madelios designs. Ultimately, through constant iteration, these emblems eventually came to function “both as a kind of logotype for the store and as a signpost of its location. 43
+
+![](images/c6b42e397020915889210a36707025ecafc47981f63bf94577d7e9cd942fcb76.jpg)
+
+Designs for Athélia, interior design studio of Aux Trois Quartiers department store, Paris, c.1928-1930. Athélia was under the artistic directorship of architect Robert Block, whose theories about design and advertising greatly influenced Brodovitch. Recognizing that many of Athelia's customers were fairly traditional in their design tastes, Brodovitch cleverly utilized classical motifs to moderate the impact of his radical designs.
+
+![](images/1835862bf5b54cd732cf9ee8a2c1495c0d3e10e38344d14ef46954555e2b67e9.jpg)
+
+![](images/d78dba6fa5c6ab69a687698c2ea0bbb8c96dbc4889550867ba10115ff1a7c235.jpg)

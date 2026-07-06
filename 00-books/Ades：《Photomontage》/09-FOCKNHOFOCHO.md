@@ -1,0 +1,13 @@
+# FOCKHO FOCHO
+
+![](images/0d47a7cfef96b6a454c6df4d74b0bb4329b84fd82ccdbb849cd79518397253df.jpg)  
+105 Alexander Rodchenko, poster for Kino-Eye directed by Dziga Vertov, 1924
+
+Rodchenko made his first film posters for Vertov's Kino-Eye (1923), ‘a full-length “fact film" intended to demonstrate the latter's theories of documentary montage', for which Vertov, his brother and his cameraman travelled all over the country, ‘visited markets with concealed cameras, rode with ambulances to accidents, spied on criminals from behind windows, haunted the doors of beer parlours, danced with rejoicing collective farmers . . .'37 to get as close to a sense of real life as possible. In 1924 all film production in the USSR was centralized into a single organization, Goskino (after 1926, Sovkino). A separate department was set up for the production of filn posters, called Reklam Film, and a stream of extraordinary posters followed, by artists like Prusakov and the Stenberg brothers, Vladimir and Georgii. Prusakov's I Hurry to see the Khaz Push shows a man on a bicycle, his head and body made of clips from the film he is hastening to see. The Stenberg brothers made a number of posters on agitational subjects, like To the Fallow Ground (1928), as well as film posters. They rarely used photography directly in their work, preferring to simulate the realism of photography. They worked from photographs, or from strips of film from film studios, and their work frequently resembles photomontage. One exception is their poster for Vertov's The Eleventh (a reference to the eleventh anniversary of the Revolution), in which the glasses ‘reflect' images of heavy industrial production.
+
+![](images/3db4d8bc20ea784abc9dea30b2f39a13d101a6acf508895aa642377c875dffad.jpg)
+
+![](images/d2595c97b38240fb83b8af5854d4c94154b349f0d2cdca5681b00885f8c46e2c.jpg)  
+107 Vladimir and Georgii Stenberg To the Fallow Ground 1928
+
+In Poland, where Constructivism was also an energetic force in art and design, there were interesting developments in photomontage. The Polish Constructivists centred on the Blok group, which included Wladislaw Strzeminski, Katerzyna Kobro, Szczuka, Teresa Zarnower and Henryk Berlewi. In March 1924 the first issue of their magazine Blok appeared, with a geometrical layout influenced by the trilingual periodical Veshch-Objet-Gegenstand, edited by Lissitzky and Ehrenburg and first published in 1922. Szczuka, who introduced photomontage in Poland, abandoned abstract painting in favour of typographic design,

@@ -1,0 +1,10 @@
+# ELNAZISMO CONFERENCIARAZAS DE 1º  DE 2ª CLASE ORADOR
+
+Prof. ENRIQUE BELTRAN VIERNES28 DEOCTUBRE PALACIO DE BELLAS ARTES A LAS 20 HORAS ENTRADA LIBRE LIGA PRO CULTURA ALEMANA EN MEXICO.
+
+![](images/d84d07c0672e53b6024d4961d9c9405f7c07ca83c5ee55e6c32f397dd3dd9d14.jpg)  
+Fig. 37.32: El Nazismo, poster, 1938. CONADICOV archives.
+
+Terror in Europe). It consisted of texts, photogaphs, drawings, and prints that portrayed the tragic effects of Nazi actions in Europe. Writers included major German authors in exile, along with others from Russia, Mexico, and other countries. Also included was work by an international group of visual artists, primarily recognized leftists. Besides the reproduction of numerous prints by artists from the Taller Gráfica Popular, the book featured art by Kathe Kollwitz, John Heartfield, Frans Masereel, and William Gropper. Images included some of the savage atrocities that the Nazis committed, especially the deportation of Jews to the death camps and torture methods of the Gestapo. Since the book was published in Spanish, its influence and the important information it included were limited to the Spanish language community. Perhaps due to the considerable number of leftist writers and artists who contributed, the American ambassador to Mexico took no interest in it and no efforts were made to translate it into English.
+
+The Mexican government also sponsored the production of anti-Nazi posters. Besides the artists of the Taller de Grafica Popular, poster designers in another group, the Artistas Libre de Mexico (Free Artists of Mexico), created patriotic posters that were widely displayed on walls, buses, and also in shops. Artists in this group included the painters Julio Prieto (1912-1977), Santos Balmori (1899-1992), Gabriel Fernández Ledesma and the painter and printmaker José Chávez Machado (dates unconfirmed). Their posters supported the government of President Manuel Ávila Camacho, while also attacking Nazi Germany.

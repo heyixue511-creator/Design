@@ -1,0 +1,1 @@
+# ABCDEFG HIJKLMN OPORSTU VWXYZ&! Phanitalian, No.132 (Page). First shown by William Page in Page's Wood Type Album, October, 1879. Lowercase and figures are missing.

@@ -1,0 +1,1 @@
+# ABCDE FGHIJK LMNOP QRSTU VWXYZ &\$!?&& 12345 67890 Gothic Extended. This particular cutting made by the Hamilton Company after 1900. Lowercase is missing.

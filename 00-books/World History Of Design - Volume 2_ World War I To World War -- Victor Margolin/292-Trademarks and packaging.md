@@ -1,0 +1,14 @@
+Boot Polish and Roxy Baby Powder, or creating pithy narrative scenes as he did for Glen Valley Tea and Golden Fleece Underwear, where he depicted an entire family clad in the company's long johns, except for the mother who wore more delicate though hardly revealing garments.
+
+Noteworthy among Northfield's advertising posters were those he did for Pelaco, a shirt manufacturer that had adopted for its trademark the image of a real Aboriginal man known as Mulga Fred. Instead of showing him as a near naked primitive, however, the owners depicted him wearing their formal dress shirt accompanied by copy lines that combined pidgin English with standard speech such as "Mine tink it, they fit." While some Pelaco advertisements portrayed Mulga Fred wearing only a shirt, a straw hat, and no pants, others showed him fully dressed. In one billboard depiction he was portrayed in full cricket attire, thus socialized into the white man's world, and in one of Northfield's posters he rises above the factory building in a fierce pose, ready to hurl a boomerang with one hand while holding several more in the other (Fig. 31.08).
+
+![](images/f3fdaae65ad38962954f37fcfab308b5f8e00bd2786c0904d63d13ffc03aa7cb.jpg)  
+Fig. 31.08: James Northfield, Pelaco shirts, poster, 193os. © James Northfield Heritage Art Trust.
+
+Pelaco's choice of Mulga Fred, known in the ads as Pelaco Bill, comes closest to the American trademarks that featured black social types such as Aunt Jemimah and Uncle Ben. Years after Mulga Fred's image was widely publicized on posters, billboards, point of purchase displays, and in press advertisements, he was replaced by a well-known white female model named Patricia Tuckwell, who was known as Bambi Shmith, and the pidgin English was exchanged for an updated copy line in standard prose.
+
+Aspiring commercial artists studied at the Sydney Art School, which featured a design course taught by Thea Proctor; the Art Training Institute in Melbourne, where James Northfield taught for many years and became Chief Director of Studies; and the Leyshon White Commercial Art School in the same city, which the painter and commercial artist Leyshon White (1894–1962) ran from around 1925 to 1935. As Geoff Caban notes, the early advertising studios in Australia such as James Northfield's usually consisted of one or two people who did everything, but the experiences of a few others such as the Weston Company, Paton Advertising Service, Jones & Jardine, and especially Smith & Julius with its range of different talents, pointed towards a different, more modern, model of a multi-service advertising agency with functions divided among specialized staff.
+
+## Trademarks and packaging
+
+Trademarks in the interwar years did not change

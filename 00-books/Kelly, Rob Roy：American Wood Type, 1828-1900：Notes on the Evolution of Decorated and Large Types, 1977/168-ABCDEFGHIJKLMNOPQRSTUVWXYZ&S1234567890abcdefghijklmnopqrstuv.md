@@ -1,0 +1,1 @@
+# ABCDEFGHIJ KLMNOPQRS TUVWXYZ&S 1234567890abc defghijklmnopq rstuvwxyzfffi Teutonic. First shown by William Page in his 1872 specimens.

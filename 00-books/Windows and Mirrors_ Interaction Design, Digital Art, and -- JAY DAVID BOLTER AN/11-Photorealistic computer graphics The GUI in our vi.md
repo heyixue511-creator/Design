@@ -1,0 +1,47 @@
+![](images/bdf479c5f48a727522157adec5274058359948d6089c9841316299f4a887ad3c.jpg)
+
+Jan Tschichold, The New Typography, 1928: Modernist clarity in typographic design.
+
+The leading figures of this revolution, such as the typographer Jan Tschichold, believed that they were clarifying design by removing the obscure ornamentation that had accrued like rust in the previous decades and centuries (figure <sup>.</sup>). They sought clarity and transparency above all. In 1928, Tschichold wrote exactly this in his New Typography: “The essence of the New Typography is clarity. . . . This utmost clarity is necessary today because of the manifold claims for our attention made by the extraordinary amount of print,
+
+which demands the greatest economy of expression.” And again: “It is essential to give pure and direct expression to the contents of whatever is printed” (1998, 66–67).
+
+This could be Jakob Nielsen speaking about the Web today. The desire for transparency has also taken hold among HCI and computer graphics specialists, so that the goals of contemporary interface design are ironically the same as the goals of the modernist design of the early twentieth century.
+
+## Photorealistic computer graphics
+
+Reality is 80 million polygons per second.
+
+—Alvy Ray Smith in Rheingold, Virtual Reality
+
+The philosophy of transparency has a history, and computer graphics and interface design continue this history. Photorealistic computer graphics is about making the medium (the computer screen or other video device) disappear. This was certainly a goal of the computer movement from the time of the first graphics programs in the 196os and 197os, when Ivan Sutherland, Alvy Ray Smith, James Blinn, Ed Catmull, and many others led the way.
+
+To achieve transparency, these pioneers adopted the principles of projective geometry, just as the Renaissance painters had done. Historians say that when Renaissance painters perfected the techniques of linear perspective, they were applying mathematical principles to painting. In fact, painters often used their aesthetic judgement to distort the perspective in order to achieve certain effects. In pursuing photorealism in the late twentieth and early twenty-first centuries, computer graphics experts applied rigorous mathematical principles to calculate the exact lines of projection. They have made into algorithms the principles that painters had followed informally and that analog cameras had followed automatically (figure 2.5).
+
+![](images/aba193f7a9cf88ab45040b7b2cdd8de7d584006d1b187c26b2d31767c07ab621.jpg)  
+Figure 2.5  
+Perspective projection: Representing D figures in a D plane with mathematical precision.
+
+The computer could be programmed to draw the outlines of objects in perfect linear perspective. But in order to achieve photorealism, the objects also had to appear with the proper texture, lighting, and shading. Sophisticated hardware and software were needed for techniques such as texture mapping, (light) ray tracing, and Phong shading (figure <sup>.</sup>).
+
+As computer graphics specialists developed (and sometimes gave their names to) these techniques, artists and illustrators began to adopt them. Today there are hundreds, perhaps thousands of photorealistic computer artists, both commercial and amateur. (Some of their work is intriguing. Much of it is the digital refashioning of those earnest illustrations that have graced science-fiction and fantasy magazines since the 193os, with aliens walking through vast canyons on foreign planets and spaceships cruising the realms of surrealistic space.) Even harder than photorealism is what we might call filmic realism: creating animated computer graphics that are indistinguishable from live action films. Hollywood animators and special effects artists, who have been using computer rendering and compositing for decades, apparently move closer to filmic realism with each new FX film. Human actors worry openly that animated actors may one day replace them; animated films from Toy Story (1995) to Final Fantasy (2oo1) seem to bring that day closer. Graphics pioneer Alvy Ray Smith once said that “reality” was “8o million polygons per second," meaning that the computer would have to be able to display that many polygons on the screen in real time to achieve fully realistic images. This would be the ultimate victory for the strategy of transparency because it would no longer be possible for the viewer to see the medium (computer graphics animation) at all. She would see what appear to be human beings in what appears to be the physical world. What began in the Renaissance, or with Zeuxis in ancient Greece, would culminate in cyberspace.
+
+![](images/51d18e1180bdc085a4acd72bde796a6c9eb9652317dbf227c2324f9d34f0bbe7.jpg)  
+Figure 2.6
+
+![](images/02ab97ccb028ee85c23a6bc4951c0d47f935f744d087dc2a51b55e90bd866474.jpg)
+
+![](images/72a9afecab7f8b6af1daccf868d7a643a2c0693a5267411e03fb3b8db2761729.jpg)  
+The legendary computer graphic teapot: in wire frame, with texture mapping, and with Phong shading.
+
+## The GUI in our visual culture
+
+It isn’t only computer graphics artists and animators who inherited the strategy of transparency; interface and computer designers did as well. If computer graphics artists are trying to compete with the Renaissance painters, interface designers are trying to do for the computer what Jan Tschichold and modern graphic designers did for the printed book. They are trying to make their designs simple, clear, transparent—in other words, “usable.” It is not surprising that modern graphic design and contemporary interface design would share these goals, because both are about communication with words and images. Both developed along with a new technology. Modern graphic design came after lithography and other extensions of nineteenth-century print technology. Interface design grew out of the efforts of computer scientists to make a graphical computer, which gave us the graphical user interface (GUI).
+
+Who invented the GUI? There are several candidates for the honor: Douglas Engelbart, Alan Kay, and those who worked with Kay in the Learning Research Group at Xerox PARC. No one ever thinks of nominating Alberti or Brunelleschi, but they were the patron saints, if not actually the inventors. The details of the GUI—the particular desktop metaphor, the mouse, overlapping windows, and so on—were the result of effort and inspiration by individuals, most of whom worked in the Silicon Valley in the 197os and 198os. But the GUI became inevitable as soon as computer graphics technology was developed. The reason is that the desire for transparency has been so powerful in our culture for such a long time, and the GUI is the prime expression of that desire in the medium of computer graphics.
+
+Computer interface design itself began with the development of the GUI. Prior to the work of Engelbart and Kay, we could say that computer applications did not have consciously designed interfaces at all. Computers had devices (punch cards, paper tape, teletype) for input and output, but these devices were not designed to provide the user with a consistent experience. The people who created the GUI recognized the power of the computer as a graphics engine and understood that digital technology could be a visual experience.
+
+The rise of computer graphics also corresponded to the growing importance of the visual in our culture. Movies and television were already established as the dominant popular media, and in these popular media, a style of visual realism prevailed. People went to the movies to watch very unlikely stories of romance and adventure played out in a compelling and visually realistic manner. Television drama and to some extent even sitcoms showed reallooking people in real-looking places, even though what happened to these people was unusual and even absurd. Meanwhile, television news brought us what was happening in the world (such as the Vietnam War), and sometimes it brought us these events “live”(broadcast as they happened). The live action of television seemed to reach almost anywhere on earth and, amazingly, even beyond the surface of the planet, as shown by NASA’s broadcasts from earth orbit and eventually, in July 1969, from the surface of the moon. Neil Armstrong's “giant leap for mankind” was also a giant triumph of television technology, as the ghostly black-and-white image of an astronaut setting foot on the moon became the crucial validation of the space program’s success. Armstrong’s leap became reality because it was televised. Was it long after that supermarkets began to put tags on their sale items reading “as advertised on television,” as if that validated the product? We still live in the era of televised reality, a point made seriously by the destruction of the World Trade Center (televised live to millions) and satirically by such films as The Truman Show (1998) and EdTV (1999).
+
+Prior to the invention of the GUI, the computer did not seem to have anything to do with television or our culture’s move toward visual realism. It was by inventing the GUI that Engelbart, Kay, and others convinced us that the computer was a medium. In doing so, they weren’t just giving us a new tool for word processing and bookkeeping; they were also showing how the computer could play a role in our visual culture. In the 198os, when the

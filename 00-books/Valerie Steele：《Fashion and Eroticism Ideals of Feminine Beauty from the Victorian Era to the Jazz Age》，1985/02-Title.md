@@ -1,0 +1,1 @@
+# FASHION AND EROTICISM Ideals of Feminine Beauty from the Victorian Era to the Jazz Age VALERIE STEELE New York Oxford OXFORD UNIVERSITY PRESS 1985

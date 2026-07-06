@@ -1,0 +1,1 @@
+# EMPIRE oF COTTON A Global History Sven Beckert ALFRED A. KNOPF NEW YORK 2OI4 ![](images/9756607f71109928653b2c4cbbd07c4a95df74fe2f1b520ab4da9d1d5f68fd4c.jpg)

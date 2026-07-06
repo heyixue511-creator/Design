@@ -1,0 +1,1 @@
+The Age of Manufactures 1700-1820 Industry, innovation and work in Britain Second edition Maxine Berg ![](images/1deb03f7b8e42a6ef647073cbc0da53cf2e1c00d6f63a27cc6076145726b850b.jpg) ![](images/8969d42cdc180989b10a3e791dc5edc820f1c2b2a476026c6ee2fe1d57835448.jpg) Also available as a printed book see title verso for ISBN details

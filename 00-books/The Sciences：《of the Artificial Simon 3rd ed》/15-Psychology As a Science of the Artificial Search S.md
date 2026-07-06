@@ -1,0 +1,52 @@
+I do not intend to repeat this theoretical argument at length, but rather I want to seek empirical verification for it in the realm of human thought processes. Specifically I should like to point to evidence that there are only a few "intrinsic" characteristics of the inner environment of thinking beings that limit the adaptation of thought to the shape of the problem environment. All else in thinking and problem-solving behavior is artificial is learned and is subject to improvement through the invention of improved designs and their storage in memory.
+
+## Psychology As a Science of the Artificial
+
+Problem solving is often described as a search through a vast maze of possibilities, a maze that describes the environment. Successful problem solving involves searching the maze selectively and reducing it to manageable proportions. Let us take, by way of specific example, a puzzle of the kind known as crypt arithmetic problems:<sup>4</sup>
+
+$$
+\begin{array} { c } { { D O N A L D } } \\ { { + G E R A L D } } \\ { { R O B E R T } } \end{array} \qquad D = 5
+$$
+
+The task is to replace the letters in this array by numerals, from zero through nine, so that all instances of the same letter are replaced by the same numeral, different letters are replaced by different numerals, and the resulting numerical array is a correctly worked out problem in arithmetic. As an additional hint for this particular problem, the letter D is to be replaced by the numeral 5.
+
+One way of viewing this task is to consider all the 10!, ten factorial, ways in which ten numerals can be assigned to ten letters. The number 10! is not so large as to strike awe in the heart of a modern computer; it is only a little more than 3 million (3,628,800, to be exact). A program designed to generate all possible assignments systematically, and requiring
+
+a tenth of a second to generate and test each, would require at most about ten hours to do the job. (With the cue D = 5, only an hour would be needed.) I haven't written the program, but a tenth of a second is far longer than a computer would need to examine each possibility.
+
+There is no evidence that a human being could do this. It might take a man as long as a minute to generate and test each assignment, and he would have great difficulty in keeping track of where he was and what assignments he had already tried. He could use paper and pencil to assist him on the latter score, but that would slow him down even more. The task, performed in this way, might call for several man-years of work I assume a forty-hour week.
+
+Notice that in excluding exhaustive, systematic search as a possible way for a human to solve the problem, we are making only very gross assumptions about human capabilities. We are assuming that simple arithmetic operations take times that are of the order of seconds, that the operations are essentially executed serially, rather than in parallel, and that large amounts of memory are not available in which new information can be stored at split-second speeds. These assumptions say something, but not very much, about the physiology of the human central nervous system. For example, modifying the brain by incorporating in it a new subsystem with all the properties of a desk calculator would be a quite remarkable feat of brain surgery or evolution. But even such a radical alteration would change the relevant assumptions only slightly for purposes of explaining or predicting behavior in this problem environment.
+
+Human beings do frequently solve the DONALD + GERALD = ROBERT problem. How do they do it? What are the alternative ways of representing the environment and conducting the search?
+
+## Search Strategies
+
+One way to cut down the search drastically is to make the assignments systematically, as before, but to assign numerals to the letters one by one so that inconsistencies can be detected before an assignment is complete, and hence whole classes of possible assignments can be ruled out at one step. Let me illustrate how this works.
+
+Suppose we start from the right, trying assignments successively for the letters D, T, L, R, A, E, N, B, O, and G, and substituting numerals in the
+
+order 1, 2, 3, 4, 5, 6, 7, 8, 9, 0. We already know that $D = 5 { \mathrm { ; } }$ , so we strike 5 from the list of available numerals. We now try $T = 1$ . Checking in the right-hand column, we detect a contradiction, for $D + D = T + c ,$ , where c is 10 or 0. Hence, since $( D = 5 , \ T = 1 )$ is not feasible, we can rule out all the remaining 8! assignments of the eight remaining numerals to the eight remaining letters. In the same way all possible assignments for T, except $T = 0$ , can be ruled out without considering the assignments for the remaining letters.
+
+The scheme can be improved further by the expedient of calculating directly, by addition, what assignment should be made to the sum of a column whenever the two addends are known. With this improvement we shall not need to search for the assignment for T, for $T = 0$ can be inferred directly from $D = 5$ . Using this scheme, the $\begin{array} { r } { D O N A L D + G E R A L D = R O B E R T } \end{array}$ problem can be solved quite readily, with paper and pencil. Ten minutes should suffice. Figure 3 shows the search tree, in slightly simplified form. Each branch is carried to the point where a contradiction is detected. For example, after the assignments $( D = 5 , T = 0 )$ , the assignment $L = 1$ leads to the inference $R = 3$ , which yields a contradiction since from the left-hand column of the problem array $R = 3$ would imply that G is negative.
+
+Figure 3 is oversimplified in one respect. Each of the branches that terminates with a contradiction after assignment of a value to E should actually be branched one step further. For the contradiction in these cases arises from observing that no assignment for the letter O is now consistent. In each case four assignments must be examined to determine this. Thus the full search tree would have 68 branches still a far cry from 10! or even 9!.
+
+An enormous space has been cut down to a quite small space by some relatively small departures from systematic, exhaustive search. It must be confessed that the departures are not all as simple as I have made them appear. One step in the proposed scheme requires finding the contradictions implied by an assignment. This means of course the "relatively direct" contradictions, for if we had a rapid process capable of detecting all inconsistent implications, direct or indirect, it would find the problem solution almost at once. In this problem any set of assignments other than the single correct one implies a contradiction.
+
+![](images/e2385ac6d15a20f48fba748753d8cf8c71ec35af8adfccfbb0d617bb4a06744a.jpg)  
+Figure 3
+
+What is meant by searching for direct contradictions is something like this: after a new assignment has been made, those columns are examined where the newly substituted letter occurs. Each such column is solved, if possible, for a stillunassigned letter, and the solution checked to see whether this numeral remains unassigned. If not, there is a contradiction.
+
+In place of brute-force search we have now substituted a combined system of search and "reason." Can we carry this process further; can we eliminate substantially all trial-and-error search from the solution method? It turns out that we can for this problem, although not for all crypt arithmetic problems.<sup>5</sup>
+
+The basic idea that permits us to eliminate most trial-and-error search in solving the problem before us is to depart from the systematic right-to-left assignment of numerals. Instead we search for columns of the
+
+problem array that are sufficiently determinate to allow us to make new assignments, or at least new inferences about the properties of assignments.
+
+Let me go through the process briefly. From $D = 5$ , we immediately infer $T = 0 ,$ as before. We also infer that 1 is carried into the second column, hence that $R =$ $2 L + 1$ is odd. On the extreme left, from $D = 5$ , we infer that R is greater than 5 (for $R = 5 + G )$ . Putting together these two inferences, we have $R = 7$ or $R = 9$ but we do not try these assignments. Now we discover that the second column from the left has the peculiar structure $O + E = O \mathrm { a }$ number plus another equals itself (apart from what is carried into or out of the column). Mathematical knowledge, or experiment, tells us that this can be true only if $E = 0$ or $E = 9$ Since we already have $T = 0$ , it follows that $E = 9$ . This eliminates one of the alternatives for R, so $R = 7$
+
+Since $E = 9$ , it follows that $A = 4 .$ and there must be a one carried into the third column from the right; hence $2 L + 1 = 1 7$ , or $L = 8$ . All that remains now is to assign 1, 2, 3, and 6 in some order to N, B, O, and G. We get $G = 1$ by observing that for any assignment of O there is a number carried into the leftmost column. We are now left with only $3 ! = 6$ possibilities, which we may be willing to eliminate by trial and error: $N = 6 , B = 3$ , and therefore $O = 2$
+
+We have traced a solution path through the problem maze on three different assumptions about the search strategy. The more sophisticated, in a certain sense, that strategy became, the less search was required. But it is important to notice that, once the strategy was selected, the course of the search depended only on the structure of the problem, not on any characteristics of the problem solver. By watching a person, or an automaton, perform in this problem environment, what could we learn about him? We might well be able to infer what strategy was followed. By the mistakes made, and the success in recovering from them, we might be able to detect certain limits of the capacity or accuracy of the individual's memory and elementary processes. We might learn something about the speed of these processes. Under favorable circumstances, we might be able to learn which among the thinkable strategies the individual was able actually to acquire and under what circumstances likely to acquire them. We should certainly be unlikely to learn anything specific about the neurological characteristics of the central nervous system, nor would the spe-

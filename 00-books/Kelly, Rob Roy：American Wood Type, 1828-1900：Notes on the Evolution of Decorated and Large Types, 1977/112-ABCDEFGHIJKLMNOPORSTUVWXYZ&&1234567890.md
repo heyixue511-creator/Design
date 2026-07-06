@@ -1,0 +1,1 @@
+# ABCDEFGHIJ KLMNOPORS TUVWXYZ& &1234567890 Belgian. First listed by William Page in his 1870 specimens. Lowercase is missing.

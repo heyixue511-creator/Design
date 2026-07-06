@@ -1,0 +1,1 @@
+# ABCDE FGHIJ Z工IMIN OPQRS TUVW XYZ&T 123456 789001 Aldine Expanded. First shown by William Page in his 1872 specimens. This cutting by the Hamilton Company. Lowercase is missing. An even more extended style of this face was shown by Morgans & Wilcox during the 188O's.

@@ -1,0 +1,10 @@
+# Introduction
+
+> Section: preface | Source: 05-Result-MD\03-Design-History-replenish-1\02-Books\Theory Culture：《and Society 23 2 3 Problematizing Global Knowledge，2006》\Theory Culture：《and Society 23 2 3 Problematizing Global Knowledge，2006》\Theory Culture：《and Society 23 2 3 Problematizing Global Knowledge，2006》\auto\Theory Culture：《and Society 23 2 3 Problematizing Global Knowledge，2006》.md
+
+## Introduction
+
+Knowing space is of universal social interest and the topic of some of the most historic knowledge projects and texts produced by human cultures. How is space known? How might we take stock of our spatial knowledges across cultures? What are the elements of a genealogy of space? If history and geography have a descriptive bias, a genealogy would go in a different direction, attempting to both avoid describing and ‘speaking for’ while critically exposing the conditions and formations of time–space discourses (however fragmented and discontinuous).
+
+Yet conceptions such as space and time are intrinsic to the intellectual ordering of our lives and our everyday notions of causality. When we turn to our daily speech, read the headlines of our newspapers or scan learned journals, we find an unexpected cornucopia of spatial references, elaborate expressions and elegant spatial metaphors which position the term within our own knowledge as well as practice. ‘Space’ evidently plays an important role in knowledge and in knowing the world. Nearly every philosopher and social thinker has dealt in some way with space or spatiality. Analysis is complicated by the intangibility (virtuality) of physical space. ‘Space’ is also translated in different ways between languages and between disciplines: engineers conceive of space as a void; physicists, mathematically as a set of dimensions (e.g. from 2-dimensions of a surface up to 11- dimensions in particle physics). And, in the late 20th century, social scientists began to understand space not as a void but as a qualitative context situating different behaviours and contending actions.
+

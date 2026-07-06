@@ -1,0 +1,1 @@
+# ABCD EFGHI JKLM NOPQ RSTU VWXY Z&&& Antique Light Face Extended. First shown by Wells & Webb in their 1854 specimens. This design cut by the Hamilton Company. Lowercase and figures are missing.

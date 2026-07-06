@@ -1,0 +1,1 @@
+# The Reflective Practitioner ## HOW PROFESSIONALS THINK IN ACTION ## Donald A. Schön ![](images/2be0bff720b3e625291617723d2e223e9197963125e7c3aa1a48b0f89b557785.jpg) BOOKS A Member of the Perseus Books Group

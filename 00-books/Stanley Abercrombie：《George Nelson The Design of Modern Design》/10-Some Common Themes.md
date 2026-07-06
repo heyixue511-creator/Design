@@ -1,0 +1,69 @@
+# Some Common Themes
+
+One telling aspect of Nelson's "Theory of the Workplace"1 is that this last project remained unillustrated. There were no plans, no sketches. The project was never finished, of course, but a more interesting explanation is that Nelson did not care what his theoretical workplace looked like. He had traveled from an awakening to the visual world (stirred by images of gateways), through a long process of learning and then teaching how to see, to an end when visual characteristics no longer seemed important.
+
+His career had taken him—or, more exactly, his mind had taken his career—on a long arc of development that had begun with concern for specific problems and solutions: a house, a clock, a lamp—design in the conventional manner, even if some of the solutions were of more than conventional inventiveness. Early on, this concern was accompanied by— and later it was supplanted by—a concern for more universally applicable design: for the concept of the Storagewall, for example, rather than the accommodation of items to be stored in one client's house; for the principle of modularity in furnishings rather than unrelated units; for reproducible master courses in art education rather than redundant individual lectures; and for prefabricated housing systems, not just single houses. And in his final years this second sort of concern seems to have been surpassed in his thinking by a third sort: concern for design principles rather than for their visual expression.
+
+This development may be seen (although it is too early to tell with what accuracy) as an abbreviated and precocious journey paralleling the progress of modern design from its early stage (when the invention of a new chair design, for example, could be an important and informative achievement, embodying fresh attitudes towards form, materials, and use) to its present stage (in which new chair designs satisfy and also partly provoke a restless search for novelty but lack their former power to enlighten) and on to a possible future stage (when, in the context of grievous social and cultural problems, a new chair design will be seen as an irrelevance).
+
+In such an evolution, we should not deduce, nor did Nelson deduce, a weakening of the importance of design. Rather, Nelson saw the opposite: the maturation of design and the broadening of its application from goods to principles. In an article that he submitted to Interior Design three weeks before his death, he wrote that “more and more of the world is seen as a place in need of increasing exposure to the design process.“²
+
+And what, in Nelson's opinion, was the design process?
+
+Design is an unsatisfactorily vague pursuit—vague in the way it is accomplished, vague in the way it is evaluated. In the postwar years, when the glorious certainty of the scientific method was at the height of its appeal, it was natural that Nelson coveted some. of that quality for the process of design. ("Physics envy," Denise Scott Brown has called this covetousness.3) How the scientific method might be appropriated and applied was a matter of long investigation that never ran along a straight track (Nelson never cared a hoot about consistency) or yielded a clear answer. "Design is not science," Nelson said,4 but perhaps, he apparently kept thinking, design might somehow learn from science. There was no question in his mind that, in the development of man's skills for dealing with the world, science was an advance beyond philosophy, which was an advance beyond religion.
+
+Nelson therefore sought, more than most designers, to abet the customary design process with elements of the scientific process. This was manifest in three ways:
+
+First, in his application to design at both furniture scale and building scale of the principles of modularity. The orderly repetition of units had an appeal beyond the obvious simplifications of manufacture, stocking, and use: the appeal of a logic fundamental to the design result, as mathematics is fundamental to a result in physics.
+
+Second, in his testing of variables and his matching of the previously unmatched: plastic cocooning with lamps, grass with Main Street, cavity walls with closets. This matching process was never performed with scientific rigor, obviously. As Carl Jung wrote, “Many artists, philosophers, and even scientists owe some of their best ideas to inspirations that appear suddenly from the unconscious. The ability to reach a rich vein of such material and to translate it effectively into philosophy, literature, music, or scientific discovery is one of the hallmarks of what is commonly called genius." Even so, the creative matching, the "finding" rather than the “doing" of new combinations, is fed by knowledge. If it is true that Nelson's “peak experiences" sometimes came unexpectedly, it does not necessarily follow that his design process must have been wholly intuitive and therefore intellectually blind. The design genius, as much as the scientific genius, relies on preparation and application, never just on accident, and a searching curiosity considerably increases the incidence of “finding." The ability to make connections, Nelson said, “depends on the homework you've done":
+
+. . . You can look at a printed circuit, for instance, which is always a fascinating thing to look at, and say: "My goodness, that looks like John Cage's music." Because you know John Cage's music; you could never make that improbable connection otherwise.⁵
+
+His third emulation of the scientific method was in his skepticism for the accepted but unproved. Using his eyes independently of common perceptions, Nelson acted very much like a scientist observing data without prejudice or partiality. In an unpublished text titled “The Design Process" he wrote:
+
+The businessman who is weighing the pros and cons of a merger, the scientist setting up an hypothesis and tracking it down, the mathematician constructing an elegant model—these people are all going through steps similar to those taken by a man feeling his way towards a suitable shape for a pitcher.⁶
+
+About science's offspring technology Nelson felt some hope (in connection with education, for example) but less enthusiasm. He saw technology's toll on cities in the form of too many buildings and too many cars, and he also saw its toll on the workplace in overstructured office interiors. But he never turned to the past for solutions. He would not have agreed with Thoreau that it was better to walk from Concord to Boston than to spend the same time earning the train fare; he agreed instead with Bucky Fuller that technology, for all its faults, was the best basis for future improvement.
+
+But were Nelson‘s admiration for science and his hope for technology not, at times, at odds with his humanism? No more, probably, than was his belief in design. Nelson saw that if science, technology and design were to effectively serve the people they would have to operate at full strength, unfettered by populism. Ortega's masses (or, in Wright's term, “the mobocracy"7) with “no desire to be told anything they don't already know,"8 must not be given control of the design process, even though they were meant to be the beneficiaries of that process.
+
+While he deplored the democratization of design, Nelson also deplored its opposite extreme, the mystification of design, as well as the narrow definition of the design professions. In one of his letters to Tom Pratt he wrote of the “mistake in confusing the word 'design' with the activities of an exceedingly limited group of professionals, such as graphic, interior and product designers" :
+
+The fact is that the modern world is constantly being designed and redesigned, not by these over-publicized specialists, but by literally millions of people, most of whom do not think of themselves as designers, but who nonetheless are primarily responsible for the shape of the world.º
+
+For example, anticipating the launching of the proposed NASA Space Telescope, Nelson said
+
+. . . we will be watching a composite event—ship and cargo— which might be characterized as one of the major design accomplishments of the 20th century, and one for which the design professions as we think of them have no responsibility. The credit goes to a multitude of people we do not know, have never met and have never even talked to. In other words, the world has been changing while we have been going about our business, and we are seeing the idea of design expanding to include immaterial, abstract things . . . as well as solid objects.1º
+
+One lesson of this changing world was that, even though design would have to stay in the hands of the designers, those designers would be an increasingly interdisciplinary group. In 1983 Nelson detected in 1983 “a major trend in a society up to its eyebrows in large problems" :
+
+A clear indication of this trend is the growing awareness worldwide that the designer's responsibility is to become more effective on an enlarging scale, but also that he hasn't a prayer of doing it on his own. Collaboration, in whatever forms make sense, seems to be the only workable answer. The effects of such mergers are clearly visible in the sciences, so many of which are now hyphenated: astrophysics, biochemistry, molecular biology— all involving the removal of barriers between once-separated disciplines.
+
+There could be some very interesting times ahead for all of us.11
+
+An evaluation of Nelson's work and a measure of his success cannot be based, as it can with most design professionals, simply on the beauty or the originality of his designs. Nor can it be quantified in terms of popularity or sales. Although, naturally, he would have been pleased if his practice had been more profitable, Nelson saw clearly the dangers of easy routine, security, and affluence. In one of the books found in his library, Richard Sennett's The Uses of Disorder: Personal Identity and City Life, he had marked the following Veblenesque passage:
+
+The peculiar character of a secure, affluent routine is that it does not arise from the needs of adaptive survival with the environment or with other members of the race. It arises instead out of the fact that affluence permits men, through coherent routines, to hide from dealing with each other. Rather than face the full range of social experience possible to men, the communities of safe coherence cut off the amount of human material permitted into a man's life, in order that no questions of discord, no issues of survival be raised at all.
+
+It is this “escape from freedom," in Erich Fromm's words, that ultimately makes a man quite consciously bored, aware that he is suffocating, although he may refuse to face the reasons for his suffocation. The boredom that rises out of this hiding is quite natural, for it is, as Nietzsche said, the voice of the creature in each man trying to make itself heard. . . .
+
+Our affluence in its present form is becoming an intolerable weight to those who supposedly enjoy it.1²
+
+As Bucky Fuller had phrased it, modern man was “chained to ponderous thingness."
+
+That material values are not final values was, of course, a belief that Nelson shared with D. J. De Pree. While the two men disagreed about the nature of those final values, they agreed passionately that the most important ideas transcended metal and wood. This attitude could have
+
+been the source of Nelson's impatience with the resolution of technical details, as well as of his impatience with consumerism. It was probably the source, also, of De Pree's trust in such a designer and his willingness to take financial risks on the basis of that trust. The mutual admiration of these two men had blossomed at their first meeting and had only grown stronger through the years; it was a fortuitous (D. J. would have said a blesséd) pairing.
+
+In comparison with the careers of other designers, Nelson's seems not only interestingly unconventional and appealingly uncommercial but also, at times, perversely negative, even self-destructive: it is the career of an architect who advocated the end of architecture, a furniture designer who imagined rooms without furniture, an urban designer who contemplated the hidden city, an industrial designer who questioned the future of the object and hated the obsession with products.
+
+Nelson was not interested in design as a temporary, cosmetic palliative for the problems of a far-from-perfect world. His hope was not for a world that would have more design but for a world that would need less. Most designers are able to offer human relief by adding artfully to the quality of the human experience. Nelson could do that, too; however, his valuable vision was not of a cultural situation ameliorated by the seeing of art but of a human situation liberated by the art of seeing—and, in his own case, by the ability to tell what he saw.
+
+Nelson was not an ordinary designer. He focused on problems of a larger scale, with more serious implications and more lasting significance. For the modern world, which came to maturity in his lifetime, he wanted to find convincing principles rather than just produce satisfying artifacts. He cared for the improvement of the experience of life as an end result, but he was no more wedded to art than to science as the proper means to that end. He tried, often successfully, to provoke a profoundly critical examination of artistic conventions, established design professions, and accepted practices. What George Nelson spent his most creative talents designing was nothing less than design itself.
+
+![](images/f89724e997e98bac1ab00e40d08cf37b0b0fd8fced266bac2da592028c5d6096.jpg)
+
+Appendixes
+
+compiled by Judith Nasatir

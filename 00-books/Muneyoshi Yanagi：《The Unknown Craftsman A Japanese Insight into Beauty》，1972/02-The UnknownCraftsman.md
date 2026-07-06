@@ -1,0 +1,1 @@
+# The Unknown Craftsman ## A Japanese Insight into Beauty Sōetsu Yanagi Adapted by Bernard Leach Foreword by Shōji Hamada KODANSHA INTERNATIONAL Tokyo •New York·London

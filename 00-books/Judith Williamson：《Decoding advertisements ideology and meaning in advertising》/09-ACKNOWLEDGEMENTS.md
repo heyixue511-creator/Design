@@ -1,0 +1,1 @@
+## ACKNOWLEDGEMENTS The author wishes to thank the companies for permission to reproduce the advertisements published in this volume. Two verses from ‘I can’t get no Satisfaction’ printed by permission of Mick Jagger and Keith Richard and Essex Music International Ltd.

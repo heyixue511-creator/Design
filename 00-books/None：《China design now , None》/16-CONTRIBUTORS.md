@@ -1,0 +1,39 @@
+# CONTRIBUTORS
+
+Bao Mingxin is Professor of the Fashion Institute at Donghua University. He has published widely on historical and contemporary textiles and fashion, authored more than 30 books and penned many fashion critiques for major periodicals in China. He is also on the returning jury of the Ten Best Fashion Designers in China Award and has judged many fashion-design competitions.
+
+Helen Evenden is Tutor in Vehicle Design and Critical and Historic Studies at the Royal College of Art, London. Formerly Head of Education at London's Design Museum, she has written, curated and lectured widely on architecture and design. Her recent research includes a study of the interaction between moving objects and the built environment, and her publications include Moving Forward (V&A, 2007).
+
+Hu Yang originally trained as a musician, taking up documentary photography in 1980. Since the 1980s he has been documenting the city of Shanghai, resulting in three unique photography series: Shanghai Living (January 2004–February 2005), Another Side of Shanghai (February 1980–May 2007) and a yet to be titled series (July 2007–ongoing).
+
+Huang Zhicheng is Director of the Research and Collection Department of Shenzhen Guanshanyue Art Museum, with a special interest in modern and contemporary art history and graphic design. He has written widely on the development of graphic design in Shenzhen and has published in Art Monthly and Art and Science.
+
+Stefan R. Landsberger is the Olfert Dapper Chair of Contemporary Chinese Culture at the University of Amsterdam and is Lecturer at the Sinological Institute, Leiden University. He obtained a PhD in Sinology from Leiden University. He has one of the largest private collections of Chinese propaganda posters in the world, has published widely on topics related to Chinese propaganda and maintains an extensive website exclusively devoted to this genre of political communications (http://www.iisg.nl/\~landsberger).
+
+Benny Ding Leong is Assistant Professor of the School of Design at Hong Kong Polytechnic University. Having trained and practised as an industrial designer, he began research into reviving traditional Chinese culture in sustainable design, and into contemporary design strategic thinking and practice since 1994. He co-founded with Ezio Manzini the Network on Design for Sustainability (DfS), and they have co-published a book about DfS in China.
+
+Li Wen is Deputy Editor-in-Chief of City Pictorial magazine. Having graduated from Jinan University in journalism, he was a journalist and Editor for Golden Age magazine. He joined City Pictorial in 2000, since when he has been dedicated to mapping out and promoting youth culture and trends and researching the phenomenon of city-based magazines in China.
+
+Lu Lijun is a Masters candidate in the history of textiles at the Fashion Institute of Donghua University. She specializes in the modern and contemporary history of Chinese textiles and fashion. Her research was published in the 2006 International Forum on Textile Science and Engineering for Doctoral Candidates.
+
+Beth McKillop is Keeper of Asia at the V&A. Previously a curator in the Asian Collections of the British Library, her publications include Korean Art and Design (1992) and North Korean Culture and Society (2004). Her contribution to the 2003 British Library exhibition catalogue Chinese Printmaking Today reflects a longstanding interest in the book and print cultures of East Asia. Current projects include Chinese and Korean elements of the V&A's new ceramic galleries (opening 2009) and research into the V&A's outstanding collection of early Chinese sculpture.
+
+Ezio Manzini is Professor of Design and Director of the Unit of Research Design and Innovation for Sustainability at the Politecnico di Milano, Italy. He speçializes in strategic design and design for sustainability, with a focus on design for social innovation. He also coordinates Creative Communities for Sustainable Lifestyles, a research programme on grass-roots social innovation in China, India and Brazil. His publications include Sustainable Everyday (2003) and Design Vision: A Sustainable Way of Living in China (2006).
+
+MEWE Design Alliance was initially an informal organization of designers with the common goal of changing the landscape of contemporary design. The name signifies the coming together of individuals ('me’) and the collective (‘we’). The first design studio of the Alliance is MEWE Graphic Studio, formed by members He Jun, Guang Yu and Liu Zhizhi in 2002.
+
+Lauren Parker is Head of Contemporary Programmes at the V&A and has curated several exhibitions and events programmes, including the V&A's critically acclaimed audio exhibition, Shhh ... Sounds in Spaces (2004) and Touch Me: Design and Sensation (2005). Specializing in moving image, interaction design and digital technologies, she has written widely on global contemporary design and new media and is the author of Interplay: Interactive Design (V&A, 2004).
+
+Shi Jian is a curator, critic and researcher on architecture and urbanism. He founded the publishing house ISreading Culture, where he is Planning Director. He frequently contributes to Domus China, Time + Architecture and other architectural periodicals, and is on the editorial board of the contemporary culture magazine Avant-Garde Today.
+
+Ye Ying is the Art and Design Editor for the Economic Observer and Chief Editor of their Lifestyle Monthly supplement. She writes widely on Chinese and international contemporary art and design, and on youth culture and trends. She is also a founder of a popular art and culture blog, Mindmeters.com.
+
+Yin Zhixian is the Assistant Publisher of Trends Publishing and Editor-in-Chief of Trends Home magazine. She has participated in starting four Trends periodicals: Trends, Trends-Esquire (a Chinese version of Esquire), Trends Home and Trends House. She has also written and lectured widely on the Chinese middle class and is the author of The Middle Class in China (1999).
+
+Yu Haibo is Chief Press Photographer of the Shenzhen Economic Daily and Director of the Shenzhen Professional Photography Association. He has won numerous national and international awards, including the second prize Arts and Entertainment Stories in the 49th World Press Photo contest and National Top Ten Young Press Photographer. His works have been exhibited internationally.
+
+Zeng Li is the resident designer for the Beijing People's Art Theatre. He has worked internationally as a theatre, opera and ballet set- and costume-designer, most notably for director Zhang Yimou's Turandot (Forbidden Palace, 1998) and Raise the Red Lantern (Chinese National Ballet and international tour, 2001).
+
+Zhang Hongxing is Senior Curator of the V&A's Asian Department. He curated The Forbidden City: Treasures of an Emperor, the first loan exhibition since 1935 to the UK from the Palace Museum, Beijing, and was Editor of the accompanying catalogue, The Qianlong Emperor: Treasures from the Forbidden City (2002). He is a specialist in Chinese painting and is responsible for the V&A's collections of Chinese art and design.
+
+Jianfei Zhu is Senior Lecturer in Architecture at the University of Melbourne, Australia, focusing on theories of architecture, the Asian metropolis and urbanism and architectural design. His research centres on Chinese architecture in an international perspective, and on China-West interactions in practice and critical thinking. His publications include Chinese Spatial Strategies: Imperial Beijing 1420–1911 (2004) and essays for specialist books and periodicals.

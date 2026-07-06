@@ -1,0 +1,3 @@
+# TUU HH U DキLUYI FU 1VI HUM Visual exercises with wood letterforms by Carl Miller, Yale University, 1962. Demonstration of figure-ground relationships which appear to have been more consciously developed in the design of wood type than with metal types. ![](images/6db025b4c889a15fa82c21728f1a33ca4ac33541345ca0b28a9dfe58146813c5.jpg) ![](images/479003cd0e9e4007f14caea7e6c763d84dffba014f073d24ce1376f22633740b.jpg) Excerpted from a CBS announcement. #
+
+Walker Art Center Summer Classes brochure. Rob Roy Kelly. ![](images/bbc7a8fbfe6d6eb35931ca03fefca6714bec62eaf359e975b95e6786adc84b1f.jpg) ![](images/b9e062535e939fdbc94e5616304c7b7f1bc55385dd5970788dbd273d54d0da34.jpg) Three illustrations by John Alcorn from Headliners Catalogue.

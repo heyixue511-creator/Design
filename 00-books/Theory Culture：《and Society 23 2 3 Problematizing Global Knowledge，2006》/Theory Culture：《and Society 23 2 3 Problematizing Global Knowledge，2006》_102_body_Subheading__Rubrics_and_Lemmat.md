@@ -1,0 +1,16 @@
+# Subheading: Rubrics and Lemmata / The Footnote
+
+> Section: body | Source: 05-Result-MD\03-Design-History-replenish-1\02-Books\Theory Culture：《and Society 23 2 3 Problematizing Global Knowledge，2006》\Theory Culture：《and Society 23 2 3 Problematizing Global Knowledge，2006》\Theory Culture：《and Society 23 2 3 Problematizing Global Knowledge，2006》\auto\Theory Culture：《and Society 23 2 3 Problematizing Global Knowledge，2006》.md
+
+## Subheading: Rubrics and Lemmata
+
+Dividing a text into categories and subcategories is yet another function of the apparatus that shapes both the physical and intellectual constitution of the academic work: the subheading. Not a title but rather a title beneath the title and contained in the body of the text, the subheading both guides readers to follow the argument and organization of a text in specific ways and creates specific emphases on ideas demarcated by the subheading. The subheading functions as means for creating a taxonomy within any text, showing how its categories and subcategories relate to one another and the knowledge being constructed in the text.
+
+In that case we have a difficulty that reaches into every domain where interpretations are made, or theories applied. We can start by attempting to define and delimit the field of our inquiry. We thus begin with a rubric, a heading, the headword (literally a red head). In that delimitation we make a distinction. On the one hand there is the field to be interpreted, the basic components of a present and practical experience – the rubrics are multiplying – the contents of a perhaps empirical knowledge. On the other hand there are the headings, rubrics and lemmata, concepts, ideas, notions that are from the beginning already setting up the expectations into which the field of our empirical experience must fall.
+
+A lemma in the main sense is ‘something taken’. For instance, in Logic, a lemma is a statement taken as true, an assumption; especially a premise in a syllogism. More generally a lemma is the matter, substance, or argument of a sentence. The ancient sense includes the idea of a burden laid on one, or commission received.
+
+## The Footnote
+
+Another essential element of the knowledge apparatus is found at the opposite end of a page or even a text from the title. It is the footnote or endnote.<sup>1</sup> The footnote or endnote indicates additional information that would be of use to the reader while not wishing to interrupt, or impose its will on, the flow of the prose in the text.<sup>2</sup> Often this form of additional information is a reference or set of references indicating where the author has found substantiating scholarly accounts.<sup>3</sup> The footnote does yeoman duty in specific disciplines, particularly the humanities: the most text-bound of all disciplines within the university.<sup>4</sup> Many authors disciplined in specific disciplines would find it awkward if not impossible to write a piece for general academic consumption without notes, feeling such a piece would be so lacking in substantiation and rigor as to risk counting as mere journalism. Such is the case despite the fact that the sciences relegate the most piddling of information to the note as to render it virtually insignificant when placed next to its humanities counterpart.<sup>5</sup>
+

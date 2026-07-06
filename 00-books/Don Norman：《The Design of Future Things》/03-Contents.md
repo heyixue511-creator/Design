@@ -1,0 +1,1 @@
+## Contents 1 Cautious Cars and Cantankerous Kitchens: How Machines Take Control 2 The Psychology of People & Machines 3 Natural Interaction 4 Servants of Our Machines 5 The Role of Automation 6 Communicating with Our Machines 7 The Future of Everyday Things Afterword: The Machine’s Point of View Summary of the Design Rules Recommended Readings Acknowledgments Notes References

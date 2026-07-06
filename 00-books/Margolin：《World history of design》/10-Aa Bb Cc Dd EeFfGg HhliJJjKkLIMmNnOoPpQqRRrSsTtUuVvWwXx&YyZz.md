@@ -1,0 +1,205 @@
+'MONOTYPE' GILL SANS: NO SERIFS, NO THICKS AND THINS:
+
+# Aa Bb Cc Dd EeFfGg Hhli JJjKkLIMmNnOoPpQq RRrSsTtUuVvWwXx& YyZz1234567890!?'
+
+Light: Normal: Bold: Extra B.: Ultra Condensed: Bold Condensed: TITLING
+
+Fig. 23.16: Eric Gill, Gill Sans typeface, 1928. Courtesy The Newberry Library, Chicago, case\_wing\_z25o\_a5\_bx24\_oira.
+
+typefaces for machine setting, among them Baskerville, Fournier, Bembo, and Walbaum.
+
+Though a traditionalist by nature, Morrison recognized the need for Monotype to have at least one modern typeface and he commissioned Eric Gill (1882– 194o), a sculptor, engraver, and calligrapher, to design such a face. Gill had studied lettering at the Central School of Arts and Crafts with Edward Johnston, who designed the san serif typeface Railway for the London Underground. This served as an inspiration for his own san serif face, Gill Sans. The two types share many similarities but Gill Sans has a few gestural flourishes that give it a distinct character (Fig. 23.16). Gill differentiated his typeface from Johnston's with the claim that his was designed as a text face while Johnston's was more suitable for signs. Gill Sans was widely used commercially, which led Gill to create at least seven variants of different weights including the Extra Bold version, which he dubbed "Double-Elefans."
+
+Others typefaces by Gill such as Perpetua (1929– 1930) and Golden Cockerel (1929) were more directly related to roman letter sources. Perpetua was one of the first new typefaces that Morison commissioned for Monotype, while Golden Cockerel was designed for the Golden Cockerel Press that Robert Gibbings (1889-1958) set up to print books by traditional craft methods. All the Golden Cockerel books featured wood engravings, many done by Gill himself. For a superbly produced version of the Four Gospels, published in 1931, Gill engraved a set of images whose elongated figures complemented the book's foliated ornament, handdrawn initials, and delicate typeface.
+
+In his small book of 1936, An Essay on Typography, Gill declared his philosophy of two typographies, "the typography of industrialism" and “humane typography." For Gill, the former had to be absolutely plain and was only beautiful because of its efficiency. He condemned any attempt to create fancy lettering mechanically as nauseating because craftsmen did not do it. "Humane typography," according to Gill, could never achieve mechanical perfection and was destined to be "comparatively rough." Gill's polemic did not recognize the skills of the technical experts who helped to adapt his own typographical designs for machine use. His romantic espousal of the craftsman distinguished him from Morison who also revered fine printing but was not conflicted about allying it to the machine.
+
+Throughout his career, Morison published a large number of books on aspects of printing history including Four Centuries of Fine Printing (1924), First Principles of Typography (1929), and A Tally of Types (1953). Though he worked primarily as a typographic advisor for Monotype, he also advised The Times of London and the Cambridge University Press on typographic matters. Beginning as an advisor to The Times in 1929, he criticized the newspaper's typography
+
+# 'MONOTYPE' TIMES NEW ROMAN, A "TWENTIETH- CENTURY CLASSIC": ABCDEFGHJKLMNPQRS TUVWabcefghijklmn XYZ& 1234567 opqrstuvwxyz890?!£ abcdefghjklmnopqrstuvwxyzA BCDEGHKMNQRSTUWY
+
+Fig. 23.17: Stanley Morison, Times New Roman typeface, 1932. Courtesy The Newberry Library, Chicago, case\_wing\_z25o\_a5\_bx24\_o1ra.
+
+and layout. This resulted in his design of a new typeface, Times New Roman (Fig. 23.17), whose design was strongly influenced by an earlier typeface, Plantin. The Times changed to the new face in 1932 and the Monotype Corporation made it available for wider use the following year. It sold well, satisfying the demand for a modern typeface that still had roots in the past. Though Monotype continued to feature revivals of classic types, the firm also commissioned additional modern faces to supplement the use of Gill Sans for advertising and related purposes. Among these were Ashley Crawford (193o), an upper-case only typeface derived from lettering that Ashley Havinden, art director for the William Crawford advertising agency, devised for the agency's Chrysler automobile campaign; and Ashley Script (195s), derived from Havinden's brush lettering on a poster for the Milk Marketing Board. Another typeface was Albertus (1932-1940), designed by Berthold Wolpe (1905-1989), a German émigré typographer whose widely used typeface recalled the thick black letters of Rudolph Koch's Neuland.
+
+The activities of the Monotype Corporation were conveyed to the public through its promotional magazine, the Monotype Recorder, which Beatrice Warde (1900-1969), an American printing scholar, began to edit in 1927. Two years later, Warde became Publicity Manager for Monotype, continuing to write extensively on typographic matters. In her 1932 lecture, "Printing is Invisible," she likened good typography to the transparency of a crystal glass. The lecture was published some time later with the better-known title, "The Crystal Goblet."
+
+## Advertising and graphic design
+
+British advertising throve during the 192os and 1930s. Among the major agencies of the period were W. S. Crawford Ltd, the Stuart Advertising Agency, and Charles W. Hobson's agency in Manchester. Both Hobson and W. S. Crawford were major figures in the advertising world. Hobson brought to advertising layout the same concern for fine printing that prevailed in the private press movement. Though successful in retail advertising, William Crawford dedicated much of his activity to public campaigns. Advisor to various government ministries, he was also actively involved with the Empire Marketing Board and chaired the Buy British campaign in 1931.
+
+Crawford maintained an office in Berlin and was thus cognizant of the latest tendencies in German advertising and design. In 1922 he hired Ashley Havinden as a young trainee. Havinden became art director of the agency in 1929 and remained with W. S. Crawford for his entire career. He worked in a team with Bingy Mills, a copywriter, and Margaret Sangster, an account executive whom he married. With Havinden handling the graphic side, the three created campaigns for Chrysler Motors, Eno's Fruit Salt, Dewar's Whiskey, Simpsons, and Kaiser Silk Stockings. Sangster (dates unconfirmed) was also put in charge of a new Women's Department that catered to clients who made products specifically for women and children.
+
+While most agencies continued to rely on folksy illustration, Havinden drew on the imagery of modern art, design, and photography. His abstract depictions of automobiles for Chrysler Motors, whose account Crawford had for all of Europe, fell somewhere between illustration and abstraction (Fig. 23.18), while his posters and newspaper ads for Eno's Fruit Salts featured abstracted knights on horseback bearing poles with wavy copy lines instead of banners. When Simpsons, a men's clothier, planned to open a London store with the name Simpson Piccadilly, Havinden advised them on all aspects of retail identity from the development of a logo to its application on advertisements, packaging, clothing labels, and invitation cards. His logo for Simpson fused the two words of the store's name into a hierarchy with the common letter P linking them together. Havinden, who was known to clients and friends as Ashley, moved in the circles of Britain's modernist architects and designers. When Moholy-Nagy came to Britain in 1935, Ashley was able to secure work for him with Simpson Piccadilly as their designer of displays. A few years earlier, Havinden brought in E. McKnight Kauffer, who worked for W. S. Crawford between 1927 and 1929. While employed by the agency, Kauffer developed a more modernist style, drawing heavily on Russian and German examples.
+
+![](images/9b8991ed3982ff2b2d972194db2940fce35b1a8d719ddaee87d632b94c7efd34.jpg)
+
+![](images/13b52dc3b33328235aad351f786b0f2a28a721ebd06315677dacaa2944a99b61.jpg)  
+Fig. 23.18: Ashley Havinden, Hats Off for the New Chrysler 65, poster (German version), 1929. The Wolfsonian-Florida International University, Miami Beach, Florida, The Mitchell Wolfson, Jr. Collection 87.1136.4.1. Photo: Willard Associates.
+
+Kauffer came to Britain in 1915 and, with the exception of some time abroad, remained until 1940 when he returned to the United States. While in Britain, he worked for publishers, retailers, and government bodies, producing everything from book jackets and logos to posters, theater sets, and even carpets. He gained attention early in his career with a poster for London's Daily Herald, which depicted a flock of birds in an angular abstract style that was influenced by the Vorticist paintings and drawings of C. R. W. Nevinson and Wyndham Lewis (Plate 18). This poster established Kauffer as a commercial artist with an interest in modernism. His reputation continued to grow through a series of posters he did for the London Underground (see Chapter 17) as well as others he created for the
+
+Empire Marketing Board. In the 193os, after he left W. S. Crawford, Kauffer expanded his use of photography and photomontage, becoming one of the few graphic designers in Britain to adopt these techniques. They were evident on book covers he designed for H. G. Wells's novel The Shape of Things to Come and Herbert Read's Art Now (Fig. 23.19). Other clients for whom he did more experimental work were BP, Shell, and Imperial Airways. Besides using photographs, he continued to paint some of his images and to arrange his lettering on vertical and diagonal lines as well as horizontals.
+
+In 1932, Kauffer began an association with the printer Lund Humphries. The firm had a gallery and from 1935 he showed there while also promoting exhibitions of work by other designers. Jan Tschichold had the first exhibition of his work at the gallery in 1935 and this may have led to his eventual commissions from Lund Humphries and Allen Lane, the publisher of Penguin Books, whose covers Tschichold redesigned in the late 194os. Other artists from the continent who showed in the Lund Humphries gallery were the German designer Hans Schleger, known as Zero, who emigrated to Britain not long after his exhibition, and Jan Le Witt (1907-1991) and George Him (1900-1982), a team of Polish poster artists who also moved to Britain to escape the Nazi occupation of their country.
+
+![](images/158a09bd1d6a36e74d4332d708a3dd450282c6ab2fd1a6f274706c3a21e3c543.jpg)  
+Fig. 23.19: E. Mcknight Kauffer, Art Now, cover, 1936. The Wolfsonian-Florida International University, Miami Beach, Florida, The Mitchell Wolfson, Jr. Collection, 84.2.216. Photo: David Almeida.
+
+Throughout the 192os and 193os, Kauffer and Ashley were the most versatile of the graphic designers interested in modernism. Tom Purvis, the artist who did a large number of posters for the LNER, worked for other clients such as the London men's clothier
+
+Austin Reed, but he remained indebted to Ludwig Hohlwein's stilted figures. Austin Cooper (1890–1964) also developed a strong pictorial poster style. Like many poster artists in Britain, he worked for the railroads and the London Underground along with other clients.
+
+By the mid-193os a number of graphic designers who emigrated to Britain from the continent, as well as a few local designers, began to use a modernist approach more extensively. The émigrés included Hans Schleger, the aforementioned Polish designers Jan Le Witt and George Him, who formed a partnership, Lewitt-Him; and F. H. K. Henrion (1914-1990), who came to Britain from Germany in 1939. Before arriving in Britain, Schleger worked in New York and Chicago and then in W. S. Crawford's German office, while Henrion had studied with Paul Colin in Paris. Tom Eckersley, a British designer, established a partnership in London with Eric Lombers (1914-1978) and the two began to work in a modern style for Shell Mex, London Transport, and the General Post Office (GPO). At the GPO, Stephen Tallents became public relations manager in 1933 when the Empire Marketing Board ceased operations. In his new role he commissioned posters and produced films just as he had done for the EMB. Another British designer, Abram Games (1914–1996), began to experiment with the airbrush as a young man and in his posters of the 193os developed a more conceptual approach to making images. Other modernists include James Fitton (1899–1982), who spent much of his career as the art director for Vernon's, a small advertising agency, and Pat Keely (d.o.b. unconfirmed-197o), who designed posters for London Transport, the Southern Railway, and the GPO. His GPO poster, Night Mail, was an abstract depiction of mail delivery without representing a train at all, only a sequence of railroad signals (Plate 19). These men formed the core of a widening pool of commercial artists who were learning to think of themselves as modern graphic designers. They gained importance as propaganda designers during World War
+
+![](images/7c18a08e497e66d323aa7c0dea662e79ff1b98cf92494bec1ff1a3c793c8a704.jpg)  
+Fig. 23.20: H. H. Harris, Bovril prevents that sinking feeling, poster, c. 1925. © Pictorial Press Ltd/Alamy.
+
+![](images/add257d1c11e242aa73dec52c510f1f35ffe8c08d70fb126063e50fd77f664e5.jpg)  
+Fig. 23.21: John Gilroy, Guinness for strength, poster, 1934. © Pictorial Press Ltd/Alamy.
+
+II and emerged after the war as a group that charted a new direction for British graphic design.
+
+By contrast, the majority of Britain's commercial artists thought of themselves as painters or illustrators first. Some illustrators continued the folksy anecdotal humor that John Hassall had previously introduced in his posters and book illustrations. Rex Whistler (1905–1944) did a series of witty drawings to advertise the London department store Fortnum & Mason, while H. H. Harris (dates unconfirmed) created posters for Bovril, the beef extract. One depicted a grinning pajama-clad chap clinging to a jar of the extract that was floating in the ocean. The homey copy line read Bovril prevents that sinking feeling"(Fig. 23.2o). The most sustained example of this folksy humor was the series of posters that John Gilroy (1898–198s) designed for Guinness stout. As an artist employed by S. H. Benson, the advertising agency that had the Guinness account, Gilroy created many humorous variations on the famous copy lines, "Lovely day for a Guinness," "My goodness, my Guinness." and "Guinness for strength." In a poster with the latter copy line, Gilroy, with understated wit, showed a workman effortlessly carrying a heavy steel beam after downing a glass of stout (Fig. 23.21).
+
+Compared to the manipulative American advertisements or the design-oriented ones in Germany and other countries that were influenced by the New Typography, humor remained a staple of British product advertising throughout the 192os and 193os. It was less evident, however, in the large poster campaigns for the London Underground, Shell, Imperial Airways, the railroads, and the General Post Office. The publicity managers who supervised those campaigns envisioned advertising as a new form of public art that could raise the cultural profiles of their organizations and they preferred not to detract from that aspiration with folksy humor,
+
+## Bibliography
+
+## Bibliographic essay
+
+A number of publications address British design during the 1900-1939 period. One of the earliest is Henry G. Dowling, A Survey of British Industrial Arts. A major contribution came from several volumes of the ground-breaking Open University course, History of Architecture and Design, 1890-1939, notably A Survey of Design in Britain 1915-1939 and The Electric Home: A Case Study of the Domestic Revolution of the Inter-War Years. Related books, book chapters, and articles include James Peto and Donna Loveday, Modern Britain 1929-1939; the exhibition catalog, Thirties: British Art and Design Before the War, Paul Greenhalgh's essay, "The English Compromise: Modern Design and National Consciousness, 1870–1940," in the exhibition catalog that Wendy Kaplan edited, Designing Modernity: The Arts of Reform and Persuasion, 1885–1945; Penny Sparke, "Great Britain: Eclecticism, Empiricism, and Anti-Industrial Culture," in History of Industrial Design 1919–1990: The Domain of Design; and Jonathan Woodham's article, “Design and Empire: British Design in the 192os," Art History 3, no. 2 (June 1980). Woodham has written other essays and articles on this period including "British Art in Industry in 1935," in Design and Industry: The Effects of Industrialization and Technological Change on Design, and "British Modernism Between the Wars: An Historical Survey," in Victor Margolin, Anty Pansera, and Frederick Wildhagen, eds., Tradizione e Modernismo: Design 1918-1940/Tradition and Modernism: Design Between the Wars. Woodham also wrote a seminal article about the British Empire Exhibitions, "Images of Africa and Design at British Empire Exhibitions Between the Wars," Journal of Design History 2, no. 1 (1989). The Empire Marketing Board is discussed in Stephen Constantine, Buy and Build; the Advertising Posters of the Empire Marketing Board and David Meredith's article, "Imperial Images: The Empire Marketing Board, 1926–32," History Today 37, no. I (January 1987). Christian Barman, The Man Who Built London Transport: A Biography of Frank Pick is a major account of the man who played a central role in British design during the interwar period besides heading the London Underground, while Oliver Green, Underground Art is a comprehensive study of the London Underground posters.
+
+The Design Council published an excellent series of short biographies of important British designers. Books on designers active in the interwar period include Ken and Kate Baynes, Gordon Russell; Avril Blake, Milner Gray and Misha Black; and Mary Schoeser, Marianne Straub. Another valuable biography, brought out by a different publisher, is Sherban Cantacazuno, Wells Coates: A Monograph. Besides the Straub volume, other studies of women designers active in this period include Christian Boydell, "Women Textile Designers in the 192os and 193os: Marion Dorn, a Case Study, in Judy Attfield and Pat Kirkham, eds., A View from the Interior: Feminism, Women and Design; Suzette Worden, "Powerful Women: Electricity in the Home, 1919–1940," and Cheryl Buckley, "A Comparative Study of Susan Vera Cooper and Millicent Jane Taplin," both in the Attfield and Kirkham volume; Suzette Worden and Jill Seddon, "Women Designers in Britain in the 192os and 193os: Defining the Professional and Redefining Design," Journal of Design History 8, no. (1995); Cheryl Buckley, "The Decorated Object: Gender, Modernism and the Design of Industrial Ceramics in Britain in the 193os," in Bridget Elliott and Janice Helland, eds., Women Artists and the Decorative Arts, 1880-1935; Jill Seddon, "Mentioned, but Denied Significance: Women Designers and the Professionalisation' of Design in Britain c. 1920–1951, Gender  History 12, no. 2 (July 2ooo); and Jill Seddon and Suzette Worden, Women Designing: Redefining Design in Britain Between the Wars.
+
+Books and articles that consider various aspects of modernism in Great Britain include Julian Holder, Design in Everyday Things': Promoting Modernism in Britain, 1912-1944," in Paul Greenhalgh, ed., Modernism in Design; Gillian Naylor, "Conscience and Consumption: Art Deco in Britain," in Charlotte Benton, Tim Benton, and Ghislaine Wood, eds., Art Deco 1910-1939, the catalog of a large exhibition at the Victoria & Albert Museum; and J. M. Richards, "Towards a Rational Aesthetic," in Dennis Sharp, ed. The Rationalists: Theory and Design in the Modern Movement. Walter Gropius, The New Architecture and the Bauhaus is a volume that introduced tenets of the Bauhaus and the Modern Movement to a British audience. Several books and articles cover companies that manufactured or distributed modern furniture: Barbara Tilson, "Plan Furniture 1932–1938: The German
+
+Connection," Journal of Design History 3, nos. I-2 (1990); Jack Pritchard, View from a Long Chair; Dennis Sharp, Tim Benton, and Barbie Campbell Cole, Pel and Tubular Steel Furniture of the Thirties; and Kevin Davies, Finmar and the Furniture of the Future: The Sale of Alvar Aalto's Plywood Furniture in the UK, 1934–1939,' Journal of Design History 1I, no. 2 (1998). Kenneth Richardson's The British Motor Industry, 1896–1939 was a helpful source of information on British automobile design, and David Jeremiah's "Filling Up: The British Experience, 1896–1940," Journal of Design History 8, no. 2 (1995) recounts the early history of gasoline pumps and service stations in Britain.
+
+Books by design critics are Anthony Bertram, Design; Noel Carrington, Industrial Design in Britain; John Gloag, ed., The English Tradition in Design and as author, Design in Modern Life and Industrial Art Explained; Nikolaus Pevsner, An Enquiry into Industrial Art in England; and Herbert Read, Art & Industry: The Principles of Industrial Design. Articles about these books include Robin Kinross, "Herbert Read's Art and Industry: A History," Journal of Design History I, no. I (1988) and Pauline Madge, "An Enquiry into Pevsner's Enquiry," Journal of Design History 1, no. 2 (1988).
+
+On British typographers during this period, Nicholas Barker's monumental biography, Stanley Morison, was extremely helpful as was Malcolm Yorke, Eric Gill: Man of Flesh and Spirit. Gill's An Essay on Typography is a strong statement of his own views on the subject. An excellent discussion on book design can be found in P. M. Handover, "British Book Typography, in Kenneth Day, ed., Book Typography 1915-1965 in Europe and The United States of America, while a number of books and articles discuss British advertising and important graphic designers. They include Michael Havinden. Advertising and the Artist: Ashley Havinden; Mark Haworth-Booth, E. McKnight Kauffer: A Designer and His Public; Pat Schleger, Hans Schleger: A Life in Design; and numerous articles and a book and several articles by John Hewitt. The book is The Commercial Art of Tom Purvis and the articles are "The Nature’ and ‘Art' of Shell Advertising in the Early 193os," Journal of Design History 5, no. 2 (1992); "East Coast Joys: Tom Purvis and the LNER," Journal of Design History 8, no. 4 (1995); and "Posters of Distinction: Art Advertising and the London, Midland, and Scottish Railways," Design Issues 16, no. I (Spring 2000).
+
+## Books
+
+Barker, Nicolas. Stanley Morison. Cambridge, MA: Harvard University Press, 1972.
+
+Barman, Christian. The Man Who Built London Transport: A Biography of Frank Pick. Newton Abbot, London, and North Pomfret, VT: David & Charles, 1979.
+
+Baynes, Ken and Kate, Gordon Russell. London: Design Council, 1981.
+
+Bertram, Anthony. Design. Harmondsworth: Penguin, 1938.
+
+Blake, Avril. Misha Black. London: Design Council, 1984.
+
+—Milner Gray. London: Design Council, 1986.
+
+Cantacazuno, Sherban. Wells Coates: A Monograph. London: Gordon Fraser, 1978.
+
+Carrington, Noel. Industrial Design in Britain. London: George Allen & Unwin, 1976.
+
+Constantine, Stephen. Buy and Build; the Advertising Posters of the Empire Marketing Board. London: Her Majesty's Stationery Office, 1986.
+
+Dowling, Henry G. A Survey of British Industrial Arts. Benfleet: F. Lewis, 1935.
+
+Gill, Eric. An Essay on Typography. With a new introduction by Christopher Skelton. Boston: David R. Godine, 1988 (c. 1936).
+
+Gloag, John. Industrial Art Explained. London: George Allen & Unwin, 1934.
+
+—The English Tradition in Design. London and New York: King Penguin, 1947.
+
+-ed. Design in Modern Life. London: George Allen & Unwin, 1934.
+
+Green, Oliver. Underground Art. 2nd ed. London: Laurence King, 2001.
+
+Gropius, Walter. The New Architecture and the Bauhaus. Introduction by Frank Pick. Translated by P. Morton Shand. Cambridge, MA: MIT Press, 1965.
+
+Havinden, Michael. Advertising and the Artist: Ashley Havinden. Edinburgh: National Galleries of Scotland, 2004.
+
+Haworth-Booth, Mark. E. McKnight Kauffer. A Designer and His Public. London: Gordon Fraser, 1979.
+
+Hewitt, John. The Commercial Art of Tom Purvis. Manchester: Manchester Metropolitan University Press, 1996.
+
+Open University. A Survey of Design in Britain 1915–1939, prepared by Geoffrey Newman; and The Electric Home; A Case Study of the Domestic Revolution of the Inter-War Years, prepared by Adrian Forty [History of Architecture and Design, 1890-1939]. Milton Keynes: The Open University Press, 1975.
+
+Peto, James and Donna Loveday. Modern Britain 1929–1939. London: The Design Museum 1999.
+
+Pevsner, Nikolaus. An Enquiry into Industrial Art in England. New York: Macmillan, and Cambridge: Cambridge University Press, 1937.
+
+Pritchard, Jack. View from a Long Chair. Introduction by Fiona MacCarthy. London, Boston, Melbourne, and Henley: Routledge & Kegan Paul, 1984.
+
+Read, Herbert. Art & Industry: The Principles of Industrial Design. Bloomington: Indiana University Press, 1961 (c. 1934).
+
+Richardson, Kenneth. The British Motor Industry 1896–1939. London: Macmillan, 1977.
+
+Schleger, Pat. Hans Schleger: A Life in Design. New York: Princeton Architectural Press, 2001.
+
+Schoeser, Mary. Marianne Straub. London: Design Council, 1984.
+
+Seddon, Jill and Suzette Worden. Women Designing: Redefining Design in Britain Between the Wars. Brighton: University of Brighton, 1994.
+
+Sharp, Dennis, Tim Benton, and Barbie Campbell Cole. Pel and Tubular Steel Furniture of the Thirties. London: The Architectural Association, 1977.
+
+Sparke, Penny. A Century of Car Design. Hauppauge, NY: Barron's, 2002.
+
+Thirties: British Art and Design Before the War. London: Arts Council of Great Britain, 1979.
+
+Weill, Alain, The Poster. Boston: G. J. K. Hall, 1985.
+
+Yorke, Malcolm. Eric Gill: Man of Flesh and Spirit. New York: Universe Books, 1981.
+
+## Chapters in books
+
+Boydell, Christine, "Women Textile Designers in the 192os and 193os: Marion Dorn, a Case Study," in Judy Attfield and Pat Kirkham, eds. A View from the Interior: Feminism, Women and Design. London: Women's Press, 1989.
+
+Buckley, Cheryl, "A Comparative Study of Susan Vera Cooper and Millicent Jane Taplin," in Judy Attfield and Pat Kirkham, eds. A View from the Interior: Feminism, Women and Design. London: Women's Press, 1989.
+
+"The Decorated Object: Gender, Modernism and the Design of Industrial Ceramics in Britain in the 193os," in Bridget Elliott and Janice Helland, eds. Women Artists and the Decorative Arts, 1880-1935. Aldershot and Burlington, VT: Ashgate, 2002.
+
+Greenhalgh, Paul, "The English Compromise: Modern Design and National Consciousness, 1870–1940," in Wendy Kaplan, ed. Designing Modernity: The Arts of Reform and Persuasion, 1885–1945. New York: Thames and Hudson, 1995.
+
+Handover, P. M. "British Book Typography," in Kenneth Day, ed. Book Typography 1915-1965 in Europe and The United States of America. Chicago: University of Chicago Press, 1965.
+
+Holder, Julian, "Design in Everyday Things': Promoting Modernism in Britain, 1912–1944," in Paul Greenhalgh, ed. Modernism in Design. London: Reaktion Books, 1990.
+
+Naylor, Gillian, "Conscience and Consumption: Art Deco in Britain," in Charlotte Benton, Tim Benton, and Ghislaine Wood, eds. Art Deco 1910-1939.
+
+Boston, New York, and London: Bulfinch Group, 2003.
+
+Richards, J. M. "Towards a Rational Aesthetic," in Dennis Sharp, ed. The Rationalists: Theory and Design in the Modern Movement. New York: Architectural Book Publishing, 1979.
+
+Sparke, Penny, "Great Britain: Eclecticism, Empiricism, and Anti-Industrial Culture," in History of Industrial Design 1919-1990: The Domain of Design. Milan: Electa, 1991.
+
+Woodham, Jonathan, "British Art in Industry in 1935," in Design and Industry: The Effects of Industrialization and Technological Change on Design. London: Design Council, 1980.
+
+"British Modernism Between the Wars: An Historical Survey," in Victor Margolin, Anty Pansera, and Frederick Wildhagen, eds. Tradizione e Modernismo: Design 1918-194o/Tradition and Modernism: Design Between the Wars. Milan: l'Arca, 1988.
+
+Worden, Suzette, "Powerful Women: Electricity in the Home, 1919-1940," in Judy Attfield and Pat Kirkham, eds. A View from the Interior: Feminism, Women and Design. London: Women's Press, 1989.
+
+## Articles
+
+Davies, Kevin, “Finmar and the Furniture of the Future: The Sale of Alvar Aalto's Plywood Furniture in the UK, 1934–1939," Journal of Design History 1I, no. 2 (1998).
+
+Hewitt, John, "The Nature'’ and ‘Art' of Shell Advertising in the Early 193os," Journal of Design History 5, no. 2 (1992).
+
+-"East Coast Joys: Tom Purvis and the LNER," Journal of Design History 8, no. 4 (1995).
+
+-"Posters of Distinction: Art Advertising and the London, Midland, and Scottish Railways," Design Issues 16, no. I (Spring 2000).
+
+Jeremiah, David, "Filling Up: The British Experience, 1896–1940," Journal of Design History 8, no. 2 (1995).
+
+Kinross, Robin, "Herbert Read's Art and Industry: A History," Journal of Design History I, no. I (1988).
+
+Madge, Pauline, "An Enquiry into Pevsner's Enquiry," Journal of Design History I, no. 2 (1988)
+
+Meredith, David, "Imperial Images: The Empire Marketing Board, 1926–32," History Today 37, no. I (January 1987).
+
+Seddon, Jill, "Mentioned, but Denied Significance: Women Designers and the Professionalisation’ of Design in Britain c. 1920–1951," Gender & History 12, no. 2 (July 2000).
+
+Tilson, Barbara, "Plan Furniture 1932-1938: The German Connection," Journal of Design History 3, nos. I–2 (1990).
+
+Woodham, Jonathan, "Design and Empire: British Design in the 192os," Art History 3, no. 2 (June 1980).
+
+"Images of Africa and Design at British Empire Exhibitions Between the Wars," Journal of Design History 2, no. 1 (1989).
+
+Worden, Suzette and Jill Seddon, "Women Designers in Britain in the 192os and 193os: Defining the Professional and Redefining Design," Journal of Design History 8, no. 3 (1995).

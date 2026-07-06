@@ -1,0 +1,80 @@
+# HA SMOVED
+
+# 259BOWERY
+
+RSESCHALEN
+
+![](images/d97d516a4e293cbb7d637a6cc0b25f215981f98fb1a97ef6600cc65309a7a8c5.jpg)
+
+![](images/bb9ea918a6b0c8223d438cd11a952bc8e6266d4e926dc00f1c7937c44d8e0346.jpg)
+
+![](images/617feb8cfb70a8b76d5d63c47b4ece4b1ae75f99cd73559a2bba9fd66f03b3f8.jpg)
+
+![](images/891454a8c97e86af62aa05d01d4cddb9db1ed95a55ddaf05cd720960e8446068.jpg)
+
+FIRST  
+PARKING LLC  
+461-469 BROADWAY &106-114 GRAND ST.  
+CAP. 150 LIC#:1071693HOURS OF OPERATIONSMON. TO FRI: 7AM TO 10PMOPEN CERTAIN SAT.- SUN. & HOLIDAYS
+
+BACK TO SCHOOL SPECIAL !! FROM 6 AM TO 3 PM
+
+1 EGG ON ROLL – 99¢ 2 EGGS ON ROLL – 1.49 AM OR BACON, ÉGG AND CHEESE ON ROLL - 2.39 WITH COFFEE HAM ON ROLL - 1.49 New York IEFSE & IT AA+ FXTRA
+
+<table><tr><td>DAY &amp; NIGHT RATES ENTER 7AM TO CLOSE UP TO 1/2 HR. 6.77 UP TO 1 HR. 10.99 UP TO 2 HRS. 14.38 UP TO 3 HRS. 16.07 MAX TO CLOSE 19.45</td></tr><tr><td>UP TO 24 HRS. 19.45 OVER-SIZE 4X4 S &amp; UTILITY VEHICLES ADDITIONAL ON EACH RATE 5.92</td></tr><tr><td>MONTHLY RATE NOURER OVER-SIZE 4X4&#x27;s &amp; UTILITY VEHICLES ADDITIONAL 42.28</td></tr><tr><td>SPECIAL EVENTS FLAT RATE</td></tr><tr><td>MAX TO CLOSE 21.14</td></tr><tr><td>18%% NYC Parking Tax Extra</td></tr></table>
+
+<table><tr><td>Gulaschsuppe scharf (von der Pute)</td><td>5,-</td></tr><tr><td>Reismenü Neu Kaffee</td><td>5.0</td></tr><tr><td>Hühnersuppe mit Nudeln</td><td>1.5 4,2</td></tr></table>
+
+<table><tr><td>DM/1 Hähnchen-Schenkel 1,9 Hähnchen-Flügel 1,3 Hähnchenbrust-Filet 2,8 Puten-Flügel 1, Puten-Oberkeule 2, Puten-Unterkeule 1,ª Puten-Schnitzel 2, Ente 2, Puten-Frikadelle st. 2,</td></tr></table>
+
+RINDSWURST \*   
+INDS-CURRY \*   
+OCKWURST   
+VIENER   
+2 HÄHNCHEN   
+IAMBURGER   
+RIKADELLEN   
+EBERKÄSE   
+CHAS HLIK   
+UDELSALAT   
+IERSALAT   
+OMATENSALAT   
+URKENSALAT   
+ARTOFFELSALAT   
+RÜNE SOSSE   
+FANNKU HEN   
+OMMES FRIT' S   
+DMMES FRIT S,GROSS   
+RAT NBRÖT H N   
+ELEGT·BRÖ, HEN   
+ankfurtUWURST
+
+![](images/c8458805a5327d7ba4197b4704ab76a336b78c5b26e056dba63159c2621777ae.jpg)
+
+修脚甲一PEDICURE
+
+假甲做粉→FILLIN
+
+假甲包布→WRAP減肥推全身磨砂按BODY SCRUB MASS
+
+中國氣功指壓按摩
+
+:212-966-7487
+
+·全身按摩BODY MASSAGE
+
+·肩頸治療 BACK & NECK TREATMENT TUI-NA
+
+·减肥推拿 BODY SHAPING ACUPRESSUR
+
+·中警指压 CHINESE ACUPRESSURE
+
+·脚底按摩 FOOT TUI-NA
+
+TS修 MANICURE AND PEDICURE
+
+CETAB BYGGENTREPRENAD SNICKERIARBETE METALLMONTAGE TEL243848
+
+![](images/1c0006aa9b303ed025e7c56e9f59c66d2769100f6af30d83e6fac4e6f6a74200.jpg)
+
+![](images/86579bf8818365f0f2f2e8500ad72dec268e49ea9d15522fadca48f226bf5f6e.jpg)

@@ -1,0 +1,106 @@
+# ALM JST RELAGU FAMOUS JOIN THE XXTEA
+
+![](images/a5585f5ab447bf08d8c72f34c5ce86e7ccde91a23208697dd3c547cef17e7b2c.jpg)
+
+## Please No Littering Smoking Spitting Radio Playing
+
+New York
+
+PASSENGER ENTRANCE ONLY
+
+NO DELIVERIES EQUIPMENT HAND TRUCKS BICYCLES
+
+![](images/8429289c78242db7b3254a3e47199183926e8a60f0d0057d4196dac0a6bdd4b5.jpg)
+
+ALL DELIVERIES MUST BE MADE AT 166 CROSBY STREET —NO EXCEPTIONS
+
+New York
+
+NO SMOKING
+
+penaity for Sm in the saals: £200
+
+Not drinking  water
+
+London
+
+Manchester
+
+Bimmingham
+
+NO ENTRY
+
+VIETATO ACCESSO addet
+
+No Smokin
+
+Roma
+
+London
+
+ARKING駐車禁止
+
+New York
+
+TOW-AWAY NOSTOPPING
+
+A PRuL cser-4or   
+CONSTRUCTION ZONE SF華PD SEC.-22651M C.V.C
+
+San Francisco
+
+Do not enter or cross tracks
+
+![](images/704a5937936c4debbf28a91d15aa5fe487d1fed009be999ab18b13a45490810a.jpg)
+
+![](images/1f9f0e099e46422794558406302b7b78698a8f8426dd18909e311b79a44f6779.jpg)
+
+NOBICYCLERIDING
+
+City of New York Parks & Recreation
+
+SMOKING
+
+IO DOGS LLOWED
+
+NO ALCOHOLIC BEVERAGES City of New York Parks & Recrcation
+
+NO MECHANICAL WORK PERMITTED ON PREMISES
+
+![](images/76ebdc12b48c9cc31d3dc52126473f0759730de5e1e6b31c97835d1dd97e4083.jpg)
+
+![](images/33b5d2c14869ec6200f9420dece2f278a114c739d080447055bb8ffb89d2edb7.jpg)
+
+![](images/04171f62f3d316b852d3ebd6e7a67356ac205102fd476688c4d4525602f62d03.jpg)
+
+## MOLLE MUSEUM
+
+FOR
+
+SJOFART OCH TEKNIK
+
+![](images/b240283e069bbb98bec438f18fbc28feafc2079e95da17bc83781ed196372c0e.jpg)
+
+![](images/6ace5bda3325ef068a503193a4929ec8a6ccd457561009252c17972bb94f2541.jpg)
+
+SHAWA-RMARET 45,-
+
+BURGER 21,
+
+![](images/8f358d0bd2afbd73876a23dcddef13b53eb79449b65522312f23648d2febb6d3.jpg)
+
+## CHAUMONT PLAN DE VILLE
+
+MARKEN TEXTILIEN
+
+VOTA
+
+LISTA N. SINISTRA PEI L'UNIVERSITA
+
+detife raglont a slnish
+
+NO PARKING ANYTIME 24 HOURS .ACTIVE DRIVEWAY 車房出口 一不准一 停泊車輛
+
+![](images/12af5f390c646f5c3da4e79397134543952155e2807de86fad01e3d0a3bf8a98.jpg)
+
+One Stop Mart

@@ -1,0 +1,1 @@
+# ABCDEF GHIJKL MNOPQ RSTUV! WXYZ& Gothic. First shown by Leavenworth, circa 1837, in a condensed style, and shown by George Nesbitt in this style in bis 1838 specimens. Lowercase and figures are missing. T his beavy style of Gothic was not cast by American typefounders until very late in the nineteenth century.

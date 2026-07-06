@@ -1,0 +1,19 @@
+# POSTERS
+
+T here are no general rules that can easily be applied to poster design. Some might say that a poster'sinformation should be visible from a great distance, usually people from advertising agencies and record companies. In the latter case, entire cover designs are simplified down to no more than a single line of type or a single face.
+
+Since such posters often have to compete alongside many others on the same site, their content is reduced to such basic levels of information that any distinctiveness is difficult to achieve, with the result that they all tend to shout at the same volume. When information is not trying to say anything, but simply trying to sell something, the fragmented areas of different consumer targets are held together by repetition, not only out of their volume of coverage: advertising language has a limited vocabulary.
+
+'Anything is arguable and you should mistrust any claim that “this is how a poster should look". Depending on specific usage, you could say that a poster exists only to attract attention to the type on it, no matter what the image, or conversely, that a poster should primarily be attractive and the information it carries of secondary importance. People like to keep or buy posters to put up on their walls.
+
+![](images/332d5a47c5ff5285cbeb9283a8b8cbd1c0bc89202e4f02bbdc58a3152d6489eb.jpg)
+
+![](images/464f34617e04055452e7cc30c45d25156b99182117cff9774e2e8f9a8044d79c.jpg)
+
+'Take the Photographers' Gallery posters, for example. Since their content obviously comes from a photographic base, you have to treat the given image with respect and use a typeface that not only complements the photograph, but allows it to sit as the most crucial element of the design, at the same time as giving the Photographers' Gallery a consistent identity. The gallery's posters serve a dual purpose – on the reverse of the main design is a more textual breakdown of all the current activities in the gallery; 3,000 are folded from A2 to A4 size and sent out as newsletters, so they must also work by encouraging people to open them out and read the information they carry. But there again, they do have to work on pinboards, in schools, colleges and other institutions. Thirdly, they must work as desirable objects. Since they are post-
+
+ers to promote a non-commercial gallery, I try to bring a confidence and a sense of elegance to them that avoids the “hard sell” approach.
+
+'The posters for the Museum of Modern Art in Oxford require a similar treatment, even though they don't need to double as news-sheets. With “Observers of Man", for example, I followed my reaction to the whole exhibition which showed original photographs taken by early explorers. I wanted to find a way, within modern technology, of expressing this colonised primitivism alongside the development of photographic techniques that can be seen in the work of early explorers. I wanted to express this primitivism rather than illustrate it.
+
+'I find the concept of doing posters for galleries challenging because, in a sense, it's a question of ethics. Do you allow the design to communicate anything in itself, apart from the actual work? This is of course unavoidable, so rather than being ignorant about it, you make it a positive force for people to realise the two sides of what is being communicated — the design and its subject. Whatever the medium of communication, be it spoken word or visual image, you make a decision to apply what you want to communicate in the most pertinent form. It can be seen as an involvement and as a kind of translation — unless, that is, you are merely regurgitating the material supplied, which in some situations is all a designer can do, in spite of any ideas you might have.'

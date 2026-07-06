@@ -1,0 +1,1 @@
+# ABCDEF GHIJKL MNOPO RSTUV WXYŽ& Gothic Tuscan Condensed No.3 (Heber Wells), Antique Tuscan No.11 (Page), Antique Tuscan Condensed No.11 (Morgans & Wilcox). First shown by William Page in his 1859 specimens. Lowercase and figures are missing.

@@ -1,0 +1,72 @@
+# List of Illustrations / 6 / 7 / 9 / Picture Credits / Acknowledgments / Introduction
+
+> Section: preface | Source: 05-Result-MD\03-Design-History-replenish-1\02-Books\Éva Forgács：《The Bauhaus Idea and Bauhaus Politics》\Éva Forgács：《The Bauhaus Idea and Bauhaus Politics》\Éva Forgács：《The Bauhaus Idea and Bauhaus Politics》\auto\Éva Forgács：《The Bauhaus Idea and Bauhaus Politics》.md
+
+## List of Illustrations
+
+1   
+Illustration for the April 1919 handbill of the Arbeitsrat (woodcut, probably by   
+Max Pechstein)
+
+2 Walter Gropius in Dessau, around 1926 (anonymous photo)
+
+3 Johannes Itten wearing a robe of his own design (anonymous photo)
+
+4 Oskar Schlemmer and students, Dessau, 1927/8 (photo T. Lux Feininger)
+
+5 Schlemmer's theatre: 'Black and White', detail (photo T. Lux Feininger)
+
+## 6
+
+Reconstruction of a work in paper from Josef Albers's 1927/8 Preliminary Course (photo courtesy of Bauhaus Archiv, Berlin)
+
+## 7
+
+Gropius in the company of Béla Bartók and Paul Klee in 1927 (anonymous photo, courtesy of Busch­Reisinger Museum, Cambridge, Mass.)
+
+8 The Bauhaus as Stage, circa 1927 (photo T. Lux Feininger)
+
+## 9
+
+Hannes Meyer at the Bauhaus, circa 1928 (anonymous photo)
+
+10 Mies van der Robe (photo courtesy of Bauhaus Archiv, Berlin)
+
+## Picture Credits
+
+For permission to reproduce photographs, we are grateful to the following: T. Lux Feininger (cover, nos. 4, 5, 8), the Bauhaus Archiv (nos. 6, 10) and the Busch-Reisinger Museum (no. 7).
+
+'Soyons réalistes, demandons I'impossible!' PARIS, 1968
+
+## Acknowledgments
+
+I first became fascinated by the Bauhaus when I was discovering the writings of the late Hungarian art critic Erno \* Kállai in the collections of the Deutsche Bücherei in Leipzig. Throughout my years of thinking and working on this subject I have received unfailing encouragement, help and advice from my former professor, Dr Anna Zádor, at the Eötvös Loránd University in Budapest, from whom I have never stopped learning.
+
+I am indebted to the staff of the Bauhaus Archiv in Berlin and of the Getty Archive in Santa Monica for their help with my research, and I owe a great deal to my family and friends ­ in particular to Zsuzsa Gáspár, Kati Sebes, Péter Balassa, Péter Donáth and, above all, Gyula ­ for patiently discussing, reading and rereading my manuscript, as well as mercilessly challenging my ideas.
+
+I am grateful to John Bátki for his close and sensitive translation, and, last but not least, to Pauline Wickham and Liz Lowther of the CEU Press, who made the publication of this work a reality.
+
+ÉVA FORGÁCS
+
+## Introduction
+
+In April 1919 the Bauhaus opened its doors in Weimar, under the directorship of the architect Walter Gropius. It was the successor institute to the Grand Ducal Saxon Art Academy and the Grand Ducal School of Arts and Crafts, the latter having been shut down at the outbreak of the World War.
+
+Our first statement about the Bauhaus already contains the seeds of a conflict: the former Weimar Academy of Fine Arts, with its long tradition of landscape painting, was now renamed and headed by an architect enthralled not by the past or the present but by vistas of technological progress. As early as 1910 Walter Gropius presented his proposal For the Establishment of an Architectural Guild Founded on an Aesthetically Unified Basis <sup>1</sup> and, by focusing on economy, speed and efficiency, and keeping in view the technological possibilities, had arrived at the concept of the 'factory­made building'. This approach, which was, on top of everything, internationalist, existed worlds apart from the emphatically nationalist culture epitomized by the genteel local school of landscape painting. Yet it was within this setting that Gropius had to find the modus vivendi for the survival of the new approach by the side of the old. Whether such coexistence is at all possible, and if so, under what conditions, is a question to which the history of the Bauhaus cannot give a universally valid answer. The historical circumstances surrounding its existence were far too special. The fact of the matter is that the town of Weimar wanted no part of the renewal symbolized by Gropius's first great achievement, the Fagus Shoe Factory, built in 1911 near Alfeld. This building was the first truly pure and elegant embodiment of functionalist architecture, a veritable manifesto of architectural modernism, with its
+
+glass walls wrapping around corners, its 'curtain walls' supported by a ferroconcrete framework, and its lucid articulation. Light years separated Gropius from everything the Academy stood for, not to mention the professors on its faculty. Into this hallowed preserve of European cultural tradition, Goethe's hometown, came a burst of the freshest ideas, complete with their unkempt and raucous garnishings, setting in motion a process that one camp interpreted as cultural erosion, while the other side saw it as breathtaking accomplishment.
+
+There is hardly an aspect of the Bauhaus that is not steeped in drama. The school seems to have spawned a veritable pyramid of mutually antithetical views, potentialities and irreconcilable oppositions.
+
+Today, when the reaction to any and all manifestations of straight lines, sobriety and rationalism has ripened into the sensibility that defines itself as postmodern, the very mention of the Bauhaus may invoke shudders and revulsion. It appears as austere and unimaginative, almost militantly disciplined, if judged on the basis of its most characteristically known products. Postmodern taste has had enough of programmes and objectives anchored in the distant future, and is especially repelled by the subordination of the arts to anything of the sort. Economy of form, and a sensibility fine­tuned to minimalist stimuli, are elements of Bauhaus aesthetics that appear bleak and puritanical for postmodern tastes that tend to be based on much higher stimulus thresholds. But while the postmodern mentality abhors anything that smacks of passionate missionary zeal, the very heat of its rejection is a reaction to the discarded model. The intensity of postmodern anathematization invoked by the least overtone of the Bauhaus reflects the fervour of the Bauhaus's own manifestos. However, if we are able to rise above the dichotomy of modern vs postmodern, we must of necessity note the rhythmic alternation, the almost regular ebb and flow of classicism and mannerism in tastes, formal styles and modes of thought on the European cultural scene. Gropius and the Bauhaus under his direction signify the counterpoint against Expressionism (which was the last dying flicker of Romanticism) and came to stand for the new era that opposed the Romantic­Expressionist viewpoint. It would be naive and short­sighted to evaluate or condemn the Bauhaus on the basis of historical givens and determinants that cannot define its essential qualities. Especially since, in the meantime, and who knows for how long, our worldview and expectations regarding the future have been derailed from hope to dread. The Bauhaus, fuelled by ideas of a better future — just after the First World War, but still steeped in its catastrophe — may not have much to say to the child of the postmodern era, who has good
+
+cause to be terrified, and, craving aesthetic delights, would prefer to turn towards the beauties of the past.
+
+There is, in fact, no direct passage between the two eras and the two worldviews, unless it be the shared experience of a generation that enables one still to see in the parable of the Bauhaus an immediately applicable lesson, a valid model with importance undiminished in our days. At the time of writing — in the spring of 1989 — it appears that it is no longer only the age­group called with more or less accuracy the 'Sixties generation' that is entitled to feel a parallel between the ideals of its youth and the utopias of the Bauhaus. In our days every social body, every creative or political association, may find an object lesson in the various forms of behaviour that characterize a community setting out with democratic intentions and struggling with the techniques of organizing itself, while constantly having to defend its openness and independence. Today, more than ever before, we may find the Bauhaus a useful model of a democratic community seeking a precarious balance in a world of power politics. It survived long enough to attempt to realize a democracy of ideas and artistic creativity in a variety of political situations, and this in the Germany of the Weimar Republic, where the attrition of the legal framework of democracy, a process that now seems unbelievable, progressed from day to day, while artists were convinced they were laying the foundations of a better world.
+
+The Bauhaus offers itself for anatomical investigation. Its history is filled with the fireworks resulting from the head­on collisions of idea and matter, spirit and everyday existence. For the anatomist once touched by utopianistic yearnings it offers a rich abundance of examples illustrating the many ways reality's capricious tissue may cast out the foreign body of any idea purporting to improve it. A survey of the history of the Bauhaus will bring a peculiar fact to our attention: all of the plans and concepts upon which the institution was originally founded were eventually turned inside out. Not merely slightly modified in the course of time, but changed into their polar opposites. This realization should give us pause, all the more so because, as we follow the progressive changes in agenda, it is always obvious that Gropius and his companions were led by meliorist intentions. They strove for higher spiritual, artistic and ethical values. How was it possible, then, that a community which had unequivocally demarcated itself from the majority — and, from the Bauhaus's vantage, backward — portion of society, intending in 1919 to exemplify a new, higher way of life, had by 1928 adopted a programme endorsing total integration into the rest of society, and, instead of redesigning society's
+
+needs, now aimed to serve those already existing needs? How was it possible for the reverence accorded the creative artist in 1919 to turn into scorn by 1928? How could the respect and appreciation of artistic genius turn into the impulse that 'scorns the apelike excitability called talent'?
+
+Although the duration of the Bauhaus is nearly coterminous with the history of the Weimar Republic — the school was born amidst the catastrophic­euphoric feelings at the end of the First World War, struggled to survive during the years of the democratic republic, suffered through the gradual shift to the right, and its closing in April 1933 was one of the first actions of the Nazi Party–it would be too much of a simplification, too facile an explanation to restrict ourselves to these facts alone. Driving forces of another nature were also at work; the Bauhaus was the stage for a clash of personal and group ambitions, conflicting beliefs and convictions. Its masters and students had intended to be part of an experiment to evolve a model of a democratic creative community, proving by their own example that a better world does exist. But we can now see that although their efforts were directed towards raising a bold, rectilinearly constructed architecture, curving space­time, according to its own laws, had mercilessly warped the construct of their ideas, pointing it in a direction that none of them could have predicted at the time.
+

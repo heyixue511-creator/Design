@@ -1,0 +1,1 @@
+# ABCDEFG HIJKLMN OPQRSTU VWXYZ&! Latin, Peerless, Old Style Antique (this particular style, No. 129, is by Page). First shown by W illiam Page in Page's Wood Type Album, October, 1879. Lowercase and figures are missing

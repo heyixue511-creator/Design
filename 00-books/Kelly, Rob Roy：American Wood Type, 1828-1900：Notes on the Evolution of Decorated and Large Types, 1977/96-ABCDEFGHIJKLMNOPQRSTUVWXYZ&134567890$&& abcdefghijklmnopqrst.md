@@ -1,0 +1,1 @@
+# ABCDEFG HIJKLMN OPQRSTU VWXYZ& 134567890\$ && abcdef ghijklmnop qrstuvwxyz Ben Franklin. Cut by Hamilton and shown near the end of the century. Design copied from metal type design of the founders.

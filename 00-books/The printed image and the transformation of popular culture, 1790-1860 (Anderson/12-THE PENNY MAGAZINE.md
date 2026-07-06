@@ -1,0 +1,41 @@
+# THE PENNY MAGAZINE
+
+OF THE
+
+# Society for the Diffusion of Useful Knowledge.
+
+50.1
+
+PUBLISHED EVERY SATURDAY.
+
+[JANUARY 12, 1883.
+
+THE DYING GLADIATOR.
+
+![](images/50c8d267783b95e4b6e4e9644656780b4fa8433c39e6218636b140e98fd881f0.jpg)
+
+This celebrated statue, which is now at Rome, has given rise to much discussion, and it is at least doubtful whether it bears'its right nare. It is this described by Winkelmann (vol. ii. p. 241, French ed.):—" It represents a man of toil, who has lived a laborious life, as we may see from the countenance, from one of the hands, which is gcnuine, and from the soles of the feet.· He has a cord round his neck, which is knotted under the chin; he is lying on an oval buckler, on which we see a kind of broken horn\*." The rest of Winkelmann's remarks are little to the purpoée.
+
+Pliny, in a long chapter of his thirty fourth book; wherein he enumerates the most famous statuaries who worked in metal, mèntions one called Ctesilaus, who appears to have lived near, or shórtly after; the time of Phidias. " He made," says Pliny,""a wounded man expiring (or fainting), and he succeeded in expressing exactly how much vitality still remained." It is possible that this bronze or metal figure may be the original of the marble figure now in Rome, to which we give the name of the Dying Gladiator. As far as we can judge from the attitude, the armour, the general character of the figure, and the deep expression of pain and intense agony, the whole composition may very possibly be intended to represent the death of one of those wretched beings, who were compelled to slaughter each other for the amusement of the Roman capital. The broken horn is, however, considered by some critics as an objection to this statue being a representation of a gludiator; the signal for the combat, they say, might be given with a horn, but what had the fighter to do with one? This seems to us a small objection, The presence of the horn does not necessarily imply that it belonged to the gladiator; it is a symbol, ‘a kind of
+
+\* This horn, which was broken, has been restored, and that near the right hand is entirely modern.
+
+VOL. II.
+
+short-hand, which brings to recollection the crowded amphitheatre, the eager populace, the devoted victims, the signal for attack; and the sad contrast to all this is exhibited in the figure of the dyíng man. As to any difficulty that may be raised about the kind of armour, or the cord round the neck, this may be removed by cousidering that the Romans had gladiators from all countries, "and'that these men often fought with their native weapons, 'and after the fashion of their own country. The'savage directors of these spectacles knew full well the feehings of animosity. with which uncivilized nations are apt to regard : one añother, and they found no way so ready for exhibiting.to the populace all the bloody circumstances of a real battle, as to mateh together people of different nàtions.
+
+Whether this figure be that of a dying gladiator or not, it is pretty certain it will long retain the name, at least in the popular opinion' in this country, as it has furnished the subject for some of the noblest lines that one of the first of modern poets ever penned:
+
+" I see before me the gladiator lie He leans upon his haud-his manly brow Consents to death, but conquers agony, And his droop'd head sinks gradually low And through his side the last dropa, ebbing alow From the red gash, fall heavy, onê by one, Like the first of a thunder-shower; and now Tho arena swims around him-he is gone, Ere ceased the inhuman shout which hail'd the wretch who won.
+
+" He heard it, but he heeded not—his eyem Were with his heart, and that was far away; He reck'd not of the life he lost, nor prize, But where his rude hut by the Danube lay, There were his young barbarians all at play There was their Dacian mother-he, their sire Butcher'd to make a Roman holiday AH this rush'd with his blood.-Shall he expire
+
+magazine, that is.1⁵ In the combined image, text, and context of the Gladiator there was thus an undepicted, unwritten exhortation to the reader: work hard, exercise restraint, and value what you have—in short, be civilized.
+
+The third message, then, was a connoted one, and it depended on the existence of some degree of cultural knowledge or experience shared by the reader-viewers, the magazine's editor, and the contributing authors—whose number, incidentally, included both the eminent and the obscure: William Hone, who submitted a short piece on Charing Cross for the first number; art critic Anna Jameson, whose series on early Italian painters enhanced the magazine's sales in the 184os; naturalist James Rennie, who supplied essays on insects and birds; John Kitto, a deaf former workhouse inmate, who wrote travelogues; and a teenage girl, Emily Shore, who, in the two years before her death at nineteen from tuberculosis, contributed articles on nature.16 The artists' role in the transmission of the third message was probably purely mechanical. If the magazine's better-known artists—engraver William Harvey, chief engraver John Jackson (a one-time pupil of Bewick), and F. W. Fairholt, draughtsman of many of the art reproductions—were typical, then we can infer that the others, for whom there is little or no biographical information, were also young, or comparatively so, and striving for professional advancement. Moreover, according to Knight, they were well paid.¹7 It seems safe then to assume that an ample salary and steady employment would have given most, if not all, of the magazine's artists sufficient motives for doing as they were directed—creating, adapting, or merely copying images to suit both specific texts and overall editorial policy.
+
+Like The Dying Gladiator, several other reproduced works of art embodied a connoted message and served as exemplars for the nineteenth-century reader-viewer. A statue of Diana, for instance, illustrated chastity and maidenly modesty; Carracci's Mary was the epitome of maternal sensibility; and The Last Supper depicted seemly behaviour in trying circumstances. Frequently the artists themselves were held up as models of industriousness and dedication. Leonardo da Vinci earned praise for his‘untiring industry and continued perseverance', while Rubens was deemed noteworthy for‘raising himself' through the most remarkable industry as well as fertility'.18
+
+Very often works of art were chosen for their ability to civilize by negative example. In pictures of this type what was portrayed was not a role-model to be emulated, but rather a situation, vice, or emotion to be avoided. Since it was important that the meaning of such images was not misconstrued, the associated commentary helped to clarify the underlying message. A critical analysis of Murillo's Young Beggar (figure 16) thus included the following remarks: The roughness of the skin attests the idleness of this unhappy child; his morals are in some measure written upon the'squalidness of his limbs.'9 In company with this text, the image became an implicit warning against the moral debility that led inevitably to physical infirmity. In another instance the discussion of a reproduction of Niobe informed the reader of the severe penalties incurred by those who have a‘pride of heart' and insolence' beyond what is appropriate to their allotted position in an ordered world.2o Even the nineteenth century's most admired specimen of Hellenism, the Laocoön (figure 17), became a Penny Magazine negative exemplar. Presented from the social and moral perspective of a disapproving commentator, the statue admonished against a lack of emotional restraint that mere adversity could not excuse: ‘the agony is that of despair; there is nothing like the resistance of true courage; nor does there appear to us, in the position of the serpent which is attacking the father, any sufficient cause for the total despair with which he is overwhelmed.’i
+
+The art works most frequently reproduced in the Penny Magazine were the engravings of William Hogarth. In 1834 and 1835 the magazine used a total of twenty-four such prints.²² The reasons for

@@ -1,0 +1,15 @@
+# EXPOSICION DE LA
+
+![](images/b010cce38a4382f1a7d74d0818bd2d3ed4dcd92a1dbbab0959438a24b0331f95.jpg)
+
+Fig. 29.II: Gabriel Fernández Ledesma, Exposición de la Escuela Superior de Construcción, poster, 1933. CONADICOV archives.
+
+culture instead of adopting an aesthetic that was driven solely by a machine metaphor. From 1935 to 1938, Fernández Ledesma directed the exhibition gallery in the Palace of Fine Arts, where the exhibits ranged from Japanese prints to Soviet posters. He and Díaz de León created posters and other materials for these exhibitions, continuing to refine the strong graphic language they had begun to use earlier.
+
+During the 193os, both designers belonged to the milieu of politically progressive artists and writers that supported the socialist program of the Cárdenas regime. In 1933, Fernández Ledesma was a founding member of the militant League of Revolutionary Artists and Writers (LEAR), while continuing to design posters for social groups and political causes.
+
+In 1937, the Ministry of Public Education agreed to fund the Escuela Mexicana de las Artes del Libro (Mexican School of Book Arts) that Díaz de León had proposed. Housed initially in the Department of Workers' Education, the school opened its doors at the end of the following year. Díaz de León's intent was to train workers in printmaking, drawing, and photography as well as the traditional arts of bookbinding and typography. He assembled a distinguished group of professors and educated a considerable number of students, some of whom like Isidoro Ocampo (1910-1983) went on to distinguished careers in book illustration, art direction, and design. Díaz de León continued to direct the school until 1956.
+
+During the Cárdenas regime, Díaz de León was also involved with several official publications including El Maestro Rural (The Rural Teacher), which was published by the Ministry of Public Education, and Mexican Art and Life, for which he was the art director. The latter was a propaganda magazine directed to a North American audience. Both magazines had large formats and featured photographs and photomontages of contemporary Mexican life, which suggested some influence from the Soviet magazine USSR in Construction.
+
+Mexican Art and Life was published by the Departamento Autónomo de Prensa y Publicidad (Autonomous Department for Press and Publicity) (DAPP), which Cárdenas had organized in late 1936 to consolidate his control over the government's publicity and propaganda efforts for domestic as well as foreign audiences. Among DAPP's other activities was the distribution of posters for various social campaigns. These were designed by capable artists with an awareness of contemporary styles and a developed sense of lettering. Gabriel Fernández Ledesma and Francisco Díaz de Leon, for example, designed a poster for a campaign to grow corn that featured a single icon—a hand with an ear of corn—coupled with large san serif letters (Plate 52).

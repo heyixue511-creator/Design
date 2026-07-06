@@ -1,0 +1,1 @@
+# ABCDEFG HIJKLM! NOPQRST UVWXYI Gothic Tuscan Condensed No.2 (Morgans & Wilcox), No. 124 (Page). First shown by William Page in Page's Wood Type Album, July, 1879. A lowercase was not always designed for this face, and figures are missing.

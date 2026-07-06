@@ -1,0 +1,13 @@
+![](images/490eaf4ad42d4ba26c571fc1e64ca9ca5502170aecab52b29721bb2867507bd1.jpg)
+
+Fig. 23.15: 'Theyre Lee-Elliott, Imperial Airways poster, c. 1935. The Wolfsonian-Florida International University, Miami Beach, Florida, The Mitchell Wolfson, Jr. Collection, XX1992.193. Photo: Lynton Gardiner.
+
+The styles of artists who did posters for the airline varied greatly from the abstract forms of British Constructivist painter Ben Nicholson to the illustrations of commercial designers. Posters that invited the public to travel to far-off destinations presented such places as exotic landscapes, but they could also reinforce an imperialist vision as did a poster by illustrator Hal Woolf (1902-1962) that portrayed a group of smiling Africans in native dress ostensibly waiting to welcome the tourists arriving in the plane that was descending behind them.
+
+## Graphic Design Typography
+
+The appointment of Stanley Morison (1889-1967) as typographic advisor to the Monotype Corporation in 1922 enabled him to exercise a powerful influence over the development of British typography for the next four decades. During that period, Morison helped Monotype to become the major supplier of machineproduced printing types in Britain.
+
+Unlike Jan Tschichold, the force behind the New Typography in Germany, Morison was not trained as a typographer. Before joining Monotype, he was the director of design at the Cloister Press in Manchester, which the advertising magnate Charles W. Hobson (dates unconfirmed) had set up. There Morison ordered type from other foundries and issued his own type specimens. In 1922 he became a founding member of the Fleuron Society, whose purpose was to publish machine-printed books that possessed the same quality as hand-printed ones. Among the co-founders were Oliver Simon (1895–1956), Francis Meynell (1891–1975), and Bernard Newdigate (1869-1944), all of whom were active in adapting the exceptional design and printing standards of the late 19th-century private press movement to modern commercial printing. Simon had a long association with the Curwen Press, Meynell founded the Nonesuch Press, and Newdigate managed the Shakespeare Head Press for the publisher Basil Blackwell.
+
+Besides commissioning typeface designs for Monotype, Morison became a prominent printing historian. In 1923, he and Oliver Simon started a lavishly produced typographic journal, The Fleuron. It published a large number of scholarly articles until it ceased publication in 193o. At Monotype, Morison helped to move commercial printers from the traditional hand-setting of type to setting by machine. To this end, he revived a considerable number of classical

@@ -1,0 +1,19 @@
+# GUIDE TO FURTHER READING
+
+The extensive specialist literature on eighteenth-century design is beyond the scope of this Reader; here we will point to some texts that will provide a working understanding of what was distinctive about design in the period prior to 1850, and what points of continuity can be discerned in the later nineteenth-century and beyond.
+
+Ulrich provides a broader discussion of war and trade in her chapter on 'An Indian Basket', as well as charting in detail the lives of the individuals related to the basket. It may be compared with Sarah H. Hill's Weaving New Worlds: Southeastern Cherokee Women and Their Basketry (1997). Ulrich's book, The Age of Homespun, provides similarly developed analyses of a range of other examples of material culture of the long eighteenth century.
+
+Styles's discussion of design is preceded by useful summary discussions of manufacturing and consumption of the same period, and several other contributions to the book in which it appears are similarly informative including Amanda Vickery's 'Women and the World of Goods: a Lancashire consumer and her possessions, 1751-81' a detailed case study of what household goods meant to one eighteenth-century woman. See also Leora Auslander, in 'The Courtly Stylistic Regime: Representation and Power under Absolutism', in Taste and Power: Furnishing Modern France (1996), and Grant McCracken, "“Even Dearer in Our Thoughts": Patina and the Representation of Status Before and After the Eighteenth Century' in Culture and Consumption: New Approaches to the Symbolic Character of Consumer Goods and Activities (1988).
+
+Andrew Ure's 'The Factory System' from The Philosophy of Manufacturers (1835), makes an instructive comparison with the Adam Smith text presented here. A design historical analysis of Ure's writing is provided by Steve Edwards in Factory and Fantasy in Andrew Ure' (2001). A much earlier primary text is Daniel Defoe's The Complete English Tradesman (1726), an engaging and opinionated discussion of various trades, styled as a 'collection of useful instructions for a young tradesman', which conrains useful information about the organization and practice of craft and manufacturing in a watershed period for design.
+
+Guyatt's analysis of Wedgwood complements existing studies by Neil McKendrick, including the introduction and Chapters 1 and 3 in The Birth of a Consumer Society: The Commercialization of Eighteenth-Century England (1983) and 'Josiah Wedgwood: An Eighteenth-Century Entrepreneur in Salesmanship and Marketing Techniques' (1960). McKendrick's later essay Josiah Wedgwood and Cost Accounting in the Industrial Revolution' (1970) also identifies Wedgwood's business acumen, rather than design or production expertise, as significant in his success.
+
+All of the extracts presented here are interested in manufacture as much as design. Wider reading includes Maxine Rerg, The Age of Manufactures, 1700–1820 (1985), especially 'Industries', 'Adam Smith', and 'Domestic Manufacture and Women's Work'; and Adrian Forty, Objects of Desire: Design and Society 1750–1980 (1986), 'The First Industrial Designers', and 'Neo-Classicism: an Antidote to
+
+Progtess'. Charles Saurnerez Smith's The Rise of Design: Design and the Domestic Interior in Eighteenth Century England (2000) is pertinent; see particularly 'The Rise of the Designer'. Reed Benhamou's article Imitation in the Decorative Arts of the Eighteench Century' (1991) also considers different perceptions of the designer's role, in relation to innovation and imitation. Studies of dress of the period include Daniel Roche, The Culture of Clothing: Dress and Fashion in the Ancien Régime (1994) and Aileen Ribeiro, Dress in Eighteenth-Century Europe, 1715–1789 (2002).
+
+## SECTION 2
+
+Design Reform, 1820-1910

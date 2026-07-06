@@ -1,0 +1,12 @@
+# An Introduction to the Readings in Part I
+
+> Section: preface | Source: 05-Result-MD\03-Design-History-replenish-1\02-Books\Clive Dilnot：《A John Heskett Reader Design, History, Economics》\Clive Dilnot：《A John Heskett Reader Design, History, Economics》\Clive Dilnot：《A John Heskett Reader Design, History, Economics》\auto\Clive Dilnot：《A John Heskett Reader Design, History, Economics》.md
+
+# An Introduction to the Readings in Part I
+
+As the reader works through the material below, it will become apparent that, more so than in the previous sections, the readings interact with one another and speak across the boundaries of the categories they have been placed under. For example, reading #20, ‘Learning from Germany’s integrated design policy’, could be read with profit in between Heskett’s critique of General Motor’s (GM’s) lack of corporate policy on the design of their cars (#14) and his wider critique of designer’s attitude to business (#15) and his studies of the attempts in the late 1980s by the Phillips company in Holland and by RCA in the United States a few years later to create integral policies on corporate design and innovation (#16–17). Similarly, reading #22, which explores three suggestions for future design policy in the United Kingdom, does so by developing a number of propositions on the role of design in creating value and, in fact, acts as a kind of ‘applied’ version of reading #26, Heskett’s major published attempt to articulate an economic theory of how value is created through, and as a result of, design.
+
+This should not be surprising. Questions of corporate strategies, of national design policy and of the (economic) value created by design and value naturally flow into each other. Indeed, the interactions between (A) strategies and approaches in business, (B) wider questions of design policy and (C) how the creation of (economic) value through or by design should be understood is Heskett’s particular field. It is how he understands what is at work in that triangle that gives his work its interest.
+
+Allowing for that, however, the three major categories used to organize his writings in these areas – concerns with strategy at the company level, policy at national level and the value-creating possibilities of design – are those suggested by the material itself. These loose groupings, moreover, allow the reader to glimpse a body of work in each of these areas.
+

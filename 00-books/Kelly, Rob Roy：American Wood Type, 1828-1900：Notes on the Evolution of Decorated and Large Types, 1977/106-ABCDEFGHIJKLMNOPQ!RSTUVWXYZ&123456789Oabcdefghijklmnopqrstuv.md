@@ -1,0 +1,1 @@
+# ABCDEFGHI JKLMNOPQ! RSTUVWXY Z&123456789 Oabcdefghijkl mnopqrstuvw xyz\$ffffff Egvptian No. 2. First shown by William Page in his 1878 specimens.This design was sometimes called Egyptian Antique (serifs are unbracketed). The design was much used by typefounders.

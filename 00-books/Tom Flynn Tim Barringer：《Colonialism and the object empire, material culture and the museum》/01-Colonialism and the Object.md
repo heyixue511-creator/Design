@@ -1,0 +1,9 @@
+# Colonialism and the Object
+
+The post-colonial world has seen a major re-evaluation, political as well as theoretical, of the institutions and ideologies of colonialism. In addition to historical and literary studies, innovative theoretical analyses have opened up new approaches to this subject area. In the light of this new thinking, Colonialism and the Object discusses the impact of colonial contact with other cultures on the material culture of both the colonised and the imperial nation.
+
+Drawing together an international group of scholars from a variety of disciplinary and cultural backgrounds, Colonialism and the Object demonstrates that the intensive analysis of museum objects and their contexts can provide timely and substantive insights into issues of global importance. The volume includes intensive case studies of objects from India, Pakistan, New Zealand, China and Africa, all of which were collected by or exhibited in the institutions of the British Empire. Other chapters address issues of racial identity across cultural barriers, and the hybrid styles of objects which can emerge when cultures meet.
+
+Colonialism and the Object is essential reading for all those interested in postcolonial theory, museum studies, material culture and design history.
+
+Tim Barringer is a lecturer in History of Art at the University of Birmingham, following earlier positions at Birkbeck College, University of London and the Victoria and Albert Museum, London. Tom Flynn is Henry Moore Fellow in the history of sculpture at the University of Sussex. He is currently preparing a book on mixed media sculpture in the nineteenth century.

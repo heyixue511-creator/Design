@@ -1,0 +1,1 @@
+# ABCDEFG HIJKLMN OPQRSTU VWXYZ& abcdefgh iijklmno! pqrstuvw Xyzoeae-,;: frfmAE Roman. First shoun b; Darius Wells in bis 1828 pe.imens. This specimen is printed from types at Rochester Institute of Technology, Rochester, New York. Figures are missing. One of the oldest of the large display lter wed in this country, this style gradually fell into di me after 1850.

@@ -1,0 +1,7 @@
+![](images/e58428d6f2fed9054b63a17920a1135698eaf1ecec145c7e6d1d0ee208e367d3.jpg)
+
+# BEN SHNEIDERM HUMAN-CENTEREDAI
+
+![](images/3d63f4dacba0df310ab8206f62f0a8b5171f67f0f634389b372872a42aec7716.jpg)
+
+Human-Centered AI

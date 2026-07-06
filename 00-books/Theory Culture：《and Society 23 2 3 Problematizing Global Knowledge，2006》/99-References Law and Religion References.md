@@ -1,0 +1,97 @@
+(‘a land that I [God] will shew thee’, Genesis 12: 1), or the account in the 5th-century chronicle the Mahavamsa of the establishment of the kingdom of Sri Lanka as ‘a place of special sanctity for the Buddhist religion’ – territorial siting creates a spiritual homeland whose boundaries are manifest and co-terminous with the nation, but whose integrity usually did not last beyond the originary narrative. Trade, cultural contact, intermarriage, invasion and conquest in the pre-modern world introduced religious heterogeneity and division within the site of the ‘chosen’ nation. Such spatial-religious contestations were intensified in the ages of European colonialism (which brought religious territorialization that was often as aggressive as its colonial-mercantilist underpinnings) and decolonizations and nationalisms (which often saw the establishment or restoration of a ‘traditional’ religion as the official or state religion, resulting in conflicts with other religious introduced or tolerated by the colonial regime). In many cases, this led to the intensification of religious sites rather than their abandonment – to the creation of smaller spiritual regions within the national space, each consecrated to a particular religion, for example the Sikh spiritual homeland of Khalistan in the Punjab region, or the Christianity-dominated states (Nagaland, Mizoram) in North-East India. The partitioning of India and Pakistan in 1947, and of Bangladesh and India in 1971, indicate the extent to which the political attempt to site religion is taken, in the age of Asian nationalisms; nevertheless, religious nationalisms tend to result, not in the definition of a space dedicated to the official religion and its adherents, but the establishment of uneasy and competing zones marked by different religions (for example, the tribal Christian highlands versus the Buddhist capital regimes in countries like Myanmar and Thailand).
+
+The impulse to locate religious sentiments becomes highly complicated, but no less emphatic, in the age of globalized capital and communications. To a certain extent, the effect has been to draw the territorial lines more sharply, demarcating a ‘Third World’ phenomenon of religious ‘fundamentalism’ and ‘militantism’ perceived as being at odds with ‘the West’ with its experience of a ‘secularization tide’ (Haynes, 1999: 6; Esposito and Watson, 2000: 4, 10). Recent scholarship, however, points to a losing of faith in this ‘religion of secularization’ in recent decades, together with a realization that there is hardly a homogeneous or even uniform phenomenon of religiosity located in the ‘Third World’, but instead a ‘great diversity’ of religious groups in relation to a variety of local conditions (Swatos, 1989: 147–50; Haynes, 1999: 10).
+
+Conditions of knowledge with regard to religious sites are, if anything, more problematic in the era of globalization. In the first place, advances in electronic finances, the speed of international logistics and of the transmission of information, expand and diffuse the notion of the physical religious site, as indeed they do to all physical sites. Thus the support (in economic, and to a lesser extent political, terms) of external agencies may give some oppressed minority religions in lessdeveloped countries a larger social stake than their mere numbers or territorial influence would suggest; such international links effectively enlarge the religious localities in a particular country, adding (as it were) overlays of affiliated international religious sites. Second, diasporic movements, which have intensified in reach and scale in the last decades of the 20th century (and into the 21st), mean among other things that religious structures and links become established on diasporic-ethnic lines as well, fostering increasingly concentrated religious variety within cosmopolitan sites. New notions of ‘flexible citizenship’ characterized by multiple allegiances (Ong, 1999) also extend the space of religious affiliations far beyond originary sites: the cosmopolitan believer in a ‘Korean-American Church’ or in a ‘Lotus Sutra School’ of Buddhism effectively participates in and reinforces the multiple international locations of those networks, which both suggest and dismantle the original ethnic-national site of those religious ‘denominations’. Along the same lines, the Internet – as a technology enabling a virtual site which is to all effects and purposes permanent, and even less prey to the vicissitudes of fortune and society than the brick-and-mortar site – adds a significant new dimension to the religious site. Virtual places of worship (including possibilities of real-time chatroom counselling, MPEG homilies and rituals, bookstores, archives and other resources), while yet to develop their real potential, already suggest the ways in which textual/semiotic analyses of religious ‘sites’ might complicate and enrich older physio-sociological definitions.
+
+The study of religious sites increasingly has to take on board micro-institutional (rather than ‘territorial’ or ‘movement’-wide) approaches to religion, sensitive to a wide range of strategies of socio-cultural location or siting, to the heterogeneity of socio-political conditions within which religions increasingly function, and to the possibilities of multiple and overlapping claims and allegiances.
+
+## References
+
+Copley, A. (1997) Religions in Conflict: Ideology, Cultural Contact and Conversion in Late Colonial India. Delhi: Oxford University Press.   
+Esposito, J.L. and M. Watson (2000)
+
+‘Introduction’, in J.L. Esposito and M. Watson (eds) Religion and the Global Order. Cardiff: University of Wales Press.
+
+Haynes, J. (1999) ‘Introduction’, in Religion, Globalization and Political Culture in the Third World. Houndsmill: Macmillan.
+
+Marty, M.E. and R.S. Appleby (1994) ‘Introduction’, in M.E. Marty and R.S. Appleby (eds) Accounting for Fundamentalisms: The Dynamic Character of Movements. Chicago: University of Chicago Press.
+
+Ohm, T. (1959) Asia Looks at Western Christianity, trans. Irene Marinoff. New York: Herder and Herder.
+
+Ong, A. (1999) Flexible Citizenship: The Cultural Logics of Transnationality. Durham, NC: Duke University Press.
+
+Swatos, W.H. Jr (1989) ‘Losing Faith in the “Religion” of Secularization: Worldwide Religious Resurgence and the Definition of Religion’, in W.H. Swatos Jr (ed.) Religious Politics in Global and Comparative Perspective. New York: Greenwood Press.
+
+Robbie B.H. Goh is Associate Professor and Head of the Department of English Language and Literature, National University of Singapore.
+
+# Law and Religion
+
+Bryan S. Turner
+
+Keywords faith, morals, rituals, sacred, sovereignty, state
+
+n the positivist theory of jurisprudence, law is the command of the state, and hence laws are separate from both religion and morality. The positivist tradition sought to turn jurisprudence into a science and to remove any (subjective) evaluation of law. The validity of ‘law as a system of rules’ (Dworkin, 1977) depends not on content but on the procedures by which they are produced. Moral rules and legal rules can only be distinguished by the procedures by which they come into existence, and the scope of the law has to be determined by an appropriate official such as a judge. These rules create a ‘legal obligation that forces somebody who falls within that jurisdiction to do something or to forbear from something. The positivist version of law was classically expressed by J. Austin in The Province of Jurisprudence Determined in 1832 as the coercive command of a sovereign. In the sociology of the law, this command theory was taken up by Max Weber in his definition of the state as that institution which has a monopoly of force in a given territory. Weber defined law in the following way:
+
+An order will be called law if it is externally guaranteed by the probability that coercion (physical or psychological) to bring about conformity or avenge violation will be applied by a staff of people holding themselves specially ready for that purpose. (1954: 5)
+
+Weber influenced Carl Schmitt’s theory of politics and the state in The Concept of the Political (1996 [1932]) in which a sovereign is described as that person who has the power to decide that an emergency exists. This positivist tradition was therefore hostile to the legacy of natural law in which just laws expressed a (religious) notion of the good society. In the natural law tradition, procedural correctness was never a guarantee of the existence of a just law. The critique of positivism and the legacy of Weber owes much to Leo Strauss’s Natural Right and History (1950).
+
+Before the rise of the modern state and the development of secular legal systems, it was not possible to make clear distinctions between law, religion and morality. In the Abrahamic religions, for example, law is produced by revelation and its authority depends on charismatic powers. The ultimate authority of the law was divine. In Judaism, the texts dealing with law and ritual were known as the halakhah, the root of which means a way or path. In this sense it describes the customary ways of the people. More specifically, it describes the religious customs. Moses was the central prophetic figure behind halakhic laws, because it was through Moses that God revealed the law. In more recent history, much of the codification of Jewish law was undertaken by Moses Maimonides (1135–1204). His Book of the Commandments catalogued the 613 biblical laws, his Commentary on the Mishnah explained the rational purpose of the rabbinic code and the 14- volume Mishnah Torah was a catalogue of talmudic law. The Mishnah is divided into various sections dealing with, for example, agricultural laws, the conduct of women, civil laws and festivals.
+
+Islam shares with Judaism this centrality of law to ritual and religious practice. The Prophet was the divinely appointed lawgiver of the community and subsequently the caliphs were deputies responsible for the good order of the Household of Faith. The Shari’a or Holy Law is governed by Fiqh or understanding, and in Sunni Islam there emerged four major schools of law (Hanafis, Hanbalis, Malikis and Shafi’is). Shi’ite Islam had its own systems. The term Shari’a means literally the way to the watering place, namely the source or fountain of life and good order. Islam has no church or priesthood, and in this sense its legal structure is the core of its religious consciousness. The principle of justice lies at the heart of Islamic spirituality, a justice that demands the application of law to public and private life. The law had four roots – the Qur’an (the revealed word of God), the sunna (the recorded practices of the Prophet as recorded in hadith), ijma (legal judgments that follow the consensus of the community) and qiyas (the application of logical reasoning and analogue to cases not covered by existing law). Because Islamic legal systems were often dislodged or displaced by Western law during colonization in the 19th and 20th century, there has been a significant revival of Islamic legal thinking in, for example, Malaysia, in order to modernize legal practice and to make the impact of Islamic law more widespread in the community (Peletz, 2002). This modernization of law often results in legal pluralism where Shari’a competes with English common law, tribal codes and human rights legislation.
+
+Weber was critical of the legal rigidity in Holy Law. He argued that Holy Law could not change to meet the changing conditions of society and that the gap between law and reality could only be closed by arbitrary legal pronouncements. For example, in Islam the law or Shari’a was regarded as complete and therefore it was not open to further development or evolution. The ability to make decisions was over; in short, it was argued that ‘the gate of interpretation’ was closed or the exercise of independent judgment (ijtihad) was finished. This closure has been much disputed by Muslim scholars. Nevertheless, in the Islamic case, Weber argued that the fatwa (legal decision of a mufti) was such an arbitrary device. The qadi or judge issuing a fatwa created unstable and arbitrary judgments that were not subject to rational inspection.
+
+Weber’s critical commentary on ‘qadi-justice was one aspect of his general argument that law had undergone a process of rationalization. This development had a number of components: (1) there had been a gradual secularization of legal authority, that had also contributed to the decline of the natural law; (2) the codification of the law had produced a logically deductive system of universal laws that were not subject, or at least less subject, to judicial discretion; (3) legal officers were trained in a rational system of law, and legal education was controlled by professional bodies; and (4) legal decisions were fully recorded. The drift of this argument was simply that rational law is not an arbitrary or ad hoc system.
+
+One major criticism of this Weberian tradition has been that English case law is not a system of logically coherent, deductive principles. The Anglo-Saxon legal tradition is based on precedent, namely judge-made law (Turner, 1996). This is an important historical issue, since Weber regarded English case law as unstable and arbitrary, and paradoxically not entirely compatible with the needs of a capitalist economy that requires stability. More profoundly, does common law count as law in Weber’s sense? Common law is often defined as precedent in which judges see themselves as part of a chain of legal decisions that, as a whole, constitute a consensus. But these chains might also be said to define what is common to the rules of a community, and in this sense common law is simply the ensemble of rules in a community that defines the common good. The common law is the bundle of social norms by which social control and social order are established. If the common law embraces the normative order of a society, then we are so to speak back with religion. Following Émile Durkheim in The Elementary Forms of Religious Life (2001), religion is the most fundamental classificatory system of any society, and therefore religion and law can never be separated.
+
+Anthropology of law reflects this pragmatist version of common law by describing primitive legal systems as the way of a people. Perhaps the most influential essay in this regard was Clifford Geertz’s ‘Local Knowledge: Fact and Law in Comparative Perspective’ (1983). Geertz attempted to show that, while many non-Western societies had no indigenous notion of law as Gesetz or loi, they had a clear notion of Recht or droit, namely what was right or appropriate, or fitting and customary. This communal idea of right is encapsulated in the idea of correct behaviour or haqq in Arabic. This word conveys the notion of customary practice, but this by no means exhausts its richness, because reality itself is governed by haqq and al-Haqq means the divine truth. In this concept, we see how law and religion are inextricably entwined. The comparable word in Indian religions is dharma, which again conveys the sense of human duty and the correctness or orderliness of reality.
+
+In these examples, law and religion have the same meaning, namely the way or path by which the good government of nature and of society are achieved (Benveniste, 1973). In China the comparable concept was tao, which gives us the name of an organized religion or Taoism. In Confucianism The Analects of Confucius (Waley, 1938) were concerned with the traditions (tao) of the ancestors and with the proper methods of government between men. These Analects spell out the legal pathway of a good society.
+
+Many non-Western systems were subsumed under Western law during the colonial period, and the process of decolonization has produced as a result of globalization a complex legal pluralism in which, because the legal sovereignty of the nationstate is compromised, there is often competition between native laws of first nations, the common law tradition of the British Commonwealth and the United States, the continental Roman traditions of Europe, and so-called religious systems of holy law (Twining, 2000). This legal hybridity is partly solved by the creation of some hierarchy. For example native legal systems are subordinate to federal control in the United States, and the rights of self-government are limited by the plenary power of Congress (Williams, 1996). The sovereignty of autonomous nation-states has been challenged by the growth of human rights legislation, which works towards some form of global governance. The irony of this human rights legislation is that it can be seen as a revival of natural law, the foundations of which are religious. For example, human rights approaches to reconciliation and the notion of ‘crimes against humanity’ often presuppose a notion of evil.
+
+## References
+
+Austin, J. (1954) The Province of Jurisprudence Determined. London: Library of Ideas.
+
+# Justice
+
+Neal Curtis
+
+Keywords description, differend, Kant, law, Lyotard, prescription
+
+n Critique of Practical Reason Kant argues that the moral law provides ‘a fact absolutely inexplicable from any data of the world of sense or   
+from the whole compass of the theoretical use of   
+reason [. . .]’ (1956: 44). The realm of practical   
+reason is demarcated from the theoretical and
+
+Benveniste, E. (1973) Indo-European Language and Society. Coral Gables, FL: University of Miami Press.
+
+Durkheim, E. (2001) The Elementary Forms of Religious Life. Oxford: Oxford University Press.
+
+Dworkin, R.M. (1977) ‘Is Law a System of Rules?’, pp. 38–65 in The Philosophy of Law. Oxford: Oxford University Press.
+
+Geertz, C. (1983) ‘Local Knowledge: Fact and Law in Comparative Perspective’, in Local Knowledge: Further Essays in Interpretive Anthropology. New York: Basic Books.
+
+Peletz, M.G. (2002) Islamic Modern: Religious Courts and Cultural Politics in Malaysia. Princeton, NJ: Princeton University Press.
+
+Schmitt, C. (1996) The Concept of the Political. Chicago: University of Chicago Press.
+
+Strauss, L. (1950) Natural Right and History. Chicago: University of Chicago Press.
+
+Turner, B. (1996) For Weber. London: Sage.
+
+Twining, W. (2000) Globalisation and Legal Theory. London: Butterworths.
+
+Waley, A. (1938) The Analects of Confucius. London: Unwin Hyman.
+
+Weber, M. (1954) Max Weber on Law in Economy and Society. Cambridge, MA: Harvard University Press.
+
+Williams, R.A. (1996) ‘Laws of Indian Communities’, pp. 334–7 in F.E. Hoxie (ed.) Encyclopedia of North American Indians. Boston, MA: Houghton Mifflin.
+
+Bryan S. Turner is Professor of Sociology in the Asia Research Institute at the National University of Singapore and the editor of Islam: Critical Concepts in Sociology (Routledge, 2003).
+
+cognitive in order to ‘check the dangerous pretensions of the understanding’ (1951: 3). In contrast to what Kant refers to as concepts of the understanding, that is, cognitions proper, concepts of reason such as justice, freedom, first cause and totality, furnish ‘absolutely no objects for experience’ (1964: 128). Justice, therefore, is not something we might know in the sense that it might be cognitively grasped and executed; it is rather an opening in thought. In enquiring after the nature of justice Jean-François Lyotard claims that such

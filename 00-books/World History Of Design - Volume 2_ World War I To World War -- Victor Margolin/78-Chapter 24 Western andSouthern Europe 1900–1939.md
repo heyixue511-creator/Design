@@ -1,0 +1,17 @@
+# Chapter 24: Western and Southern Europe 1900-1939
+
+## Introduction
+
+Aside from the Great Powers——Britain, France, and Germany—and the widespread social democracy in Scandinavia, other countries in Western Europe experienced an extremely diverse mix of political circumstances in the period after World War I. These ranged from stable democracies in the Netherlands and Switzerland, to monarchy in Belgium, and dictatorships in Spain and Portugal. The League of Nations, which was established in Geneva, had some diplomatic success in building relations among European nations but it was ultimately unable to prevent the rise of dictatorships across Europe beginning with Benito Mussolini in Italy in 1922, and followed by Antonio Salazar in Portugal in 1926, Adolf Hitler in Germany in 1933, and finally Francisco Franco in Spain in 1939.
+
+For small democratic countries like the Netherlands and Switzerland, which had been neutral during World War I, the political order remained stable. In Belgium, the monarchy continued, although the country was governed by an elected parliament. Belgium had its own right-wing movement in the 193os in the form of the Rexist Party, which wanted to substitute an authoritarian corporatist society for the country's democratic government.
+
+In Spain, the intensified bid for Catalan independence after World War I contributed to a military coup, headed by Primo de Rivera, which lasted until 193o. Between then and the start of the Spanish Civil War in 1936, the country experienced a struggle between forces of the left and right with the left ultimately being defeated in 1937 by the army of General Francisco Franco, who then established a new long-lasting dictatorship.
+
+## Netherlands
+
+As a neutral country in World War I, the Netherlands sought to strengthen its economy so as to compete successfully with larger, more industrially developed, nations when the war ended. The Vereeniging van Ambachts- en Nijverheidskunst (Association for Crafts and Industrial Art), also known as VANK, had been founded in 1904 to promote a closer relation between art and industry. VANK supported the diverse interests of Dutch artist-craftsmen who were seeking their own relation to production rather than being continually beholden to architects for commissions. Like the Arts and Crafts Society in Britain, which was also active at the time, VANK held annual exhibitions and sponsored competitions for all forms of applied art. It also published an annual yearbook. Among its founders was the furniture designer Willem Penaat (1875–1957), a leading advocate for improving the aesthetic quality of Dutch products, who served as VANK's president from 1913 to 1922.
+
+Though VANK was primarily concerned with the needs of its members rather than the larger economy, it did encourage the founding of other organizations that were more directly engaged with the improvement of Dutch industrial products. Shortly after Penaat became president of VANK, he lent the organization's support for the founding of the Nederlandse Driebond (Dutch Triple Alliance), an organization similar to the Deutscher Werkbund that was to bring together representatives of art, industry, and commerce. The founding was delayed by the outbreak of World War I and a later attempt to bring together the appropriate parties was unsuccessful.
+
+A more effective effort to raise the quality of Dutch manufactured goods, though not one initiated by VANK, was the establishment of the Nederlandsche Jaarbeurs (Dutch Industries Fair), which held its first

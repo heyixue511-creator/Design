@@ -1,0 +1,1 @@
+# ANALYSING DESIGN ACTIVITY ![](images/4b7050a3d6e71f979be84a0c4461213320b153629f265a175e3f5f0f1924d84e.jpg) Edited by Nigel Cross Henri Christiaans Kees Dorst WIHER UNNUICOE THRIRY WNROM Analysing Design Activity

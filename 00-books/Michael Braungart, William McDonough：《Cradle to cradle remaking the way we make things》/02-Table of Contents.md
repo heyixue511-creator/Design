@@ -1,0 +1,1 @@
+## Table of Contents About the Authors Title Page Copyright Page Dedication Epigraphs Title Introduction to the 2008 edition Chapter One A Question of Design Chapter Two Why Being "Less Bad" Is No Good Chapter Three Eco-Effectiveness Chapter Four Waste Equals Food Chapter Five Respect Diversity Chapter Six Putting Eco-Effectiveness into Practice Notes www.vintage-books.co.uk

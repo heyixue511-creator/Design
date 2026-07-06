@@ -1,0 +1,29 @@
+# The most im
+port
+ant t
+hing 
+about 
+printing is that it conveys t
+houg
+ht, ideas, im
+ages, from one mind to other minds.
+
+Beat rice Warde “The Crystal Goblet, or Why Printing Should Be Invisible” 1930
+
+obviate the necessity of fingering the type page? Again: the glass is colorless or at the most only faintly tinged in the bowl, because the connoisseur judges wine partly by its color and is impatient of anything that alters it. There are a thousand mannerisms in typography that are as impudent and arbitrary as putting port in tumblers of red or green glass! When a goblet has a base that looks too small for security, it does not matter how cleverly it is weighted; you feel nervous lest it should tip over. There are ways of setting lines of type that may work well enough, and yet keep the reader subconsciously worried by the fear of “doubling” lines, reading three words as one, and so forth.
+
+Now the man who first chose glass instead of clay or metal to hold his wine was a “modernist” in the sense in which I am going to use that term. That is, the first thing he asked of this particular object was not “How should it look?” but “What must it do?” and to that extent all good typography is modernist.
+
+Wine is so strange and potent a thing that it has been used in the central ritual of religion in one place and time, and attacked by a virago with a hatchet in another. There is only one thing in the world that is capable of stirring and altering men’s minds to the same extent, and that is the coherent expression of thought. That is man’s chief miracle, unique to man. There is no “explanation” whatever of the fact that I can make arbitrary sounds that will lead a total stranger to think my own thought. It is sheer magic that I should be able to hold a one-sided conversation by means of black marks on paper with an unknown person halfway across the world. Talking, broadcasting, writing, and printing are all quite literally forms of thought transference, and it is this ability and eagerness to transfer and receive the contents of the mind that is almost alone responsible for human civilization.
+
+If you agree with this, you will agree with my one main idea, i.e., that the most important thing about printing is that it conveys thought, ideas, images, from one mind to other minds. This statement is what you might call the front door of the science of typography. Within lie hundreds of rooms; but unless you start by assuming that printing is meant to convey specific and coherent ideas, it is very easy to find yourself in the wrong house altogether.
+
+Before asking what this statement leads to, let us see what it does not necessarily lead to. If books are printed in order to be read, we must distinguish readability from what the optician would call legibility. A page set in 14-pt. Bold Sans is, according to the laboratory tests, more “legible” than one set in 11-pt. Baskerville. A public speaker is more “audible” in that sense when he bellows. But a good speaking voice is one that is inaudible as a voice.
+
+It is the transparent goblet again! I need not warn you that if you begin listening to the inflections and speaking rhythms of a voice from a platform, you are falling asleep. When you listen to a song in a language you do not understand, part of your mind actually does fall asleep, leaving your quite separate aesthetic sensibilities to enjoy themselves unimpeded by your reasoning faculties. The fine arts do that; but that is not the purpose of printing. Type well used is invisible as type, just as the perfect talking voice is the unnoticed vehicle for the transmission of words, ideas.
+
+We may say, therefore, that printing may be delightful for many reasons, but that it is important, first and foremost, as a means of doing something. That is why it is mischievous to call any printed piece a work of art, especially fine art: because that would imply that its first purpose was to exist as an expression of beauty for its own sake and for the delectation of the senses. Calligraphy can almost be considered a fine art nowadays, because its primary economic and educational purpose has been taken away; but printing in English will not qualify as an art until the present English language no longer conveys ideas to future generations, and until printing itself hands its usefulness to some yet unimagined successor.
+
+There is no end to the maze of practices in typography, and this idea of printing as a conveyor is, at least in the minds of all the great typographers with whom I have had the privilege of talking, the one clue that can guide you through the maze. Without this essential humility of mind, I have seen ardent designers go more hopelessly wrong, make more ludicrous mistakes out of an excessive enthusiasm, than I could have thought possible. And with this clue, this purposiveness in the back of your mind, it is possible to do the most unheard-of things, and find that they justify you triumphantly. It is not a waste of time to go to the simple fundamentals and reason from them. In the flurry of your individual problems, I think you will not mind spending half an hour on one broad and simple set of ideas involving abstract principles.
+
+I once was talking to a man who designed a very pleasing advertising type that undoubtedly all of you have used. I said something about what artists think about a certain problem, and he replied with a beautiful gesture: “Ah, madam, we artists do not think—we feel!” That same day I quoted that remark to another designer of my acquaintance, and he, being less poetically inclined, murmured: “I’m not feeling very well today, I think!” He was right, he did think; he was the thinking sort; and that is why he is not so good a painter, and to my mind ten times better as a typographer and type designer than the man who instinctively avoided anything as coherent as a reason.

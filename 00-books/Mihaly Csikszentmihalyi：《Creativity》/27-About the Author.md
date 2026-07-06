@@ -1,0 +1,1 @@
+## About the Author MIHALY CSIKSZENTMIHALYI is professor and former chairman of the Department of Psychology at the University of Chicago. He is the author of the best selling Flow and The Evolving Self. Visit www.AuthorTracker.com for exclusive information on your favorite HarperCollins author.

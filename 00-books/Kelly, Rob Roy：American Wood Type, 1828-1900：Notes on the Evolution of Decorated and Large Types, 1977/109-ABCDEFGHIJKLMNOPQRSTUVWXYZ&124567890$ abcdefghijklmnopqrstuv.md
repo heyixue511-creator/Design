@@ -1,0 +1,1 @@
+# ABCDEFGHIJK LMNOPQRSTU VWXYZ&1245 67890\$ abcdefg hijklmnopqrst uvwxyzfffl Egyptian. First listing by William Page in his 1870 specimens.

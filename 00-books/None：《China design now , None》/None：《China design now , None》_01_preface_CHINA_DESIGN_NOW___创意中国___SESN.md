@@ -1,0 +1,18 @@
+# CHINA DESIGN NOW / 创意中国 / SESNGON NOWEDITED BY ZHANG HONGXING & LAU
+
+> Section: preface | Source: 05-Result-MD\03-Design-History-replenish-1\02-Books\None：《China design now , None》\None：《China design now , None》\None：《China design now , None》\auto\None：《China design now , None》.md
+
+# CHINA DESIGN NOW
+
+China Design Now is a highly topical look at the development of a vibrant Chinese design culture within the context of China's recent history of industrialisation, consumer revolution and rapid urbanisation. Focusing on China's hopes and dreams – from the entrepreneurial spirit of individual designers, to society's aspirations at a moment of tremendous change, to the global ambitions of a nation -China Design Now explores how China's new design culture began, what its driving forces are, and how it is developing.
+
+Within the framework of three cities – Shenzhen, Shanghai and Beijing– from the early 1990s, to the present day and beyond, a broad range of topics is covered. These include graphic design, branding, new media such as advertising, televisio and blogs, fashion, youth culture, luxury goods and everyday objects, architecture, urban planning and vehicle design. Coinciding with the Beijing 2008 Olympics, China Design Now is a significant and groundbreaking book that celebrates the emergence of China as an exciting new player in the field of global design.
+
+# 创意中国
+
+Digitized by the Internet Archive in 2019 with funding from Kahle/Austin Foundation
+
+# SESNGON NOWEDITED BY ZHANG HONGXING & LAU
+
+V&A PUBLISHING
+

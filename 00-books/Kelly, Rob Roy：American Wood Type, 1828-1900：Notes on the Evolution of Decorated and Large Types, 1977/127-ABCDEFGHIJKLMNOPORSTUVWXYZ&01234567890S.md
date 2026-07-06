@@ -1,0 +1,1 @@
+# ABCDEFG HIJKLM NOPORS TUVWXY Z&01234 567890S Antigue Tuscan Condensed. First shown by Wells & Webb in their 1854 specimens.This cutting by the Page Company. Lowercase is missing.

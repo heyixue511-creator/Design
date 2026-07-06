@@ -1,0 +1,1 @@
+## Contents Series Foreword ix Acknowledgments xv 1 Design and Agonism 1 2 Revealing Hegemony: Agonistic Information Design 27 3 Reconfiguring the Remainder: Agonistic Encounters with Social Robots 57 4 Devices of Articulation: Ubiquitous Computing and Agonistic Collectives 87 5 Adversarial Design as Inquiry and Practice 115 Notes 127 References 133 Index 141

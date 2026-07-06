@@ -1,0 +1,1 @@
+# An Introduction to Design and Culture 1900 to the Present <sup></sup>ird edition Penny Sparke ![](images/2a4ed376aedcebe893d6cd3057a17921d4ec8d14390be5e3f448232da15cdbca.jpg) LONDON AND NEW YORK

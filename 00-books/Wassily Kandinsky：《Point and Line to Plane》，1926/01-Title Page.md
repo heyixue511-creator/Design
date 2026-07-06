@@ -1,0 +1,1 @@
+# POINT AND LINE TO PLANE WASSILY KANDINSKY Dover Publications, Inc., New York

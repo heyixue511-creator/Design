@@ -1,0 +1,1 @@
+# ABCDEFGHI JKLMNOPQ RSTUYWX? YZOS!&& 123456789 ## ABCDEFGH IJKLMNOP ORSTUVW XYZ&123 45678900 Concave Tuscan X Condensed Outline ( Wells), No. 59 (Page). No lowercase was designed.

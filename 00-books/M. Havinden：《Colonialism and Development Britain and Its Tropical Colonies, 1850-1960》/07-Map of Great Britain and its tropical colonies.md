@@ -1,0 +1,1 @@
+![](images/d96a804ca9111a3e029fb54225b8b358a90fbdb3a1e8f65ac7f6ba3cb86317a9.jpg) G<sup>all</sup> <sup>projection.</sup> <sup>Equatorial</sup> <sup>scale</sup> <sup>1:110</sup>

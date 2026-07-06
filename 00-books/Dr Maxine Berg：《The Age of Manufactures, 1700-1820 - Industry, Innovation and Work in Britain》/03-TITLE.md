@@ -1,0 +1,1 @@
+# THE AGE OF MANUFACTURES, 1700–1820 Industry, innovation and work in Britain SECOND EDITION Maxine Berg OUTLEDGE London and New York

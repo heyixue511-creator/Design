@@ -1,0 +1,1 @@
+# ABCDEFG HIJKLMN OPQRST UVWXYZ &123456 7890\$.!'+ No.515. Patented by William Page in 1887. No lowercase was designed for this face, and the figures are missing. This is one of the seventeen styles designed for the die-cut types of Page and Setchell.

@@ -1,0 +1,1 @@
+# ABCDE FGHIJ! KLMN OPQRS TUYW XYZ&1 23456! 789!0\$ Latin Extended. First shown by Hamilton in his 1888 specimens. This cutting by the Hamilton Company. Lowercase is missing. Latin Extended may have originated as a wood type even though the lighter styles came from England and France during the 1860's.

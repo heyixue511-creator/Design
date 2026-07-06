@@ -1,0 +1,53 @@
+## Problem Solving Without a Goal
+
+Making discoveries belongs to the class of ill-structured problem-solving tasks that have relatively ill-defined goals. To discover gold, one does not even have to be looking for it (although frequently one is), and if silver or copper shows up instead of gold, that outcome will usually be welcome too. The test that something has been discovered is that something new has emerged that could not have been predicted with certainty and that the new thing has value or interest of some kind.
+
+An early discovery program, developed in 1963, performed the letter series completion task. Given a sequence like "A B M C D M E F M," what letters come next? The answer that would be scored as correct is "G H M I J M," etc. To find the pattern, one looks for pattern in the sequence. Every third letter is M. The first letter in every triad is next in the alphabet to the second letter in the preceding triad, and the second letter in the triad is next in the alphabet to the first. The answer is simply an extrapolation of this pattern.<sup>16</sup> The sequence extrapolator was a harbinger of scientific law discovery programs of the 1980s and 1990s. The central idea was to use a hypothesis generator to search for pattern in data and to use indications of pattern, as detected, to guide the continuation of the search "nothing but" our old friend, heuristic search.
+
+Another early discovery program was AM.<sup>17</sup> Its task was to discover interesting new concepts and interesting conjectures about them. AM had criteria for judging what was interesting, a set of search heuristics (based on best-first search), and elementary knowledge of some task domain (e.g., elementary set theory). The program showed a considerable ability to discovery interesting new (to it) concepts, like the concept of prime number; but there was some controversy about the bases for its discoveries, some critics claiming that the new concepts were implicit in the LISP language in which AM was programmed. I do not share this dismissive view, but it would divert us from our path to discuss the issues here.
+
+## Rediscovering Classic Physics
+
+Another discovery system of considerable interest is the BACON program, in its several forms,<sup>18</sup> which is capable of discovering invariants in bodies of numerical data. Given data on the distances of the planets from the Sun and on the periods of their orbits, it discovers that the ratio of the cubes of the periods to the squares of the distances is the same for all the planets (Kepler's third law). From data on the variation of electric current with the length of the resistance wire in a circuit, it infers Ohm's law. In a similar manner it finds the gas laws, Galileo's law of falling bodies, and many others.
+
+BACON will introduce new concepts in order to explain the invariants it has found. Given data showing that, when two bodies accelerate each other, the ratios of the accelerations are always the same, it invents the concept of mass and associates a mass with each of the bodies. In a similar manner it invents the concept of refractive index (in Snell's law), of specific heat, and of chemical valence.
+
+As with AM there is little that is novel in the basic construction of BACON. Given two data sets, if it finds that one datum varies monotonically (directly or inversely) with the other, it tests whether their ratio (or product) is invariant. If it succeeds, it has discovered a lawful relation in the data; if it fails, it has defined a new variable, which can then be added to the others and the process repeated. What is remarkable about the system's behavior is that finding laws of the sorts mentioned above by this procedure does not require extensive search. Seldom is it necessary to examine more than a dozen functions of the original variables in order to find an invariant.
+
+AM and BACON have been followed by a whole host of other discovery programs that are illuminating many different aspects of scientific discovery; a number of these are discussed in Scientific Discovery. Not only are such systems capable of discovering new concepts but also they can plan sequences of experiments, postulate reaction paths for complex chemical reactions, induce rules for interpreting data from mass
+
+<sup>18.</sup> P. Langley, H. A. Simon, G. L. Bradshaw and J. M. Zytkow, Scientific Discovery: Computational Explorations of the Creative Process (Cambridge, MA: The MIT Press, 1987).
+
+spectrogram analysis, and enlarge the state space of a system to accommodate variables that are not directly observable.
+
+Part of this research has been conceived as adding artificial intelligence to the tools of science. For example, the DENDRAL and MECHEM programs have generated discoveries that have been published in chemical journals as contributions to chemistry. Much of the research, however, has aimed at deepening our understanding of human discovery processes. The BACON simulations, for example, have been compared with historical cases of discovery in physics and chemistry, and some parallel experiments have been run with human subjects in the laboratory to compare their attempts at discovery with those of BACON and with those recorded in the histories of science.<sup>19</sup>
+
+The AM and BACON programs and their successors give us some reason to believe that discovery processes do not introduce new kinds of complexity into human cognition. The demonstration will become more convincing when one of these systems discovers something of interest that is novel not only to it but to the world. That test has not yet been passed.
+
+## Finding New Problem Representations
+
+Every problem-solving effort must begin with creating a representation for the problem a problem space in which the search for the solution can take place. Of course, for most of the problems we encounter in our daily personal or professional lives, we simply retrieve from memory a representation that we have already stored and used on previous occasions. Sometimes, we have to adapt the representation a bit to the new situation, but that is usually a rather simple matter.
+
+Occasionally, however, we encounter a situation that doesn't seem to fit any of the problem spaces we have encountered before, even with some stretching and shaping. Then we are faced with a task of discovery that may be as formidable as finding a new natural law. Newton was able to discover the law of gravitation because he had previously found a new representation, the differential calculus, that Wren and Hooke, among others who were also searching for the law, didn't have. More often, prob-
+
+lems of representation arise that are midway in difficulty between simply adapting a known representation and inventing the calculus.
+
+In the difficult "insight" problem known as the "Mutilated Checkerboard," a checkerboard is covered by 32 dominoes, each of which covers exactly two squares. Someone mutilates the board by snipping off the upper-left and lowerright corner squares. Can the mutilated board be covered by (31) dominoes? If so, how; if not, why not?
+
+Typically, subjects work for hours in the given problem space of the board and dominoes to find a covering. After frustration sets in, they begin to consider changing their representation. But how? One doesn't come equipped with a "space" of representations, or even a generator of possible representations. The few successful subjects notice, at some point, that in their unsuccessful attempts at covering the board the uncovered squares are always of one color. Once they notice this, they frequently notice also that each domino covers exactly one square of each color, and the idea follows quickly that dominoes can only cover a board that has equal numbers of squares of each color, which the mutilated board does not.
+
+Observation of subjects solving (or not solving) the mutilated checkerboard give us some important insights into the problem of discovering new representations. Focus of attention is the key to success focusing on the particular features of the situation that are relevant to the problem, then building a problem space containing these features but omitting the irrelevant ones. This single idea falls far short of a theory of representation change but takes a first step toward building such a theory. The process of discovering new representations is a major missing link in our theories of thinking and is currently a major area of research in cognitive psychology and artificial intelligence.<sup>20</sup>
+
+## Conclusion
+
+Nothing that we have discovered about memory requires us to revise our basic verdict about the complexity or simplicity of human cognition. We can still maintain that,
+
+<sup>20.</sup> C. A. Kaplan and H. A. Simon, "In Search of Insight," Cognitive Psychology, 22(1990):374 419.
+
+Human beings, viewed as behaving systems, are quite simple. The apparent complexity of our behavior over time is largely a reflection of the complexity of the environment in which we find ourselves . . .
+
+provided that we include in what we call the human environment the cocoon of information, stored in books and in long-term memory, that we spin about ourselves.
+
+That information, stored both as data and as procedures and richly indexed for access in the presence of appropriate stimuli, enables the simple basic information processes to draw upon a very large repertory of information and strategies, and accounts for the appearance of complexity in their behavior. The inner environment, the hardware, is simple. Complexity emerges from the richness of the outer environment, both the world apprehended through the senses and the information about the world stored in long-term memory.
+
+A scientific account of human cognition describes it in terms of several sets of invariants. First, there are the parameters of the inner environment. Then, there are the general control and search-guiding mechanisms that are used over and over again in all task domains. Finally, there are the learning and discovery mechanisms that permit the system to adapt with gradually increasing effectiveness to the particular environment in which it finds itself. The adaptiveness of the human organism, the facility with which it acquires new representations and strategies and becomes adept in dealing with highly specialized environments, makes it an elusive and fascinating target of our scientific inquiries and the very prototype of the artificial.

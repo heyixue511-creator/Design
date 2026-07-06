@@ -1,0 +1,17 @@
+# Chapter 35: Asia: China and Siam 1900-1939
+
+## Introduction
+
+Industrialization in China during the period between the fall of the Qing dynasty in 1911 and the Japanese invasion in 1937 proceeded slowly. The foreign companies that operated in the treaty ports were exceptions to the slow development in the vast rural areas that were dedicated primarily to farming. Of the numerous treaty ports, Shanghai was the one where modernity took hold in its most blatant form. It was not only evident in the city's sizeable manufacturing base but also in its widespread openness to Western influences.
+
+The collapse of the Qing dynasty, due to impatience with the Manchu rulers' resistance to reform, was spurred by the rise of a revolutionary movement led by Sun Yat-sen. He served briefly as president of a new democratic Republic of China before the military leader Yuan Shikai, who had been prime minister in the Qing government, replaced him. Sun Yat-sen then became the leader of a new political party, the Guomindang (National Party), which played a major role in the political struggles of the ensuing years.
+
+In 1914, Japan declared war on Germany and seized Kiaochow, a German colonial territory in China's Shandong province. 'The following year Japan presented China with Twenty-one Demands that included the right to occupy Kiaochow and to colonize Manchuria and Mongolia and a claim to considerable control over China's military and economic affairs. The Chinese government accepted a negotiated version of the demands, although the ensuing treaties were never ratified.
+
+When Yuan Shikai died in mid-1916 shortly after having declared himself emperor, a political vacuum ensued, leading to a period of civil war between the Guomindang and the Chinese warlords, who were themselves competing for power. Meanwhile, the Versailles Treaty at the end of World War I affirmed Japan's right to Kiaochow, which led to protests in China that were known as the May Fourth Movement of 1919. It was spearheaded by students and intellectuals who decried China's slowness to modernize. Hundreds of new publications attacked Chinese traditions and extolled foreign ideas about social and cultural matters. In 1921, members of the movement's extreme left wing founded the Chinese Communist Party.
+
+In 1921-1922, a group of foreign powers convened the Washington Conference, where they signed a treaty that rejected Japan's claim to Kiaochow and affirmed the historic Open Door Policy that had granted them considerable freedom to operate in China's treaty ports. This ensured that foreign companies and entrepreneurs would continue to play an important role in the development of the Chinese economy.
+
+Failing to gain support from the Western countries, Sun Yat-sen made an alliance between the Guomindang and the Communists, accepting help from Russian advisors in reorganizing his party along Soviet lines. At its first party congress in 1924, the Guomindang adopted Sun Yat-sen's Three Principles of the People: nationalism, democracy, and livelihood.
+
+Sun died in 1925 and the party leadership was taken over by Chiang Kai-shek, a military leader who gained control of most of south and central China by waging a campaign known as the Northern Expedition. He reversed Sun's policy of cooperating with the Communists and executed many of their leaders, an act that initiated a long-running civil war with them. Chiang chose the southern city of Nanjing as the capital of a new government, which gained international recognition, and he governed

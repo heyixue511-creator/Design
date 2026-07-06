@@ -1,0 +1,43 @@
+# DESIGN HISTORY AND THE HISTORY OF DESIGN
+
+John A. Walker (1989)
+
+## DESIGN HISTORY AND THE HISTORY OF DESIGN
+
+It is viral at the outset to distinguish between design history and the history of design. It is unfortunate that the same words design' and 'history' have to be employed, albeit in a different order, to refer to different things. In other fields the problem does not arise: the science of astronomy is clearly distinct from what it studies: the universe. Design history, it is proposed, shall be the name of a comparatively new intellectual discipline, the purpose of which is to explain design as a social and historical phenomenon. It follows that the expression 'the history of design' refers to the object of study of the discipline design history. Like art history, its immediate forbear, design history is a branch of the more general academic discipline, history. And like history itself, design history has close links with other disciplines such as anthropology, archaeology (especially industrial archaeology) and sociology.
+
+What constitutes a discipline may be hard to grasp. It can be described briefly as the ensermble of assumptions, concepts, theories, methods and tools employed by a particular group of scientists or scholars. During the early stages of a discipline, most of these assumptions, etc., will be implicit and unconscious. When they become explicit the discipline attains self-awareness. Also, of course, disciplines are defined by the particular body of material or field of research they claim for themselves. Problems relating to the character and limits of the subject matter of design history will be discussed shordly.
+
+The awareness chat a distinct discipline exists occurs when a sufficient number of practitioners become self-conscious abour cheir activities and begin to join together to discuss common problems and interests. It is usually at this critical conjuncture that a professional organization is formed. In Britain the Design History Society was established in 1977 even though, of course, histories of design were being written long before that date. Once an organization exists, the trappings of an academic discipline soon follow: elected officers, a newsletter, a scholarly journal, an annual conference.
+
+Although the phrase 'the history of design' implies thar there is a single, homogeneous object of study, in practice design history never supplies us with a single, complete, homogeneous account upon which we can all agree. There are always multiple histories, various histories of design. These histories are the output, the product of the discipline design history. They are physically embodied in various languages, media and forms of presentation, for example, lectures with slides. diagrams, articles, books, radio and television programmes, exhibitions.
+
+## NOTES
+
+Extracted from Dilnot, C., 'The State of Design History, Part I: Mapping the Field', Design Issues 1(1) (Spring, 1984), pp. 423. Reprinted by permission of the author.
+
+1. What is the different significance of history and study berween architecture and design? A study that focused on this issue could provide a whole range of insights into what differentiates the practices of architecture and design in a conceptual sense.
+
+2. In retrospect, it seems that design history's problem with art history was less the way the latter imposed its methodology on design history and more the fact that design history kept art history's methods but renounced its intellectual core, thus depriving itself of the means to give significance to the form of the things it dealt with. The histories of the decorative arts, with some exceptions, have already anticipated design history in this.
+
+3. When historically does society begin to recognize consciously that things are designed rather than that they simply are? This seems to be a fundamental problem. It is the difference between design as a necessary but barely acknowledged moment of human praxis and 'design' as the conscious apperception and acceptance of this fact. But when and why does the latter occur?
+
+4. Nikolaus Pevsner, Pioneers of Modern Design (London: Faber and Faber, 1936).
+
+5. This is in sharp contrast to the poor caricature of Pevsner's work recently drawn in David Watkin, Morality in Architecture (London: Oxford University Press, 1978).
+
+6. It certainly fires Pioneers and guides the series of biographic and critical articles Pevsner wrote in the late 1930s and 1940s. Many of these articles are usefully collected in Nikolaus Pevsner, Studies in Art, Architecture, and Design, vols. 1 and 2 (London: Thames and Hudson, 1976).
+
+7. Giedion's influence on Modernism has been frequently commented on. Less discussed, because more problematic, is the influence of Giedion's Mechanisation Takes Command (London: Oxford University Press, 1948). In some ways, it would seem that this curious work has never been fully assimilated into design history.
+
+8. The exceptions as it were prove the rule. The 1950s saw the Swiss school of typographers attempt to establish their scheme of rational design in part by reclaiming the functional heritage of the 1920s. See, for example, Karl Ġerstner and Markus Kutter, Die Neue Graphik (The New Graphic Art) (Teufen: Arthur Niggli, 1959). But history was here wholly functional to che design enterprise.
+
+9. See, for example, the shifts of focus from Gillian Naylor, Arts and Crafts Movement (London: Studio Vista, 1971). to Lionel Lambourne, Utopian Crafismen: The Arts and Crafts Movement from Cotswolds to Chicago (London: Astragal Books, 1980).
+
+10. Arthur Pulos, American Design Ethic: A History of Industrial Design, Cambridge: MIT, 1983; Penny Sparke, Consultant Design: the History and Practice of the Designer in Industry, London: Pembridge Press, 1983. Meikle's work is Twentieth Century Limited: Industrial Design in America, 1925–1939 (Philadelphia: Temple University Press, 1979). The subject is now a highly fashionable one for design historians. However, concentration on the most overt designers (Loewy and so forth) is likely to distort considerably the wider understanding of the commercial role of design in the United States in che 1930s and its relation to the U.S. economy and society.
+
+11. Gert Selle, Ideologie und Utopie des Designs (Köln: DuMont, 1968), and Die Geschichre des Designs in Deutschland von 1870 bis heute (Köln: Du Mont, 1978).
+
+12. Emilio Ambasz, ed., Italy: The New Domestic Landscape (New York: Museum of Modern Art, 1972).
+
+13. Piero Sartogo, ed., Italian Re-Evolution: Design in Italian Sociery in the Eighties (La Jolla, CA: La Jolla Museum ofContemporary Art, 1982).

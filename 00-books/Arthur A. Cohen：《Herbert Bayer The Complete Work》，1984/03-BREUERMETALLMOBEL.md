@@ -1,0 +1,1 @@
+# BREUERMETALLMOBEL ![](images/a4488f69191db23f9d51140776bed2e55d64e7ac58c3e97396a39e0363ba9f28.jpg) Cover for catalogue of furniture designed by Marcel Breuer, featuring photograph of Breuer's wife in reverse (1927).

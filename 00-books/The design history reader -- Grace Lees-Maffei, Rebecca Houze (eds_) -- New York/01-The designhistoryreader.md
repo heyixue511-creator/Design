@@ -1,0 +1,235 @@
+# The design historyreader
+
+Edited by Grace Lèes-Maffei and Rebecca Houze
+
+THE DESIGN HISTORY READER
+
+## THE DESIGN
+
+## HISTORY READER
+
+Edited by Grace Lees-Maffei and Rebecca Houze
+
+English edition First published in 2010 by Berg Editorial offices: First Floor, Angel Court, 81 St Clermnents Street, Oxford OX4 1AW, UK 175 Fifth Avenue, New York, NY 10010, USA
+
+© Grace Lees-Maffei and Rebecca Houze 2010
+
+All rights reserved. No part of this publication may be reproduced in any form or by any means without the written permission of Berg.
+
+Berg is the imprint of Oxford International Publishers Ltd.
+
+Library of Congress Cataloging-in-Publication Data
+
+Includes bibliographical references and index.
+
+ISBN 978-1-84788-388-9 (hc) — ISBN 978-1-84788-389-6 (pbk.) 1. Design—
+
+Historiography. I. Lees-Maffei, Grace. II. Houze, Rebecca.
+
+NK1175.D475 2010
+
+745.409—dc22
+
+2009052459
+
+British Library Cataloguing-in-Publication Data
+
+A caralogue record for this book is available from the British Library.
+
+ISBN 978 1 84788 388 9 (Cloth) 978 1 84788 389 6 (Paper)
+
+Typeset by JS Typeserting Ltd, Porthcawl, Mid Glamorgan Printed in the UK by the MPG Books Group
+
+www.bergpublishers.com
+
+For Students and Teachers   
+of Design History,   
+and especially Nic Maffei,   
+Jay and Laurel Lees-Maffei,   
+Peter, Gabriel, and Lucian O'Leary
+
+## CONTENTS
+
+Acknowledgements xiii   
+General Introduction Grace Lees-Maffei 1
+
+## PART I: HISTORIES
+
+Introduction Rebecca Houze 9   
+Section 1   
+New Deslgners, 1676-1820   
+Introduction Grace Lees-Maffei 13   
+1 An Indian Basket, Providence, Rhode Island, 1676 Laurel Thatcher Ulrich 15   
+2 A Slipware Dish by Samuel Malkin: An Analysis of Darron Dean 22   
+Vernacular Design   
+3 Of the Division of Labour Adam Smith 29   
+The Wedgwood Slave Medallion: Values in Mary Guyatt 34   
+Eighteenth-Century Design   
+5 Manufacturing, Consumption and Design in John Styles 41   
+Eighteenth-Century England   
+Guide to Further Reading 49   
+Sectlon 2   
+Deslgn Reform, 1820-1910   
+Introduction Rebecca Houze 53   
+6 Science, Industry, and Art Gottfried Semper 55   
+7 The Nature of Gothic, from The Stones of Venice John Ruskin 60   
+The Ideal Book William Morris 65   
+9 The Amnerican Systcm' and Mass-Production, from John Heskett 70   
+Industrial Design   
+10 The 1900 Paris Exposition, from Art Nouveau in Debora Silverman 75   
+Fin-de-Siècle France   
+11 The Art and Craft of the Machine Frank Lloyd Wright 81   
+Guide to Further Reading 85   
+Sectlon 3   
+ModernIsms, 1908-50   
+Introduction Rebecca Houze 89   
+12 Introduction to Modernism in Design Paul Greenhalgh 91   
+13 Ornament and Crime Adolf Loos 98   
+14 Werkbund Theses and Antitheses Hermann Muthesius and 101   
+Henry van de Velde   
+15 The Modern Movement before Nineteen-Fourteen, Nikolaus Pevsner 104   
+from Pioneers of Modern Design   
+16 The Coloristes and Charles-Edouard Jeanneret, from Nancy Troy 109   
+Modernism and the Decorative Arts in France   
+17 From Workshop to Laboratory, from The Bauhaus Gillian Naylor 115   
+Reassessed   
+18 The Search for an American Design Aesthetic: From Nicolas P. Maffei 120   
+Art Deco to Streamlining   
+Guide to Further Reading 127   
+Sectlon 4   
+War/Post-War/Cold War, 1943-70   
+Introduction Grace Lees-Maffei 131   
+19 Utility Furniture and the Myth of Utility 1943-1948 Matthew Denney 135   
+20 'Here Is the Modern World Itself', the Festival of Becky Conekin 143   
+Britain's Representations of the Future   
+21 Populuxe Thomas Hine 152   
+22 The Khrushchev Kitchen: Domesticating the Susan E. Reid 158   
+Scientific-Technological Revolution   
+23 All that Glitters Is not Stainless Reyner Banham 165   
+Guide to Further Reading 171   
+Sectlon 5   
+Postmodernisms, 1967-2006   
+Introduction Rebecca Houze 175   
+24 A Significance for A&P Parking Lots, or Learning Robert Venturi, 179   
+from Las Vegas Denise Scott Brown and   
+Steven Izenour   
+Sectlon 7   
+Foundations, Debates, Historlography, 1980-95   
+Introduction Grace Lees-Maffei 263   
+Taking Stock in Design History Fran Hannah and 267   
+Tim Putnam   
+25 The Ecstasy of Communication Jean Baudrillard 183   
+26 There Is No Kitsch, There Is Only Design! Gert Selle 185   
+27 Deconstruction and Graphic Design: History Meets Ellen Lupton and 192   
+Theory J. Abbott Miller   
+28 What Was Philippe Starck Thinking of? Peter Lloyd and 200   
+Dirk Snelders   
+29 Fabricating Identities: Survival and the Imagination Bibi Bakare-Yusuf 207   
+in Jamaican Dancehall Culture   
+Guide to Further Reading 215   
+Section 6   
+Sustalnable Futures, 1960-2003   
+Introduction Rebecca Houze 219   
+30 Operating Manual for Spaceship Earth R. Buckminster Fuller 223   
+31 How to Outmode a \$4,000 Vehicle in Two Years, Vance Packard 226   
+from The Waste Makers   
+32 Do-It-Yourself Murder: The Social and Moral Victor Papanek 231   
+Responsibility of the Designer, from Design for the   
+Real World   
+33 Material Doubts and Plastic Fallout, from American Jeffrey L. Meikle 236   
+Plastic   
+34 Introduction to The Green Consumer Supermarket Joel Makower, 243   
+Guide John Elkington and   
+Julia Hailes   
+35 Redefning Rubbish: Commodity Disposal and Nicky Gregson and 247   
+Sourcing, from Second-Hand Cultures Louise Crewe   
+36 The Hannover Principles. Design for Sustainability William McDonough and 253   
+Michael Braungart   
+Guide to Further Reading 255
+
+## PART I: METHODS AND THEMES
+
+Introduction Grace Lees-Maffei 259
+
+## | CONTENTS
+
+38 The State of Design History, Part I: Mapping the Field Clive Dilnot 273   
+39 Design History and the History of Design John A. Walker 279   
+40 Design History or Design Studies: Subject Matter and Victor Margolin 286   
+Methods   
+41 Resisting Colonization: Design History Has Its Own Jonathan M. Woodham 291   
+Identity   
+Guide to Further Reading 299   
+Sectlon 8   
+Objects, Subjects and Negotlatlons   
+Introduction Grace Lees-Maffei 303   
+42 Object as Image: The Italian Scooter Cycle Dick Hebdige 307   
+43 The Most Cherished Objects in the Home Mihaly Csikszentmihalyi and 315   
+Eugene Rochberg-Halton   
+44 How the Refrigerator got its Hum Ruth Schwartz Cowan 323   
+45 The History of Craft Paul Greenhalgh 329   
+46 Faith, Form and Finish: Shaker Furniture in Context Jean M. Burks 336   
+Guide to Further Reading 343   
+Section 9   
+Gender and Design   
+Introduction Rebecca Houze 347   
+47 FORM/female FOLLOWS FUNCTION/male: Judy Attfield 349   
+Feminist Critiques of Design   
+48 The Architect's Wife, from As Long as it's Penny Sparke 355   
+Pink: The Sexual Politics of Taste   
+49 Humanizing Modernism: the Crafts, Functioning Pat Kirkham 360   
+Decoration' and the Eameses   
+50 'In London's Maze': The Pleasures of Fashionable Christopher Breward 367   
+Consumption, from The Hidden Consumer   
+51 Self-Made Motormen: The Material Construction of Andrew Bengry-Howell and 374   
+Working-Class Masculine Identities through Car Christine Griffin   
+Modification   
+Guide to Further Reading 381   
+Section 10   
+Consumption   
+Introduction Rebecca Houze 385   
+52 The Fetishism of the Commodity and its Secret, Karl Marx 387   
+from Capital   
+53 Conspicuous Consumption, from The Theory of the Thorstein Veblen 391   
+Leisure Class   
+54 Myth Today, The New Citroën, and Plastic, from Roland Barthes 395   
+Mythologies   
+55 Introduction and The Sense of Distinction, from Pierre Bourdieu 402   
+Distinction: A Social Critique of the Judgement of Taste   
+56 'Parties Are the Answer': The Ascent of the Alison J. Clarke 409   
+Tupperware Party, from Tupperware   
+57 The Revolution Will Be Marketed: American Robert E. Weems, Jr. 415   
+Corporations and Black Consumers during the 1960s   
+Guide to Further Reading 423   
+Sectlon 11   
+Medlatlon   
+Introduction Grace Lees-Maffei 427   
+58 The Work of Art in the Age of Mechanical Walter Benjamin 429   
+Reproduction   
+59 Advertising, Mother of Graphic Design Steven Heller 435   
+60 'Decorators May Be Compared to Doctors', An Analysis Emma Ferry 441   
+of Rhoda and Agnes Garrett's Suggestions for House   
+Decoration in Painting, Woodwork and Furniture (1876)   
+61 Integrative Practice: Oral History, Dress and Liz Linthicum 449   
+Disability Studies   
+62 Inttoduction to Design and the Modern Magazine Jeremy Aynsley and 456   
+Kate Forde   
+Guide to Further Reading 463   
+Sectlon 12   
+Local/Regional/Natlonal/Global   
+Introduction Grace Lees-Maffei 467   
+63 Finding Poland in the Margins: The Case of the David Crowley 471   
+Zakopane Style   
+64 Furniture Design and Colonialism: Negotiating Tracey Avery 478   
+Relationships between Britain and Australia,   
+1880-1901   
+65 'From Baby's First Bath': Kaō Soap and Modern Gennifer Weisenfeld 485   
+Japanese Commercial Design   
+66 Land Rover and Colonial-Style Adventure Jeanne van Eeden 494   
+67 Swoosh Identity: Recontextualizations in Haiti and Paul B. Bick and 501   
+Romania Sorina Chiper   
+Guide to Further Reading 509   
+List of Illustrations 511   
+Notes on Contributors 513   
+Bibliography 521   
+Index 535

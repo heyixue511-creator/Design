@@ -1,0 +1,186 @@
+# Design Teaching— Teaching Design / Design Teaching— Teaching Design / 关于本书 / 柳冠中
+
+> Section: preface | Source: 05-Result-MD\03-Design-History-replenish-1\02-Books\teaching design -- (德)克劳斯·雷曼(Klaus Lehmann)：《设计教育 教育设计》\teaching design -- (德)克劳斯·雷曼(Klaus Lehmann)：《设计教育 教育设计》\teaching design -- (德)克劳斯·雷曼(Klaus Lehmann)：《设计教育 教育设计》\auto\teaching design -- (德)克劳斯·雷曼(Klaus Lehmann)：《设计教育 教育设计》.md
+
+# Design Teaching— Teaching Design
+
+[德国]克劳斯·曼孝 设计教育 教育设计柳冠中审校
+
+![](images/1d692eac8f417b971986125247835963ff094efe5aa308a3021685a3288e495a.jpg)
+
+![](images/413c6f89059df0e26259c81be9ef62cacdaa3a686881af0c2a133c2900a9088c.jpg)
+
+## Design Teaching— Teaching Design
+
+[德国]克劳斯·雷曼著赵璐杜海滨译柳冠中审校
+
+设计教育教育设计
+
+图书在版编目(CIP)数据
+
+设计教育教育设计：汉英对照/（德）克劳斯。
+
+雷曼（Klaus Lehmann）著；赵璐，杜海滨译.-南京：
+
+江苏凤凰美术出版社，2016.10
+
+(凤凰文库.设计理论研究系列)
+
+ISBN978-7-5580-0860-3
+
+I. ①设…Ⅱ.①克…②赵…③杜…Ⅲ.①设计一美术教育一教学研究一汉、英Ⅳ.①J06-4
+
+中国版本图书馆CIP数据核字(2016)第225320号
+
+责任编辑 方立松陆鸿雁
+
+装帧设计周伟伟
+
+责任校对刁海裕
+
+责任监印蒋璟
+
+书 名 设计教育 教育设计
+
+著者[德国]克劳斯·雷曼
+
+译者赵璐杜海滨
+
+出版发行凤凰出版传媒股份有限公司
+
+江苏凤凰美术出版社(南京市中央路165号邮编：210009)
+
+出版社网址 http://www.jsmscbs.com.cn
+
+经销凤凰出版传媒股份有限公司
+
+制版江苏凤凰制版有限公司
+
+印 刷江苏凤凰通达印刷有限公司
+
+开本 652毫米×960毫米1/16
+
+张 14 插页 4
+
+字 数 178千字 插图111幅
+
+版 次 2016年10月第1版2016年10月第1次印刷
+
+标准书号ISBN978-7-5580-0860-3
+
+定价60.00元
+
+江苏凤凰美术出版社图书凡印装错误可向承印厂调换
+
+要支撑起一个强大的现代化国家，除了经济、政治、社会、制度等力量之外，还需要先进的、强有力的文化力量。凤凰文库的出版宗旨是：忠实记载当代国内外尤其是中国改革开放以来的学术、思想和理论成果，促进中外文化的交流，为推动我国先进文化建设和中国特色社会主义建设，提供丰富的实践总结、珍贵的价值理念、有益的学术参考和创新的思想理论资源。
+
+凤凰文库将致力于人类文化的高端和前沿，放眼世界，具有全球胸怀和国际视野。经济全球化的背后是不同文化的冲撞与交融，是不同思想的激荡与扬弃，是不同文明的竞争和共存。从历史进化的角度来看，交融、扬弃、共存是大趋势，一个民族、一个国家总是在坚持自我特质的同时，向其他民族、其他国家吸取异质文化的养分，从而与时俱进，发展壮大。文库将积极采撷当今世界优秀文化成果，成为中外文化交流的桥梁。
+
+凤凰文库将致力于中国特色社会主义和现代化的建设，面向全国具有时代精神和中国气派。中国工业化、城市化、市场化、国际化的背后是国民素质的现代化，是现代文明的培育，是先进文化的发展。在建设中国特色社会主义的伟大进程中，中华民族必将展示新的实践，产生新的经验，形成新的学术、思想和理论成果。文库将展现中国现代化的新实践和新总结，成为中国学术界、思想界和理论界创新平台。
+
+凤凰文库的基本特征是：围绕建设中国特色社会主义，实现社会主义现代化这个中心，立足传播新知识，介绍新思潮，树立新观念，建设新学科，着力出版当代国内外社会科学、人文学科的最新成果，同时也注重推出以新的形式、新的观念呈现我国传统思想文化和历史的优秀作品，从而把引进吸收和自主创新结合起来，并促进传统优秀文化的现代转型。
+
+凤凰文库努力实现知识学术传播和思想理论创新的融合，以若干主题系列的形式呈现，并且是一个开放式的结构。它将围绕马克思主义研究及其中国化、政治学、哲学、宗教、人文与社会、海外中国研究、当代思想前沿、教育理论、艺术理论等领域设计规划主题系列，并不断在内容上加以充实；同时，文库还将围绕社会科学、人文学科、科学文化领域的新问题、新动向，分批设计规划出新的主题系列，增强文库思想的活力和学术的丰富性。
+
+从中国由农业文明向工业文明转型、由传统社会走向现代社会这样一个大视角出发，从中国现代化在世界现代化浪潮中的独特性出发，中国已经并将更加鲜明地表现自己特有的实践、经验和路径，形成独特的学术和创新的思想、理论，这是我们出版凤凰文库的信心之所在。因此，我们相信，在全国学术界、思想界、理论界的支持和参与下，在广大读者的帮助和关心下，凤凰文库一定会成为深为社会各界欢迎的大型从书，在中国经济建设、政治建设、文化建设、社会建设中，实现凤凰出版人的历史责任和使命。
+
+![](images/bd6fa90528ed979cdd05c03f3ad27bbc24bffcdf111ffc1088489fb693052df8.jpg)  
+Klaus Lehmann雷曼教授
+
+The book, DESIGN TEACHING- TEACHING DESIGN is written bya German design educator well known in China. As a frequent guest lecturer he has taught at many universities in the PRC from 1985 until now and devotes his bilingual book tothe Chinese audience.
+
+The book is intended as an aid to teaching and an encouragement to one's own learning. It is about basics, methodology, educational theory and reflects on cultural differences and global implications.
+
+But most of all, it is intended to offer lively reading to anyoneconcerned with design and the shaping of our world.
+
+## 关于本书
+
+本书由一位驰名中国的德国设计教育家编写。作为一位客座教授，克劳斯·雷曼教授从1985年至今，数十次在国内多所大学执教。现在他将这本双语教材奉献给广大中国读者。
+
+本书的主要内容包括基本原理、方法论、教育理论以及基于全球化的文化差异的影响。该书作为教学的辅助旨在帮助和激励教学者和自学者。
+
+然而首先，这本书会为那些从事与设计和塑造世界相关工作的人们提供生动的阅读体验。
+
+The absence of a long industrialization process in China means the absence of corresponding cultural awareness. The industrialization in the western world fundamentally had changed the whole social mechanism and awareness. The system of scale production and collective task allocation required people's obedience to the social rules and regulations, but also required people to playtheir own role and to work in-depth, to do things in a systematic manner. The industrialization in China, though a grand achievement, failed to form its own cultural awareness in the social mechanism. The late mover advantage helped China achieve rapid economic development, but a frivolous and fickle atmosphere also embedded in the society. The enthusiasm on how to do' and how to be quick’ was running too high for people to slow down and think abouthow it should be done andhow to uncover, ponder and judge a problem’. The current China is undergoing a turbulence of rapid development since the prudent and progressive approach does not bring good investment return. When the social industrialization is yet to complete, the quick development of information technology society also leads to the process of informatization in the society. The current Chinese society is like a pot of casserole of concepts with the residual awareness of the deeply rooted farming culture, a strong stimulus of industrial culture on objects, and a ponderation overtaste of the representation of information culture.
+
+Industrial Design is going through a major evolution, from forms and packaging as the purpose to function as the subject; from technology as the subject to requirement as the subject; from marketing as the subject to environmental protectionas the subject. A Green Revolution' is on the way to redesign the design. Design will undertake thecrucifix of sustainable development of humanity, to enlighten people that the purpose of design is to serve the requirement. Hence a change of the definition of design is necessary, i. e. the designing industry' for theshared service design will be the future direction, to ascend it fromsimple creation’ tostrategic planning', to promote the idea ofusing but not necessarily possessing'. However, a money-driven trend in the design community means commercial promotion and market effect, presenting new challenges to industrial design. Plagiarism and counterfeit is not rare. Kietsh, fashion' and luxury products in the name of market trend’ can be found everywhere. Some designers have descended to
+
+由于中国社会没有经历长时间工业化的进程，也就没有形成相应的工业化的文化意识。西方国家的工业化过程深刻地改变了社会的整体机制和意识，规模化的大生产、集合化的大分工体系是要求人们服从保证体制运转的社会规章制度，又要求人们各自遵守分工职守，还要求人们对于一些事物要深刻地钻研，以静下心来各司其职地、认认真真地做一些系统性事情。中国社会的工业化虽然获得了很大的成就，可是社会工业化的文化意识并没有在整个社会运行机制中形成。中国利用自己的后发优势，取得了经济的快速发展，同时也滋生了一些浮躁的心态，人们处于整体的浮躁气氛之中，热衷于“如何做”和“怎样快”，很难静下心来思考“该做什么”和“如何发现、思考、判断问题”。就中国目前的情况来看，静下心来做些事情的投资回报率也不理想，所以整个社会都在快速发展的动荡之中。在社会工业化进程没有完成的时候，信息技术的快速发展又导致社会开始信息化的进程。中国社会如今是一个混杂体，既有根深蒂固的农业文化的残余意识，也有工业文化器物层面的强烈刺激，同时还在玩味着信息文化的表象。
+
+当前世界范围中，工业设计正经历着从以形式、包装为目的，向以功能为主体的演变；从以技术为主体，向以需求为主体的演变；从以商业营销为主体，向以环境保护为主体的演变。人类正经历着一场“绿色革命”，设计被重新设计着…从人类可持续发展的高度审视，设计也将扛起人类社会未来不被毁灭的“十字架”，将需求的本质作为设计的目标——从“造物”转向“谋事”，“提倡使用而不一定占有”，这自然要调整设计的定义，即“分享型的服务设计”的“产业设计——DESIGNINGINDUSTRY”是设计的方向。但是当今设计界又被利欲大潮的驱动下，商业促销及市场效应又给工业设计带来了新的挑战。抄袭、仿造亦不the blindfollower of the market, of their bosses, and of the commodity fever•This should be a wake-up call to us: what kind of design of a bigdevelopingcountry like China needs to produce a reasonable and healthy lifestyle for thefuture?
+
+The survival and development of humanity not mere relys on the basic necessities like food and clothing. It is also about the sweat and callus from our hard work. the contact and understanding with people, the interaction and coexistence with nature, the fun, the sentiment and the emotion of the same pace and mindset during the participation, cooperation, recreationwith others and, above all, the respectwe have on all that exist. Toforget about all these and throw oneself into competition in the hope of a skillful joy is an ignorant and irresponsible madness. After all, any social progress firstly comes with the progress in moral ethnics, in social customs and in political system, all of which belong to the scientific development and cultural advancement. This is the reflection on the development reality of the international community. This is also the reality faced by design.
+
+Having its own intention and extension,design should not be trapped in the disputes between science and art. Design is thediscovery,analysis, evaluation and resolution of problems in men'ssurvival and development. Every milestone in human development is the negation of his recognition, and the negation of the name’ and the  appearance' human defined from different angles in different levels. Newcategory' and term' will be created when, at certain stage,the artificial concept of category’ andterm” become an obstacle of our understanding on nature and society.
+
+The obiective of Design Education is to nurture an ability and íntelligence of another kind, to build a structure' among concepts, mindset and knowledge system by the integration of science and art and establish a methodology. Design aims to discover, analyze, estimate and solvethe issues in human's existence and development. After the establishment of the system of targets' of design, i. e. the clarification ofhow to do', all possible means and methods, including scientific ones and artistic ones shall be selected, organized and integrated truthfully and practically. Design is the intelligent 是罕见的现象。而以“顺应市场”为名的媚俗、“时尚”、奢侈产品也层出 不穷。一些设计师成为市场的“尾巴”、老板的听差、商品狂欢的助产 士…我们不得不反思：中国这个发展中的大国需要培养什么样的、为 设计未来合理健康生存方式的设计人才?
+
+人类的生存与发展除了衣食住行用物质享有以外，还有额上的汗、手上的茧，人与人的接触、谅解，与大自然的互动、共生，与他人一起参与、合作、改造、创造时产生的行动节奏、思想协调统一的乐趣、情感、情操，以及对一切存在事物的尊重。忘记这一切，投身于竞争，只期待取巧地获取享受，这是一种无知和不负责的疯狂。要知道，社会的任何进步，首先是品行道德、社会风俗、政治制度的进步，这都属于科学的发展和文化的进步。这就是目前国际社会发展现实反思，也是设计所面临的现实。
+
+设计不应深陷于科学和艺术之争，设计有它自身的内涵和外延，设计是发现、分析、判断和解决人类生存发展中的问题。人类进步的每一里程碑都是对其认识水平之否定，也是从不同角度、不同层次对已制定的“名”、“相”的否定。当“分类”、“命名”这个人为的、阶段的观念阻碍我们认识自然和社会时，人类就会创造新的“分类”和“命名”。
+
+设计教育是培养另一种能力和智慧整合科学和艺术从观念思维方法、知识到评价体系之间“结构”的方法论。设计是发现、分析、判断和解决人类生存发展中的问题。当设计的目标系统确立时，即需要怎样做的时候，就该实事求是地选择、组织、整合各种可能的方法和手段，科学手段和艺术手段都包含在内。设计是人类第三种智慧系统，其组成的子系统或要素含有科学和艺术。设计是人类为主动适应生存环境等外因系统从而进化形成的一个“新知识结构系统”，是人类重组system uniquely possessed by humanity, whose sub-system’or elementsconsists of science andart. Design is a new knowledge structure system’evolved from thesystem of external factors’such as man's adaptation to theexternal environment. It is human's intelligent creation’ by the restructuringof survival structure.
+
+The most distinctive feature separating mankind and other creatures is the ability to transform nature and create a second nature of “ artificial things’, i. e. the social system of mankind. However, every invention, development and progress that mankind has achieved are made possible in the social context of that time, while humanity's material civilization of different nations, region, climate and times conform to thesame laws of survival of the fittest’ and a place for everything', and go through the same process of metabolism from production, circulation, operation and destruction in the social system. No creation or invention of the mankind can disobey this law, which is why we say men's creation of things is by the imitation of nature'.
+
+Product is not just simply living goods or commodity in daily life; it is also a mirror of the social relation and way of living at that time. The image of the product tells us who we are, how we survive, and how different we are. Product is the carrier of corporate activity, a reflection of men’s spiritual culture and the objectification of humanity.
+
+The complexity of design also shows in another dimension. Everyone is using the phone, but how different they are in terms of the appearance, the user interface and the ringtones! These objects are not just functional’ products any more. As the outcome of the society, the time, and the culture, they enter the world of meanings and the world of emotions as symbols. The difference between all people is transformed into the difference between objects; the diversity of individuals(groups) is transformed intothe diversity of products. The categorization of people is reflected in the categorization of objects. Products and corporate image are the best carrier for people' s needs to pursuit the externalization of novelty, variation and ego.
+
+Besides the value of use and exchange, product is bestowed the value of
+
+生存结构的智慧性“创造”。
+
+人类区别于其他生物之最重要的特点是能改造自然，创造“人为事物”这个第二自然—即“人类的社会系统”。然而，人类社会的物质文明的每一发明、发展、进步无不寓于当时人类社会这个大背景之中，不同民族、不同地域、不同气候、不同时代的人类物质文明依然遵循“适者生存”、“各得其所”的规律，在人类社会系统中的生产、流通、使用、销毁等全过程中新陈代谢。人类的发明、创造不可能违背这个规律，这也是我们常说的“师法造化”的道理。
+
+我们发现“产品”不仅仅是简单的生活用品或商品，它其实是当时所处社会关系、生存方式的一个“镜像”。产品形象在诉说着我们是谁，我们如何生存，以及我们之间的不同。产品是企业活动的载体，已成为人类精神文化的投射，是人类主体的客体化。
+
+设计的复杂性还体现在另一个维度上。大家都在使用着手机，可从造型到界面再到铃声又是多么的不同啊！这些物已经不仅仅是“功能性”产品，它还是社会性、时代性、文化性的产物，通过符号象征进入了主体的意义世界与情感世界。人与人之间的差异被转译为物的差异；个人(群体)的丰富性被转译为产品的丰富性；人群的分类体系投射于物质的分类体系。人们在追求着新奇、不同或自我的外化，产品和企业形象正是这些需求最好的载体。
+
+产品在使用价值与交换价值之外，还被人为地赋予了“符号”价值。 符号价值表达着社会化的“企业形象”，物在诉说着我们是谁，我们如何 经营、发展，以及我们之间的不同；表达了企业的社会地位，或它所存在 的独特的经营理念、方式和文化。社会差异被“物化”，或称为“物化”了 的社会关系。如果我们想了解一个企业是如何经营的，最好的办法就 symbol'by men. The value ofsymbol expresses the socialized corporate image, the social stance of the company, or its unique philosophy, approach and culture, while the objecttells whowe are, how we operate, developand vary. That is to say, the social difference ismaterialized', or the objectification' of social relations. To know how a company operates, the best way is to understand its product image. Product image' is the social and cultural outcome that enters the world of meaning and emotions into the society as symbols.
+
+We must teach the students to have correct design idea and strong design mentality, and that pure reliance on the skillful technique does not lead to successful design. Becoming a good designer is not only about professional knowledge and design technique, but also about the exercise of thinking and method during design practice. One work object shall not be viewed asa reference to categorize discipline or a professional area. But rather, we should guide students to creatively understand and summarize the issues from the outside to the inside, from one point to another, to practically and truthfully comprehend one case by the inference ofother cases; to choose the target system of the matters under the actual context of the actual people or group, to truthfully and pragmatically select the technique, form, structure and marketing approach. Only by mastering thetheory' that is notvoid, bluffing or derailed from the practice can we get rid of the current status of domestic processing industry, and escalate fromintroducing' to digesting', so that we can clarify the relations between the product type and quality; understand the gravity between design and production; comprehend the relations of innovation and brand, to truly embrace industríal design into our economic system, thus to improve the efficiency of China's economic development and the stamina of companies, and ultimately provide us a foundation to build the civilization of Chinese style.
+
+Design Basics'is the anchor point of the design discipline, the basis of the basics'; secondly,Design Basics’ is an effectiveway to integrate professional design courses and knowledge such as the basics of form, the principle of functions, the basics of material, structure and technique etc. Moreover,DesignBasics' is also the courseof thekey', in which the 是去读懂企业的产品形象。“产品形象”是社会性、文化性的产物，通过 符号象征进入了社会主体的意义世界、情感世界。
+
+身在高校作为工业设计的教师，我深深地感到，我国工业设计的落后，迫使我们必须先从认识上抓住设计的目的、目标系统是什么这个问题，然后才能知道如何培养学生和在职年轻设计师具备正确的设计观念、良好的设计心理素质，使他们懂得仅靠技术纯熟是不能使设计走向成功的。不仅要从专业知识和设计技巧方面来培养人才，更重要的是在设计实践中抓思维和方法训练。不是把某一个工作对象作为学科或者专门化的分类依据，而是引导他们创造性地由表及里、由此及彼、实事求是，举一反三地认识问题，归纳问题。根据真实的、实实在在的人或人群在实实在在的环境条件下所做的“事”之目标系统，“实事求是”地选择技术、选择形态、选择结构、选择营销方式。只有掌握了这种不是空洞的，不是虚张声势的，不是脱离实践的“理论”，才有可能尽快摆脱目前国内加工工业体系的状态，尽快从“引进”步入“消化”;尽快明确产品品种与产品质量的关系；尽快明白设计与生产之间的比重；尽快了解创新与品牌之间的关系；真正使中国的工业设计进入到我国的经济体制中来，从而提高我国经济发展的效率和企业的后劲，在这个基础上才有条件建立我们中国式的文明。
+
+“设计基础”首先是整个设计学科的立足基点，是基础的“基础”；其 次“设计基础”是整合形态基础、机能原理、材料基础、结构基础、工艺基 础等课程知识与专业设计课程的有效途径；另外“设计基础”还是“钥 匙”课程，其设计思维方法的训练贯穿于造型设计练习的始终，也是发 现、分析、判断、解决问题能力训练的过程，是专业设计程序与方法训练 的预习，是掌握系统论素质的准备，是理解“工业化社会机制”概念的实 exercise of design thinking runs through the whole process; the capacity of problemdiscovery, analysis, estimation and resolution can be trained; the professional design process and method training can be previewed. It is the preparation of mastering the system theory, the implementation of industrialized social scheme’. It is also the starting point to nurture the imagination of integration of knowledge andstructure', and the experiment to make sustainable adjustment of industrialization.
+
+Teachers should teach students the principle and elements of models, understand why the form exists; learn the logical relations of forms, its meanings and implications; graspthe dialectical relations of mutual-constraint, interaction and interdependency among modeling elements. Teach students use the principle of form composition according to its characteristics, location and circumstance; emphasize the ecology and sustainability of artificial form; truthfully restructure the elements of  models'according to its actual condition to achieve the restructure of differentobjectives’ (functions), thus to integrate into a new system, create new requirement and developnew species.Restructure the elements of model, and achieve the innovation of knowledgestructure’ under thelimitation’ of recognition, is the essence of design’ and the meaning ofdesign thinking'. Teachers should nurture students’ correct thinking method by using the principle of science and art; train their association thinking in the process of discovering, analyzing, summarizing, and estimating problems,and allow them to coordinate assorted conflicts and limitations by using the elements such as principle, material, composition, technique and visual etc. , so that they can propose  modeling' ideas and master the ability of problem-solving comprehensively, truthfully and practically.
+
+The application of design thinking process (phenomena and representation, conception and essence, appearance and abstraction, complexion and simplicity, association and creation,solution and evaluation) should be emphasized in the interaction between teaching and learning; students should know the basis and principle of modeling, the application of material technigue, the rule and the research process ofmodelíng. They should also have the capabilityto observe, analyze and summarize forms and grasp the 践，是培养“知识结构整合”想象力的起跑点，是运用创造力对“工业化” 进行可持续性“调整”的实验。
+
+学习研究造型的原理和要素，理解形态存在的理由，形态之间的逻辑关系，形态的语义与寓意等，掌握造型要素之间互制、互动、共生的辨证关系；运用因材制用、因地制宜、因势利导的形态构成原则；注重人造形态的生态性、可持续性；实现不同“目的”(功能)之结构应实“事”求是地重构“造型”诸要素，以整合成新系统，创造新需求，开发“新物种”。在认识“限制”中，重组造型诸要素，实现“知识结构创新”，这正是“设计”的本质、“设计思维”的意义。运用科学与艺术的原理，培养正确的思维方法，从发现问题、分析问题、归纳问题、判断问题过程中培养联想能力，以及运用原理、材料、构造、工艺、视觉等要素，掌握协调诸多矛盾与限制，从而提出“造型”创意，掌握实事求是地综合解决问题的能力。
+
+在教与学互动中强调设计思维程序的应用(现象与表象、概念与本质、形象与抽象、复杂与简练、联想与创造、方案与评价)的方法；了解造型的依据、构造的原理、材料工艺技术的应用、造型的规律和造型的研究过程；训练学生观察、分析、归纳形态的能力，在这过程中掌握造型联想、定位和评价的方法。在了解造型基础、构造原理、材料和工艺技术应用的同时，善于分析、组织、运用已掌握的知识和能力，循序渐进地完成不同阶段、不同目的、不同程度对形态创造的要求以及演练设计全程序的整合协调能力。
+
+设计要求将构成“造型”的要素一材料、结构、工艺、技术、细节等 与形态、力学、心理、美学等原理结合起来，这与纯感觉的形态创造是有 本质的区别的。这样在“限制”下的学习型、研究型、实践型的基础训 练，无疑是遵循“因材制用”、“因地制宜”、“因势利导”、“适可而止”、“过 method of associating, positioning and evaluating models. While equipped with the knowledge on the modeling basis, composition principle, material and technique application, students should also learn to analyze, organize and use the knowledge to complete the request of form creation of different stages for different purposes in different levels, as well as practice the coordination ability for the whole design process.
+
+Design requires the synthesis of the elements that compose the models', i. e. combinematerial, structure, technigue, technology and details etc. with the principle of morphology, mechanics, psychology and aesthetics etc. , which is fundamentally different from the form creation based on pure feeling. Under such limitation, the learning-oriented, research-oriented and practiceoriented basic training undoubtedly comply with the essence of traditional Chinese philosophy of use forms according to its characteristics, local conditions andcircumstances”、not overdo things”andgo beyond is as bad as fall short', the concept ofscientific development,sustainable development' as well as the scientific method of seek truth from the facts'. This helps to build up student's innovation capacity, especially necessary for the innovation capacity training ofthe integration of knowledge and structure', an innovation feature for art and design discipline. Only by training students in this way, then they can use the design thinking to solve problems creatively, draw experience from one case and apply into others, experience the synthesis training using the eye, hand, brain and heart', acquire more knowledge from life, form the habit of research, and in the end, smoothly enter the phase of professional design.
+
+We advocate theintegration ofknowledge and practice'. Recognition is the feedback of knowledge while practice is the evaluation of ability; the purpose of design is not only about turning the recognition of students and designers into practice, but also teaching the young designers to unearth, acquire and even integrate and create new knowledge on their own. This is the ability of self-study and the application of new knowledge into practice. Practice without knowledge is aimless and easy to stray. And practice can catalyze and escalate knowledge. In terms of the relations between design research and practice, normally people think research provides knowledge while practice 犹不及”等中国传统哲学思想的精髓，符合“科学发展观”、“可持续发 展”的思想，也是“实事求是”的科学方法。这对培养学生创新能力，尤 其对艺术设计学科创新特征的“知识结构整合”的创新能力训练十分必 要。只有这样培养的学生才能掌握创造性解决问题的思维方法，得到 在程序中应用“举一反三”的实践，获得“眼、手、脑、心”综合训练的经 历，得到在生活中扩延知识的能力，养成研究的习惯，以便顺畅进入专 业设计阶段。
+
+我们主张“知行合一”。认识是对知识的反馈，实践是对能力的评价；而我们设计的目的则不仅仅是要让学生和设计师将认识的道理转化为实践的能力，还要培养年轻设计师们发掘知识、自主获取知识，甚至整合已知的知识，创造新知识的能力。这就是自主研究的能力，然后将研究、拓展的新知识应用于实践。没有“知”的“行”是漫无目的的，会误入歧途的，而“行”又可以催化、升华我们的“知”。在设计研究与实践之间的关系上，一般的观点认为研究提供知识，而实践使用知识。但这样的观点人为拉大了二者之间的鸿沟。现实的情况表明，研究不仅仅提供知识，研究本身也是一种设计，在解决实际问题。
+
+“有目的的造型”是设计者必须恪守的原则。“造型”是一种语言，它传达了“无言的服务，无声的命令”，既是个性的显示，又融于统一的整体。这能使我们的“人为自然”既丰富多彩又简洁和谐。世界是硕大无垠的，万物是五彩斑斓的，但又由于“分子”、“基因”作为其基本因素，以排列组合成无穷无尽的系统，适应了这既具统一性、也呈多样化的大千世界。这本书正是基于这个真理，将视觉、品质、社会等形象因素作为构成丰富多彩的世界、各种各样需求的“基因”组合，而“综合”的概念就是设计的基本素质的能力，也是设计的“本源”。“综合”是以适应人uses knowledge. However, such a standpoint deliberately enlarges the gapbetween thetwo.
+
+Objective-oriented design(Gestaltung)is the principle designers must abide by. design (Gestaltung) is a language to express the silent service and instruction', a unique display as well as a coordinated entirety, makingour artificial nature colorful, simple and harmonious. The world is vast and the universe is diversified. As its basic elements, the molecules and genes combine into endless system that adapts to the unified and diversified world. Inspired by this truth, this book synthesize the factors of form such asvisual, quality and society, which are the  genes' of the colorful world and different reguests, since the concept synthesis’ is the basic abilityandthe origin'of design. Synthesis' is the permutation and combination of “ genes’ according to its situation to adapt to the existence and development of humansociety, so that it can be unified in one product image and the whole system of regional culture image.
+
+Currently China has no one mature textbook for design as it is a novel, popular and cross-discipline major and teachers who are dedicated for design research and basics are too few. For years, we are thinking about this anchor' and striving to build a basic and research-oriented textbook necessaryfor China’s design education development. I am honored to visit the cradle of Industrial DesignStaatlichen Akademie der Bildenden Künste Stuttgart (National Academy of Art and Design of Stttgart in German) andstudied under Professor Klaus Lehmann, who is a worldly renowned expert on industrial design education, especially for hisattainments on design basics education. He has inherited the design basics from Bauhaus and Ulm and further expanded it into acharacteristic researchsystem on design basics. I invite Professor L regularly to lecture in China to teach modeling basics' and have arranged for him to teach in national workshop onmodeling basics' for the teachers of industrial design of Chinese universities for five times to pass on his ideas, methods and system on education. His education philosophy, influencing nearly one hundred teachers in China, has blossomed in China design education community with fruitful result, This book summarized what he has saw, experienced and reflected during his 30 years' of teaching in China. He 类社会生存发展为目的、因势利导地将“基因”进行各种排列组合，以统 一在一个产品形象和地域文化形象整体系统内。
+
+面对“设计”这门既新又热门的综合交叉型专业，目前我国设计教育界尚无统一、成熟的设计教材，况且热衷于这个设计研究性的、基础性的教师实在是凤毛麟角。我们多年来一直在思考这个“支点”，力图摸索出一套适合中国设计教育大发展所必备的基础研究性教程。我有幸于1981一1984年到工业设计的发源地—德国斯图加特国立艺术与设计学院作访问，师从于雷曼教授(Prof.KlausLehmann)，他是世界著名的工业设计教育专家，特别在设计基础教育方面有极深的造诣。他继承了包豪斯和乌尔姆的设计基础传统，又发展了一套十分具有特色的设计基础研究课题体系。在我回国后，雷曼教授经常被我邀请来华讲学，仅为传授“造型基础”，他就在我组织下，为全国高等院校工业设计师资办的五次全国性“造型基础”的WORKSHOP中精心传授他的教育思想、方法和教学体系，不仅取得了骄人的成果，还培养了近百名师资，他的设计教育理念已在中国设计教育界中开花结果。在这本书中，雷曼教授回顾了他在中国讲学30年来的见闻、体会和反思。他满怀深情地将他多年的心血和酝酿已久的这本书奉献给中国的同行们，希望正在蓬勃发展的中国设计教育能更好地担当起培养中国和世界未来的优秀设计人才的重任。
+
+我国目前设计教育的发展所面临的问题和时代赋予的责任，要培养合格的、符合中国未来发展需要的设计人才，缺乏的绝不是硬件、技术层面的问题，而恰恰是教育观念和方法的落后，因此本书的出版可能会给教育界和设计教师同行在“教什么”和“怎么教”上于启迪，尤其对从事教学管理、设计基础规划的教师以及从事设计基础课的教师们有presents this book, a painstaking efforts for many years, to the Chinesecolleagues with all his heart, wishing China’s blooming design educationindustry can train more talents for China and the world.
+
+To nurture more design talents qualified for China’s development needs– the issue faced by the industry and the responsibilities given by the era, does not depend on hardware or technology. Itis about the underdeveloped education mindset and methodology. Hence, this book can be an inspiration forwhat to teach'andhow to teach' to education community and design teachers, especially for teachers who are in education management, design basics planning, and teachers who teach design basics. It is also a great help to colleagues and students who are learning or researching design. I am writing this article to honor my commitment to Profession Klaus Lehmann and in the hope that this book can be a bridge of communication and interaction to inspire our colleaquesto learn and discuss with each other, to builda future-oriented design education system in China.
+
+益，当然也对学习设计、从事设计研究的同行和学生大有帮助。我写这个“前言”，一是应我的老师之嘱，二是希望借雷曼教授这本书建立一座沟通、互动的桥梁，启发我国的同行们学习、交流、探讨，以尽早建立起面向未来的中国的设计教育的体系。
+
+## 柳冠中
+
+2015年12月31日23:30于清华荷清园
+
+![](images/77491ec0bfe82198ed22953edb0a4005bb3384e634d8ea0d6bd76ab3f1652583.jpg)  
+Liu Guanzhong and Prof. Klaus Lehmann 柳冠中与雷曼教授
+

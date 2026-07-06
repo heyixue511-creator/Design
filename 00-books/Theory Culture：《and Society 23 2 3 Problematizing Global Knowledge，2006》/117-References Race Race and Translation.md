@@ -1,0 +1,105 @@
+One of the biggest casualties of nationalism and the nation-state becomes the idea of memory. Overnight a new system of values gets created by a reversal of signs. ‘Bad suddenly becomes good, left becomes right. The old flag, the coat of arms, the names of streets have been removed and replaced by the new.’ Words get revalorized. What were once good words – ‘Partisan’, ‘left wing’, ‘communists’ – now get negatively marked. Populism, cliché, kitsch combine with ‘guns, grenades, murder, rape and ethnic cleansing to annihilate but one thing – memory’.
+
+In Object Lessons, Eavan Boland (1996) pursues for Ireland what Ugresic does for Croatia. She discovers the Irish nation in Irish poetry was not available to her. Not only is Irish poetry male and bardic, but it uses women as its basic motif. She notes astutely that the power of nationhood tends to edit the reality of womanhood. ‘Once the idea of nation influences the perception of a woman, then the idea of woman is suddenly and inevitably simplified. She becomes the passive projection of a national idea’, a dehumanized ornament. For Boland, nationalism becomes a colonizer of the categories of the imagination. ‘To those it recognized and approved, it offered major roles in history. To others, bit parts only.
+
+Political theory often heals itself not by acts of exorcism which create its own violence but by acts of re-reading. One needs narratives that create a competing weave to the logic of nationalism. Writers like Viroli, Schaar and Simone Weil have argued that such an alternative is available in the narratives of patriotism. Patriotism covers the same history but reads it differently. Simone Weil advocated the power of rootedness but insisted that rootedness need not be a blind identification with one’s country. Thus a love for France did not demand a commitment to the French idea of empire (Viroli, 1995: 163). Love and critique blend together to create a more demanding idea of the community and of citizenship. Viroli suggests that patriotism is used to sustain the ideals of a republic while nationalism is employed to call for cultural, ethnic and religious homogeneity. Nationalism can lie harnessed for exclusivity but patriotism is harnessed for social justice in a multicultural society. Patriotism replays the drama of the particular, the concrete with the universal in a non-exclusive way. By reworking the mosaic, it attempts to use history to redeem the future. It is out of such creative readings that political theory can create a plastic and protean patriotism that is more supple than nationalism. It is an act of healing that creates more inventive and futuristic politics.
+
+## References
+
+Anderson, Benedict (1983) Imagined Communities. London: Verso.
+
+Anderson, Benedict (1998) The Spectre of Comparisons. London: Verso.
+
+Bauman, Zygmunt (1993) Modernity and Ambivalence. Cambridge: Polity Press.
+
+Boland, Eavan (1996) Object Lessons. New York: Vintage Books.
+
+Brink, Andre (1998) Reinventing a Continent. Cambridge: Zoland Books.
+
+Castells, Manuel (1998) The End of the Millennium. Oxford: Blackwell.
+
+Foucault, Michel (1973) Madness and Civilization: A History of Insanity in the Age of Reason. New York: Vintage.
+
+Gellner, Ernest (1984) Nations and Nationalism. Oxford: Basil Blackwell.
+
+Greenfeld, Liah (1992) Nationalism. Cambridge, MA: Harvard University Press.
+
+Hayes, Carlton B. (1931) The Historical Evolution of Modern Nationalism. New York: Smith.
+
+Hobsbawm, Eric (1992) Nations and Nationalism since 1780. Cambridge: Cambridge University Press.
+
+Ignatieff, Michael (1994) Blood and Belonging. London: Vintage Books.
+
+Ignatieff, Michael (1997) The Warrior’s Honor. New York: Metropolitan Books.
+
+Kohn, Hans (1967) The Idea of Nationalism. New York: Collier-Macmillan.
+
+Kaldor, Mary (1999) New and Old Wars. Cambridge: Polity Press.
+
+Kuper, Leo (1981) Genocide. Harmondsworth: Penguin Books.
+
+Mamdani, Mahmood (1996) ‘From Conquest to Consent as the Basis of State Formation’, New Left Review 216: 3–36.
+
+Mann, Michael (1993) ‘Nation States in Europe and Other Continents: Diversifying, Developing not Dying’, Daedalus 122(3): 115–40.
+
+Mann, Michael (1999) ‘The Dark Side of Democracy: The Modern Tradition of Ethnic and Political Economy’, New Left Review 235: 18–45.
+
+Shaw, Martin (2000) ‘The Contemporary Mode of Warfare? Mary Kaldor’s Theory of New Wars’, Review of International Political Economy 7(1): 171–80.
+
+Ugresic, Dubravka (1998) The Culture of Lies. London: Phoenix House.
+
+Viroli, Maurizio (1995) For Love of Country: An Essay on Patriotism and Nationalism. Oxford:
+
+Clarendon Press.
+
+Shiv Visvanathan is a Professor at the Dhirubhai Ambani Institute of Information and Communication Technology (Gandhinagar). He has published and lectured widely on issues in science and technology. Recent publications include A Carnival for Science (Oxford University Press, 1997) and Foul Play: Chronicles of Corruption, 1947–1997 (Banyan Books, 1998).
+
+# Race
+
+Pal Ahluwalia
+
+Abstract The concept of race is traced to the quest for the origins of language and the manner in which that led to the idea that a separate language indicated a separate racial origin. The Orientalist desire to know and dominate the other and to regard him or her as sub-human necessitated the invention of race. The notion of race is further traced through the slave trade and its contemporary usage in ‘race studies’.
+
+Keywords Orientalism, race, slavery, translation
+
+No race has a monopoly on beauty, or intelligence, or strength, and there will be a place for all at the rendezvous of victory. (Césaire, 1983: 72)
+
+## Introduction
+
+In 1786, William Jones gave an address to the Bengal Asiatic Society in which he made a statement that was to change the face of European intellectual life:
+
+The Sanskrit language, whatever its antiquity, is of a wonderful structure, more perfect than the Greek, more copious than the Latin, and more exquisitely refined than either, yet bearing to both of them a stronger affinity, both in the roots of verbs, and in the forms of grammar, than could possibly have been produced by accident; so strong, indeed, that no philologer could examine them all three, without believing them to have sprung from some common source, which, perhaps, no longer exists. (Asiatic Researches [1788] cited in Poliakov, 1974: 190)
+
+Jones’ pronouncement initiated an ‘Indomania’ throughout Europe as scholars looked to Sanskrit for an origin to European languages that went even deeper than Latin and Greek. What remained in the aftermath of Indomania was the entrenchment of Orientalism and the vast expansion of philology. For the next century, European ethnologists, philologers and historians were to be obsessed with the Orient and the Indo-European group of languages because these seemed to offer an explanation of the roots of European civilization itself. This linguistic revolution was supported further by the philosophical arguments of Schlegel and Schelling who suggested that the Orient and the Occident had common roots. Jones’ statement was revolutionary because existing conceptions of linguistic history supposed that language development had taken place within the 6000 years since creation, with Hebrew as the source language and other languages emerging by a process of degeneration. Jones’ declaration ushered in a new conception of linguistic history, but because language was so deeply implicated in concerns about national and cultural identity, ‘the authentic and useful science of linguistics became absorbed in the crazy doctrine of “racial anthropology”’ (Poliakov, 1974: 193). The link between language and identity, particularly the link between the diversity of languages and the diversity of racial identity, gave rise to the discipline of ethnology, the precursor of modern anthropology.
+
+Orientalism is sometimes taken to be simply a way of defining and ‘locating’ Europe’s others. But as a group of related disciplines, Orientalism was, in important ways, about Europe itself, and hinged on arguments that circulated around the issue of national distinctiveness as well as racial and linguistic origins. Thus, elaborate and detailed examinations of Oriental languages, histories and cultures were carried out in a context in which the supremacy and importance of European civilization was unquestioned. Such was the vigour of the discourse that myth, opinion, hearsay and prejudice generated by influential scholars quickly assumed the status of received truth (Said, 1978). For instance, the influential French philologist and historian Ernest Renan (1896: 85) could declare confidently that, ‘Every person, however slightly he may be acquainted with the affairs of our time, sees clearly the actual inferiority of Mohammedan countries’. We can be in no doubt about Renan’s audience, nor the nature of the cultural assumptions he and they shared: ‘All those who have been in the East, or in Africa are struck by the way in which the mind of the true believer is fatally limited, by the species of iron circle that surrounds his head, rendering it absolutely closed to knowledge (1896: 85).
+
+The confidence of such assertions is partly an indication of the self-confidence engendered by the huge popularity of writers like Renan and Gobineau. But it is, at a deeper level, the product of the unquestioned cultural dominance of Europe, maintained economically and militarily over most of the rest of the world. Through such statements as Renan’s, the ‘production’ of Orientalist knowledge became a continual and uncritical ‘reproduction of various assumptions and beliefs. Thus, Lord Cromer, who relied a great deal on writers like Renan, could write in 1908 that, while the European’s ‘trained intelligence works like a piece of mechanism’, the mind of the Oriental, ‘like his picturesque streets, is eminently wanting in symmetry’ (Said, 1978: 38). The superior ‘order’, ‘rationality’ and ‘symmetry of Europe and the inferior ‘disorder’, ‘irrationality’ and ‘primitivism’ of non-Europe were the self-confirming parameters around which the various Orientalist disciplines circulated. But what gave these disciplines their dynamism and urgency, at least in the beginning, was the need to explain the apparent historical connections between Europe and its Oriental forebears.
+
+The identification of the Indo-European group of languages was to have incalculable consequences in world history. Not only did it disrupt conventional notions of linguistic history, and give rise to a century of philological debate, but it quickly generated theories about racial origin and development, as language and race became conflated. The ‘Indo-European’ group of languages, at different times called the ‘Japhetic’ languages (after Noah’s son Japheth, distinguished from the ‘Semitic’ and ‘Hamitic’ languages that derived from his other sons Shem and Ham), or ‘Indo-German’, began to be called ‘Arian’ from their supposed origin around Lake Aries in Asia. The term Aryan gained widespread authority in 1819 from the efforts of Friedrich Schlegel (Poliakov, 1974: 193). This term came to symbolize an idea close to the hearts of European states – that a separate language indicated a separate racial/national origin. Schlegel’s rhetoric in galvanizing German youth with the myth of an Aryan race early in the 19th century began a process that led eventually to the rationalization of the Holocaust in the Second World War. The concept which had the potential to unite peoples of wide cultural disparity – the Indo-European community of languages – peoples as diverse as Indian, Persian, Teutons and Anglo-Saxons, became the source of the most strident racial Manicheanism as it fed deeply-ingrained European racial pretensions.
+
+In short, Orientalist analysis almost universally proceeded to confirm the ‘primitive’, ‘originary’, ‘exotic’ and ‘mysterious’ nature of Oriental societies and, more often than not, the degeneration of the ‘non-European’ branches of the Indo-European family of languages. This quest for origins, however, created a desire to know the other, a desire that was most evident in translation studies.
+
+## Race and Translation
+
+In Colonising Egypt, Timothy Mitchell (1988) writes about an Egyptian delegation on their way to the Eighth International Congress of Orientalists held in Stockholm in 1899. On their way to Sweden, the Egyptians stopped over in Paris and visited the World Exhibition where they were most disturbed to witness the Egyptian exhibit that was built by the French:
+
+The Egyptian exhibit had also been made carefully chaotic. In contrast to the geometric lines of the rest of the exhibition, the imitation street was laid out in the haphazard manner of the bazaar. The way was crowded with shops and stalls, where Frenchmen dressed as Orientals sold perfumes, pastries, and tarbrushes. To complete the effect of the bazaar, the French organisers had imported from Cairo fifty Egyptian donkeys. (1988: 1)
+
+What was remarkable about these exhibitions was that they ‘became so accurate and so extensive, no one ever realised that the “real world” they promised was not there’ (Mitchell, 1988: 10). No one, that is, except for the visiting Egyptians. In the age of colonialism, such was the confidence that the colonial world itself could be translated simply through exhibition. As Maria Tymoczko (1999: 17) has aptly put it, ‘translation is paradoxically the means by which difference is perceived, preserved, and proscribed. Translation stands as one of the most significant means by which one culture represents another’. Consider, for example, how British soldiers in India who encountered Muslims as they beat themselves chanting, ‘Ya Hasan! Ya Hosain’ during the Muhaarram procession translated this to Hobson-Jobson (Yule and Burnell, 1903). The translation of foreign words into English words of what was perceived to be similar sounds though with widely differing meanings was a common practice during colonial rule. It was a clear manifestation of the assumed right of translating another culture and giving it meaning within European culture, albeit that the translation was in no way true to the original.
+
+This link between knowledge and power, the desire to know the ‘other’, has its roots clearly in the search for the origins of European languages. That desire, however, led to a quest to master the ‘other’ languages, a quest of how to translate – how to best capture the world of the ‘other’ through the ‘science’ of social translation. This process was one that Michel Bréal argued, ‘does not suffice at all, in order to give an account of a structure of a language, to analyze its grammar and to trace the words back to their etymological values. One must enter into the people’s way of thinking and feeling’ (cited in Mitchell, 1988: 141).
+
+The project of social translation was manifested most clearly in the science of ethnography as a systematic mode of inquiry that was allied closely to colonialism. The marriage between anthropology and colonialism was most evident in the case of Bronislaw Malinowski (1930), the celebrated anthropologist, and Lord Lugard, the architect of Britain’s control of its African territories. Malinowski argued that, ‘an important task of anthropology was to provide scientific recipes for facilitating colonial control’. It is not surprising therefore that Edward Said (1989: 225) has observed that, ‘anthropology as we have known it can only continue on one side of the imperial divide, there to remain as a partner in domination and hegemony’.
+
+It is precisely this link between professional ethnography and the colonial project that led Jacques Derrida to level the charge of ethnocentrism against structuralists such as Lévi-Strauss. In response to Lévi-Strauss’s claim in Tristes Tropiques that the Nambikwara of Brazil had no equivalent to writing except what they called ‘drawing lines’, Derrida (1976: 123) asks the question:
+
+Is not ethnocentrism always betrayed by the haste with which it is satisfied by certain translations or certain domestic equivalents? To say that a people do not know how to write because one can translate the word which they use to designate the act of inscribing as ‘drawing lines’, is that not as if one should refuse them ‘speech’ by translating the equivalent word by ‘to cry’, ‘to sing’, ‘to sigh’? Indeed to ‘stammer’ . . . And ought one to conclude that the Chinese are a people without writing because the word wen designates many things besides writing in the narrow sense?
+
+For Derrida, ethnology as a discipline could emerge and occupy a privileged place as a ‘human science’ because the West itself had undergone a process of ‘decentering’, when the ‘history of metaphysics and of its concepts – had been dislocated, driven from its locus, and forced to stop considering itself as the culture of reference’ (Derrida, 1978: 282). Consequently ethnology, Derrida points out, accepts the very premises of ethnocentrism that it seeks to denounce. In short, Derrida suggests that ethnography is bound by the very concepts it inherits.
+
+Lévi-Strauss, in his inaugural lecture at the Collège de France, argued that, above all, ethnology was an act of translation: ‘when we consider some system of belief . . . the question which we ask ourselves is indeed, “what does all this mean or signify?”, and to answer it we force ourselves to translate into our language rules originally stated in a different code’ (1967: 80). This might appear, at one level, to absolve Lévi-Strauss from the attack mounted by Derrida, and yet it seems to confirm how such an encounter reaffirms Western superiority in precisely the same way as Orientalism. The desire to know the other, in one’s own terms, is what led Valentine Mudimbe (1989) to declare that Africa is an ‘invention’ with little capacity to record its own contribution. It is in this context that Tejaswini Niranjana (1992: 82), in her study of translation and its colonial context, has argued that the methodology of ethnographic transcription entailed ‘the complete effacement of the speaking or experiencing subject from the scientific texts of anthropology and its displacement into the genre of personal narrative’. Translation, she argues (1992: 2), ‘as a practice shapes, and takes shape within, the asymmetrical relations of power that operate under colonialism’. When viewed from such a perspective, translation becomes part of the colonial strategy of domination. As Ronald Inden (1986: 408) points out, the knowledge acquired by the Orientalist appropriates ‘the power to represent the Oriental, to translate and explain his (and her) thoughts and acts not only to Europeans and Americans but also to the Orientals themselves’.
+
+This desire to translate the colonial subject in order to contain them is one that was particularly prevalent among the colonial missionaries who were at the forefront of encoding what were often perceived to be primitive Asian and African languages into a systematic grammar. They were often the first to prepare Western-style dictionaries ‘participating thereby in the enormous project of collection and codification on which colonial power was based’ (Niranjana, 1992: 34). This process often dovetailed with the missionary education that was forced upon colonial subjects who, more often than not, were forced to speak in English (wa Thiong’o, 1981). The creation of this colonized educated class, part of the strategy advocated by Macaulay, was so that the colonial subject would be manipulated through English education with ‘ways of seeing, techniques of translation, or modes of representation that came to be accepted as “natural”’ (Niranjana, 1992: 31).
+
+Although European confidence was at its peak during the age of colonialism, this did not mean that there was no resistance to these modes of representation and power. In even the most extreme cases of collaboration, the Dubashis in India, native informants upon whom the very edifice of colonial rule was dependent, there was a clear sense of agency. The role of the Dubashis, who were confidential servants and interpreters to British Company officers, was to act as intermediaries who linked the colonizers with the colonized. In reality, however, the Dubashis were ‘double agents’. Robert Frykenberg (1965: 35) writes about Venkata Rama Rao, the Dubash of Robert Hughes in Guntur district, who ‘by taking over the detailed work of administration . . . was able to spread a net of cleverly fabricated records and of systematic embezzlement’. It was because of this lack of trust that William Jones had advocated that East India company officials learn Asian languages because, ‘it was found highly dangerous . . . to employ the natives as interpreters, upon whose fidelity they could not depend’ (1823: vii). It is precisely this desire to know and dominate the other and to regard him or her as sub-human that necessitated the invention of race

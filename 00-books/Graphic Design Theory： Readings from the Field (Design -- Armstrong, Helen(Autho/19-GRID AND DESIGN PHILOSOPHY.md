@@ -1,0 +1,153 @@
+# Grid and Design Philosophy
+
+Josef Müller-Brockmann | 1981
+
+The use of the grid as an ordering system is the expression of a certain mental attitude inasmuch as it shows that the designer conceives his work in terms that are constructive and oriented to the future.
+
+This is the expression of a professional ethos: the designer’s work should have the clearly intelligible, objective, functional, and aesthetic quality of mathematical thinking.
+
+His work should thus be a contribution to general culture and itself form part of it.
+
+Constructivist design that is capable of analysis and reproduction can influence and enhance the taste of a society and the way it conceives forms and colors. Design that is objective, committed to the common weal, well composed, and refined constitutes the basis of democratic behavior. Constructivist design means the conversion of design laws into practical solutions. Work done systematically and in accordance with strict formal principles makes those demands for directness, intelligibility, and the integration of all factors that are also vital in sociopolitical life.
+
+Working with the grid system means submitting to laws of universal validity.
+
+The use of the grid system implies the will to systematize, to clarify
+
+the will to penetrate to the essentials, to concentrate
+
+the will to cultivate objectivity instead of subjectivity
+
+the will to rationalize the creative and technical production processes
+
+the will to integrate elements of color, form, and material
+
+the will to achieve architectural dominion over surface and space
+
+the will to adopt a positive, forward-looking attitude
+
+the recognition of the importance of education and the effect of work devised in a constructive and creative spirit.
+
+Every visual creative work is a manifestation of the character of the designer. It is a reflection of his knowledge, his ability, and his mentality.
+
+Paul Rand married creative concept to clarity of form. The purpose of design was, he asserted, “to simplify, to clarify, to modify, to dignify, to dramatize, to persuade, and perhaps even to amuse.”<sup>1</sup> Guided by European modernist principles, this son of Jewish Viennese immigrants pushed and pounded American graphic design for fifty years. In the 1940s, he led the concept-driven New Advertising movement in New York. Collaborative teams of art directors and copywriters still emulate the work he did with writer Bill Bernbach at the Weintraub Agency. Beginning in the 1950s he unified then-booming corporations with clean powerful marks, thus kicking off the maelstrom of corporate branding. His timeless logos for ibm, Westinghouse and abc remain, testifying to the ability of their maker. In the latter half of his career Rand worked alone, preferring to communicate directly with the company president—no dilly-dallying with clients’ committees and middlemen. Ultimately, he forged a relationship between graphic design and corporate America that carried designers to profitable professional heights, but left them dependent, perhaps troublingly, upon clients’ societal visions and needs.
+
+1 Paul Rand, “Form and Content,” in Design, Form, and Chaos (New Haven: Yale University Press, 1993), 3.
+
+## Good Design Is Goodwill Paul Rand | 1987
+
+Michelangelo, responding to the demands of Pope Julius II about the completion of the Sistine Ceiling, replied, “It will be finished when I shall have satisfied myself in the matter of art.” “But it is our pleasure,” retorted the pope, “that you should satisfy us in our desire to have it done quickly.” And it was not until he was threatened with being thrown from the scaffolding that Michelangelo agreed to be more expeditious. On the whole, however, the relationship between Michelangelo and the pope was reciprocal. Mutual respect, apologies, and ducats were the means of mediation.
+
+Today the relationship between designer (painter, writer, composer) and management shares certain similarities with that of our distinguished protagonists. What has always kept the designer and client at odds is the same thing that has kept them in accord. For the former, design is a means for invention and experiment, for the latter, a means of achieving economic, political, or social ends. But not all business people are aware that, in the words of a marketing professor at Northwestern University, “Design is a potent strategy tool that companies can use to gain a sustainable competitive advantage. Yet most companies neglect design as a strategy tool. What they don’t realize is that design can enhance products, environments, communications, and corporate identity.”
+
+Paul Rand “Logos . . . Flags . . . Street Signs” 1990
+
+The expression “good design” came into usage circa 1940, when the Museum of Modern Art sponsored the exhibit “Useful Objects of American Design under Ten Dollars.” The intention, of course, was to identify not just “good” design but the best, that which only the most skillful designer (trained or untrained ) could produce. Over the years designers of both products and graphics have created an impressive collection of distinguished designs. Yet ironically, this body of good work makes one painfully aware of the abundance of poor design and the paucity of good designers. Talent is a rare commodity in the arts, as it is in other professions. But there is more to the story than this.
+
+Even if it does not require extensive schooling, design is one of the most perplexing pursuits in which to excel. Besides the need for a God-given talent, the designer must contend with encyclopedic amounts of information, a seemingly endless stream of opinions, and the day-to-day problem of finding “new” ideas (popularly called “creativity”).
+
+Yet as a profession it is relatively easy to enter. Unlike those of architecture and engineering, it requires no accreditation (not that accreditation is always meaningful in the arts). It entails no authorization from official institutions, as do the legal and medical professions. (This is equally true of other arenas in the business world, for example, marketing and market research.) There is no set body of knowledge that must be mastered by the practitioners. What the designer and his client have in common is a license to practice without a license.
+
+Many designers, schooled or self-taught, are interested primarily in things that look good and work well; they see their mission realized only when aesthetics and practical needs coalesce. What a designer does is not limited to any particular idea or form. Graphic design embraces every kind of problem of visual communication, from birth announcements to billboards. It embodies visual ideas, from the typography of a Shakespearean sonnet to the design and typography of a box of Kellogg’s Corn Flakes. What might entitle these items to the “good design” accolade is their practicability and their beauty, both of which are embodied in the idea of quality. The Bahlsen design (circa 1930) meets both goals admirably. “H. Bahlsen, the biscuit maker of Hanover, was a manufacturer who combined art and his work in the most thorough fashion.” He was one of those rare businessmen who believed that “art is the best means of propaganda.”
+
+Design is a personal activity and springs from the creative impulse of an individual. Group design or design by committee, although occasionally useful, deprives the designer of the distinct pleasure of personal accomplishment
+
+![](images/cced030335f5dfbe74216c94e99484624e928f5e5f6b797dbbaf951f24fc6b8a.jpg)
+
+![](images/13e16f894fcd60597ef92ad50b9061f7200231843f2963ed5b98c0f7ec4b3cf8.jpg)
+
+![](images/53049d1d661abbfec9429ec4341f514ded516228c739d57499d57140ba769eb5.jpg)  
+Paul Rand Logos: Westinghouse, 1960; IBM, 1962; UPS, 1961.
+
+and self-realization. It may even hinder his or her thought processes, because work is not practiced under natural, tension-free conditions. Ideas have neither time to develop nor even the opportunity to occur. The tensions encountered in original work are different from those caused by discomfort or nervousness.
+
+The relationship that exists between the designer and management is dichotomous. On the one hand, the designer is fiercely independent; on the other, he or she is dependent on management for support against bureaucracy and the caprice of the marketplace. I believe that design quality is proportionately related to the distance that exists between the designer and the management at the top. The closer this relationship, the more likely chances are for a meaningful design. For example, the relationship between the designer and the chief executive of Bahlsen was, undoubtedly, very close. “With a very few exceptions, all the Bahlsen wrappers are the work of a woman artist, Martel Schwichtenberg. In a masterly manner she contrived to keep the designs up to their original high standards.”
+
+Design is less a business than a calling. Many a designer’s workday, in or out of the corporate environment, is ungoverned by a timesheet. Ideas, which are the designer’s raison d’être, are not produced by whim or on the spur of the moment. Ideas are the lifeblood of any form of meaningful communication. But good ideas are obstinate and have a way of materializing only when and where they choose—in the shower or subway, in the morning or middle of the night. As if this weren’t enough, an infinite number of people, with or without political motives, must scrutinize and pass on the designer’s ideas. Most of these people, in management or otherwise, have no design background. They are not professionals who have the credentials to approve or disapprove the work of the professional designer, yet of course they do. There are rare exceptions—lay people who have an instinctive sense for design. Interestingly, these same people leave design to the experts.
+
+If asked to pinpoint the reasons for the proliferation of poor design, I would probably have to conclude, all things being equal, that the difficulties lie with: (1) management’s unawareness of or indifference to good design, (2) market researchers’ vested interests, (3) designers’ lack of authority or competence.
+
+Real competence in the field of visual communication is something that only dedication, experience, and performance can validate. The roots of good design lie in aesthetics: painting, drawing, and architecture, while those of business and market research are in demographics and statistics; aesthetics and business are traditionally incompatible disciplines. The value judgments of the designer and the business executive are often at odds. Advertising executives and managers have their sights set on different goals: on costs and profits. “They are trained,” says [Philip] Kotler, quoting a personnel executive, “in business schools to be numbers-oriented, to minimize risks, and to use analytical detached plans—not insights gained from hands-on experience. They are devoted to short-term returns and cost reduction, rather than developing long-term technological competitiveness. They prefer servicing existing markets rather than taking risks and developing new ones.”
+
+Many executives who spend time in a modern office at least eight hours a day may very well live in houses in which the latest audio equipment is hidden behind the doors of a Chippendale cabinet. Modern surroundings may be synonymous with work, but not with relaxation. The preference is for the traditional setting. (Most people are conditioned to prefer the fancy to the plain.) Design is seen merely as decoration—a legacy of the past. Quality and status are very often equated with traditional values, with costliness, with luxury. And in the comparatively rare instance that the business executive exhibits a preference for a modern home environment, it is usually the super modern, the lavish, and the extremely expensive. Design values for the pseudo-traditionalist or super-modernist are measured in extremes. For the former it is how old, for the latter how new. Good design is not based on nostalgia or trendiness. Intrinsic quality is the only real measure of good design.
+
+In some circles art and design were, and still are, considered effeminate, something “removed from the common affairs of men.” Others saw all artists “performing no useful function they could understand.” At one time, design was even considered a woman’s job. “Let men construct and women decorate,” said Benn Pitman, the man who brought new ideas about the arts from England to the United States in the 1850s. To the businessman whose mind-set is only the bottom line, any reference to art or design is often an embarrassment. It implies waste and frivolity, having nothing to do with the serious business of business. To this person, art belongs, if anywhere, in the home or museum. Art is painting, sculpture, etching; design is wallpaper, carpeting, and upholstery patterns.
+
+“‘Art,’” says Henry James, “in our Protestant communities, where so many things have got so strangely twisted about, is supposed, in certain circles, to have some vaguely injurious effect on those who make it an important consideration. . . . It is assumed to be opposed in some mysterious manner to morality, to amusement, to instruction.”
+
+To many designers, art/design is a cultural mission in which life and work are inseparable. Clean surfaces, simple materials, and economy of means are the designer’s articles of faith. Asceticism, rather than “the good life,” motivates good designers—in keeping with the ideals of the modern painters, architects, and designers of the early part of this century, and with the beliefs, as expressed later by Edgar Kaufmann: good design is a “thorough merging of form and function and an awareness of human values, expressed in relation to industrial production for a democratic society.”
+
+Not just good design but the implication of its modernity needs to be stressed. Le Corbusier, the great and influential architect and theorist, commented: “To be modern is not a fashion, it is a state. It is necessary to understand history, and he who understands history knows how to find continuity between that which was, that which is, and that which will be.” [ . . . ]
+
+Design no less than business poses ethical problems. A badly designed product that works is no less unethical than a beautiful product that doesn’t. The former trivializes the consumer, the latter deceives him. Design that lacks ideas and depends entirely on form for its realization may possess a certain kind of mysterious charm; at the same time it may be uncommunicative. On the other hand, design that depends entirely on content will most likely be so tiresome that it will not compel viewing. “Idea and the form,” says James, “are the needle and thread, and I never heard of a guild of tailors that recommended the use of thread without the needle or the needle without the thread.” Good design satisfies both idea and form, the needle and the thread.
+
+A company’s reputation is very much affected by how the company appears and how its products work. A beautiful object that doesn’t work is a reflection on the company’s integrity. In the long run, it may lose not only customers but their goodwill. Good design will function no longer as the harbinger of good business but as the herald of hypocrisy. Beauty is a byproduct of needs and functions. The Barcalounger is extremely comfortable, but it is an example of beauty gone astray. A consumer survey that would find such furniture comfortable might find it to be beautiful as well, merely because it is easy to conclude that if something works it must also be beautiful and vice versa. Ugliness is not a product of market research but of bad taste, of misreading opinions for analysis and information for ideas.
+
+In 1907 the German Werkbund was formed, an organization whose purpose it was to forge the links between designer and manufacturer. It was intended to make the public aware of the folly of snobbery and to underscore the significance of the “old ideals of simplicity, purity, and quality.” Its aims were also to make producers aware of “a new sense of cultural responsibility, based on the recognition that men are molded by the objects that surround them.”
+
+From little buckslips to big buildings, the visual design problems of a large corporation are virtually without end. It is in the very solution of these problems—well-designed advertisements, packaging, products, and buildings—that a corporation is able to help shape its environment, to reach and to influence the taste of vast audiences. The corporation is in a singularly strategic position to heighten public awareness. Unlike routine philanthropic programs, this kind of contribution is a day-to-day activity that turns business strategy into social opportunity and good design into goodwill.
+
+Paul Rand Eye, Bee, M poster, 1981. Rand originally designed this rebus for an in-house IBM event, The Golden Circle Award. IBM forbid distribution, at first, worried that the design threatened their established graphic standards.
+
+![](images/99dff71d0725a583c4641c0dd2ec017d28d3367d25f796414be2e4b20ae29814.jpg)
+
+In 1968 Robert Venturi, Denise Scott Brown, Steven Izenour, and a group of their students took a trip to Las Vegas. The trip was part of a studio class at Yale School of Art and Architecture. Out of this trip, a “postmodern manifesto”—Learning from Las Vegas—emerged.1 This text attacked modern tenets with a postmodern embrace of pop culture and iconography. Privileging the commercial vernacular, Venturi et al. looked curiously at the Las Vegas Strip while withholding the more typical exclusionary judgments of modernism. As a result they observed that the modern world of “form follows function” had been dismembered. In Las Vegas, communication trumped function; graphic signs dominated architectural space. This recognition reoriented graphic designers and architects to a new postmodern world—a world of appropriation filled with irony, cliché, and pastiche: a world where, as Venturi says of Las Vegas, “If you take the signs away, there is no place.”
+
+1 For discussion of Learning from Las Vegas as postmodern manifesto, see Marianne DeKoven, Utopia Limited: The Sixties and the Emergence of the Postmodern (Durham: Duke University Press, 2004), 109–113.
+
+## Learning from Las Vegas The Forgotten Symbolism of Architectural Form
+
+Robert Venturi, Denise Scott Brown, and Steven Izenour | 1972
+
+ASi gnificance for A&PParking Lots, or Learning from Las Vegas
+
+Substance for a writer consists not merely of those realities he thinks he discovers; it consists even more of those realities that have been made available to him by the literature and idioms of his own day and by the images that still have vitality in the literature of the past. Stylistically, a writer can express his feeling about this substance either by imitation, if it sits well with him, or by parody, if it doesn’t.
+
+Learning from the existing landscape is a way of being revolutionary for an architect. Not the obvious way, which is to tear down Paris and begin again, as Le Corbusier suggested in the 1920s, but another, more tolerant way; that is, to question how we look at things.
+
+The commercial strip, the Las Vegas Strip in particular—the example par excellence—challenges the architect to take a positive, non-chip-on-theshoulder view. Architects are out of the habit of looking nonjudgmentally at the environment, because orthodox Modern architecture is progressive, if not revolutionary, utopian, and puristic; it is dissatisfied with existing conditions. Modern architecture has been anything but permissive: Architects have preferred to change the existing environment rather than enhance what is there.
+
+Robert Venturi, Denise Scott Brown, and Steven Izenour Learning from Las Vegas: The Forgotten Symbolism of Architectural Form 1977
+
+But to gain insight from the commonplace is nothing new: Fine art often follows folk art. Romantic architects of the eighteenth century discovered an existing and conventional rustic architecture. Early Modern architects appropriated an existing and conventional industrial vocabulary without much adaptation. Le Corbusier loved grain elevators and steamships; the Bauhaus looked like a factory; Mies refined the details of American steel factories for concrete buildings. Modern architects work through analogy, symbol, and image—although they have gone to lengths to disclaim almost all determinants of their forms except structural necessity and the program—and they derive insights, analogies, and stimulation from unexpected images. There is a perversity in the learning process: We look backward at history and tradition to go forward; we can also look downward to go upward. And withholding judgment may be used as a tool to make later judgment more sensitive. This is a way of learning from everything.
+
+## Com ercial Values and Com ercial Methods
+
+Las Vegas is analyzed here only as a phenomenon of architectural communication. Just as an analysis of the structure of a Gothic cathedral need not include a debate on the morality of medieval religion, so Las Vegas’s values are not questioned here. The morality of commercial advertising, gambling, interests, and the competitive instinct is not at issue here, although, indeed, we believe it should be in the architect’s broader, synthetic tasks of which an analysis such as this is but one aspect. The analysis of a drive-in church in this context would match that of a drive-in restaurant, because this is a study of method, not content. Analysis of one of the architectural variables in isolation from the others is a respectable scientific and humanistic activity, so long as all are resynthesized in design. Analysis of existing American urbanism is a socially desirable activity to the extent that it teaches us architects to be more understanding and less authoritarian in the plans we make for both innercity renewal and new development. In addition, there is no reason why the methods of commercial persuasion and the skyline of signs analyzed here should not serve the purpose of civic and cultural enhancement. But this is not entirely up to the architect.
+
+## Billboards Are Almost All Ri ght
+
+Architects who can accept the lessons of primitive vernacular architecture, so easy to take in an exhibit like “Architecture without Architects,” and of industrial, vernacular architecture, so easy to adapt to an electronic and space vernacular as elaborate neo-Brutalist or neo-Constructivist megastructures, do not easily acknowledge the validity of the commercial vernacular. For the artist, creating the new may mean choosing the old or the existing. Pop artists have relearned this. Our acknowledgment of existing, commercial architecture at the scale of the highway is within this tradition.
+
+![](images/1ced25147d2da17f88ce88355750d4152d560b1b54e99cd26a6b458faf1e8886.jpg)  
+Map of Las Vegas strip.
+
+Modern architecture has not so much excluded the commercial vernacular as it has tried to take it over by inventing and enforcing a vernacular of its own, improved and universal. It has rejected the combination of fine art and crude art. The Italian landscape has always harmonized the vulgar and the Vitruvian: the contorni around the duomo, the portiere’s laundry across the padrone’s portone, Supercortemaggiore against the Romanesque apse. Naked children have never played in our fountains, and I. M. Pei will never be happy on Route 66.
+
+## Architecture as Space
+
+Architects have been bewitched by a single element of the Italian landscape: the piazza. Its traditional, pedestrian-scaled, and intricately enclosed space is easier to like than the spatial sprawl of Route 66 and Los Angeles. Architects have been brought up on space, and enclosed space is the easiest to handle. During the last forty years, theorists of Modern architecture (Wright and Le Corbusier sometimes excepted) have focused on space as the essential ingredient that separates architecture from painting, sculpture, and literature. Their definitions glory in the uniqueness of the medium; although sculpture and painting may sometimes be allowed spatial characteristics, sculptural or pictorial architecture is unacceptable—because space is sacred.
+
+Purist architecture was partly a reaction against nineteenth-century eclecticism. Gothic churches, Renaissance banks, and Jacobean manors were frankly picturesque. The mixing of styles meant the mixing of media. Dressed in historical styles, buildings evoked explicit associations and romantic allusions to the past to convey literary, ecclesiastical, national, or programmatic symbolism. Definitions of architecture as space and form at the service of program and structure were not enough. The overlapping of disciplines may have diluted the architecture, but it enriched the meaning.
+
+Modern architects abandoned a tradition of iconology in which painting, sculpture, and graphics were combined with architecture. The delicate hieroglyphics on a bold pylon, the archetypal inscriptions of a Roman architrave, the mosaic processions in Sant’ Apollinare, the ubiquitous tattoos over a Giotto Chapel, the enshrined hierarchies around a Gothic portal, even the illusionistic frescoes in a Venetian villa, all contain messages beyond their ornamental contribution to architectural space. The integration of the arts in Modern architecture has always been called a good thing. But one did not paint on Mies. Painted panels were floated independently of the structure by means of shadow joints; sculpture was in or near but seldom on the building. Objects of art were used to reinforce architectural space at the expense of their own content. The Kolbe in the Barcelona Pavilion was a foil to the directed spaces: The message was mainly architectural. The diminutive signs in most Modern buildings contained only the most necessary messages, like ladies, minor accents begrudgingly applied.
+
+## Architecture as Symb ol
+
+Critics and historians, who documented the “decline of popular symbols” in art, supported orthodox Modern architects, who shunned symbolism of form as an expression or reinforcement of content: Meaning was to be communicated, not through allusion to previously known forms, but through the inherent, physiognomic characteristics of form. The creation of architectural form was to be a logical process, free from images of past experience, determined solely by program and structure, with an occasional assist, as Alan Colquhoun has suggested, from intuition.
+
+But some recent critics have questioned the possible level of content to be derived from abstract forms. Others have demonstrated that the functionalists, despite their protestations, derived a formal vocabulary of their own, mainly from current art movements and the industrial vernacular; and latter-day followers such as the Archigram group have turned, while similarly protesting, to Pop Art and the space industry. However, most critics have slighted a continuing iconology in popular commercial art, the persuasive heraldry that pervades our environment from the advertising of the New Yorker to the superbillboards of Houston. And their theory of the “debasement” of symbolic architecture in nineteenth-century eclecticism has blinded them to the value of the representational architecture along highways. Those who acknowledge this roadside eclecticism denigrate it, because it flaunts the cliché of a decade ago as well as the style of a century ago. But why not? Time travels fast today.
+
+The Miami Beach Modern motel on a bleak stretch of highway in southern Delaware reminds jaded drivers of the welcome luxury of a tropical resort, persuading them, perhaps, to forgo the gracious plantation across the Virginia border called Motel Monticello. The real hotel in Miami alludes to the international stylishness of a Brazilian resort, which, in turn, derives from the International Style of middle Corbu. This evolution from the high source through the middle source to the low source took only thirty years. Today, the middle source, the neo-eclectic architecture of the 1940s and the 1950s, is less interesting than its commercial adaptations. Roadside copies of Ed Stone are more interesting than the real Ed Stone.
+
+## Symb ol in Space before Form in Space: Las Vegas as a Com unication System
+
+The sign for the Motel Monticello, a silhouette of an enormous Chippendale highboy, is visible on the highway before the motel itself. This architecture of styles and signs is antispatial; it is an architecture of communication over space; communication dominates space as an element in the architecture and in the landscape. But it is for a new scale of landscape. The philosophical associations of the old eclecticism evoked subtle and complex meanings to be savored in the docile spaces of a traditional landscape. The commercial persuasion of roadside eclecticism provokes bold impact in the vast and complex setting of a new landscape of big spaces, high speeds, and complex programs. Styles and signs make connections among many elements, far apart and seen fast. The message is basely commercial; the context is basically new.
+
+A driver thirty years ago could maintain a sense of orientation in space. At the simple crossroad a little sign with an arrow confirmed what was obvious. One knew where one was. When the crossroads becomes a cloverleaf, one must turn right to turn left. [ . . . ] But the driver has no time to ponder paradoxical subtleties within a dangerous, sinuous maze. He or she relies on signs for guidance—enormous signs in vast spaces at high speeds.
+
+The dominance of signs over space at a pedestrian scale occurs in big airports. Circulation in a big railroad station required little more than a simple axial system from taxi to train, by ticket window, stores, waiting room, and platform—all virtually without signs. Architects object to signs in buildings: “If the plan is clear, you can see where to go.” But complex programs and settings require complex combinations of media beyond the purer architectural triad of structure, form, and light at the service of space. They suggest an architecture of bold communication rather than one of subtle expression.
+
+## The Architecture of Persuasion
+
+The cloverleaf and airport communicate with moving crowds in cars or on foot for efficiency and safety. But words and symbols may be used in space for commercial persuasion. The Middle Eastern bazaar contains no signs; the Strip is virtually all signs. In the bazaar, communication works through

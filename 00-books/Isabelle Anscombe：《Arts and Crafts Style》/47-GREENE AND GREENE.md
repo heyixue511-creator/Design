@@ -1,0 +1,14 @@
+# GREENE AND GREENE
+
+![](images/a9ac0a4891a0f266dbce95c532872435695f2a882c55ea80d684c49bfb42aec5.jpg)  
+The Gamble House, Pasadena, designed by Charles and Henry Greene, 1907–8, for one of the partners in the soap firm Proctor and Gamble and (opposite) a wall sconce of Honduras mahogany, ebony and leaded glass
+
+Charles Sumner (1868-1957) and Henry Mather (1870–1954) Greene were born in Cincinnati. Charles wanted to be a painter, but both brothers studied at the Massachusetts Institute of Technology and then worked in Boston for different architectural firms. They moved to Pasadena, where their parents had just settled, in 1894.
+
+During the 1890s they worked in a variety of styles, including Mission, New England Shingle, and colonial Queen Anne and Dutch revival. They began to be interested in Japanese design after seeing examples of Japanese architecture at the World's Columbian Exposition in Chicago in 1893, and four years later were able to enlarge their understanding of Japanese arts after meeting John Bentz, an importer of oriental antiquities and books.
+
+In 1901 Charles Greene visited England on his honeymoon, and on his return, when The Craftsman began publication, he took to studying Arts and Crafts ideas, in particular the Craftsman plans for inexpensive bungalows, which had much in harmony with the Japanese architecture that he and Henry admired. In 1902 the Greenes used Stickley furniture in the James Culbertson House. Their own work was later regularly featured in The Craftsman.
+
+The Robert R. Blacker House of 1907, a large, asymmetrical wooden structure set in a six-acre Japanese-style garden, was built in Pasadena for a retired lumberman. Both the house and the furniture they designed for it were influenced by Japanese design. In the David B. Gamble House in Pasadena and the Charles M. Pratt House in the Ojai Valley, they were given a free hand by the clients, both of whom were friends of the Blackers. The two houses were winter retreats, and Greene and Greene were able to oversee every detail, from the gardens to fireplace tools, abstract rugs, leaded glass and lighting fixtures such as wooden lanterns. The furniture, some of it inlaid with stylized motifs in fruitwoods, ebony or precious stones, showed great simplicity of line and form and made decorative use of pegging and dowelling or mortise-and-tenon joinery. It was Charles Greene who designed most of the furniture, which was made by two Swedish craftsmen, John and Peter Hall.
+
+In 1916 Charles moved north to Carmel, California, where he undertook little new work. The brothers' last collaboration was in 1923.

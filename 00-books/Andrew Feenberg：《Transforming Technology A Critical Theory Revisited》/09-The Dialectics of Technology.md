@@ -1,0 +1,11 @@
+## Ill
+
+# The Dialectics of Technology
+
+Did communism fail because it defied the "technological imperatives" of the industrial system? Does that failure prove that socialism in any form is incompatible with modern production? The critical theory of technology challenges these widespread views and argues that technology does not determine a particular form of society. Technology is in large measure a cultural product, and thus any given technological order is a potential starting point for divergent developments depending on the cultural environment that shapes it.
+
+This section applies this nondeterministic approach to two related problems. The first chapter constructs a model of the transition to socialism based on the leading role of culture in the process of technological development. Although it was created under the cultural and economic constraints of capitalism, industrial technology could in principle be bent to new ones in the course of a transition to socialism. After its transformation, it could then be routinely employed in the service of cultural values quite different from those that presided over its creation. From an economic standpoint, the dependence of technology on culture means that alternative rationalizations are possible, each equally "efficient" in terms of achieving its own ends, but employing different configurations of means to do so.
+
+The concluding chapter reformulates the radical critique of technology and attempts to draw out its positive implications for the future. Presenting a reconstructive project is the best response to the charge that the critique is irrationalist or technophobic. Scientific-technical rationality is not an ahistorical monolith that must be defended or rejected as a whole but an evolving complex of attributes that can be configured in a variety of ways with diverse social implications. Alternative rationalizations depend on which among these attributes is emphasized. The choice of emphasis depends, in turn, on politics and culture. A holistic form of rationality compatible with socialist goals is among the possibilities.
+
+This page intentionally left blank

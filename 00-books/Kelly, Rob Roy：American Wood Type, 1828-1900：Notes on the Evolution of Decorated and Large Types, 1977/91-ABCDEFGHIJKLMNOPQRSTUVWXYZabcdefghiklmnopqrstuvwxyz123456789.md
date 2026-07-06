@@ -1,0 +1,1 @@
+# ABCDEFGHIJ KLMNOPQRS TUVWXYZa bcdefghikl mnopqrstu vwXyz1234 567890&!'\$ Doric Condensed. This specimen is printed from types at Rochester Institute of Technology, Rochester, New York. This design would have been issued by Morgans & Wilcox during the 1880's.

@@ -1,0 +1,1 @@
+# ABCDEFGHIJ KLMNOPQRS TUVWXYZ&12 34567890\$ab cdefghijklmnopq rstuvwxyzfmff Tuscan Egyptian. First shown during the 188O's. This cutting is by the Hamilton Company. ## ABCDEFGHIJ KLMNOPORS TUVWXYZ12 34567890\$S No. 501. Patented by William Page in 1887. No lowercase . ie gue./ tor tbis tace. This is one of the serenteen seiogeiterth.decatnpevetPagemiSehel

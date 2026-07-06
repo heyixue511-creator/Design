@@ -1,0 +1,1 @@
+# ABCDEFG HIJKLMNO PQRSTUV WXYZ1234 567890&\$ab cdefghijklmno pqrstuvwxyz Jenson Old Style. Cut by Hamilton with permission of ATF in 1906.

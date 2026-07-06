@@ -1,0 +1,1 @@
+# an introduction to design and culture 1900 to the Present / edition 3 Penny Sparke ![](images/03b365581af9f4ec1e6ee6080e4ec97ff6af21c67143b19a062b7da0752651b3.jpg)

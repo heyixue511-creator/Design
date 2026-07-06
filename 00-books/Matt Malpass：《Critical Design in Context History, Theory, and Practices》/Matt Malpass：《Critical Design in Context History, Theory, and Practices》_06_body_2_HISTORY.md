@@ -1,0 +1,8 @@
+# 2 HISTORY
+
+> Section: body | Source: 05-Result-MD\03-Design-History-replenish-1\02-Books\Matt Malpass：《Critical Design in Context History, Theory, and Practices》\Matt Malpass：《Critical Design in Context History, Theory, and Practices》\Matt Malpass：《Critical Design in Context History, Theory, and Practices》\auto\Matt Malpass：《Critical Design in Context History, Theory, and Practices》.md
+
+# 2 HISTORY
+
+This chapter charts a history of critical design practice. It shows that contrary to the popular understanding of critical design, critical design practice is not a new or emerging field, but is part of a long and diverse trajectory of critical practice in product and industrial design. The discussion explores critical design from its roots in Italian radical design, anti-design, new design, and conceptual design – in the German and Dutch traditions – before exploring critical practice in interaction design. The chapter shows how critical design projects carried out today are heavily influenced by the methods and approaches developed through a tradition of critical design practice that first emerged over fifty years ago. A number of comparisons are drawn between historic and contemporary examples to illustrate how the design languages, strategies used, and themes engaged in critical design practice today draw upon a trajectory of critical practice. The chapter discusses the socioeconomic conditions that give rise to critical design practice, and how economic hardship and the academic institution provide contexts that foster and inspire critical practice. What follows aims to place critical design practice today in a historic context.
+

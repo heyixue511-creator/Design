@@ -1,0 +1,13 @@
+# DESIGN STUDIES
+
+A processes as well, it is only recently that design itself has become the focus of intellectual debate. In Design Discourse Victor Margolin gathers together for the first time a body of new writing in the emerging field of design studies. The contributors argue in different ways for a rethinking of design in light of its cultural significance and its powerful position in today's society.
+
+The collection begins with a discussion of the various expressions of opposition to the modernists' traditional, purist approach toward design. Drawing on postmodernist theory as well as other critical strategies, the writers examine the relations among design, technology, and social organization to show how design has become a complex and multidisciplinary activity. The second section provides examples of new methods of interpreting and analyzing design, ranging from rhetoric and semiotics to phenomenology. Here the authors demonstrate how meaning is created visually and how various graphic and industrial products are given character and value. A final section, related to design history, shifts in emphasis to ideological frameworks, such as capitalism and patriarchy, that establish boundaries for the production and use of design.
+
+Victor Margolin's introduction places these twenty essays (all of which originally appeared in the journal Design Issues) in context, while his conclusion provides a significant account of international writing on design since the close of World War II. This much-needed anthology will serve as essential source material for teachers, design students, practitioners, and scholars interested in the connections between design and cultural theory.
+
+VICTOR MARGOLIN is associate professor and chairperson in the history of architecture and art department at the University of Illinois Chicago. He is a cofounder and editor of Design Issues: A Journal of History, Theory, and Criticism as well as the author of American Poster Renaissance: The Great Age of Poster Design, 1890–1900 and editor of Propaganda: The Art of Persuasion, WWII.
+
+The University of Chicago Press
+
+ISBN 0-226-50514-6

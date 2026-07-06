@@ -1,0 +1,1 @@
+# ABCDEFGHIJK LMNOPQRSTU VWXYZ&1234 567890\$ abcd efghijklmno pqrstuvwxyz d&&&fimfiffl Roman X Condensed. First shown by George Nesbitt in bis 1838 specimens. Representative of the trend towarl lighter styies wbich began in the late thirties and continued through the forties. Roman was to be further condensed into XX and XXX styles.

@@ -1,0 +1,81 @@
+![](images/f16590fb167590ba5970cf91f7e312f611c15feb3f637789173095691afe23d8.jpg)
+
+Fig. 32.36: Esther Yoel-Berlin, Zion. Won't You Ask How Your Immigrants are Faring? Freedom for Those Who Are Imprisoned, poster, c. 1946. Courtesy David Tartakover.
+
+Airways. Esther Yoel-Berlin was an artist who studied at the Kunsthochschule (Art Academy) in Hamburg and with the Expressionist painter Ludwig Meidner before emigrating to Palestine in 1925. Like other artists who arrived in the 192os, she earned money as a commercial artist and was the first female graphic designer in Palestine. A 1933 ad for her design studio in Haifa announced that she could create advertisements, trademarks, catalogs, book covers, posters, packaging, labels, and other publicity materials. Her most prominent commission
+
+# nwinw nr'ga
+
+![](images/cc2c28e3414cd7b0f47964fd0fe170b8eecdbc8db05e171e0a4fd5097c5f1fac.jpg)  
+Fig. 32.37: Franz Krausz, Commercial Art of Palestine, booklet, 1938. Courtesy David Tartakover
+
+was the emblem for the City of Haifa, a project for which she won a competition in the mid-193os. However, she also drew on the Expressionist woodcut technique as a means of creating posters (Fig. 32.36).
+
+In these years the activity of graphic designers continued to expand. In 1935, a group of graphic designers led by Franz Krausz, Rudy Deutsch, and others founded the Association of Jewish Commercial Artists in Palestine. They held their first exhibition during the Levant Fair in 1936, and two years later published a booklet, Commercial Art of Palestine, that contained a review of their activities along with a list of members and photographs of their work, recommended prices for different commissions, and other professional information (Fig. 32.37). Joining forces with the Palestine Advertising Association, which was founded in 1937, they held an exhibition, Palestine: Commercial Art in Peace and Wartime, in 1943, together with the Industrialists' Association of Palestine.
+
+## FIlm posters in Tel Aviv
+
+The first film theater in Tel Aviv was the Eden, which was built in 1914. While cinema eventually became an integral part of Tel Aviv culture, attitudes towards it among the early Zionists were mixed. Obviously, the enthusiastic entrepreneurs who built the earliest theaters, which included the Ophir, the Opera Mograbi, and the Rena Park believed they could create an audience for cinematic entertainment. Some Zionists, however, thought that film was a frivolous medium and preferred to support literature, poetry, theater, and art. For many years, film also had the handicap of being a medium that consisted of imports; thus the directors, actors, and actresses were not a part of the new culture that many Zionists were striving to create. At the same time, there was a craving for entertainment, and the cinemas did extremely well. Films were imported from the United States, Europe, and the Soviet Union. One attraction of the foreign films in Tel Aviv, especially after the advent of sound, was the connection that many in the audience felt to the countries they had left behind.
+
+![](images/52c5ba9ceb983ad3a5afbf050f04dbf05997da9684d6f52f40cdde5fe509d585.jpg)  
+Fig. 32.38: A Little Love for You, poster, 1932. Courtesy David Tartakover.
+
+The theaters depended on posters to announce each week's offerings. Initially these posters were printed with traditional Hebrew lettering and posted around Tel Aviv wherever there was an open spot. By the late 192os, theaters had begun to feature images and print their posters in color. Little is known about the artists who did the artwork and lettering for these posters. Names like Eliezer Ettinger (dates unconfirmed), David Gilboa (1910–1976), Israel Hirsch (dates unconfirmed), Gertsovitz, Zaslevsky, and Zeitlin are recognized primarily for their poster designs and imaginative lettering, and the artists do not appear to have participated in the graphic design community. Their posters were printed by the linocut technique, which meant that the drawings were transferred to linoleum surfaces that the artist or a technician cut into, alternating the cutting with successive printings, to produce a multi-toned or multicolored image.
+
+There is no evidence that the Tel Aviv film posters either influenced or were influenced by posters in Cairo, the other center of film activity in the region. There, artists were also creating posters for a sizeable film audience. One difference is that artists in Cairo were promoting Egyptian films rather than foreign ones and their depictions of local actors and actresses helped to create a cadre of domestic stars, while in Tel Aviv, the directors, actors, and actresses were all from abroad. However, artists in Cairo and Tel Aviv both resorted to sensationalism and romantic images to promote their respective films.
+
+More than likely, posters from America and Europe, as well as posters by the Stenberg Brothers in the Soviet Union, influenced the Tel Aviv artists. In that sense, the iconography of Tel Aviv film posters can be sharply distinguished from the images of the new Hebrews" whom Franz Krausz, Rudy Deutsch, Otte Wallish, and other graphic designers depicted on advertising and propaganda posters.The iconography fell into several standard categories: sensational scenes, single or combined portraits of leading actors or actresses, or love scenes. Several posters that Israel Hirsch did for The Captain from Köpenick and Pudovkin's Storm Over Asia are intense portraits intended to dramatize the films through the psychological depth of a single character. The richness of these portraits was rather unusual within the total oeuvre of Tel Aviv film posters, whose other examples tended to be more superficial though nonetheless dramatic. A poster for Max Neufield's film Ein Bischen Liebe fur Dich (A Little Love
+
+Nr.33714 bp2a 12 m\~px0
+
+>.01> 72 7 70 7ュ ,059ユ 0787 > 708ユ 5727 78 .5207 7131722 81> 572771120> m1n9 x57210 70y>b> 78.5210 P
+
+Nr. 33718  16
+
+Nr. 33715 epu 14 mpkb
+
+Nr. 33718 bpa 24 mp
+
+D  D” X
+
+Nr 33717 sp 20 mpN5
+
+nn yx 5 y 70 72
+
+Nr. 33719  28
+
+Nr. 33720  36
+
+Nr. 99721 bp1 48 5m\*p0
+
+Nr. 3872a opb 72 m-72ND
+
+#
+
+H. BERTHOLD AG –
+
+Fig. 32.39: Raphael Frank, Frank-Rühl typeface, 1908. Courtesy The Newberry Library, Chicago, z\_250\_5\_h4\_h4\_1924.
+
+for You) also featured portraits of the lead actors, while at the same time exemplifying the strong colors that the linocut printing process made possible (Fig. 32.38). By the late 193os, color linocut posters were no longer printed. As designer and critic David Tartakover points out, the theater owners organized and standardized their advertising formats, replaced the images with text, reduced the poster size, and shifted to letterpress. Thus ended a distinctive era in Tel Aviv film advertising.
+
+## Hebrew typography
+
+For centuries, Hebrew was the language of religious texts and chanted or sung liturgy. It was spoken in Jerusalem as a common language among Sephardic and Ashkenazi Jews in the early 19th century if not before, but its promotion as the language that would bind Jews in Palestine together did not begin until the late 19th century. Yiddish was the lingua franca of Jews in Eastern Europe, and many Eastern European Jews, who were in the first wave of immigrants, continued to speak it in Palestine. Some of the first Jewish immigrants to Palestine began to speak Hebrew and promote it as a secular written language, but its wider use was instigated in the late 19th century by Eliezer Ben Yehuda (1858-1922), an emigrant to Jerusalem from Lithuania. By 1914, typewriters with Hebrew characters were being sold in Germany by Wanderer-Werke, and by the 193os, Remington, the American typewriter manufacturer, also had a Hebrew machine on the market.
+
+Hebrew usage expanded during the second wave of Jewish immigration, when it was frequently adopted for public meetings and activities, and it received a further impetus after the founding of Tel Aviv, where all public signs and notices were in Hebrew and residents were strongly exhorted to speak the language. Following the British mandate, Hebrew was recognized as one of Palestine's three official languages, along with Arabic and English.
+
+For centuries, the written Hebrew of religious texts bound the widely dispersed Jewish community together, although the Hebrew letterforms were initially influenced by local scribes and then by different type designers and punch cutters. In the isth century, Hebrew script, known as the Ashkenazi style, was influenced by the gothic black letter, resulting in thick Hebrew characters (see Chapter 6). At the end of the 18th century, the Didot and Bodoni faces were models for the design of Hebrew, although neither was a suitable influence since their heavy horizontal and thin vertical strokes resulted in Hebrew type that was difficult to read. This kind of Hebrew letter prevailed throughout the 19th century.
+
+An early example of typographic reform was Frank-Rühl, a typeface that Raphael Frank (dates unconfirmed) designed in 19o8 for the Rühl Schriftgiesserei in Leipzig, which was purchased by the Berthold Foundry in 1918 (Fig. 32.39). Frank-Rühl corrected the extreme horizontal and vertical contrasts of the 19th-century Hebrew type and created more flowing letters with rounded serif strokes. Considered by some to have been influenced by the linear flow of Art Nouveau lettering, Frank-Rühl nonetheless escaped period stylization and became the most widely used Hebrew font in Germany, Palestine, and then Israel for many years.
+
+The Berthold Foundry released a number of Hebrew fonts including Stam, which was a revival of the earlier Ashkenazi style and was designed by Francesca Baruch (19o1-1989), who had studied graphic design and lettering at the Kunstgewerbeschule in Berlin and emigrated to Palestine in 1933. During the 192os, Baruch worked in Berlin for the Schocken Verlag, a Jewish publisher that brought out some Hebrew texts and bilingual texts in German and Hebrew. For the publisher, she designed Schocken-Baruch, which was based on the Sephardic letters of early Italian printers rather than the Ashkenazic sources of Stam. The typefaces of Frank and Baruch represent one of two tendencies in modern Hebrew type design, namely the retention of serifs and the reference to traditional Hebrew letters. However, Frank-Rühl, which has been compared in significance to Stanley Morison's Times
+
+Roman, was not derived directly from historic sources, as were the types that Francesca Baruch designed.
+
+The second tendency is the design of san serif Hebrew alphabets that reject traditional forms. The first ones were based on the avant-garde alphabets of the 192os such as those of De Stijl and the Bauhaus as well as types like Akzidenz Grotesk, the first popular san serif face, which the Berthold Foundry released in 1898, and later san serif faces of the 192os such as Gill Sans and Futura.
+
+Jewish avant-garde artists were experimenting with hand-drawn san serif Hebrew letters in the early 192os as part of the Jewish Renaissance in Eastern Europe, but the publications they designed were in Yiddish. In Palestine, Pesach Irshay created square san serif letters for the title of Avigdor Hameiri's literary magazine, Ha Mahar (Tomorrow), around 1927. He used the letters as well for other projects. Although some religious leaders as well as the newspaper Haaretz attacked him for departing from the traditional calligraphic style, Irshay was also encouraged to continue with his san serif Hebrew lettering. He created the letters for a san serif Hebrew alphabet, which he called Haim after the poet Haim Nachman Bialik, but the drawings were never turned into a typeface.
+
+In 1929 the Polish graphic artist Jan LeWitt (1907–1991) designed a typeface with similar san serif letters, which he also called Haim. LeWitt had visited Tel Aviv in 1927 and stayed for about a year and a half before returning to Warsaw. Thus he may well have known Irshay and would probably have been familiar with his lettering for Ha Mahar and other uses he made of san serif Hebrew letters. LeWitt's typeface consisted of even horizontal and vertical strokes for all the letters and a combination of angles (Fig. 32.40), thus distinguishing it from the more severe rectilinear De Stijl alphabet, which Theo van Doesburg designed.
+
+For a time, Haim was the only Hebrew equivalent of Gill Sans or Futura and was widely used, particularly by commercial artists. It defined a new direction for modern Hebrew typography and led to

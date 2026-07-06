@@ -1,0 +1,1 @@
+G41 Title page. Karl Ernst Osthaus Museum, Hagen. # ALLGEMEINE ELEKTRICITATS GESELLSCHAFT ![](images/52ff4f1bc83525c3fe0f66007aef5a71bb06618ea390b5f33a655b0bbe35619d.jpg) G42 Illustration from p. 13 of 1909 catalog. BOGENLAMPENFABRIK ![](images/30615f1482921b63a60f56798f7e0bcf2b25b0dbdac5bb2e826e6a890ed1739f.jpg)

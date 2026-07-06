@@ -1,0 +1,50 @@
+Johanna Drucker. Against Fiction, page from an artist's book, USA, 1983
+
+CRIMES AGAINST LANGUAgE: EXATC WEDS EXPECTED FROM THE MEAL. & FOLLOWING Sunset's sweet demise, a vanishing single point of reference, the phone jack was disconnected from the wall, hanging by a wire, signs of its past attachment still visible. If I
+
+NEVER LEAvE THE HDUSE AGAIN: Another pseudoreferent. fe found himsolf wanting to eat small animals. The importance of activism was undeniable, motivated him by analogy. He had hiJacked a bus to draw the hard edge of attention to his religion. The firo exchanged across the firing lino was so stiking that it reimbursed his expectations. Rovoaled by mistake in tho loosa torrain, the idea of the missle sito saved lhe Ieader accidentally. All at once tho mass piactice of the bands oveilappod indisciiminate simultanoous tonos and ihythms, finally meiging into a single patlorn. The onormous sound vibiatod like a transatIantic cablo with all the fibers oriontod in the right diroction, thousands of filaments Iwisted into synch around each other. Thoir physical uigos woie an undeistated case, lockod in. What's innate is in fact. Piedetormined: dis place is aet. INITIAL CONCLUSION: Bote bones. Sho came into the room with a gloss in her hond. It was lilled with dned loaves. each one of them taken from a diflerent book. Was that the meanung of Goci's word. The ceiling opened up instead of the skies. Whtlo the light poured in her restlessness played over the suriace ol the loble. Every object placed before her was worth a month's consideration. Money. As if anything were possible, she stil thought tHe lasl essay Hod made no sense A small army could Have marcHed tHrougH tHo space between Her eyes and tHe lloor if sHie'd lot lHem. Under the bandages ol sight a mild flamo bogine to take its toll. The cost of being frightenod is caution a perpotual caution without hoad or tail to broak the shetl on. The case of richos comes to ríchas now thrown out, mozality a matter of admission. What was not promised cannot bo held accountaBto. Anti climactic, not anti-ctimatic. As if all tho vaporous Balanco miGht disappos which envolops, protects, modulatos the surtace layor we depend on. In tho sweet starch of mind there is vision pressod into position. Hold it on tho sczoon for a minute, catch the diatonic ecale of those rolations on display. This could mean anythinG, he kopt complaininG.
+
+# SELF and OTHER Late afternoon melodrama wide open
+
+TO THE AIR BLOWS THE HEAD-STRONG CURTAIN BACK WITH The Breeze. CHASE'S FALL: in the way, the chair trips his backward retreat. ACLLCUL. Bevond circumstances. ss, the partisan experts enter the game. REWARDS ARE A SECOND HAND CLAIM. PERIDDICITY INFECTS AIR CURRENTS WITh A PLAGUE OF SCIENCE, CLEAN AIR Through The Sereon SETS The SCENE. HIS FALL WAS RAPID. HIS CLIMB HAD BEEN STEEP. A MOUNTE BANK WHIMPERING FOR SHELTER IN THE FLAT FACE OF N ATURE. Brutal weather climbed into tho back with him coveiing his shiibwith mist. Tho precipitation of his judgemont kopl falling ovoi him, bieaking along tho advancing front. The murder weapon made too much notse and had to be hidden belund his teoth, upstairs, oul of sight, behind a curtain and beneath sand. Weeping as they searched, terrified with gutlt they held that cold, heovy motal tnside a placid sheath. His cool bluff was so smooth it altd the detoctive riqht through the room, past the whole sweating row of them. But the foar didn'l pass with his going, the threot of reprisal remained with the weapon which they struggledi funousiy to bury deeper, all tho while holding it close, they thought, anxious not to belray their eflorts to conceal it. Meanwhuile she hod tuken the hidoous thing and was carrying it with her, loaded securely. HE BRUSHED PAST HER CHEEK, LIPS LIGHTNING FLASHED HER SKIN. MAKING IT MEANT EONS OF STRUGGLE. HE HAO TO BE PREPAREO FOR STELLAR COLD ANO SOLAR WINO. TO BREATHE THE RITUAL HEAT OF HUMAN CONTACT IN THAT RANDOM INSTANT WAS A COMFORT. THE OLO WAYS. NO ONE WANTED CHARACTERIZATION TO STERILIZE THE SEN SUAL ASPECTS OF THE MATTER INTO INACTIVITY. RE SPONSE WAS EVERYTHING, STILL, PARALYSEO BY OVER-SENSITIVITY HE STARTLED THEIR ENGINE BACK INTO MO. TION. RELYING ON MACHINES WAS OUTDATED AND PRE. POSTEROUS, BUT WHERE WAS THE EOGE TO BE FOUND IF NOT IN - RECONSIDERATION BROKE THROUGH HIS ENTER PRISE WITH THE PRAIRIE FIRE OF CHANGE
+
+not designers in the professional sense of the term, so they were not inhibited by the rules and codes of disciplinary practice, even if they used similar resources and forms. Their primary motivation was the expression of their own content and they taught themselves the techniques needed to articulate this effectively. In the United States, Johanna Drucker combined an academic career as teacher and author of The Visible Word (1994), The Alphabetic Labyrinth (1995) and The Century of Artists' Books (1995) with the production, starting in the early 197os, of a series of experimental books, which she wrote, edited, designed and sometimes illustrated and printed by letterpress. Instead of feeling restricted by the physical limitations of letterpress, Drucker used its characteristics to structure her books and extend the investigation of language in printed form. In Against Fiction (1983), her intention was to deconstruct and subvert the formal conventions of traditional fiction by dismantling the linear mechanism by which it usually functions. Inspired by Peter Eisenman's architecture book House X (1982), each page is a transformation of the preceding page, retaining some of its formal elements and adding or rearranging others. Headlines, subtitles and short paragraphs help to make Drucker's demanding prose more accessible. In The History of the/my Wor(l)d (199o), an autobiographical work printed in letterpress in an edition of 7o copies, Drucker interweaves themes of official history and private memory, using linguistic play, visual puns and typographic experiment. She divides the page into a main text in large letters, interrupted by smaller
+
+51. Not all off ns had fun thut afternoon and tefs hehind ehe cleaned up in the mamner of sole meodele provided and with batterien lmrinded Ior dnce
+
+![](images/f222d2ac73a0550ec53d5aba308c3b627d4b4b626880b80d28ddf061a592cdd3.jpg)
+
+![](images/b61726eca301575643712975c6899a91204280fe72cc03c3206b588dd5c91b2a.jpg)  
+49, Fetish esmosodisy tbe rellslon bere were wusprakabe but fad nomething tn de with danciog.
+
+## ONE CIVIL WAR broke out a rash of conflicts while the
+
+onto the receptive surface of the skin and also marked by scars of pleasure stolen as pain in private lives whose witnesses were bound and gagged to remain iinmutably
+
+# machines bred for the business took over everywhere in the landscape and on film.
+
+![](images/b4c3c10008bf4346e48250550277d3e81b1ec486375e43d6df46d5007234bdc0.jpg)
+
+complicit and anonymous.
+
+Johanna Drucker. The History of the|my World, spread from an artist's book, USA, 1990
+
+CITIES SPOKE to the face of the factories which dominated the metaphoric skyline with the blue and hopeless smoke of industrial dreams. Little children
+
+![](images/1f55fa17965ba39e573ff8bc7c5277827184a2a63414abedd821698f56529ca1.jpg)
+
+caption-like texts in red and found photo-engravings of glamorous women, majorettes, tools, machinery and articles of apparel. Drucker explains the book's theoretical premise:
+
+'The main narrative line offers a feminist critique of history and memory. The smaller, more intimate red-printed line which constantly erupts through it is the force of personal memory taking issue with Lacanian-influenced feminist theory in its assignment of a masculine and exclusively patriarchal role to language. The premise of this work was that there was no world, only the knowing of it in and through language, and that the knowing of one's self was parallel to this, a construction of and in language through its acquisition.'9
+
+Warren Lehrer, another important American book artist, studied painting at the City University of New York, where he first began to combine letterforms and words with hand-drawn marks and discovered concrete poetry, the collages of Kurt Schwitters and the books of Diter Rot. Believing that graphic design meant 'avant-garde research into visual literature', Lehrer enrolled at Yale University to study graphic design, though soon found himself at odds with the prevailing corporate ethos.2o His first book, Versations (198o), is a typographically expressive, music score-like transcription in three languages – English, French and Chinese - of conversations he had tape-recorded. In French Fries (1984), written with Dennis Bernstein and published in an edition of 1,ooo copies, Lehrer created a fiction of great visual complexity in which dozens of typefaces, images and shapes, and hundreds of screen tints build up
+
+Warren Lehrer. French Fries, spreads from an artist's book, USA, 1984
+
+![](images/ce34b670c3e88abf9e570f0533ee5630aeb1859866f4ec644115eb4149000aca.jpg)
+
+![](images/27241a867f72869d6d673ab6932bc928f2346290211e1d7a5482e2ed8a8d35bc.jpg)
+
+to form densely layered compositions of immense energy. The story, originally performed as a play, is set in a Dream Queen fast-food restaurant after a murder has taken place and the cast of characters includes a manager, a cashier, four customers and many others, all babbling away in their own voices represented by Univers, Bembo, Helvetica, Kabel, Century Schoolbook, Clarendon, Bodoni, Cooper Black, Futura, and other faces. Other kinds of sound such as a blaring radio, a juke box and people talking on the phone are also expressed graphically.
+
+As one reviewer noted, books such as French Fries challenge readers to explore the act of reading: to break with the usual linear pattern, vary the pace, look back at earlier passages, or skip ahead.²í Lehrer's typographic experiments anticipated new directions in 199os graphic design by several years. With his 'Portrait Series',

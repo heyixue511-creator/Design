@@ -1,0 +1,1 @@
+# Posters A Concise History ## John Barnicoat 273 illustrations, 72 in colour ![](images/8e31f19b6edfd281f7c5932c176fcf3e5f2a76f3b1787df21594f7bf5efb7427.jpg) Thames and Hudson

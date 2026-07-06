@@ -1,0 +1,37 @@
+# ‘The Public’ in Japan Kaori Hayashi
+
+Keywords Confucianism, the Emperor, Japan, private, public
+
+F<sup>or</sup> <sup>Habermas</sup> <sup>(1989),</sup> <sup>the</sup> <sup>public</sup> <sup>sphere</sup> <sup>was</sup>seen as arising out of the collective interest seen as arising out of the collective interest of private individuals. This way of thinking led to the assumption common in Western thought, that the independence of the public domain is dependent on the freedom of the private domain (Maruyama, 1974: 103). Hence the public domain has the meaning for private individuals of being ‘ours’ and nobody else’s. The Japanese notion of public stands in sharp contrast to this conception found in the West.
+
+The word ‘public’ is often translated as kou ( ) or kookyo¯ ( ) in Japanese. But this use produces some problems. Kou ( ), which is also read as o¯yake ( ) (written as the same Chinese character), derives etymologically from a word meaning ‘great residence’ and then took the meaning of ‘the master’ at a later date in pre-modern Japan. The word watakushi ( ) which translates as the English ‘private’, as opposed to ‘public’, means, among other things, the first person singular ‘I’ as well as a subordinate of an o¯yake ( ) master. Thus, in Japanese, the word ‘public interest’ designated (and still more or less does) something like ‘the master’s interest’ (Mizubayashi, 1996: 115). It was only with the Meiji Era modernization after 1868 that the European sense of public was introduced into Japanese academic and intellectual life. But its use in this sense in common daily conversation was (and still is) rather rare. Overall, the conventional understanding of ‘public’ is still dominant, in which the public domain belongs to ‘them’ (the masters), and not ‘us’ in the way they thought in the West.
+
+In addition, an ethical judgmental connotation was added to the word ‘private’ and ‘public’ due to the principles and wisdom based upon Confucianism that dominated the samurai class during its reign. Among the various interpretations of Confucianism, the Chu Hsi School was most accepted throughout the intellectual world of the Tokugawa period (1603–1867). One of Japan’s leading political scientists, Masao Maruyama, elaborates on this point:
+
+‘Public’ is synonymous with the principles of heaven, and ‘private’ with human desires . . .
+
+Hence a ‘private’ matter is an evil that must be rejected. The Chu Hsi scholars of the early Tokugawa period faithfully followed this interpretation. Hayashi Razan, for example, argued that ‘a benevolent man is a person who has eliminated selfish desires and has adhered to the public good based on the principles of Heaven. Public good based on the principles of Heaven means righteousness . . . This is the path that is natural and does not involve private considerations.’ (Maruyama, 1974: 104–5)
+
+In Japanese, then, there remains the connotation of being fair and just per se in the word ‘public and the public belongs to the master, or Heaven (and thus it is above criticism), whereas the private contains evil, redundant, and private concerns which must not be sustained in the public realm. It tends to be regarded as dishonorable to adhere to one’s own ‘private’ codes.
+
+Under these semantic conditions, the interactions of individuals in almost every social situation have tended to be perceived in terms of this hierarchy of their ‘private ( )’ (subordinate) and ‘public’ (master) aspects. This mechanism is as follows: ‘watakushi ( )’, a private person, is subordinate to his/her public master ‘o¯yake ( )’, but he/she, in turn, is also ‘o¯yake ( )’ vis-à-vis his/her own subordinates. It means also that the obligations a person owes to his/her master are something public, and thus have priority over one’s private concerns and feelings (Aruga, 1967: 229–34). In such a social context, little space has been left for an individual to pursue his/her subjective autonomy, conduct critical debate with others, and make his/her own judgments.
+
+This interpretation has given the word public the strong denotation of ‘official’ or the authority for one to serve at a later date. Though a similar meaning of public exists in the West as well, the situation is slightly different in Japan in that it lacks the experience of bourgeois society that protected the autonomy of privacy from state authority. In Europe, autonomy was justified among the bourgeoisie ‘precisely in reference to the concept of free power of control over property that functioned in capitalist fashion’ (Habermas, 1989: 74).
+
+It should also be stated that this Confucian way of understanding the public and private has secured the traditional Japanese social structure. After the Meiji Restoration, by placing the imperial rule at the top as the public and equating it with the notion of ‘Heaven’, the endless obedience of the supreme imperial rule was imposed through the chain of the public and private that permeated society. At the top of the hierarchy was the heavenly imperial seat, and there at the top the chains of the public and private from all the social strata converged and enforced the integration of the nation.
+
+The Emperor continued to take this integrative position even after World War II, because the postwar Constitution stipulated that the Emperor was a ‘symbol of the nation’. Therefore, even in the post-war democracy there remains ‘a dualism of “public (official)–state–governmental authority” (setting the emperor at the top) and “private–individual–civil”’ (Hanada, 1997: 19). And this is one reason why misunderstanding arises when we discuss the public sphere in Japan. In Japanese society, the public and private are construed as a ‘twisted double structure’. Hanada ascribes various problems of the public sphere in present Japan to this structure. He cites N. Yasunaga’s argument that the state, in trying to deny the private entity of individuals in the name of the public (official), actually cultivates (in a contradictory fashion) the private entity in a hidden way. Hanada concludes that under the dominance of such a twisted double structure, the construction of the public sphere in the normative sense would be extremely difficult (Hanada, 1997: 19).
+
+## References
+
+Aruga, Kizaemon (1967) Houkensei to Kindaika: Aruga Kizaemon Chosakushu IV (Feudalism and Modernization: Collected Writings, vol. 4). Tokyo: Miraisha.
+
+Habermas, Jürgen (1989) The Structural Transformation of the Public Sphere: An Inquiry into a Category of Bourgeois Society. Cambridge, MA: MIT Press.
+
+Hanada, Tatsuro (1997) ‘Can There Be a Public Sphere in Japan?’, Review of Media, Information and Society 2: 1–23.
+
+Maruyama, Masao (1974) Studies in the Intellectual History of Tokugawa Japan (trans. Mikiso Hane). Tokyo: University of Tokyo Press.
+
+Mizubayashi, Takeshi (1996) ‘Waga Kuni Ni Okeru “Kôshi” Kannenn No Rekishiteki Tenkai’, in Nihonshi Ni Okeru Kô to Shi: Rekishi to Hôhô. Tokyo: Aokishoten (‘The Historical Evolution of the Concept of “Public–Private” (Kou–Shi) in Japan’, in Public–Private in Japanese History (History and Method 1).
+
+Kaori Hayashi is Associate Professor of the Graduate School of Interfaculty Initiative in Information Studies, the University of Tokyo. Her English publications include ‘The “Home and Family Section” in Japanese Newspapers’, in John Tulloch and Colin Sparks (eds) Tabloid Tales; and ‘Reflections on Japan’s Public Sphere and Journalism from a Historical Perspective’, Review of Media, Information and Society, 4: 89–114.

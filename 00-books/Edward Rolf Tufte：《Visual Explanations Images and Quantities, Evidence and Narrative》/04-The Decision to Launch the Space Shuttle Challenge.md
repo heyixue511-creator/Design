@@ -1,0 +1,81 @@
+## The Decision to Launch the Space Shuttle Challenger
+
+ON January 28, 1986, the space shuttle Challenger exploded and seven astronauts died because two rubber O-rings leaked.²² These rings had lost their resiliency because the shuttle was launched on a very cold day. Ambient temperatures were in the low 3os and the O-rings themselves were much colder, less than 20°F.
+
+One day before the flight, the predicted temperature for the launch was 26° to 29°. Concerned that the rings would not seal at such a cold temperature, the engineers who designed the rocket opposed launching Challenger the next day. Their misgivings derived from several sources: a history of O-ring damage during previous cool-weather launches of the shuttle, the physics of resiliency (which declines exponentially with cooling), and experimental data.23 Presented in 13 charts, this evidence was faxed to NAsA, the government agency responsible for the flight. A high-level NAsA official responded that he was “appalled" by the recommendation not to launch and indicated that the rocket-maker, Morton Thiokol, should reconsider, even though this was Thiokol's only no-launch recommendation in 12 years.24Other NAsA officials pointed out serious weaknesses in the charts. Reassessing the situation after these skeptical responses, the Thiokol managers changed their minds and decided that they now favored launching the next day. They said the evidence presented by the engineers was inconclusive, that cool temperatures were not linked to O-ring problems.²⁵
+
+Thus the exact cause of the accident was intensely debated during the evening before the launch. That is, for hours, the rocket engineers and managers considered the question: Will the rubber O-rings fail catastrophically tomorrow because of the cold weather? These discussions concluded at midnight with the decision to go ahead. That morning, the Challenger blew up 73 seconds after its rockets were ignited.
+
+TíE immediate cause of the accident—an O-ring failure—was quickly obvious (see the photographs at left). But what are the general causes, the lessons of the accident? And what is the meaning of Challenger? Here we encounter diverse and divergent interpretations, as the facts of the accident are reworked into moral narratives.2⁶ These allegories regularly advance claims for the special relevance of a distinct analytic approach or school of thought: if only the engineers and managers had the skills of field X, the argument implies, this terrible thing would not have happened. Or, further, the insights of X identify the deep causes of the failure. Thus, in management schools, the accident serves as a case study for reflections about groupthink, technical decision-making in the face of political pressure, and bureaucratic failures to communicate. For the authors of engineering textbooks and for the physicist Richard Feynman, the Challenger accident simply confirmed what they already
+
+22 My sources are the five-volume Report of the Presidential Commission on the Space Shuttle Challenger Accident (Washington, DC, 1986) hereafter cited as PCSSCA; Committee on Science and Technology House of Representatives, Investigation of the Challenger Accident (Washington, DC, 1986); Richard P. Feynman, "What Do You Care What Other People Think?" Further Adventures of a Curious Character (New York, 1988); Richard S. Lewis, Challenger: The Final Voyage (New York, 1988); Frederick Lighthall, "Launching the Space Shuttle Challenger: Disciplinary Deficiencies in the Analysis of Engineering Data,"IEEE Transactions on Engineering Management, 38 (February 1991), pp. 63–74; and Diane Vaughan, The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA (Chicago, 1996). The text accompanying the images at left is based on PCSSCA, volume I, pp. 6–9, 19–32, 52, 6o. Illustrations of shuttle at upper left by Weilin Wu and Edward Tufte.
+
+23 PCSSCA, volume I, pp. 82–113.
+
+24 PCSSCA, volume I, p. 107.
+
+25 PCSSCA, volume I, p. 108.
+
+26 Various interpretations of the accident include PCSSCA, which argues several views; James L. Adams, Flying Buttresses, Entropy, and O-Rings: The World of an Engineer (Cambridge, Massachusetts, 1991); Michael McConnell, Challenger: A Major Malfunction (New York, 1987); Committee on Shuttle Criticality Review and Hazard Analysis Audit, Post-Challenger Evaluation of Space Shuttle Risk Assessment and Management (Washington, DC, 1988); Siddhartha R. Dalal, Edward B. Fowlkes, and Bruce Hoadley, "Risk Analysis of the Space Shuttle: Pre-Challenger Prediction of Failure," Journal of the American Statistical Association, 84 (December 1989), pp. 945–957; Claus Jensen, No Downlink (New York, 1996); and, cited above in note 22, the House Committee Report, the thorough account of Vaughan, Feynman's book, and Lighthall's insightful article.
+
+knew: awful consequences result when heroic engineers are ignored by villainous administrators. In the field of statistics, the accident is evoked to demonstrate the importance of risk assessment, data graphs, fitting models to data, and requiring students of engineering to attend classes in statistics. For sociologists, the accident is a symptom of structural history, bureaucracy, and conformity to organizational norms. Taken in small doses, the assorted interpretations of the launch decision are plausible and rarely mutually exclusive. But when all these accounts are considered together, the accident appears thoroughly overdetermined. It is hard to reconcile the sense of inevitable disaster embodied in the cumulated literature of post-accident hindsight with the experiences of the first 24 shuttle launches, which were distinctly successful.
+
+REG ARD LES s of the indirect cultural causes of the accident, there was a clear proximate cause: an inability to assess the link between cool temperature and O-ring damage on earlier flights. Such a pre-launch analysis would have revealed that this flight was at considerable risk.²7
+
+On the day before the launch of Challenger, the rocket engineers and managers needed a quick, smart analysis of evidence about the threat of cold to the O-rings, as well as an effective presentation of evidence in order to convince NAsA officials not to launch. Engineers at Thiokol prepared 13 charts to make the case that the Challenger should not be launched the next day, given the forecast of very chilly weather.28 Drawn up in a few hours, the charts were faxed to NAsA and discussed in two long telephone conferences between Thiokol and NAsA on the night before the launch. The charts were unconvincing; the arguments against the launch failed; the Challenger blew up.
+
+These charts have weaknesses. First, the title-chart (at right, where “sRm" means Solid Rocket Motor), like the other displays, does not provide the names of the people who prepared the material. All too often, such documentation is absent from corporate and government reports. Public, named authorship indicates responsibility, both to the immediate audience and for the long-term record. Readers can follow up and communicate with a named source. Readers can also recall what they know about the author's reputation and credibility. And so even a title-chart, if it lacks appropriate documentation, might well provoke some doubts about the evidence to come.
+
+The second chart (top right) goes directly to the immediate threat to the shuttle by showing the history of eroded O-rings on launches prior to the Challenger. This varying damage, some serious but none catastrophic, was found by examining the O-rings from rocket casings retrieved for re-use. Describing the historical distribution of the effect endangering the Challenger, the chart does not provide data about the possible cause, temperature. Another impediment to understanding is that the same rocket has three different names: a NAsA number (61A LH),
+
+27 The commission investigating the accident concluded: "A careful analysis of the fight history of O-ring performance would have revealed the correlation of O-ring damage and low temperature. Neither NAsA nor Thiokol carried out such an analysis; consequently, they were unprepared to properly evaluate the risks of launching the 51-L [Challenger] mission in conditions more extreme than they had encountered before." PCSSCA, volume I, p. 148. Similarly, "the decision to launch sTs 51-L was based on a faulty engineering analysis of the sRm field joint seal behavior," House Committee on Science and Technology, Investigation of the Challenger Accident, p. 10. Lighthall, "Launching the Space Shuttle," reaches a similar conclusion.
+
+TEMPERATURE CONCERNON
+
+SRM JOINTS
+
+27 JAN 1986
+
+HISTORY OF O-RING DAMAGE ON SRM FIELD JOINTS
+<table><tr><td colspan="8">17&quot; HISTORT UF U-RING DRMAGE UN SRM FIELD JUINTS</td></tr><tr><td></td><td colspan="4">Cross Sectional View</td><td colspan="2">Top View</td></tr><tr><td>APT</td><td>SRM</td><td>Erosion Depth</td><td>Perimeter Affected</td><td>Nominal Dia. (in.)</td><td>Length Of Max Érosion</td><td>Total Heat Affected Length</td><td>Clocking Location (deg)</td></tr><tr><td>818</td><td>No.</td><td>(in.)</td><td>(deg)</td><td></td><td>(in.)</td><td>(in.)</td><td></td></tr><tr><td>61A LH Center Field** 61A LH CSNTER FIELD*</td><td>32A</td><td>None NONE</td><td>None NONE</td><td>8:288</td><td>None NONE</td><td>None NONE</td><td>36--66 338°-18°</td></tr><tr><td></td><td>15A</td><td>0.010</td><td>154.0</td><td>0.280</td><td>4.25</td><td>5.25</td><td>163</td></tr><tr><td>51C RH Center Field (prim)***</td><td>15B</td><td>0.038</td><td>130.0</td><td>0.280</td><td>12.50</td><td>58.75</td><td>354</td></tr><tr><td>y (51C RH Center Field (sec)***</td><td>158</td><td>None</td><td>45.0</td><td>0.280</td><td>None</td><td>29.50</td><td>354</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>41D RH Forward Field</td><td>138</td><td>0.028 None</td><td>110.0 None</td><td>0.280 0.280</td><td>3.00 None</td><td>None None</td><td>275</td></tr><tr><td>41C LH Aft Field* 418 LH Forward Field</td><td>11A 10A</td><td>0.040</td><td>217.0</td><td>0.280</td><td>3.00</td><td>14.50</td><td>351</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>小 STS-2 RH Aft Field</td><td>28</td><td>0.053</td><td>116.0</td><td>0.280</td><td></td><td></td><td>90</td></tr></table>
+
+\*\*Soot behind primary O-ring. \*Hot s path detected in putty. Indication of heat on O-ring, but no damage.  
+\*\*\*Soot behind primary O-ring, heat affected secondary 0O-ring.  
+Clocking location of leak check port - 0 deg.  
+OTHER SRM-15 FIELD JOINTS HAD NO BLOHHOLES IN PUTTY AND NO SOOT  
+NEAR OR BEYOND THE PRIMARY O-RING.  
+SRM-22 FORWARD FIELD JOINT HAD PUTTY PATH TO PRIMARY O-RING, BUT NO O-RING EROSION AND NO SOOT BLOWBY. OTHER SRM-22 FIELD JOINTS HAD NO BLOWHOLES IN PUTTY.
+
+Thiokol's number (sRm no. 22A), and launch date (handwritten in the margin above). For O-ring damage, six types of description (erosion, soot, depth, location, extent, view) break the evidence up into stupefying fragments. An overall index summarizing the damage is needed. This chart quietly begins to define the scope of the analysis: a handful of previous flights that experienced O-ring problems.²9
+
+The next chart (below left) describes how erosion in the primary O-ring interacts with its back-up, the secondary O-ring. Then two drawings (below right) make an effective visual comparison to show how rotation of the field joint degrades the O-ring seal. This vital effect, however, is not linked to the potential cause; indeed, neither chart appraises the phenomena described in relation to temperature.
+
+0 EROSION PENETRATION OF PRIMARY SEAL REQUIRES RELIABLE SECONDARY SEAL FOR PRESSURE INTEGRITY
+
+0 (170-330 MS) REDUCED PROBABILITY OF RELIABLE SECONDARY SEAL
+
+0 (330-600 MS) HIGH PROBABILITY OF NO SECONDARY SEAL. CAPABILITY
+
+0 IF EROSION PENETRATES PRIMARY O-RING SEAL - HIGH PROBABILITY OF NO SECONDARY SEAL CAPABILITY
+
+O BENCH TESTING SHOWED O-RING NOT CAPABLE OF MAINTAINING CONTACT WITH METAL PARTS GAP OPENING RATE TO MEOP
+
+BENCH TESTING SHOWED CAPABILITY TO MAINTAIN O-RING CONTACT DURING INITIAL PHASE (0-170 MS) OF TRANSIENT
+
+29 This chart does not report an incident of field-joint erosion on sTs 61-C. launched two weeks before the Challenger, data which appear to have been available prior to the Challenger prelaunch meeting (see PCSSCA, volume II, p. H-3). The damage chart is typewritten, indicating that it was prepared for an earlier presentation before being included in the final 13; handwritten charts were prepared the night before the Challenger was launched.
+
+![](images/a89eccd1dfab82f47d14aada26a8c7813fd8e77aaa2258c992e8bc7b556e2064.jpg)
+
+<table><tr><td>BLOW BY HiSTORY SRm-15 WORST BLOW-BY</td><td></td><td></td><td></td><td>HISTORY OF O-RING (DEGREES-F)</td><td>TEMPERATURES</td></tr><tr><td>0 2 CASE JONTS (80*), (110°) ARC</td><td></td><td>mOTOR</td><td>mBT AMB</td><td>O-RING</td><td>WIND</td></tr><tr><td></td><td>0 MUCH WORSE ViSUALLY THAN SRM-22</td><td>0m-4</td><td>68</td><td>36</td><td>47 10 mPH</td></tr><tr><td></td><td></td><td>Dm-2</td><td>76</td><td>45</td><td>52 10 mPH</td></tr><tr><td>SRM 22 BLOW-BY</td><td></td><td>Qm-3</td><td>72.5</td><td>40 48</td><td>10 mPH</td></tr><tr><td>0 2 CASE JOINTS (30-40°)</td><td></td><td>Qm-4</td><td>76</td><td>48</td><td>51 10 m PH</td></tr><tr><td></td><td></td><td>SRm-15</td><td>52</td><td>64</td><td>53 10 mPH</td></tr><tr><td>SRM-139g 15, 16A, 18, 23A 24A</td><td></td><td>SRm-22</td><td>77</td><td>78</td><td>75 10 mPH</td></tr><tr><td>0 NOZZLE BLOW-BY</td><td></td><td>sRm-25</td><td>55</td><td>26</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>29 27</td><td>10 mpH 2s mPH</td></tr></table>
+
+Two charts further narrowed the evidence. Above left, “Blow-By History" mentions the two previous launches, sRM 15 and sRm 22, in which soot (blow-by) was detected in the field joints upon postlaunch examination. This information, however, was already reported in the more detailed damage table that followed the title chart.³o The bottom two lines refer to nozzle blow-by, an issue not relevant to launching the Challenger in cold weather.³1
+
+Although not shown in the blow-by chart, temperature is part of the analysis: sRM 15 had substantial O-ring damage and also was the coldest launch to date (at 53° on January 24, 1985, almost one year before the Challenger). This argument by analogy, made by those opposed to launching the Challenger the next morning, is reasonable, relevant, and weak. With only one case as evidence, it is usually quite difficult to make a credible statement about cause and effect.
+
+If one case isn't enough, why not look at two? And so the parade of anecdotes continued. By linking the blow-by chart (above left) to the temperature chart (above right), those who favored launching the Challenger spotted a weakness in the argument. While it was true that the blow-by on sRm 15 was on a cool day, the blow-by on sRm 22 was on a warm day at a temperature of 75° (temperature chart, second column from the right). One engineer said, “We had blow-by on the hottest motor [rocket] and on the coldest motor. 32 The superlative “-est" is an extreme characterization of these thin data, since the total number of launches under consideration here is exactly two.
+
+With its focus on blow-by rather than the more common erosion, the chart of blow-by history invited the rhetorically devastating—for those opposed to the launch—comparison of sRM 15 and sRm 22. In fact, as the blow-by chart suggests, the two flights profoundly differed: the 53° launch probably barely survived with significant erosion of the primary and secondary O-rings on both rockets as well as blow-by; whereas the 75° launch had no erosion and only blow-by.
+
+30 On the blow-by chart, the numbers 80°, 110°, 30°, and 40° refer to the arc covered by blow-by on the 36o° of the field (called here the “case") joint.
+
+31 Following the blow-by chart were four displays, omitted here, that showed experimental and subscale test data on the O-rings. See PCSSCA, volume Iv, pp. 664-673.

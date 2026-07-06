@@ -1,0 +1,103 @@
+# ILLUSTRATIONS
+
+1. Wampanoag/Algonkian. Basket. Field's Point, RI, c.1676. page 15
+
+2. Samuel Malkin, slipware dish, c.1730. page   
+23
+
+3. The Wedgwood Slave Medallion of 1787. page 34
+
+4. Candelabrum and gas chandeliers. page 57
+
+5. John Ruskin, The Nature of Gothic. A Chapter of the Stones of Venice. page 65
+
+6. Workers installing engines on Ford Model T assembly line at Highland Park Plant, 1913. page 73
+
+7. Bedroom by Eugène Gaillard for the Pavilion de l'Art Nouveau Bing in 1977. page 77
+
+8. Peter Behrens, turbine factory for the AEG, Huttenstraße, Berlin, 1909. page 105
+
+9. Peter Behrens, Electric tea-kettle for the AEG, 1910. page 106
+
+10. Charles-Edouard Jeanneret, page from carnet bleu, c.1912–14. page 111
+
+11. (Left) Ceiling light by Wilhelm Wagenfeld, 1912. (Right) Adjustable ceiling light by Marianne Brandt, 1927. page 116
+
+12. The Chrysler Airflow next to a Union Pacific 'Streamline Express' train. American, 1934. page 123
+
+13. Egmont Arens and Theodore C. Brookhart, 'Streamliner', Mear Slicer. Aluminum, steel and rubber. Anerican, designed in 1940. Made from 1944 by Hobart Manufacturing Company. page 124
+
+14. Four dressing-tables from the second Utility Furniture Catalogue published in June 1947: (top left) Cotswold Range; (top right) Cotswold Range; (bottom left) Chiltern Range; (bottom right) Chiltern Range. page 139
+
+15. The view of the Festival of Britain's South Bank from the entrances. page 144
+
+16. Examples of the festival pattern group's crystal designs. page 148
+
+17. Appliances evolved from big boxes in the kitchen to efficient square-edged, laboratory-like objects to assertive built-ins, before disappearing into an overall decorating scheme. page 155
+
+18. Space-saving kirchen units. page 160
+
+19. View of the Las Vegas strip, c.1970. page   
+180
+
+20. Leopard from the Genial Design of the 80s exhibition at the IDZ Berlin in 1983. page 185
+
+21. Allen Hori,American(Designer), Typography as Discourse, 1988. Offset lithograph poster. page 195
+
+22. Magazine cover, NYQ, designed by Vincent Gagliostro, New York, 1991. page 198
+
+23. Original photograph for Juicy Salif packaging. page 200
+
+24. Batty-rider. page 210
+
+25. Perch or reclining structure to be used in classrooms in addition to regular chairs. This provides eight more positions for restless children. Several additional photographs showing the chair in alternate positions and uses may be found in the collections of the Victor Papanek Estate. page 233
+
+26. An all-plastic dining room, 1963. page 237
+
+27. 'Design History's Field of Research: Production-consumption Model.' page 282
+
+28. '1946 Vespa,' in Dick Hebdige, 'Object as Image: The Italian Scooter Cycle.' page 308
+
+29. 'Un Mondo di sogni si schiude in vetrina' (A world of drears is revealed in the shopwindow).' page 311
+
+30. 'Percentage of total sample mentioning at least one special object in each category (N = 315).' page 316
+
+31. 'Proportion of respondents mentioning various classes and categories of meaning for cherishing special objects (N = 315).' page 320
+
+32. 'Distribution and percentages of meaning classes making up the object categories.'page 321
+
+33. Sewing Case, ca. 1830. Hancock Massachusetts. Cherry and pine with wrought iron and brass. page 337
+
+34. Sofa Compact (1954) with rugs, blankets and cushion. Living room, Eames House, 1983. page 361
+
+35. Moulded plywood chairs for children,   
+1945. page 363
+
+36. Time-Life chair and walnut stool, 1960. page 365
+
+37. We Three Troddles, 6d novel cover, 1902. page 371
+
+38. Table demonstrating the relationship between 'signifier', 'signified' and 'sign'. page 396
+
+39. 'La nouvelle Citroën' (The New Citroën'). page 398
+
+40. Variants of the dominant taste. Analysis of correspondences: simplified plane diagram of 1st and 3rd axes of inertia. page 404
+
+41. 'Brownie Wise, vice president and general manager of THP [Tupperware Home Parties], demonstrates the power of charismatic dealership as she throws a liquid-filled Wonder Bowl provocatively across the room at a crowded Tupperware party, ca. 1952.' page 410
+
+42. Sponsor Negro Issue(9 October 1961). page 417
+
+43. Front cover of Rhoda and Agnes Garrett, Suggestions for House Decoration in Painting. Woodwork and Furniture (1876). page 442
+
+44. 'View of Drawing-Room' from Suggestions for House Decoration. page 444
+
+45. Stanisław Witkiewicz, with a model of the 'House Under the Firs', 1896. He is on the left of this group of Górale craftsmen. page 473
+
+46. Furniture at the Melbourne Exhibition by Messrs. W. H. Rocke & Co., Cabinet Maker and Art Furnisher, May 2 1881. page 479
+
+47. Kaō soap advertisement, source unknown,   
+1894. Tokyo, Kao Corporation. page 486
+
+48. Kanamaru Shigene, photographer, Kaō soap adverrisement launching the 'New and lmproved Kað' campaign (Shins Ka), run in all major Japanese newspapers. March 1931. page 489 49. Romanian man wearing a counterfeit Nike jacket. page 503
+
+50. Close-up of the grave outside Camp Perrin, Haiti. page 505

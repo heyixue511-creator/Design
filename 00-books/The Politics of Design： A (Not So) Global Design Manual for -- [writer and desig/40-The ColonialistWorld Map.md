@@ -1,0 +1,11 @@
+# The Colonialist World Map
+
+![](images/23f4d82928c26181a3c74e6343ae381b13245173e4b7f463978c9c109d6ff6ad.jpg)
+
+<sub>Having</sub> <sub>been</sub> <sub>labelled</sub> <sub>‘colonial’,</sub> <sub>‘evil’,</sub> <sub>and</sub> <sub>‘false’,</sub> <sub>the</sub> <sub>Mercator</sub> <sub>map</sub> <sub>is</sub> <sub>a</sub>Mercator 1569 monstrosity that just won’t go away. It was probably used in your geography class, and it is the standard projection for Google maps, Bing maps, and Apple maps. The Mercator map was drawn in 1569 by the cartographer Gerardus Mercator for nautical purposes, using compass directions as straight lines. This stretches the northern and southern poles upward, making Africa and South America appear too small. Australia looks smaller than Greenland but is actually more than three times as large.<sup>3</sup> The Mercator map gives us a sixteenth century world view because it shows Europe larger, and the colonised countries smaller. Arno Peters criticised it in 1973 by saying, ‘it over-values the white man and distorts the picture of the world to the advantage of the colonial masters of the time.’ You should not use the Mercator map unless you have no other choice.
+
+# The Safest Choice World Map
+
+![](images/c3d6ffafa48b3bd71bdc4e4962e7efcaeef579713aaf17fd61343f12946cdafa.jpg)
+
+A world map is a projection of a three-dimensional space on a flatWinkel Tripel 1921 Fuller Dymaxion 1943plane. These either distort the distance, direction, or area size, and mapmakers have to choose which they find the most important. Some maps are better for compass direction, and some show a more accurate area size. The Winkel Tripel is a world map created in 1921 by the German cartographer Oswald Winkel, who tried to minimise the distortion of all three properties, hence the name Winkel Tripel (or Winkel III). It was fairly obscure until 1998, when the National Geographic Society announced that the Winkel Tripel was to be the preferred projection. Since then many schoolbooks and educational institutes have followed suit. The Winkel Tripel still has some distortion on the North and South poles, but it does a better job than many others. For an accurate depiction of the world, the Winkel Tripel projection is a safe choice.

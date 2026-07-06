@@ -1,0 +1,1 @@
+INTHE BUBBLE DESIGNING IN A COMPLEX WORLD ![](images/aab47907bca8a7edf7da64e7d86bf92ae05e185e938e01e55d2a4a6662c98481.jpg) # JOHNTHACKARA "I eagerly devoured every last page of John Thackara's lofty, captivating book." —Bruce Sterling, author of The Hacker Crackdown and Tomorrow Now: Envisioning the Next Fifty Years

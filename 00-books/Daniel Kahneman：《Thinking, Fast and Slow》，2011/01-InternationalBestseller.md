@@ -1,0 +1,1 @@
+—Yuswohady, Managing Partner Inventure # International Bestseller # THINKING, FAST AND SLOW DANIEL KAHNEMAN Peraih Hadiah Nobel Bidang Ekonomi

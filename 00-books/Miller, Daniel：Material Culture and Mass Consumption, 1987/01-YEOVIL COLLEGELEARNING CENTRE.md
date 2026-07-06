@@ -1,0 +1,1 @@
+# YEOVIL COLLEGE LEARNING CENTRE TO BE RETURNED OR RENEWED BY THE DATE LAST STAMPED BELOW Tel.01935 845450 # WITHDRAWN # FROMLIRRARY Digitized bythe Internet Archive in 2023 with funding from Kahle/Austin Foundation Material Culture and Mass Consumption

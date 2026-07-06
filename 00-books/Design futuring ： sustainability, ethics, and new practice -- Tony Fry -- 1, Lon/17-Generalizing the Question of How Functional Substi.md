@@ -1,0 +1,30 @@
+## Generalizing the Question of How
+
+Design for elimination cannot be based on a nice, neat checklist. Action is too dependent on the spccifics of the analysis of what is to be eliminated, the contextual situation and available resources. So said, there are some general approaches that can be 'keyworded' and reviewed to take the thinking forward, these are: erasure of 'need' by exposing it as a fabricated want; functional substitution; product multipurposing; dematerialization and rematerialization; symbolic devaluation and the destruction of sign value; and prohibition.
+
+## Erasure of 'Need' by Exposing It as a Fabricated Want
+
+'Needs' are created within thc cultural world in which we as individuals come into being \~ our habitus. Thc power of this structuring can be sufficient to overpower biological urges (for instance, in spite of the instinct of self preservation people die for causes, the incest taboo carries great sexually repressive force and the starving seldom resort to cannibalism). In contrast, wants' arrive throughout our lives as the world passes before us in all its natural, televisualizcd and commodified forms. We fill our minds, homes, leisure time, garages, vacations, social and sexual relations with wants. So many of thcse wants we take to be needs – the big house, the fast car, the plasma screen TV, fine wines, the pearl necklace, the designer suit - up and down the socio-economic scale, such lists are the stuff of dreams and indebtedness. Sustain-ability has to be a means to make a rift appear between wants and needs. A simple way of life has to be brolen free of the mantle of Puritanism - the ethical imperative, the pleasure and virtue of 'living a simple and moderate life' begs being seen as the normative modcl of all human being toward the futurel– it is the only way wc can continue to be! Social justice has slid from idealism to necessity.
+
+## Functional Substitution
+
+This elimination process centres on the displacement of high impact technology by low impact technology, as with the example above of substituting a motor by a push mower. The resurgence of pedal power (be it servo-assisted and applied to load carrying commercial tricycles) is another example. There is great deal of dcsign potential in reconceptualizing existing, past and forgottcn technologies. The basic question to bring to this challengc, bc it in the workplace, kitchen, laundry, garden, or transport related, is obviously 'what can I, as a user/designer, find or conceive of, that can displace an existing tcchnology by a low impact alternative?'
+
+## Product Multipurposing
+
+There are many single function technologies that beg to be perceptually reconceived so they may be materially transformed by dcsign. Consider these simple examples: we grossly under use the hcat of space heaters; we do not capture and use waste heat from cooking or from refrigerators; we use potable water for non-potable purposes (like flushing toilets) while wasting kitchen and bathroom grey-water. The point is: thc way things are, is not necessarily how they should or could be.
+
+## Dematerialization and Rematerialization
+
+Some of our activitics invite being dematerialized. The most oft-cited example is the elimination of a great deal of printing paper in the office and home. Computer technology retains the potential to do this, while printer technology ncgates this potential. But what about dematerializing Christmas and birthdays by saying it in words and music rather than by gifts that many of us do not need or even want? Reducing the household and travel carbon footprint is perhaps a more acceptable option.
+
+![](images/dd3138bf7355916300be2c60341b0aa583cf5d9f84f0175d99652e19eb237820.jpg)  
+15 The scythe rematerialized
+
+Rematerialization is predominantly the substitution of human labour for machines in a smart way. The scythe is a good example. This was once a wellused farm implement. As other technologies arrived it fell out of use for largescale harvesting and then for minor grass-cutting tasks. However, the scythe has been reinvented – it is now a lightweight, well- balanced, crgonomically designed object with a finer, high-quality, thin steel blade. Not only can it replace the two-stoke motor-powered brush-cutter for a significant number of jobs but it actually does a better job!
+
+## Symbolic Devaluation and the Destruction of SignValue
+
+The number and type of commodities based on sign value have dramatically incrcased in the past few decades. This has been most evident in the rise of designer products, branding and attempts to fuse emotion and brand loyalty. In this market-contaminated culturc, the power of the logo decimates utility. While sign-value has been a major motor of capital accumulation and thus of escalating unsustainability, it has a flip-side – it is vulnerable: if the cultural value of the commodity is destroyed, then the desire for the product disappears. Such action (the willing of cultural devaluation – see 'recoding below) is warranted if thc product is unambiguously unsustainable. And it's not hard to find target examples, from soft drinks to tourist packages, from 'sports' vehicles to cosmetics. Having said this, the elimination of the unsustainable by symbolic devaluation should not just be seen in terms of commodities. Such action may be equally directed toward perceptions, values, behaviour and attitudes.
+
+Elimination by the destruction of the symbolic meaning of thc de facto unsustainable renders the desirable undesirable and exposes art as artless and the-thought-t-be-wanted as unwanted. Above all, it demonstrates the ability of immaterial action to overpower powerful negative material consequences. As we shall see in a moment, recoding is one of the most powerful means we have available to do this. Conversely, the sign value of much that sustains can be significantly increased.

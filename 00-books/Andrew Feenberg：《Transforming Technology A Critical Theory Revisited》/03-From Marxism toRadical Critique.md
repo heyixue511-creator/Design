@@ -1,0 +1,9 @@
+# From Marxism to Radical Critique
+
+Marx was the first to unmask the interests behind supposedly technical imperatives, showing that capitalist technology is uniquely suited to an alienated society controlled from above. The first chapter of this section acknowledges this insight of Marx, but argues that his critique was not completed by a socialist politics of technology. This is a deep contradiction: as a critique of capitalism, Marxism shows that politics and technology are inextricably linked, but its concept of socialism fails to take that connection into account.
+
+The politicization of technology can find theoretical support in Marx, but it did not develop a significant following until the late 1960s and early 1970s. At this turning point in the public understanding of technology, two major social thinkers challenged traditional approaches, Herbert Marcuse and Michel Foucault. In their work, modern society resembles a vast machinery dominating its members through rational means and procedures. The second chapter of this section examines Marcuse's analysis of "one-dimensionality" and Foucault's history of disciplinary power. These theories go significantly beyond traditional Marxism and its instrumentalist account of the revolution to analyze modern forms of "technological rationality." But, having refuted the standard version of revolutionary Marxism, they fail to offer an adequate alternative account of social transformation.
+
+In contrast to these versions of critical theory, I argue that technical systems, and the modem forms of social domination based on them, are fraught with internal tensions. Any weakening of organizational control would therefore open a range of possible futures. Socialist politics must be reconceptualized on these terms as the creation of a space of social transformation within which the ambivalence of inherited technology can be freely explored.
+
+This page intentionally left blank

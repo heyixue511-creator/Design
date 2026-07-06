@@ -1,0 +1,1 @@
+# ABCDEFGHIJKLMNOPO!RSTUV.;WAYZE, Roman Condensed. First shown by George Nesbitt in his 1838 specimens. This specimen is printed from types at Rochester Institute of Technology, Rochester, New York. Lowercase and figures are missing.

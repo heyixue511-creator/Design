@@ -1,0 +1,53 @@
+The experiments on simulated markets, described earlier, confirm his view. At least under some circumstances, market traders using a very small amount of mostly local information and extremely simple (and non-optimizing) decision rules, can balance supply and demand and clear markets.
+
+It is time now that we turn to the role of organizations in an organization-&- market economy and the reasons why all economic activities are not left to market forces. In preparation for this topic, we need to look at the phenomena of uncertainty and expectations.
+
+## Uncertainty and Expectations
+
+Because the consequences of many actions extend well into the future, correct prediction is essential for objectively rational choice. We need to know about changes in the natural environment: the weather that will affect next year's harvest. We need to know about changes in social and political environments beyond the economic: the civil warfare of Bosnia or Sri Lanka. We need to know about the future behaviors of other economic actors customers, competitors, suppliers which may be influenced in turn by our own behaviors.
+
+In simple cases uncertainty arising from exogenous events can be handled by estimating the probabilities of these events, as insurance companies do but usually at a cost in computational complexity and information gathering. An alternative is to use feedback to correct for unexpected or incorrectly predicted events. Even if events are imperfectly anticipated and the response to them less than accurate, adaptive systems may remain stable in the face of severe jolts, their feedback controls bringing them back on course after each shock that displaces them. After we fail to predict the blizzard, snow plows still clear the streets. Although the presence of uncertainty does not make intelligent choice impossible, it places a premium on robust adaptive procedures instead of optimizing strategies that work well only when finely tuned to precisely known environments.<sup>13</sup>
+
+## Expectations
+
+A system can generally be steered more accurately if it uses feed forward, based on prediction of the future, in combination with feedback, to correct the errors of the past. However, forming expectations to deal with uncertainty creates its own problems. Feed forward can have unfortunate destabilizing effects, for a system can overreact to its predictions and go into unstable oscillations. Feed forward in markets can become especially destabilizing when each actor tries to anticipate the actions of the others (and hence their expectations).
+
+The standard economic example of destabilizing expectations is the speculative bubble. Bubbles that ultimately burst are observed periodically in the world's markets (the Tulip Craze being one of many well-known historical examples). Moreover, bubbles and their bursts have now been observed in experimental markets, the overbidding occurring even though subjects know that the market must again fall to a certain level on a specified and not too distant date.
+
+Of course not all speculation blows bubbles. Under many circumstances market speculation stabilizes the system, causing its fluctuations to become smaller, for the speculator attempts to notice when particular prices are above or below their "normal" or equilibrium levels in order to sell or buy, respectively. Such actions push the prices closer to equilibrium.
+
+Sometimes, however, a rising price creates the expectation that it will go higher yet, hence induces buying rather than selling. There ensues a game of economic "chicken," all the players assuming that they can get out just before the crash occurs. There is general consensus in economics that destabilizing expectations play an important role in monetary hyperinflation and in the business cycle. There is less consensus as to whose expectations are the first movers in the chain of reactions or what to do about it.
+
+The difficulties raised by mutual expectations appear wherever markets are not perfectly competitive. In perfect competition, each firm assumes that market prices cannot be affected by their actions: prices are as much a part of the external environment as are the laws of the physical world.
+
+## (footnote continued from previous page)
+
+about the future, we must impose information and computational requirements on economic actors that are exceedingly burdensome and unrealistic.
+
+But in the world of imperfectly competitive markets, firms need not make this assumption. If, for example, there are only a few firms in an industry, each may try to outguess its competitors. If more than one plays this game, even the definition of rationality comes into question.
+
+## The Theory of Games
+
+A century and a half ago, Augustin Cournot undertook to construct a theory of rational choice in markets involving two firms.<sup>14</sup> He assumed that each firm, with limited cleverness, formed an expectation of its competitor's reaction to its actions, but that each carried the analysis only one move deep. But what if one of the firms, or both, tries to take into account the reactions to the reactions? They may be led into an infinite regress of outguessing.
+
+A major step toward a clearer formulation of the problem was taken a century later, in 1944, when von Neumann and Morgenstern published The Theory of Games and Economic Behavior.<sup>15</sup> But far from solving the problem, the theory of games demonstrated how intractable a task it is to prescribe optimally rational action in a multiperson situation where interests are opposed.
+
+The difficulty of defining rationality exhibits itself well in the so-called Prisoners' Dilemma game.<sup>16</sup> In the Prisoners' Dilemma, each player has a choice between two moves, one cooperative and one aggressive. If both choose the cooperative move, both receive a moderate reward. If one chooses the cooperative move, but the other the aggressive move, the co-operator is penalized severely while the aggressor receives a larger reward. If both choose the aggressive move, both receive lesser penalties. There is no obvious rational strategy. Each player will gain from cooperation if and only if the partner does not aggress, but each will gain even more from aggression if he can count on the partner to cooperate. Treachery pays, unless it is met with treachery. The mutually beneficial strategy is unstable.
+
+Are matters improved by playing the game repetitively? Even in this case, cleverly timed treachery pays off, inducing instability in attempts at cooperation. However, in actual experiments with the game, it turns out that cooperative behavior occurs quite frequently, and that a tit-for-tat strategy (behave cooperatively until the other player aggresses; then aggress once but return to cooperation if the other player also does) almost always yields higher rewards than other strategies. Roy Radner has shown (personal communication) that if players are striving for a satisfactory payoff rather than an optimal payoff, the cooperative solution can be stable. Bounded rationality appears to produce better outcomes than unbounded rationality in this kind of competitive situation.
+
+The Prisoners' Dilemma game, which has obvious real-world analogies in both politics and business, is only one of an unlimited number of games that illustrates the paradoxes of rationality wherever the goals of the different actors conflict totally or partially. Classical economics avoided these paradoxes by focusing upon the two situations (monopoly and perfect competition) where mutual expectations play no role.
+
+Market institutions are workable (but not optimal) well beyond that range of situations precisely because the limits on human abilities to compute possible scenarios of complex interaction prevent an infinite regress of mutual outguessing. Game theory's most valuable contribution has been to show that rationality is effectively undefinable when competitive actors have unlimited computational capabilities for outguessing each other, but that the problem does not arise as acutely in a world, like the real world, of bounded rationality.
+
+## Rational Expectations
+
+A different view from the one just expressed was for a time popular in economics: that the problem of mutual outguessing should be solved by assuming that economic actors form their expectations ''rationally."<sup>17</sup> This is interpreted to mean that the actors know (and agree on) the laws that govern the economic system and that their predic-
+
+tions of the future are unbiased estimates of the equilibrium defined by these laws. These assumptions rule out most possibilities that speculation will be destabilizing.
+
+Although the assumptions underlying rational expectations are empirical assumptions, almost no empirical evidence supports them, nor is it obvious in what sense they are "rational" (i.e., utility maximizing). Business firms, investors, or consumers do not possess even a fraction of the knowledge or the computational ability required for carrying out the rational expectations strategy. To do so, they would have to share a model of the economy and be able to compute its equilibrium.
+
+Today, most rational expectationists are retreating to more realistic schemes of "adaptive expectations," in which actors gradually learn about their environments from the unfolding of events around them.<sup>18</sup> But most approaches to adaptive expectations give up the idea of outguessing the market, and instead assume that the environment is a slowly changing "given" whose path will not be significantly affected by the decisions of any one actor.
+
+In sum, our present understanding of the dynamics of real economic systems is grossly deficient. We are especially lacking in empirical information about how economic actors, with their bounded rationality, form expectations about the future and how they use such expectations in planning their own behavior. Economics could do worse than to return to the empirical methods proposed (and practiced) by George Katona for studying expectation formation,<sup>19</sup> and to an important extent, the current interest in experimental economics represents such a return. In face of the current gaps in our empirical knowledge there is little empirical basis for choosing among the competing models currently proposed by economics to account for business cycles, and consequently, little rational basis for choosing among the competing policy recommendations that flow from those models.

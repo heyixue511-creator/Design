@@ -1,0 +1,14 @@
+![](images/7c2cfc0fcdc356b291aa07bfa710aa079fcf0c1feb43499124c13889924e17b9.jpg)  
+Zum SCHUTZ der JUGEND u.derSCHWACHEN FRAUENWAHLRECHTJA
+
+Fig. 24.27: Dora Hauth, To Protect the Young and the Weak, Yes to Women's Right to Vote, poster, 192o. Photograph courtesy of the Musem für Gestaltung Zürich, Poster Collection.
+
+(1939), a dogged design with thick slightly rounded letters, and Symphonie (1938), an elegant script face. Due to their idiosyncrasies, these faces were most suitable for headings and titles rather than text settings, hence their limited use.
+
+Though few Swiss women achieved prominence as graphic designers during the 192os and 193os, several were active in the field. Dora Hauth (1874–1957) was a painter whose illustrative posters of the 192os addressed social causes such as alcoholism and women's right to vote (Fig. 24.27). By contrast, Frida Allenbach-Meier (1907–2002), who worked in Bern, was one of the few designers outside the main centers of Basel and Zurich to adopt the new design tendencies. In 1933 she won a competition for the exterior signs of Swiss post offices with a bold proposal that featured lower-case sans serif lettering. Helene Haasbauer-Wallrath (1885-1968), a poster artist who taught briefly at the Basel School of Applied Arts, also worked in a modern style. Her best-known poster was for an exhibition, "The Practical Kitchen," held at the Zurich Museum of Applied Arts in 1930.
+
+## Spain
+
+Once a world power with a large empire, Spain saw its authority and influence in the world steadily decline from the 18th century on. In the 19th century the government lost control of much of Latin America due to the growing independence movements there. As a colonial power, Spain had relied more on the import and sale of raw materials from its colonies than on the development of industries at home and consequently did not participate intensively in the Industrial Revolution. By the end of World War I, Spain was still heavily agricultural. There was, however, a trajectory of industrial development in Catalonia that was celebrated at Barcelona's Universal Exhibition of 1888 and continued after that.
+
+Catalonia remained Spain's strongest industrial region even as the Catalan people campaigned for autonomy, fueled by the foundation of the Lliga Regionalista (Regionalist League) in 19or and the establishment of the Mancomunitat, a semi-autonomous governing body, in 1914. This campaign continued through World War I and was subsequently suppressed by General Miguel Primo de Rivera, who governed Spain as a dictator from 1923 until 193o. Primo de Rivera emphasized the completion of large public works, and his bureaucratic control of industry prevented the emergence of a diverse and independent manufacturing sector. There was a greater openness to industrial and cultural development during the brief Second Republic, which began in 1931 after Primo de

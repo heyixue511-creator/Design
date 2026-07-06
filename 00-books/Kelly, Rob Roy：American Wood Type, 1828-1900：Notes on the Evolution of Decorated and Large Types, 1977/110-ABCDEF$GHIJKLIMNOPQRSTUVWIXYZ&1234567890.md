@@ -1,0 +1,1 @@
+# ABCDEF\$ GHIJKLI MNOPQR STUVWI XYZ&12 34567890 Norwich Aldine. First shoun b Wiliam Page in his 1872 specimens. This design originated with the Page Company. Lowercase is missing. Heber Wells cut a style patterned after Page's, and these were the only two companies to market this design under this title.

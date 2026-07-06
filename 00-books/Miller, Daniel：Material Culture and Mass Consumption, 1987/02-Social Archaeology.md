@@ -1,0 +1,1 @@
+# Social Archaeology General Editor Ian Hodder, University of Cambridge Advisory Editors Margaret Conkey, State University of New York at Binghamton Mark Leone, University of Maryland Alain Schnapp, U.E.R. d'Art et d'Archaeology, Paris Stephen Shennan, University of Southampton Bruce Trigger, McGill University, Montreal

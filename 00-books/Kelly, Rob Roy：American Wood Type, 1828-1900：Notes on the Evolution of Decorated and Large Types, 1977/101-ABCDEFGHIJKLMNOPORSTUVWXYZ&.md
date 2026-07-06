@@ -1,0 +1,1 @@
+# ABCDEF GHIJKL MNOPO RSTUV WXYZ& Antique Condensed. First shown by George Nesbitt in his 1838 specimens. This design cut by the Page Company. Lowercase and figures are missing.

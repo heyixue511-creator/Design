@@ -1,0 +1,1 @@
+# ABCDEFGHIJ KLMNOPOR STUVWXYZ 112345678 90\$Z&&& No. 510. Patented by William Page in 1887. Lowercase is missing. This is one of the seventeen styles designed for the die-cut types of Page and Setchell.

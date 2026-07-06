@@ -1,0 +1,93 @@
+# THE ART AND CRAFT OF THE MACHINE
+
+# Frank Lloyd Wright (1901)
+
+As we work along our various ways, there takes shape within us, in some sort, an ideal – somerhing we are to become - some work to be done. This, 1 think, is denied to very few, and we begin really to live only when the thrill of this ideality moves us in what we will to accomplish. In the years which have been devored in my own life to working out in stubborn materials a feeling for the beautiful, in the vortex of distorted complex conditions, a hope has grown stronger with the experience of each year, amounting now to a gradually deepening conviction that in the Machine lies the only future of art and craft – as I believe, a glorious future; that the Machine is, in fact, the metamorphosis of ancient art and craf; that we are at last face to face with the machine - the modern Sphinx – whose riddle the artist must solve if he would that art live – for his nature holds the key. For one, I promise "whatever gods may be" to lend such energy and purpose as I may possess to help make that meaning plain; to return again and again to the task whenever and wherever need be; for this plain duty is thus relentlessly marked out for the artist in this, the Machine Age, although there is involved an adjustment to cherished gods, perplexing and painful in the extreme; the fire of many long-honored ideals shall go down to ashes to reappear, phoenix like, with new purposes.
+
+The great ethics of the Machine are as yet, in the main, beyond the ken of the artist or student of sociology; but the artist mind may now approach the nature of this thing from experience, which has become the commonplace of his field, to suggest, in time, I hope, to prove, that the machine is capable of carrying to fruition high ideals in art – higher than the world has yet seen!
+
+Disciples of William Morris cling to an opposite view. Yet William Morris himself deeply sensed the danger to art of the transforming force whose sign and symbol is the machine, and though of the new art we eagerly seek he sometimes despaired, he quickly renewed his hope.
+
+He plainly foresaw that a blank in che fine arts would follow the inevitable abuse of new-found power, and threw himself body and soul into the work of bridging it over by bringing into our lives afresh the beauty of art as she had been, thar the new art to come might not have dropped too many stitches nor have unraveled what would still be useful to her.
+
+That he had abundant faith in the new art his every essay will testify.
+
+That he miscalculated the machine does not matter. He did sublime work for it when he pleaded so well for the process of elimination its abuse had made necessary; when he fought the innate vulgarity of theocratic impulse in art as opposed to democratic; and when he preached the gospel of simplicity.
+
+All artists love and honor William Morris
+
+He did the best in his time for art and will live in history as the great socialist, together with Ruskin, the great moralist: a significant fact worth chinking about, that the two great reformers of modern times professed the artist.
+
+The rnachine these reformers protested, because the sort of luxury which is born of greed had usurped it and made of it a terrible engine of enslavement, deluging the civilized world with a murderous ubiquity, which plainly enough was the damnation of their art and craft.
+
+It had not then advanced to the point which now so plainly indicates that it will surely and swiftly, by its own momentum, undo the mischief it has made, and the usurping vulgarians as well.
+
+Nor was it so grown as to become apparent to William Morris, the grand democrat, that the machine was the great forerunner of democracy.
+
+The ground plan of this thing is now grown to the point where the artist must take it up no longer as a protest: genius must progressively dominate the work of the contrivance it has created; to lend a useful hand in building afresh the “Fairness of the Earth.
+
+That the Machine has dealt Art in the grand old sense a death-blow, none will deny.
+
+The evidence is too substantial.
+
+Art in the grand old sense – meaning Art in the sense of structural tradition, whose craft is fashioned upon the handicraft ideal, ancient or modern; an art wherein this form and that form as structural parts were laboriously joined in such a way as to beautifully emphasize the manner of the joining: the million and one ways of beautifully satisfying bare structural necessities, which have come down to us chiefly through the books as "Art."
+
+[...]
+
+The steel frame has been recognized as a legitimate basis for a simple, sincere clothing of plastic material that idealizes its purpose without structural pretense.
+
+This principle has at last been recognized in architecture, and though the masters refuse to accept it as architecture at all, it is a glimmer in a darkened field – the first sane word that has been said in Art for the Machine.
+
+The Art of old idealized a Structural Necessity - now rendered obsolete and unnatural by the Machine - and accomplished it through man's joy in the labor of his hands.
+
+The new will weave for che necessities of mankind, which his Machine will have mastered, a robe of ideality no less truthful, but more poetical, with a rational freedorm made possible by the machine, beside which the art of old will be as the sweet, plaintive wail of the pipe to the outpouring of full orchestra.
+
+It will clothe Necessity with the living flesh of virile imagination, as the living flesh lends living grace to the hard and bony human skeleton.
+
+The new will pass from the possession of kings and classes to the every-day lives of all - from duration in point of time to immoralicy.
+
+This distinction is one to be felt now rather chan clearly defined.
+
+The definition is the poetry of this Machine Age, and will be written large in time; but the more we, as artists, examine into this premonition, the more we will find the utter helplessness of old forms to satisfy new conditions, and the crying need of the machine for plastic treatment - a pliant, sympathetic treatment of its needs that the body of structural precedent cannot yield.
+
+To gain furcher suggestive evidence of this, let us turn to the Decorative Arts – the immense middle-ground of all art now mortally sickened by the Machine – sickened that it may slough the art ideal of the constructural art for the plasticity of the new art – the Art of Democracy.
+
+Here we find the most deadly perversion of all – the magnificent prowess of the machine bombarding the civilized world with the mangled corpses of strenuous horrors that once stood for cultivated luxury – standing now for a species of fatty degeneration simply vulgar.
+
+Without regard to first principles or common decency, the whole letter of tradition – that is, ways of doing things rendered wholly obsolete and unnatural by the machine – is recklessly fed into its rapacious maw until you may buy reproductions for ninety-nine cents at "The Fair" that originally cost ages of toil and cultivation, worth now intrinsically nothing - that are harmful parasites befogging the sensibilities of our natures, belittling and falsifying any true perception of normal beauty the Creator may have seen fit to implant in us.
+
+[...]
+
+If the artist will only open his eyes he will see that the machine he dreads has made it possible to wipe out the mass of meaningless torture to which mankind, in the name of the artistic, has been more or less subjected since time began; for thar matter, has made possible a cleanly strength, an idealiry and a poetic fire that the art of the world has not yet seen; for the machine, the process now smoothes away the necessity for petty structural deceits, soothes this wearisome struggle to make things seem what they are not, and can never be; satisfies the simple term of the modern art equation as the ball of clay in the sculptor's hand yields to his desire – comforting forever this realistic, brain-sick masquerade we are wont to suppose art.
+
+Witliam Morris pleaded well for simplicity as the basis of all true art. Let us understand the significance to art of that word – SIMPLICITY - for it is vital to the Art of the Machine.
+
+Simplicity in art, rightly understood, is a synthetic, positive quality, in which we may see evidence of mind, breadth of scheme, wealth of detail, and withal a sense of completeness found in a tree or a flower. A work may have the delicacies of a rare orchid or the stanch fortitude of the oak, and still be simple. A thing to be simple needs only to be true to itself in organic sense.
+
+With this ideal of simplicity, let us glance hastily at a few instances of the machine and see how it has been forced by false ideals to do violence to this simplicity; how it has made possible the highest simplicity, rightly understood and so used. As perhaps wood is most available of all homely materials and therefore, naturally, the most abused - let us glance at wood.
+
+Machinery has been invented for no other purpose than to imitate, as closely as possible, the wood-carving of the early ideal - with the immediate result that no ninety-nine cent piece of furniture is salable without some horrible botchwork meaning nothing unless it means that art and craft have combined to fix in the mind of the masses the old hand-carved chair as the ne plus ultra of the ideal.
+
+The miserable, lumpy tribute to this perversion which Grand Rapids alone yields would mar che face of Art beyond repair; to say nothing of the elaborate and fussy joinery of posts, spindles, jig sawed bears and braces, butted and strutted, to outdo the sentimentality of the already overwrought antique product.
+
+Thus is che wood-working industry glutted, except in rarest instances. The whole sentiment of early craft degenerated to a sentimentality having no longer decent significance nor commercial integrity; in fact all thac is fussy, maudlin, and animal, basing its existence chiefly on vanity and ignorance.
+
+Now let us learn from the Machine
+
+It teaches us that the beauty of wood lies first in its qualities as wood; no treatment that did noc bring out these qualities all the time could be plastic, and therefore not appropriate – so not beautiful, the machine teaches us, if we have left it to che machine thar certain simple forms and handling are suitable to bring our the beauty of wood and certain forms are not; that all woodcarving is apt to be a forcing of the material, an insult to its finer possibilities as a macerial having in itself intrinsically artistic properties, of which its beautiful markings is one, it texture another its color a third.
+
+The machine, by its wonderful cutting, shaping, smoothing, and repetitive capacity, has made it possible to so use it without waste that the poor as well as the rich may enjoy to-day beautiful surface treatments of clean, strong forms that the branch veneers of Sheraton and Chippendale only hinted at, with dire extravagance, and which the middle ages utterly ignored.
+
+The machine has emancipated these beauties of nature in wood; made it possible to wipe out the mass of meaningless torture to which wood has been subjected since the world began, for it has been universally abused and maltreated by all peoples bur the Japanese.
+
+Rightly appreciated, is not this the very process of elimination for which Morris pleaded?
+
+## [...]
+
+And the texture of the tissue of this great thing. this Forerunner of Democracy, the Machine, has been deposited particle by particle, in blind obedience to organic law, the law to which the great solar universe is but an obedient machine.
+
+Thus is the thing into which the forces of Are are to breath che thrill of ideality! A SOUL!
+
+## NOTE
+
+Extracted from Lloyd Wright, F., 'The Arc and Craft of the Machine,' in E. Kaufmann and B. Raeburn (eds), Frank Lloyd Wright: Writings and Buildings. New York: Penguin, 1960, pp. 55–73. From an address to the Chicago Arts and Crafts Society, at Hull House, 6 March and to the Western Society of Engineers, 20 March 1901. © 2009 Frank Lloyd Wright Foundation, Scottsdale, AZ/Artists Rights Society (ARS), NY.

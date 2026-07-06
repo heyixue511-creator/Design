@@ -1,0 +1,1 @@
+# Desigr Management Managing Design Strategy, Process and Implementation By Kathryn Best Second Edition B L OO M S B U R Y LONDON - NEW DELHI · NEW YORK - SYDNEY Fairchild Books A imprint of Bloomsbury Publishing PLC

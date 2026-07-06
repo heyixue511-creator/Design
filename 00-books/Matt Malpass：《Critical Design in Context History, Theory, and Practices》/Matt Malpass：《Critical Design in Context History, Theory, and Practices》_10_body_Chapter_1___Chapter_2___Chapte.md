@@ -1,0 +1,56 @@
+# Chapter 1 / Chapter 2 / Chapter 3 / Chapter 4 / Chapter 5
+
+> Section: body | Source: 05-Result-MD\03-Design-History-replenish-1\02-Books\Matt Malpass：《Critical Design in Context History, Theory, and Practices》\Matt Malpass：《Critical Design in Context History, Theory, and Practices》\Matt Malpass：《Critical Design in Context History, Theory, and Practices》\auto\Matt Malpass：《Critical Design in Context History, Theory, and Practices》.md
+
+## Chapter 1
+
+1 Product and industrial design are used interchangeably throughout the book as terms used to define the product and industrial design discipline. Product design and industrial design are representative terms for the same subject. In the UK, product design is popularly used while internationally industrial design is used to describe the discipline, profession, and educational courses.
+
+2 Boundary objects (artefacts, documents, vocabulary, film) help people from different communities build a shared understanding. Boundary objects will be interpreted differently by the different communities, and it is an acknowledgement and discussion of these differences that enables a shared understanding to be developed.
+
+3 These comments were specifically made in the thread Design Practice 1: At the Design and Complexity Design Research Society Conference held at the University of Montréal, 2010. Over summer 2014, debate took place online as part of MoMA’s Design and Violence curated discussion which challenged the insular discourse on critical and speculative design. Scholars including Cameron Tonkinwise (2014) have targeted their critique at the practices and its lack of engagement with discourse beyond art and design and how in within the practice designers are for the most part talking to themselves and peers. Tonkinwise’s account appears at first critical of critical and speculative design practice. But this critique is delivered from a position that adds value to a critical practice. Tonkinwise through writing and public presentation calls for Speculative Critical Design to stand up to and address its critics. Moreover, he calls for Speculative Critical Design to engage discourses of critique and speculation outside of design epistemology. Looking beyond the disciplinary discourse, he calls into question the function of speculation and criticism and the impact that any design intervention might make and change that it might effect.
+
+4 Examples of theoretical focus are illustrated by CoDesign: The International Journal of CoCreation in Design and the Arts, disseminating and problematizing participatory design. www.desis-network.org, an international project focusing on activity carried out in the field of design, led social innovation. Arguably, such dictated theoretical platforms focusing on critical design are yet to emerge.
+
+## Chapter 2
+
+1    This describes a period of prosperity and mass consumption in the 1960s. In Italy, it was known as ‘Bel Design’ and in Germany ‘Good Form’; it was a concept that ruled the mainstream design of large manufactures and the design output was rational and product orientated. The work was typified by the likes of Dieter Rams and Braun, Ettore Sottsass, and Olivetti.
+
+## Chapter 3
+
+1 The Human Factors community aims to achieve ‘fit’ between human and object. See: Norman (1998). Technical function is perceived as the purposive and utilitarian value of an object it is expected to work in a particular way by the user through material and visual affordances.
+
+2 In the ‘Archaeology of Knowledge’, Foucault attempted to find rules for how discourses are framed. For Foucault, discourse is not limited to disciplinary or linguistic discourse but entire ways of understanding things from various subjectivities. Discourse is perceived ‘as a field of regularity for various positions of subjectivity’ (2009, 59). Therefore, in practice, discourses allow for a certain way of seeing, understanding, and commenting, where one knows through discourse as they allow for the production of certain and individual truths.
+
+3    For a discussion in this area, see Almquist and Lupton (2010).
+
+4 For examples, see Gromala (1998); Hayles (2002); Gromala and Bolter (2005); Sterling (2005).
+
+5 The contribution of STS to critical and speculative practice is evident in the scholars and designers subscribing to the theoretical tradition to ground their design research (Bleecker and Nova 2009; Kerridge 2009; Grand and Wiedmer, 2010; Wilkie 2010; Auger 2012).
+
+6 The social and relational characteristics of design objects have been explored extensively in critical theories of technology and science studies e.g. Bijker (1995) explores the sociotechnical and political conditions that led to the development of the artefacts. A sociotechnical system is positioned as the interaction between society’s complex infrastructures and human behaviours. In this sense, society itself and most of its substructures are complex sociotechnical systems.
+
+## Chapter 4
+
+1    For examples of design practice in this area, see DiSalvo (2012).
+
+2    See ‘Practicing Science and Technology Performing the Social’ (European Association for the Study of Science and Technology (EASST) conference, Trento, Italy, 3 September 2010).
+
+3 See ‘Ethnographic Fiction and Speculative Design’ (5th International Conference on Communities & Technologies – C&T 2011, Brisbane, Australia, 29 June–2 July 2011).
+
+4    See, for example, Mazé (2007), Moline (2006).
+
+5 See, for example, Baudrillard (1996), Greenhalgh (1990), Kroes (2010), Krippendorf and Butter (1993), Papanek (1984), Schiffer (1992), Ligo (1984).
+
+6    See, for example, Hällnas and Redström (2002), Dunne (1998), Balland Naylor (2006).
+
+7 Wicked problems cannot be solved absolutely; the situation can only be made ‘better’ or ‘worse’ – the terms of which depend on who is evaluating the solution. For writing on wicked problems, see Rittel and Webber (1973). In a design context, see Buchanan (1992), Coyne (2005).
+
+8    See Open IDEO: http://www.openideo.com/about-us
+
+## Chapter 5
+
+1 An example often cited to illustrate the operation of juvenalian satire is Jonathan Swift’s fable A Modest Proposal. Swift presents a solution to overpopulation and food shortage in eighteenth-century Ireland. He proposes to solve both these problems by reframing the problem as an opportunity. Through this reframing, the problem presents the means to solve itself. Swifts proposition suggests society should eat children and in so doing deal with food shortage and overpopulation. The fable draws attention to the issues at play through a logical solution infused with tones of obscenity and violence. The solution evokes outrage in the reader. Analogies can be drawn between the satiric strategies of violence and applied logic in Swift's satire and Dunne and Raby’s invasive reengineering of human physiology to deal with overpopulation and food shortage and the ethical questions that the proposition evoke.
+
+2    For further discussion on satire and satiric techniques, see Simpson (2003), Connery and Combe (1996).
+

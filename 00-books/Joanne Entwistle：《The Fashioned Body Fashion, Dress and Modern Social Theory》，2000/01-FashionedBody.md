@@ -1,0 +1,1 @@
+# Fashioned Body Joanne Entwistle ![](images/0b1815c252fe5719dfbdc3b66bab6a4c66055ad4161463e0efe93e049987fef3.jpg) Digitized bythe Internet Archive in 2022 with funding from Kahle/Austin Foundation https://archive.org/details/fashionedbodyfas0000entw The Fashioned Body This book is dedicated to the memory of my grandmother, Winnie Cowhig.

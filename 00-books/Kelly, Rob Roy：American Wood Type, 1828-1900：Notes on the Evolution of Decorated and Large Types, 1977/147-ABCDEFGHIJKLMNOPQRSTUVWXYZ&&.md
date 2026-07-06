@@ -1,0 +1,1 @@
+# ABCDEFGH IJKLMNO PQRSTUV WXYZ&& Modified Gothic XX Condensed. Design cut late in the century. This cutting by the Tubbs Company. Lowercase and figures are missing.

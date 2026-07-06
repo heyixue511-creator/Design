@@ -1,0 +1,1 @@
+# Industrial Design JOHN HESKETT with 18o illustrations ![](images/d930e1cee38b52ff6b1d281f7e07de7e306a02a938046b0760bdf3226a8310fa.jpg) THAMES AND HUDSON

@@ -1,0 +1,1 @@
+## Abbreviations APAC Asia, Pacific and Africa Collections BL British Library CSSH Comparative Studies in Society and History IESHR Indian Economic and Social History Review JAS Journal of Asian Studies JEH Journal of Economic History MAS Modern Asian Studies P&P Past & Present PRO Public Record Office TNA The National Archives of the United Kingdom

@@ -1,0 +1,14 @@
+a number of whom joined the militant anti-Japanese propaganda organizations and brigades that sprang up after the Japanese invasion.
+
+## The woodcut movement and propaganda graphics
+
+With financial support from the Ministry of Education that Cai Yuanpei obtained for him in 1927, Lu Xun began to amass a collection of European, American, and Russian prints. In late 1928 he published five volumes of foreign woodcuts, one of which was devoted entirely to Soviet examples. Through several exhibitions and the founding of a woodcut workshop for young Chinese artists, Lu championed the woodcut as the ideal medium for portraying social life and conveying political themes. It was actually Li Shutong (dates unconfirmed), however, who first developed the woodcut as a modern art form almost 2o years earlier, although he did not think of it as a political medium as Lu did.
+
+![](images/05a00e81537c394e5d4db6afab45b19ad211651298896e3946688afaa1fed871.jpg)  
+Fig. 35.12: Tang Yingwei, Woodcut World, cover, 1936. Central Academy of Fine Arts Library collection. Photographer: Zhou Bo.
+
+In 193o, Lu helped to organize an exhibition of Soviet prints, cartoons, and posters in Shanghai. He also supported the radical League of Left-Wing Writers and in the summer of 193o he gave a lecture to its artist's section, where he extolled the beauty of French artist Jean-François Millet's 19th-century realist painting, The Gleaners, and contrasted it with what he considered to be the ugliness of a typical Shanghai calendar picture.
+
+Inspired by Lu Xun, various societies of woodcut artists sprang up, but the Nationalist government, which opposed their leftist imagery, persecuted them. Many of the artists were influenced by the writer Kuo Mojo who declared that art was first and foremost an instrument of propaganda. Their sources ranged from Käthe Kollwitz's German woodcuts of malnourished women and children to the militant Socialist Realism of Soviet artists.
+
+Guangzhou was a center of woodcut production, where several groups were active. In 1934, Li Hua (1907-1994), a forceful woodcut artist in his own right, organized the Modern Woodcut Society, which published the magazine Modern Woodcut between 1934 and 1936. The magazine featured original prints that were pasted onto blank pages, while a signature print was also attached to each cover. In 1936, the Modern Woodcut Society inaugurated a new magazine, Woodcut World, which was edited by the young artist Tang Yingwei (1915–d.o.d. unconfirmed) (Fig. 35.12). Tang had fully embraced Kuo Mojo's call for a propagandistic art. His woodcut for the cover of the fourth issue of the magazine features'a group of militant men and women marching forward under a banner emblazoned with the word "Liberation." After war broke out, the magazine ceased publication and the Modern Woodcut Society disbanded. Some artists made their way to the Communist stronghold in Yan'an, where

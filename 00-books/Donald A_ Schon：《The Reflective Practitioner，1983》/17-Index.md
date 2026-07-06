@@ -1,0 +1,644 @@
+# Index
+
+Aalto, Alvar, ∞0, 78
+
+accountability, 293, 295, 297, 345–46   
+Ackoff, Russell, 16   
+action: dichotomy with thought, 275,   
+276–81; interpersonal theory of, 226,   
+321-22, 353; Model 1, 226–28, 230,   
+263, 303, 304–6, 335; Model I1, 230–   
+34, 321-22; subject/object of, 191,   
+195-203,322-23, 347
+
+action-present, 62, 279, 281
+
+action science, 319–20, 323, 354
+
+adaptability, 15–16, 171
+
+affirmation, logic of, 155–56
+
+agent-experient, 322-23, 347 agronomy, 42, 308, 325; as science-based profession, 168, 169
+
+Alexander, Chris, 77; Notes Toward a Synthesis of Form, 52-53
+
+Alonso, William, 9, 10 analogy, 177–79, 182–84; see also exemplar(s)
+
+appreciative system, 132, 164, 166, 270, 275, 282, 328; constancy of, 272–73
+
+Approaches to the Mind (Havens), 313
+
+architecture, 76, 128–30, 268, 269, 312; design in, 77–104; exemplars in, 316; media in, 128, 157–9; schools of (pluralism), 77–78, 102, 272–3, 310–11
+
+Arendt, Hannah, 278, 280
+
+Argyris, Chris, 226, 230, 304, 321; Inner Contradictions of Rigorous Research, 319
+
+art, artistry (in practice), 18, 19, 20, 34, 42, 48-49, 157, 271; in architecture and psychotherapy examples, 130-32, 140; description of, 176–77; of engineering design, 171-76, 188; of managing, 241-54, 236–66; of scientiic investigation, 177–82, 188; in situations of uncertainty, instability, uniqueness, value conflict, 49, 50, 62– 63, 69, 165, 170; in teaching, 65– 66
+
+artifact/idea coherence, 136, 164   
+avocation, 22
+
+Bacon, Sir Francis, 31, 163
+
+Barber, Bernard, 8, 36
+
+Bardeen, J., 178, 188, 268
+
+bargaining, 344; in town planning example, 217-18
+
+Barnard, Chester, 239–40; "Mind in Everyday Affairs," 51–52
+
+Bell, Daniel, 7
+
+Bell Laboratories, 177, 178, 181, 268
+
+Bernoulli, Daniel, 183
+
+Bernstein, Richard, 48
+
+binary search, 190–91
+
+Birdwhistell, Ray L., 53
+
+Bok, Derek, 29, 30
+
+Boulding, Kenneth, 189
+
+Brattain, W., 178
+
+Brooks, Harvey, 15; "Dilemmas of Engineering Education,"171–72
+
+bureaucracy: citizen-professionals in, 342-43; professionalization of, 326– 27; professionals in, 326–38, 339; public school as, 331–32; technological extension of, 336–37
+
+Burger, Warren, 13
+
+burn-out, 61; example of, 255–64
+
+Bush, Vannevar, 37
+
+business, 23
+
+business education, 29–30; exemplars in, 316
+
+children's process of discovery in action (block-balancing experiment), 56–59, 61, 147, 320–21, 322, 323
+
+citizen-professionals, 289, 294–95, 340, 340-43
+
+client(s), 290–306; in reflective contract, 300-303,306-7
+
+clinical psychology, 106, 107
+
+coercion, 340; potential for, 345-46
+
+Cogwheel Experiment, 189–90, 191, 202,272
+
+Colombia: malnourishment problem in, 191-202
+
+common sense, 50–51, 54
+
+competence, 19–20, 260–62
+
+complexity, 14–15, 18–19, 39
+
+Comte, Auguste, 32, 33 confrmation, logic of, 155 conflict: research-in-practice in, 308 conflict settlement: institutions of, 343-44
+
+consequences: in relation to intention, 153-56
+
+consequences, unintended, 79, 94, 146, 150; in architecture and psychotherapeutic examples, 131-32, 134- 36; of counterprofessional activity,
+
+343-45; of planning, 206–7; see also problems, new
+
+consumer movement (example), 351 control (norm), 133, 143, 163, 166; violated in hypothesis-testing, 149-50; win/lose game, 303-6
+
+counterprofessionals, 340-45,349–50
+
+counterresearchers, 341
+
+courts, 343-44
+
+craft, 34, 48
+
+creativity, 182, 188; see also art, artistry crises, national, 9–10, 12–13
+
+Daedalus volume on professions (1963), 5–6,7, 11,36,39, 106
+
+democracy, 342; distorted in professionalization, 340
+
+dentistry, 168, 308, 325 deprofessionalization, 13; see also professions, demystification of
+
+description (articulation), 63, 139-40, 172, 175, 182, 186, 276–77, 321; of action, 279, 281; lack of satisfactory, in art of practice, 19–20, 42, 43, 49–50, 69, 126, 243-49; of reflection in action, 243-44, 266, 271
+
+design, 52–53, 268; drawing as virtual world in, 157–59, 162; language of, 80–81, 95-97, 103; media of, 271; normative domains of, fig. 3.2 (p. 96), 97– 98, 99, 101, 103; paintbrush example, 184–86, 188, 269; reflective, example of, 79–104, 271, 272, 309, 311, 316, 347; as reflective conversation with situation, 76–104; science of, 46–47; secing-as in, 184–87; see also engineering design
+
+design professions, 76–79
+
+Dewey, John, 65, 357n 38 "Dilemmas of Engineering Education'" (Brooks), 171-72
+
+disbelief, willing suspension of, 296–97 disciplined subjectivity, 116-17; see also architecture, design in
+
+distance (norm), 133, 163; violated in hypothesis-testing, 149-50; in management, 266
+
+divinity (profession), 8, 23, 46, 166, 293– 94,312
+
+## Index
+
+doctor/patient relationship, 293, 294, 295-96
+
+doing-as, 139, 140, 166
+
+eclecticism, systematic, 313-14
+
+education, 17, 23, 38–39; see also professional education
+
+Ekroad, Kip, 196, 199, 200–201
+
+electoral process, 343-44
+
+Eliot, Charles William, 29
+
+ends, see means/ends
+
+engineering, 14, 23, 42, 308, 312, 325; as applied science, 171–72; design professions in, 76–77; as model of instrumental practice, 34, 38–39; as model of technical practice, 31; problem setting and implementation in, 187-88; as science-based profession, 168, 169 engineering design: art of, 171–76; development of transistor example, 177–82; gun-metal color process example, 172- 76,182, 268, 271, 273
+
+Enlightenment (the), 31
+
+Erikson, Erik, 16, 108, 116–18, 136
+
+error, uncorrectable, 304–6
+
+exemplar(s), 138–39, 183–84, 269, 315-17
+
+experiment(s), 177; bounds of, in practice situation, 151-52; controlled, 143-44, 149–-50, 151, 165; explanatory, 145; move-testing, 146 (see also move[s]); reflection-in-action in, 322- z3; in Technical Rationality model, 141–45; in theory building, 181; see also on-the-spot experiment
+
+expertise, 326, 327, 337; move from, to reflective practice, 329-36, 345-54; mystique of, 288–89, 304; professional knowledge as, 339; in reflective practice, 295–96, 298; required by counterprofessionals, 341; supplied by professionals in policy-making, 339–40, 342, 349; see also knowledge
+
+exploration, 153, 156, 166
+
+forestry, 168
+
+form (norm), 97 frame analysis, 309–15, 323 frame experiment(s) (frame-testing), 40, 41–42, 63, 165–66, 269, 309; see also on-the-spot experiment
+
+Fried, Mark, 208
+
+Galileo, 183
+
+Gans, Herbert, 208
+
+Glazer, Nathan, 168, 172; major/minor professions, 23, 26–27, 45, 46, 47–48, 204, 293-94, 307, 308, 325
+
+Great Society program, 348
+
+Gustafson, James, 8
+
+Harris, Britt, 319–20
+
+Harrison, Andrew, 51
+
+Havens, Leston, 17, 106, 108, 310; Approaches to the Mind, 313–14; Participant Observation, 314
+
+Harvard University: Law School, 316; School of Business Administration, 29, 316
+
+Hawthorne Effect, 149, 322
+
+Higher Leaming in America, The (Veblen), 35
+
+Hobbes, Thomas, 31
+
+Hofstadter, Richard, 6
+
+Hughes, Everett, 4
+
+Huyghens, Christian, 183
+
+hypotheses, new, 181–82, 269 hypothesis testing, 146–47, 157, 166, 177, 269; in architecture and psychotherapeutic examples, 149-56; confirmed/disconfrmed, 146–47, 150, 166, 181; leads to invention, 181– 82
+
+"If you want to get ahead, get a theory" (Inhelder and Karmiloff-Smith), 56-59
+
+Illich, Ivan, 5, 288
+
+industrialism, 32
+
+industry: as prototype of technical rationality, 336
+
+Inhelder, Barbel, and Annette Karmiloff-Smith: "If you want to get ahead, get a theory," 56–59
+
+Inner Contradictions of Rigorous Research (Argyris), 319
+
+inquiry, 130, 170, 268–69, 317; in adversarial setting, 350–53; agents of, in public policymaking, 349; cooperative, 351-53; fundamental methods of, 317–20; media as “stuff" of, 271; onthe-spot, 169–70; public, 297, 328, 336, 338, 350; reflection-in-action as ethic for, 164; scientific, 33; stance toward, 133, 144, 163–64
+
+instability, see situations of uncertainty, instability, uniqueness, conflict
+
+interaction, therapeutic, 160–62
+
+interpretation (psychotherapeutic), 1 13- 14, 116–18, 120-24, 125-26
+
+intervention (psychotherapeutic), 123- 24, 125, 129
+
+intuition, 182, 188, 239, 241, 265
+
+invention, 181–82; seeing-as in, 184–87
+
+Jacobs, Jane, 208   
+Jamestown, N.Y., 353   
+Jentz, Barry, 323   
+John Hancock Building, Boston, 357n 45   
+Johns Hopkins University, 35   
+Johnson, Lyndon, 348
+
+Kahn, Louis, 78
+
+Karmiloff-Smith, Annette, Barbel Inhelder and: "If you want to get ahead, get a theory,"56–59
+
+Kennedy, John, 6
+
+Kerner Commission, 348 knowing, tacit, 49, 52, 53–54, 240 knowing/doing dichotomy, 165; see also action, dichotomy with thought
+
+knowing-in-action: converted to knowledge-in-action, 59; tacit, 49–54
+
+knowing-in-practice: limits reflection-inaction, 275; reflection in and on, 61, 62; self-limiting character of, 275-76;
+
+self-reinforcing system of, 226-28, 235, 281–83; tacit, 60, 61, 62
+
+knowledge, 337-38; institutionalized in public school, 329–31, 334, 335–36; specialized, 4, 5, 11, 22, 342, 344-45, 346; see also professional knowledge knowledge industry, 6, 8
+
+knowledge-in-practice, 69, 345; in planning, 205–6, 208, 209; example of, 210–28, 229, 235; therapeutic, 116– 27
+
+Kuhn, Thomas, 138–39, 140, 182–83, 188
+
+Langdell, Christopher Columbus, 28–29
+
+language (professional), 270–72, 275; spatial action, 95, 157; as virtual world, 157-59
+
+law, 7–8, 13, 242, 340; exemplars in, 315-16; prototype of profession, 23
+
+law education, 28-29 lawyer/client relationship, 293, 294 learning sequence(s), 155, 158, 160, 232 learning systems, organizational, 242-43, 254, 265, 283, 327–28, 338, 345, 353; limits of, 254–66; school as, 335-36
+
+LeCorbusier, (Charles Jeanneret-Gris), 78
+
+Lewin, Kurt, 319, 320
+
+"Librarian, The: From Occupation to Profession,"25
+
+librarianship, 23, 25
+
+listening: psychotherapeutic, 117; reflective, 350
+
+Lynn, Kenneth, 8
+
+management, 14, 268, 308; art of, 236– 66, 271; professional, 326; as sciencebased profession, 168; split in, 236–41, 243, 266, 273
+
+management schools, 238, 240
+
+management science, 237-39, 243; re-Alective, 266
+
+Manhattan project, 37
+
+Mannheim, Karl, 312 market phenomena: interpretation of (example), 244-45
+
+## Index
+
+Massachusetts Institute of Technology, Teacher Project, 66–68, 299, 321, 329, 334,336
+
+means/ends, 40, 41; in Positivism, 33- 34, 165; in problem setting, 46, 47; in reflection-in-action, 68
+
+media, 270–72, 275; of architecture, 128, 157-59; of psychotherapy, 128; repertoire of, 158–59
+
+mediation, professional, 344
+
+Medicaid, 10
+
+Medicare, 10
+
+medicine, 7, 13, 14, 31, 41–42, 312, 325, 340; exemplars in, 316–17; as model of instrumental practice, 34; as model of science-based technology, 38-39; prototype of profession, 23, 28; research/- practice status in, 308; role frames, 311; as science-based profession, 168–70
+
+Mental Health Act of 1964, 107
+
+metaphor(s), 138, 279; generative, 184– 87,269,319
+
+meteorology, 168
+
+Method of Agreement (experimental method), 142, 143
+
+Method of Concomitant Variations (experimental method), 142-44
+
+Method of Difference (experimental method), 142-43
+
+Mies van der Rohe, Ludwig, 78
+
+Mill, John Stuart, 142, 143
+
+ministry, see divinity (profession)
+
+Mintzberg, Henry, 240 modelling, 43–44, 186–87, 203; example, 272
+
+Moore, Wilbert, 22, 24 move(s), 131, 151, 152, 164, 166, 269; affirmed, negated, 146, 181; as experiments, 157, 158, 160; and termination of reflection, 280
+
+move testing, 146, 153–55, 177
+
+mystery/mastery, 126, 227, 229, 230, 233, 262, 304, 305
+
+Nader, Ralph, 351
+
+National Research and Development Corporation, 37
+
+Nelson, Richard, 177, 179, 180
+
+New York City, 12 norms: in managing, 266; in professional/client relationship, 292, 294, 303
+
+Notes Toward a Synthesis of Form (Alexander), 52-53
+
+nursing, 168
+
+objectivity (norm), 133, 166, 273, 312; in public schools, 330–31, 335; violated in hypothesis testing, 149–50
+
+"On Teaching the Rudiments" (Tolstoy), 65–66
+
+on-the-spot experiment, 63, 66, 166, 308–9, 320; in architecture and psychotherapy examples, 94, 122, 124–25, 131, 132; and constancy of appreciative system, 272; evaluation of, 133– 36; in managing, 265, 266; rigor in, 133, 141–56; in teaching, 335
+
+operations research, 16, 37, 43, 238
+
+Oppenheimer, Robert: "The Role of Analogies in Science,"183
+
+optornetry, 168
+
+organizations, formal, 327-29; interpretation of troubles in (example), 246– 50; restructuring of principles and values in, 335–36, 338; school as, 331–32; stability and predictability in, 327–29, 332, 338; see also learning systems, organizational
+
+overlearning, 61
+
+overload, 7-8
+
+Papert, Seymour, 279
+
+Parlett, Malcolm, 323
+
+Participant Observation (Havens), 314
+
+philosophy of science, 48–49
+
+Piven, Francis, 208
+
+planning, 38–39, 268, 273, 311, 312; evolving context of, 204-10
+
+pluralism, professional, 17, 18–19, 41– 42, 129–30, 273, 310–11; in architecture, 77–78, 102, 272–73, 310–11; discussion of, 312–15; dilemmas inherent in, 311-12; in management, 236–41, 243, 266; in planning, 204-5; in psychotherapy, 106–8
+
+Polanyi, Michael, 52, 240 policy analysis, 339, 341; see also public policy
+
+politics: and policymaking, 339–40, 348; special interest, 341-42
+
+Popper, Karl, 143, 146–47, 151
+
+Positivism, 31–34, 39, 42, 46, 48–49, 165-66
+
+practice, 15–19, 33-34; art of, see art, artistry (in practice); constants in, 270– 75; experimental rigor in, 147–56; gap between professional knowledge and, 24, 45-49; hierarchical separation of research from, 23, 26–30, 35-37, 144- 45, 147, 149, 152, 165; mystery of, 278, 282, 288, 304; in Positivism, \_33-34; psychotherapeutic, 105-8; reflective, see reflective practice; research and, 165, 307-25; science-based: Dean Wilson example, 188-203; in Technical Rationality model, 39–40; term, 60; virtual worlds in, 162; see also description (articulation); reflecting-in-practice; rigor/relevance dilemma
+
+practice, epistemology of, 36–37, 51–52, 69, 275; dominant, 21–30, 31, 42, 46, 48-49 (see also Technical Rationality /model/); and professional/client relationship, 292; reflection in action as, 133-67, 287, 345-54; Technical Rationality/reflection-in-action compared, 164–67; see also reflective practice
+
+practitioners: collaborative mode with researchers, 323–25, 339; order imposed by, 163–64, 165; order imposed, in architecture example, 85, 92–94, 99, 101, 103, 131; technical, 44–45; transactional relation to situation, 150-51; see also professionals
+
+primary inhibitory loop, 304–6 problem(s), 16, 47; new, 101, 166, 176, 177, 347; optimization, 47; reframed, in architecture and psychotherapy examples, 82, 85, 89, 90, 91, 93, 94–95, 102, 104, 119, 124, 129, 131-32, 141, 268-69
+
+problem setting, 18, 19, 40–41, 47, 63, 165, 268; in architecture and psychotherapy examples, 129, 132, 137–38; dehned, 40; evaluating experiments in,
+
+133-36; in science-based professions,   
+170; social, 347–48, 349; technical,   
+187–88,193
+
+problem solving, 18, 19, 24, 268; in context of reflective inquiry, 69, exemplars in, 138-40; through generative metaphor, 186–87; as professional practice, 39–40, 41; stance toward inquiry in, 133; technical, 21–22, 165, 168–70, 171-76; unanticipated consequences of, 4, 9-10 (see also consequences, unanticipated); see also Technical Rationality (model)
+
+process(es), 318
+
+process-flow modelling, 189, 190–91, 193-95, 201–2, 273; example, 269, 309,318,320
+
+product designers, 77 product development, 269; example, 250-64, 281–82, 327
+
+professional advocates, 289, 294-95; see also counterprofessionals
+
+professional autonomy, 337, 339; limits on, 346; see also professionals, claims to social mandate, autonomy, and license
+
+professional/client .contract, 292-99, 302-3,307,345
+
+professional/client relationship, 287, 290-306,339
+
+professional education, 5, 14-15; engineering, 171–77; hierarchy of, 23, 35- 37; see also professional schools
+
+professional elites, 288–89, 340, 342
+
+professionalization, 4, 6–7, 37, 326–27
+
+professional knowing, 165
+
+professional knowledge, 22, 307, 340, 345-46; adequacy of, 13-15; and citizen practitioners, 295; crisis of confidence in, 3-20, 39; gap with practice, 24, 45-49; in management, 240; model of, 19 (see also Technical Rationality {model]); properties of, 23-24; reflection-in-action as, 69; scientifc basis of, 23–30, 35, 48; as technical expertise, 339 (see also expertise); see also knowledge, specialized
+
+professionals, 3–6, 10, 45–46; as agents of society's reflective conversation with its situation, 353-57; in bureaucracy, 326–38, 339; claims to social mandate, autonomy, and license, 11–12, 13, 288, 289–90, 291, 296–97, 298, 299, 340, 345-46; conflicts of values, goals, interests, 17–19; loss of faith in, 4–5, 9, 11-13, 39; in public policymaking, 339–42, 349, 350; self-criticism by, 12–13, 18; self-serving, 340; as technical experts, 288
+
+professional schools, 31, 35-36, 46–47, 307–8, 324, 325; curriculum of, 27–30; see also architecture, schools of (pluralism)
+
+professions: critique of, 5, 12–13, 14, 287–88, 290, 293, 294, 296–97, 298, 312, 340–42,344-46, 349, 356n32; defined, 22; demystification of, 288, 289, 290, 340–41, 342, 344–45; essential to society, 3–7, 8, 13, 39 (see also professional knowledge); implications of reflection-in-action for, 287-354; institutional context of, 274–75, 343-46; major/minor, 23, 24–26, 42, 46, 48, 204, 293–94, 307–8, 325; patterns and limits of reflection-in-action across, 267–83; place of, in society, 338–54; scholarly literature on, 22; sciencebased, 168–203
+
+psychiatry, 105–6, 312; schools of, 106–7   
+psychoanalysis, 106, 107
+
+psychotherapy, 128-30, 268; example, 105-27, 273, 311; multiple schools of, 17, 310, 313, 314; storytelling as virtual world in, 160–62
+
+public interest: planning and, 206–7, 208 public policy, 39; demystifcation of professions in, 341-42; political contention in, 342, 348–51, 353, 354; professionalization of, 339-42, 345- 54; in reflective societal conversation, 347-48; Technical Rationality model of, 339–40
+
+public testing of private assumptions, 328; see also town planning, example
+
+reflection: interferes with action, 275,
+
+276–81; on knowing-in-practice, 61, 62; leading to experiment and theory, 181; on reflection-in-action, 126, 127, 243, 263–64, 282; seeing-as, 182–87 reflection-in-action, 49–69, 141; architecture design example, 77-104; cause and consequence of surprise, 328; compared with Technical Rationality (model), 164–67; as ethic for inquiry, 164; examples of, 63–65; implications of, as epistemology of practice, 287– 354; limits to, 267, 275–83, 353; limits to, in management, 242, 244, 254–55, 264–66; limits to, in town planning example, 210, 228–34; in managing, 241-44, 263–66; within organizational learning system, 236–66; patterns and limits of, across professions, 267–83; and professional/client relationship, 295-307; in psychotherapeutic example, 105–27; reciprocal, 304–5, 306, 350–51, 353-57; relation with technical problem solving: engineering design example, 171–76; research on process of, 309, 320–23; stance toward inquiry in, 163–64; structure of, 128– 67; underlying process of, 102–4; when needed, 153, 156
+
+reflection-on-action, 276, 277, 278 reflective conversation with situation, 151, 163, 164, 165, 167, 170; across professions, 268, 272, 273, 274, 280, 281; in architecture and psychotherapy examples, 130–32, 135, 136, 141, 148; engineering design as, 76–104, 172, 175–76, 188; in management, 242, 245, 265; in professional/client relationship, 295-307; in psychotherapy example, 124-27; in public policy, 346–47, 348, 349, 350, 353; reflective practice takes form of, 295
+
+reflective practice, 295–307, 353; as alternative to traditional epistemology of practice, 345-54; and bureaucratization of professional work, 337–38; institutions for, 326-38; in science-based professions, 168-203; see also reflection
+
+regional planning, 76
+
+Reich, Charles, 12
+
+repertoire(s): of cases, maxims, materials:
+
+reflecting-in-practice, 59–69
+
+repertoire(s) (continued)
+
+management, 265; constancy of, 270– 72, 275; of examples and themes, 166; of examples, images, understandings, actions, 138, 141; of expectations, images, techniques, 6o, 66; of meanings, 103, 119, 125–26, 132, 137-40
+
+research: as basis of professional expertise, 288, 289–90; dichotomy with practice, 26–30, 35-37, 144-45, 147, 149, 152, 165, 169, 308; exposed as rationalization for class interests, 340– 41; on fundamental methods of inquiry and overarching theory, 309, 317–20; implementation of, 341 (see also science, applied); as process of reflection-in-action, 309, 320–23; reflective, 309-25; repertoire-building, 309, 315-17,323
+
+research-in-practice, 68–69, 298–301, 308-9; see also on-the-spot experiment
+
+research-practice partnership, 323-25, 345
+
+rigor, 141-56; virtual worlds in, 157- 67
+
+rigor/relevance dilemma, 42-43, 44-45, 47–49, 69, 308; in management, 240– 41; and science-based practitioners, 188
+
+role, 130, 287; in planning, 204–6, 209, 210, 211, 234-35
+
+role frame, 63, 190, 210, 270, 272, 275, 283, 310, 311, 315; constancy of, 274– 75; town planning example, 211, 221– 26,227, 228, 233-34
+
+"Role of Analogies in Science, The"(Oppenheimer), 183
+
+Ronco, William, 323
+
+Rousseau, Jean-Jacques, 65
+
+Rutstein, David, 13
+
+Ryle, Gilbert, 51
+
+Scheffler, Israel, 329
+
+Schein, Edgar, 24, 27, 45–46, 47–48, 307 school, public: reflective practice/technical expertise in (example), 329- 36
+
+Schultz, Alfred, 53
+
+science, 7, 33, 37–39; applied, 24–25, 42, 308,325,339
+
+Sciences of the Artificial, The (Simon), 45
+
+scientific investigation: art of, 176–82
+
+scientific knowledge: applied in professional activity (requirement), 21, 22, 23-30, 31-32, 37-39; exclusivity of, 31-33; production of, 38; see also Technical Rationality (model)
+
+scientific world-view, 31
+
+Scotch Tape (example), 245
+
+seeing-as, 139, 140, 141, 166, 182–87
+
+selective attention, inattention, 61, 69, 160
+
+semiconductors (example), 177-78
+
+Shils, Edward, 35
+
+Shockley, W., 178–80 similarity, perceived, 140, 182–87, 203; see also seeing-as
+
+Simon, Herbert, 77, 169; "diet problem," 191; The Sciences of the Artificial, 45, 46-47
+
+situation: adapting to frame, 131, 190, 272 (see also town planning); transactional relation with, 163–64, 165; see also reflective conversation with situation
+
+situations of uncertainty, instability, uniqueness, conflict, 16, 18, 19, 20, 39, 41, 42, 61, 62–63, 69, 164; action science in, 319–20; artistry in, 49, 50, 165; decision under, 239; error reinforced in, 305; limit scope of technical expertise, 345; professional patterns in dealing with, 268; research-in-practice in, 308; see also uniqueness
+
+skills, 27-28, 30 social choice, rational, 341 social control: by professional elite, 107, 288-90,340
+
+socialism: citizen-professionals in, 342-43
+
+social planning, 206–9 social problerns, 4, 9–10, 11, 12; modelling and, 44-45; scientific knowledge used to solve, 37-38
+
+social reform, 341, 342; professional expertise in, 344-45
+
+social work (profession), 17, 23, 25–26, 38–39, 46, 107, 294, 311, 312, 336
+
+society: place of professions in, 338-54   
+sociology of knowledge, 312–13
+
+special interest groups, 207, 208–9, 341-42
+
+specialization, 60-61; see also knowledge, specialized
+
+Sputnik, 39, 171
+
+statecraft, 32
+
+status, 4, 23, 24–26, 37, 46, 172, 288, 303-4, 325, 340, 345; and professional/client relationship, 291, 298- 99; of psychoanalysts, 106–7; see also research, dichotomy with practice storytelling: as virtual world in psychotherapy, 160-62
+
+"stuckness": in architecture and psychotherapy examples, 93, 109–10, 118– 19, 122–23, 124, 125, 127, 129, 131, 134; as incentive for reflection-inaction, 280
+
+Sullivan, Harry Stack, 314 surfacing of dilemmas, 328, 334, 335–36, 338, 350; see also town planning, example
+
+surprise, 56, 68, 327; reflection-in-action is cause and consequence of, 328; triggers reflection, 280
+
+systems analysis, 189–203
+
+systems engineers, 273
+
+systerns theory, 238
+
+Taylor, Frederick, 237, 238, 239
+
+Teacher Project, MIT, 66–68, 299, 321, 329,334,336
+
+teaching, 293-94; reflective, 332–36 technical rationality, 338; industry as prototype of, 336
+
+Technical Rationality (model), 21-30, 50,69, 188,287, 288, 319, 340;awareness of limits of, 37-49; compared with reflection-in-action, 164-67; critique of, 288, 346; logic of experimental method in, 141–45; origins of, 30- 37; place of professions in, 338-39; science-based professions in, 168–69; stance toward inquiry in, 163
+
+Technological Program, 31–32, 33, 34, 37, 288, 346, 351; radical critics of, 340
+
+technology, 10, 15, 331 theory, overarching, 152, 164, 166, 270, 273-74, 275; research in, 317–20; use in reflection-in-action, 274
+
+theory building, 181 theory-in-use: error reinforced in, 305–6; interpersonal, 283 (see also action, interpersonal theory of)
+
+theory testing, 309
+
+3M Corporation, 245
+
+Three Mile Island, 12
+
+Tolstoy, Lev Nikolayevitch, 68, 313; "On Teaching the Rudiments,"65-66
+
+Torbert, William, 319 town planning, 23, 76, 204–35; example, 271,274, 281,282,309-10,311 transference (psychotherapy), 118, 123, 124, 125; as virtual world, 160–61, 162
+
+Trist, Eric, 353
+
+unions, professional, 13 uniqueness, 39, 41, 45–46, 61, 62–63, 68–69, 308; action science and, 319– 20; in architecture and psychotherapy examples, 129, 132; artistry in, 49, 50, 165, 170; bring past experience to bear on, 137–40, 141; as domain of inquiry,
+
+150; in management, 239, 265, 266; practitioners of, in psychotherapy, 108–27; practitioner's transactional relation to, 150-51
+
+U.S. government: research spending, 38 university(ies), 34-37, 324, 325; institutionalization of Technical Rationality in, 30-31; see also professions, institutional context of
+
+University of Chicago, 36 urban crime: as example of social problem setting, 347–48
+
+urban planning, 8, 9, 76; metaphor in, 319-20
+
+urban renewal, 10, 208, 340
+
+vagueness, 305–6, 343 values, 171–72; conflicting, 39, 42, 49, 50, 338; congruence of interpretive systems with, 136, 141, 152, 317–18;
+
+values (cor. in inter ample, 191- 226-271ONAL LAW SCHOOL OF INDIA, 274,309,318, Veblen. Thors UNIVERSITY LIBRARY BRARY 36.328 3-6,328
+
+Vickers, Geoffrey, 53, 240, 322, 347
+
+Vienna Circle, 32, 48
+
+virtual worlds, 157–62, 166, 271, 279,
+
+vunu.n-ganization,193   
+World War II, 37–38, 39, 43, 238   
+Wright, Frank Lloyd, 74
+
+Yasnaya Polanya (journal), 65
+
+Watergate, 10-11   
+Weber, Max, 326-27   
+Whitehead, Alfred North, 22
+
+Zinberg, Norman, 106
+
+Purchasor   
+Aoproval,   
+Gratis Kemmals gallant   
+ACe. NO. 10342   
+Prico National Law School of India Univeroity Librery Sangalore-
+
+![](images/d3489fe46c20853180c5ee99936136ecf143ea20da618fe5a0d88d4dad7bdeff.jpg)
+
+153.4 CI No.SEtt AuthorScho... Aa..d
+
+153.4 sctt
+
+A leading M.I.T.social scientist and consultant examines five professionsengineering, architecture, management, psychotherapy, and town planning-to show how professionals really go about solving problems
+
+The best professionals, Donald Schön maintains, know more than they can put into words. To meet the challenges of their work, they rely less on formulas learned in graduate school than on the kind of improvisation learned in practice. This unarticulated, largely unexamined process is the subject of Schön's provocatively original book, an effort to show precisely how"reflection-in-action" works and how this vital creativity might be fostered in future professionals.
+
+"An important contribution to the literature of planning theory and practice. Its insights are as valuable as those of Altshuler twenty years ago in The City Planning Process. The Reflective Practitioner offers much food for thought about how planning should be taught and practiced." JUDITH I. DENEUFVILLE, American Planning Association Journal
+
+"Clarifies the struggle between art and science in the professional manager's thought process, It is also well written."—Harvard Business Review
+
+DoNALD A. ScHön is Ford Professor of Urban Studies and Education at the Massachusetts Institute of Technology.
+
+ISBN 0-465-06878

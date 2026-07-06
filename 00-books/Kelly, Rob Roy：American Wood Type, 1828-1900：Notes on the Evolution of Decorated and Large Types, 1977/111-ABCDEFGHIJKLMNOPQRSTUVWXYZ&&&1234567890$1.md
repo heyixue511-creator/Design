@@ -1,0 +1,1 @@
+# ABCDEFGH IJKLMNOP QRSTUVW XYZ&&&12 34567890\$1 French Clarendon No.2. First shown as a wood type during the 187O's. This cutting by the Hamilton Company. Lowercase is missing. There were a number of variations of this style, but each modification was given a separate name or number. The cap on the capital"A" is a distinguishing trait for this group of letterforms.

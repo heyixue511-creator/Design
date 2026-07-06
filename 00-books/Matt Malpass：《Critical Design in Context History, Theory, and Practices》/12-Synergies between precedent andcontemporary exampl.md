@@ -1,0 +1,37 @@
+contemporary critical design – for example in Sparke’s retrospective account of Italian critical design. Furthermore, increased analysis of the practice and its linage, for example Mazé (2007), Malpass (2012), and Rossi (2013), have worked to contextualize critical design within the disciplinary canon and shed light on its influence. The rest of this chapter moves to explore the influence of examples of early critical design on examples that are more recent. It shows synergies that exist between the tactics employed and themes addressed through practice.
+
+## Synergies between precedent and contemporary examples of critical design
+
+In the essay ‘Where is the designer on identity and plurality’, Scholz (1989) presents a range of examples demonstrating the main intentions of the design approaches taken in the work of the Italian critical designers, New German designers, and Droog. Scholz introduces a number of salient tactics employed in practice that are useful when analysing critical design.
+
+Describing the critical designers use of obsolete objects, Scholz introduces the concept ‘context transfer’ to describe when one object is taken out of context and placed into another to give new meaning and function, exemplified in the case of the Castiglioni’s Sella Stool. She uses the term ‘cut up’ to describe new combinations of materials and collages that could include historical elements exemplified in Droog’s and Remi’s You Can’t Lay Down Your Memories. Finally, she talks of ‘hybrids’ in which contrary to the traditional concept of homogeny in design, trivial objects are changed through the addition of extrinsic elements as exemplified through many of the strategies employed by Superstudio and Archigram (Brandes, Stich, and Wender 2009, 41). These methods work to establish the critical move through a narrative and object typology that offers a form of material commentary. These approaches are common in contemporary examples of critical design practice and demonstrate the synergies between examples of critical design developed at different points in its history.
+
+Superstudio and Archigram used objects and collage in the production of magazine publications to visualize localized utopian futures. The legacy of their design language, approaches, and the narratives that were constructed through technocratic visualizations, storyboard illustration, and photomontage to build scenarios is commonly applied today. We can see a clear example of this methodological lineage if we compare Archigram’s Instant City Airships (1968) by Peter Cook alongside Brendan Walker’s Chromo 11: Airlife Seat Belts (2004).
+
+Instant City Airships proposes a mobile technological event that drifts into underdeveloped, drab towns via air (balloons) with provisional structures and performance spaces in tow. The effect is a deliberate overstimulation to produce mass culture, with an embrace of advertising aesthetics. The event is intended to eventually move on, leaving behind advanced technology and cultural hook-ups.
+
+![](images/04e3236d98d531b59929de2511ca9dadf49b7b2f2030e835248d5174891cad16.jpg)  
+Figure 2.5 Instant City Airships, The Airship in Lancashire: Model/collage, Peter Cook, © Archigram 1970.
+
+![](images/08d04e462bbe60a5a582d868f8df19a970518d9966b1cfdadfb9a2babee392f7.jpg)  
+Figure 2.6 Chromo 11: Airlife Seat Belts 2004. © Brendan Walker; 2005; Thrilling Designs: Chromo 11 Volume Two; Aerial Publishing, London.
+
+Chromo 11: Engineering the Thrill draws inspiration from the traditions of the fairground methods of the French Situationists. The proposal aims to design new types of stimulating thrilling experiences. Airlife from Chromo 11 is a collection of thrill rides based on the fusion of the European Airbus A340 and the English home. Walker’s use of photomontage resonates with the techniques and visualizations used by Superstudio and Archigram. The comparison of scenarios demonstrates synergies between the early critical design collective and Walker.
+
+A similar comparison can be drawn between Superstudio and Dunne and Raby. Superstudio’s Il Monumento Continuo (1969) proposed a gridded superstructure that would wrap around the world. Eventually, this structure would cover the entire surface of the planet leaving a featureless urban environment that inhabitants would plug into to meet their living needs. The point was exaggerated but poignant: Superstudio was commenting on the way globalization and consumption was dominating society. Taking this to a logical extreme, the collective proposed a future society living in a large anonymous megastructure in a networked existence. The proposition is even more poignant in retrospect when considering Superstudio proposed the scenario in a pre-Internet era and long before any discourse relating to an ‘Internet of Things’.
+
+![](images/65f35bb842294c506a29a713536b5292bb2b70e09cc6ff57db8c1efae621cd96.jpg)  
+Figure 2.7 Superstudio (Frassinelli, Magris Alessandro e Roberto, Toraldo di Digitale (1)(A). Francia, Natalini): Supersurface, The Happy Island, project 1971. New York, Museum of Modern Art (MoMA). Ink, airbrush, graphite, and cut-and-pasted printed paper on paper 19 ¾× 27 ⅝" (50.2 × 70.2 cm). Given anonymously Acc. n.: 1254.1974© 2016. Digitalimage, The Museum of Modern Art, New York/Scala, Florence.
+
+In United Micro Kingdoms (2013), Dunne and Raby propose a noir technological future. In one scenario, they introduce a section of society that they call Digitarians. Digitarians ‘depend on digital technology and all its implicit totalitarianism – tagging, metrics, total surveillance, tracking, data logging, and 100 per cent transparency’. Their society is organized entirely by market forces; citizen and consumer are the same. For them, nature is there to be used up as necessary. They are governed by technocrats or algorithms – no one is entirely sure, or even cares – as long as everything runs smoothly and people are presented with choices, even if illusionary (Dunne and Raby 2014).
+
+Synergies can be drawn between these two examples of critical practice, both in terms of the medium and the style in communication. The use of collage or photomontage to establish the visions of a future is present in both examples; this offers a hyperreal stylized aesthetic that aids in affording the dilemma of interpretation, because at the same time the scenario is both seductive and jarring.
+
+Moreover, the themes engaged through practice resonate with each other even though they are operating fifty years apart; both practices challenge technocracy, the influence of globalization, and the effect of technological consumption, automation, and networks. Each speculates on the effect of these on sociotechnical futures and both propose uncanny trajectories of progression.
+
+![](images/c35b3e6a7b890cd5c5cc53bf4474076bccaf41b084ae2d830a7e1f5f519d2bab.jpg)  
+Figure 2.8 Dunne and Raby, United Micro Kingdoms: Digiland, 2013. CGI: Tommaso Lanza.
+
+Recent examples of conceptual furniture design by Martino Gamper, Marti Guixe, and Studio Ball apply mechanisms in practice that reference the work of Droog and New German Design, and ultimately approaches of cut up and context transfer pioneered by Achille and Pier Giacomo Castiglioni.
+
+![](images/5017ed98d6a85bb28222ac86b0281775db302349fab2b6b392d1107f49d6065f.jpg)

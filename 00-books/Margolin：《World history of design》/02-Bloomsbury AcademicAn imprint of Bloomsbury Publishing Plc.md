@@ -1,0 +1,1192 @@
+# Bloomsbury Academic An imprint of Bloomsbury Publishing Plc
+
+50 Bedford Square   
+London   
+WC1B 3DP   
+UK
+
+1385 Broadway New York NY 10018 USA
+
+# www.bloomsbury.com
+
+BLOOMSBURY and the Diana logo are trademarks of Bloomsbury Publishing Plc
+
+First published 2015
+
+Hardback reprinted 2017 Paperback edition first published 2017
+
+© Victor Margolin, 2015
+
+Victor Margolin has asserted his right under the Copyright, Designs and Patents Act, 1988, to be identified as Author of this work.
+
+All rights reserved. No part of this publication may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage or retrieval system, without prior permission in writing from the publishers.
+
+No responsibility for loss caused to any individual or organization acting on or refraining from action as a result of the material in this publication can be accepted by Bloomsbury or the author.
+
+British Library Cataloguing-in-Publication Data
+
+A catalogue record for this book is available from the British Library.
+
+ISBN: HB: 978-1-4725-6651-5
+
+2-Volume Set: 978-1-4725-6928-8
+
+PB: 978-1-3500-1273-8
+
+2-Volume Set (PB): 978-1-3500-1845-7
+
+Library of Congress Cataloging-in-Publication Data
+
+A catalog record for this book is available from the Library of Congress.
+
+Cover design: Louise Dugdale
+
+Typeset by Fakenham Prepress Solutions, Fakenham, Norfolk NR21 8NN Printed and bound in India
+
+## 20
+
+21
+
+22
+
+PP. 5-32
+
+PP.33-72
+
+PP. 73-105
+
+Design in the Soviet Union
+
+Weimar Germany
+
+France
+
+1905-1928
+
+1918-1933
+
+1918-1939
+
+## 23
+
+24
+
+25
+
+PP. 107-139
+
+PP. 141--203
+
+PP.205-268
+
+Great Britain
+
+Western and Southern Europe
+
+Central and Eastern Europe
+
+1918-1939
+
+1900-1939
+
+1900-1939
+
+26
+
+27
+
+28
+
+PP. 269-297
+
+PP. 299-363
+
+PP. 365-459
+
+Scandinavia
+
+Italy, Germany, the Soviet Union, and Portugal
+
+The United States
+
+1917-1945
+
+1922-1940
+
+1917-1941
+
+## 29
+
+PP.461-515
+
+Latin America: Cuba, Mexico, and Brazil
+
+1900-1939
+
+## 30
+
+PP.517-553
+
+Latin America: Chile, Argentina, Colombia, Venezuela, and Uruguay
+
+1900-1939
+
+## 31
+
+PP.555-613
+
+Commonwealth Countries: Canada, Australia, and New Zealand
+
+1900-1939
+
+## 32
+
+PP.615-686
+
+The Near and Middle East
+
+1900-1939
+
+## 35
+
+PP.755-782
+
+Asia: China and Siam
+
+1900-1939
+
+Index 917
+
+## 33
+
+PP. 687-727
+
+Colonies: Africa
+
+1900-1945
+
+## 36
+
+PP.783-831
+
+Asia: Japan, its Colonies, and its Territories
+
+1900-1937
+
+## 34
+
+PP.729-753
+
+Colonies: India, Hong Kong, and Burma
+
+1900-1945
+
+## 37
+
+PP. 833-915
+
+World War II
+
+1939-1945
+
+## Plates
+
+o1 Alexander Apsit, Year of the Proletarian Dictatorship, poster, 1918.
+
+02 El Lissitzky, About Two Squares, cover, 1922.
+
+03Varvara Stepanova, design for sportodezhda, 1923.
+
+04 M. Bulanov, Mosselprom Tobacco, 1927.
+
+05 Bruno Taut, Alpine Architecture, text and illustrations, 1919.
+
+06 Hannah Hoch, Cut with the Kitchen Knife Dada through the Last Weimar Beer-Belly Cultural Epoch of Germany, photomontage, 1919–1920.
+
+07 Joost Schmidt, Bauhaus exhibition poster, 1923.
+
+08 Herbert Bayer, Bauhaus exhibition catalog, 1923.
+
+09 Jan Tschichold, Die Frau ohne Namen, poster, 1927.
+
+10Compagnie des Arts Français, hand-painted screen, 192os.
+
+II Theo van Doesburg, Café Aubette, design for Grand Salle, 1928.
+
+I2 Anon., Marseille, Exposition Coloniale, poster, 1906.
+
+13Charles Martin, Sports et Divertissements, llustration, 1923.
+
+14 Paul Colin, Revue Négre, poster, 1925.
+
+16 Gerald Spencer Pryse, British Empire Exhibition, poster, 1924.
+
+15 A. M. Cassandre, Bifur, type specimen book, 1929.
+
+I7 Henry Beck, London Underground map, 1933.
+
+18 E. McKnight Kauffer, Daily Herald, poster, 1917.
+
+19 Pat Keely, Night Mail, poster, 1939.
+
+20 Gerrit Rietveld, Red and Blue chair, c. 1923.
+
+21 Vilmos Huszár, Miss Blanche Virginia Cigarettes, poster, 1926.
+
+22 Hendrik Nicolaas Werkman, The Next Call 6, 1924.
+
+23Pierre Gauchat, Exposition Nationale Suisse, poster, 1929.
+
+24 Josep Renau, The fruit of the farmer's work is as sacred as the worker's salary, poster, 1937.
+
+25 Celest Polychroniadi, Greece, poster, 1938.
+
+26 Jindřich Štyrský and Karel Teige, Pantomima, cover, 1924.
+
+27 Karel Teige, On the Ship Bringing Tea and Coffee, cover, 1928.
+
+28 Tadeusz Gronowski, Radion, poster, 1926.
+
+29 Géza Faragó, Törley Champagne, poster.
+
+30Tomislav Krizman, Marya Delvard, concert poster, 1907.
+
+31 Wilhelm Kåge, Liljeblå (Blue Lily) dinner service, 1917.
+
+32 Josef Frank, Svenskt Tenn, textile design, 1943-1944.
+
+33 Gustav Dalén, Aga cooking range, date unconfirmed.
+
+34 Nora Gulbrandsen, coffee set, Porsgrund Porselaensfabrik, 1929-1931.
+
+35 Jorma Suhonen, Visit Finland, Helsinki, poster, 1935.
+
+36 C. V. Testi, Exhibition of the Fascist Revolution, poster, 1932.
+
+37Giacomo Balla, coffee service, 1928.
+
+38 Xanti Schawinsky, Olivetti MPr typewriter, poster, 1935.
+
+39National Socialist Party Organization Manual, page spread, 1937.
+
+40 Ludwig Hohlwein, The German Student Fights for the Führer and the People, poster, 193os.
+
+4I Bolshevism, poster, 1937.
+
+42 El Lissitzky, USSR in Construction, "Constitution issue," cover, 1937.
+
+43 Russel Wright, dinnerware, 1939.
+
+44 Frank R. Paul, Amazing Stories, cover, 1928.
+
+45 Chrysler Airflow Eight, 1934.
+
+46 J. C. Leyendecker, Arrow Dress Collars and Shirts, advertisement, early 192os.
+
+47Otis Shepard, Wrigley Company billboard, 193os.
+
+48 Lester Beall, REA Radio, poster, 1937.
+
+49 Bohemia, cover, 1929.
+
+50 Andrés García Benítez, Carteles, cover, 1936.
+
+SI Ernesto Garcia Cabral, Revista de Revistas, cover.
+
+52 Gabriel Fernández Ledesma and Francisco Díaz de León, Campaign for Corn, poster, 1938.
+
+53 Tarsila do Amaral, Pau-Brasil, cover, 1925.
+
+54 Tomás Santa Rosa, Cacáu, cover, 1932.
+
+55 Paul Dufresne, Zig-Zag, cover, 1905.
+
+56 Luis Fernando Rojas, Ratanpuro is the better tea, poster, 1903.
+
+57 Achille Mauzan, Crosley Radio, poster, 1930.
+
+58 Melchior Méndez Magariños, The Man Who Ate a Bus, cover, 1927.
+
+59 Peter Ewart, Canadian Rockies, poster, 1941.
+
+60 Victoria Railways, Spirit of Progress, 1937.
+
+61 Leonard Mitchell, New Zealand, poster, 193os.
+
+62 İhap Hulusi Gorey, Sumerbank, poster, c. 193os.
+
+63 Bullet in the Heart, poster, 1944.
+
+64 Arieh El-Hanani, Flying Camel emblem, Levant Fair, poster, 1934.
+
+65 Franz Krausz, Visit Palestine, poster, 1936.
+
+66 Geoffroy d'Aboville, Syria and Lebanon, poster, c. 192os.
+
+67 Iran-e Emruz, cover, 1930s.
+
+68 Star Toto Print, cotton bale label, c. 1920s.
+
+69 Jeanne Thil, Transatlantique, poster, c. 1930.
+
+70 Charles-Jean Hallo, Air Afrique, poster.
+
+71 Alexander De Andreis, Banania, poster, c. 1915.
+
+72Sunlight Soap, poster, 1930.
+
+73 Austin Cooper, See India, poster 1930s.
+
+74 Zhou Muqiao, Xiehe Trading Company, poster, 1914.
+
+75 Zhiying Studio, The Great Eastern Dispensary Ltd., poster, 1930s.
+
+76 The Ark, cover, 1937.
+
+77 Qian Juntao, Literature Monthly I, cover, 1935.
+
+78 Tsunetomi Kitano, Exhibition of Export Articles, 1911.
+
+79 Hashiguchi Goyo, Mitsukoshi Department Store, poster, 1911.
+
+80 Kono Takashi, The Lady and the Beard, poster, 1931.
+
+81 Yamana Ayao, Nippon, cover of first issue, 1934.
+
+82 Modern Beauties in Manchurian, postcard.
+
+83 Utility furniture booklet, cover, c. 1943.
+
+84 Jud Süss, poster, 1940.
+
+85 Bernard Villemot, Patrie, poster, 1942.
+
+86 Gino Boccasile, poster, c. 1942.
+
+87 Fougasse, Careless Talk Costs Lives, poster, 1940.
+
+88 El Lissitzky and Nikolai Troshin, Everything for the Front. Everything for Victory, poster, 1942.
+
+89 Ben Shahn, This is Nazi Brutality, poster, 1942.
+
+## Figures
+
+20.01 Anon., Gadfly, 1906. 5
+
+20.02 Dmitry Moor, Proletarians of all countries, unite!, poster, 1919. 7
+
+20.03 Dmitry Moor, Have You Enrolled as a Volunteer?, poster, 192o. 8
+
+20.04 Vladimir Mayakovsky, ROSTA window no. 132, 192o. 9
+
+20.05 Soviet propaganda railcar, c. 1922. 10
+
+20.06 El Lissitzky, Beat the Whites with the Red Wedge, poster, 1920. 12
+
+20.07 Alexei Gan, Constructivism, cover, 1922. 13
+
+20.08 Vladimir Tatlin, Monument to the Third International, 192o. 14
+
+20.09 Alexander Rodchenko, Workers' Club, 1925. 17
+
+20.10 Nikolai Suetin, Suprematist teapot, c. 1925. 20
+
+20.11 Alexander Rodchenko, Kino Glaz, poster, 1924. 21
+
+20.12 Liubov Popova, The Magnanimous Cuckold, stage set drawing, 1922. 21
+
+20.13 Alexander Rodchenko, Nowhere but in Mosselprom, Mosselprom logo, 1924. 25
+
+20.14 Vladimir and Gyorgy Stenberg, Gossip, poster, 1928. 26
+
+20.15 Alexander Rodchenko, Lef 3, cover, 1923. 27
+
+20.16 Alexander Rodchenko, About It, cover, 1923. 28
+
+20.17 Alexander Rodchenko, About It, photomontage, 1923. 29
+
+20.18 El Lissitzky, For the Voice, page spread, 1923. 29
+
+21.01 Raoul Hausmann, Club Dada, prospectus, 1918. 36
+
+21.02 John Heartfield, Jedermann sein eigner Fussball, cover, 1919. 37
+
+21.03 Raoul Hausmann, Tatlin at Home, photomontage, 1920. 37
+
+21.04 El Lissitzky, Veshch, cover, 1922. 38
+
+21.05 Kurt Schwitters, Merz II, cover, 1924. 39
+
+21.06 El Lissitzky, Merz Matineen, poster, 1923. 40
+
+21.07 Lyonel Feininger, "Bauhaus Manifesto", illustration, 1919. 41
+
+21.08 Oskar Schlemmer, Bauhaus logo, 1922. 41
+
+21.09 Benita Koch Otte, rug for a child's room, 1923. 42
+
+21.10 Karl Jacob Jucker and Wilhelm Wagenfeld, table lamp, 1924. 43
+
+21.1I Marcel Breuer, chair, 1922. 43
+
+21.12 Gerhard Marcks and Wilhelm Wagenfeld, Sintrax coffeemaker, early 193os. 46
+
+21.13 Marguerite Friedlander-Wildenhain and Trude Petri, Halle service, 193o. 46
+
+21.14 Laubfrosch (Tree Frog), Opel, 1924. 47
+
+21.15 Mercedes-Benz Grosser, 1930s. 48
+
+21.16 Walter Gropius, Bauhaus building, Dessau, 1926. 49
+
+21.17 Marcel Breuer, Wassily chair, 1925. 50
+
+21.18 Marianne Brandt, Kandem table lamp, 1928. 51
+
+21.19 Herbert Bayer, Universal alphabet, 1925. 51
+
+21.20 Grete Schütte-Lihotzky, Frankfurt kitchen, 1926. 56
+
+21.21 Mies van der Rohe, MRio tubular steel chair, 1927. 57
+
+21.22 Ludwig Hohlwein, Summer in Germany, poster, c. 193o. 59
+
+21.23 Wilhelm Deffke, Der Zuker, poster, 1925. 61
+
+21.24 Paul Renner, Futura, promotional material, c. 1929. 62
+
+21.25 Gefesselter Blick, cover, 1930. 64
+
+21.26 John Heartfield, Oil, front and back covers, 1927. 67
+
+21.27 John Heartfield, Adolf the Superman, AIZ photomontage, 1932. 68
+
+22.01 André Groult, sharkskin cabinet, 1925. 76
+
+22.02 Jean Dunand, egg-shell lacquer vase, c. 1923–1924. 76
+
+22.03 Pierre Patout, L’Hôtel du Collectionneur, 1925. Sculpture by Joseph Bernard. 77
+
+22.04 Jacques-Émile Ruhlmann, chariot sideboard, 1919. 77
+
+22.05 Le Corbusier, Pavillon de l’Esprit Nouveau, interior, 1925. 8o
+
+22.06 Tristan Tzara, Le Coeur à Barbe, cover, 1922. 82
+
+22.07 Sonia Delaunay, dress design with matching car body, 1925. 83
+
+22.08 Jean Puiforcat, silver tea set, c. 1925. 83
+
+22.09 Charlotte Perriand, Le Corbusier, Pierre Jeanneret, chaise longue, 1928. 84
+
+22.10 Francis Bernard, 7th Salon des Arts Ménagers, poster, 193o. 86
+
+22.11 Marcel Pourtout, Peugeot 401, 1934. 88
+
+22.12 Citroën CV, Type C, roadster, 1924. 90
+
+22.13 Jean-Victor Desmeures, Exposition Coloniale Internationale, poster, 1931. 92
+
+22.14 Roger-Henri Expert, Normandie grand salon, 1935. 94
+
+22.15 He has won!, Vu, cover, 1933. 97
+
+22.16 A. M. Cassandre, L'Intransigeant, poster, 1925. 98
+
+22.17 A. M. Cassandre, Étoile du Nord, poster, 1927. 99
+
+22.18 Charles Loupot, St. Raphael Quinquina, poster, 1937. 100
+
+22.19 Benjamin Rabier, La vache qui rit, poster with trademark, c. 192ı. 101
+
+23.01 Gordon Russell, bookcase, 193os. 110
+
+23.02 R. D. Russell, Murphy Radio cabinet, c. 1930. II
+
+23.03 E. McKnight Kauffer, London Underground poster, 1930. 111
+
+23.04 Man Ray, London Underground poster, 1939. 112
+
+23.05 Marcel Breuer, Isokon Ltd, reclining long chair, 1936. 117
+
+23.06 Keith Murray, Wedgwood, earthenware beer mugs, c. 1934 118
+
+23.07 Welles Coates, Ecko AD-65 Wireless radio, 1934. 119
+
+23.08 George Carwardine, Anglepoise lamp, 1933. 120
+
+23.09 Herbert Austin and Stanley Edge, Austin 7, 1922. 122
+
+23.10 Edgar Ainsworth, Everywhere You Go, You Can Be Sure of Shell, poster, 1934. 124
+
+23.1I Nigel Gresley, A4 Silver Jubilee locomotive, LNER, 1936. 125
+
+23.12 Tom Purvis, East Coast by LNER, poster, 1928. 126
+
+23.13 Queen Mary, observation lounge and cocktail bar, 1936. 127
+
+23.14 Imperial Airways, Empire Flying Boat, promenade deck, 1936. 128
+
+23.15 Theyre Lee-Elliott, Imperial Airways poster, c. 1935. 129
+
+23.16 Eric Gill, Gill Sans typeface, 1928. 130
+
+23.17 Stanley Morison, Times New Roman typeface, 1932. 130
+
+23.18 Ashley Havinden, Hats Off for the New Chrysler 65, poster (German version), 1929. 132
+
+23.19 E. Mcknight Kauffer, Art Now, cover, 1936. 133
+
+23.20 H. H. Harris, Bovril prevents that sinking feeling, poster, c. 1925. 134
+
+23.21 John Gilroy, Guinness for strength, poster, 1934. 135
+
+24.01 Carel Adolphe Lion Cachet, Industries Fair, poster, 1917. 142
+
+24.02 Michel De Klerk, dining chair with armrests, 1916. 143
+
+24.03 Hendricus Theodorus Wijdeveld, Wendingen, (Frank Lloyd Wright, special issue), 1925. 144
+
+24.04 Gerrit Rietveld, Schröder house, exterior, 1924-1925. 148
+
+24.05 W. H. Gispen, Giso Lamps, poster, 1928. 149
+
+24.06 Piet Zwart, Bruynzeel kitchen, 1938. 151
+
+24.07 Vilmos Huszár, De Stijl, cover, 1917. 154
+
+24.08 Jan van Krimpen, Lutetia typeface, 1923–1924. 156
+
+24.09 Jac Jongert, Van Nelle, poster, 1927. 157
+
+24.10 Piet Zwart, NKF, advertisement, 1927. 159
+
+24.11 Paul Schuitema, Berkel scales, prospectus. 160
+
+24.12 Cas Oorthuys and Jo Voskuil, The Olympic Games under a dictator, poster, 1936. 161
+
+24.13 De Coene Frères, Belgian Pavilion, artisan bedroom, Paris World's Fair, 1937. 166
+
+24.14 Jozef Peeters, "Modern Poems Recited by Germaine Michielsen," invitation, 1921. 167
+
+24.15 Leo Marfurt, Belga cigarettes, package, 1925. 168
+
+24.16 René Magritte, The True Face of Rexism, poster, 1939. 169
+
+24.17 Compass Camera, 1937. 171
+
+24.18 Hans Coray, Landi chair, 1938. 172
+
+:4 Niklaus Stoecklin, Gaba prevents!, poster, 1927. 173
+
+Otto Baumberger, PKZ, poster, 1923. 173
+
+4  El Lissitzky, Die Kunstismen, cover, 1925. 175
+
+4: Herbert Matter, Winter Holiday, Doubled Holiday, poster, 1934. 176
+
+: :: Richard Paul Lohse, Geld, cover, 1938. 178
+
+:4 :4 Max Bill. Negerkunst, poster, 1931. 180
+
+:+ :、 Ernst Keller, Rational Building Construction, poster, 1931. 182
+
+:4 : Theo Ballmer, Neues Bauen, poster, 1928. 183
+
+4.: · Dora Hauth, To Protect the Young and the Weak, Yes to Women's Right to Vote, poster, 192o. 184
+
+:4 : Mise van der Rohe, Barcelona Pavilion, interior, 1929. 185
+
+4 Hispano-Suiza J-12,1933.187
+
+:4.: Francesc d'Assís Galí, International Exhibition Barcelona, poster, 1929. 189
+
+:4.;: Pere Català Pic, Aixafem el Feixisme (Smash Fascism), c. 1936. 193
+
+4.:: Fokion Dimitriadis, Permanent Exhibition of Greek Products, catalog cover, 1938. 195
+
+4.:: Nikos Kastanakis and A. Sprachis, Papastratos cigarettes, poster, 193os. 197
+
+:. :4 Georgios Gounaropoulos, Victory, Freedom. May the Virgin Be With Him, poster, 194o. 198
+
+、 Josef Gočár, Cubist furniture, c. 1913. 208
+
+: Jaromir Krejar, Jaroslav Seifert, Josef Šima, and Karel Teige, Život, cover, 1922. 209
+
+.; Mies van der Rohe, Villa Tugendhat, interior, 193o. 212
+
+.+ Ladislav Sutnar, glass tea set, 1931. 213
+
+Josef Sudek, advertising photograph for Krásna jizba. 213
+
+∴ Tatra 77,1934. 216
+
+.- Vojtèch Preissig, Preissig Antikva typeface, c. 1914. 217
+
+. Oldrich Menhart, Menhart Roman typeface, 1933. 219
+
+Karel Teige, Abeceda, layout, 1926.221
+
+s.1 Ladislav Sutnar, The Minimum House, cover, 1931. 224
+
+:、11 Ladislav Sutnar, Captain Brassbound's Conversion, cover, 1932. 225
+
+∴、1: Blok, cover and page spread, 1924. 231
+
+:、: Stefan Norblin, Poland, Zakopane, poster, 1925. 236
+
+:4 Henryk Berlewi, exhibition poster, 1925. 237
+
+、1、 Mieczysław Szczuka, Earth to the Left, cover, 1924. 238
+
+∴、1. Janusz Maria Brzeski, Pritate Eye, cover, 1932. 239
+
+: :- Władislaw Strzemiński, Z Ponad, cover, 1930. 240
+
+、: Władislaw Strzemiński, experimental alphabet, 1932. 240
+
+.1 Otto Neurath and Gerd Arntz, Society and Economy Atlas, 1930. 243
+
+Josef Binder, Meinl Kaffee, poster, 1924. 248
+
+∴:: Béla Uitz, Red Soldiers, Forward!, poster, 1919. 254
+
+.: Lajos Kássak, Total Stage, cover, c. 1924. 255
+
+∴:; Jadviga Matkovska, Penkala-Moster Company, poster, c. 1907. 257
+
+: August Černigoj, Tank, cover, 1927. 260
+
+∴、二、Contimporanul, cover, 1924. 261
+
+25.26 Victor Brauner, 75 HP, cover, 1924. 262
+
+25.27 Luterma, bistro chairs, c. 1900. 263
+
+25.28 Peet Aren, Koit, poster, n.d. 263
+
+26.01 Simon Gate, Orrefors glass, c. 1925. 270
+
+26.02 Gunnar Asplund, "Senna" chair, 1925. 271
+
+26.03 Helmer Mas Olle, Volvo ÖV4, 1927. 272
+
+26.04 Jean Heiberg and Johan Christian Bjerknes, Ericsson DHB 10or telephone, 1932. 272
+
+26.05 Axel Wenner-Gren, Elektrolux Model V vacuum cleaner, 1921. 273
+
+26.06 Husqvarna motorcycle, 1938. 274
+
+26.07 Bruno Mathsson, Eva chair, 1934. 275
+
+26.08 Kaare Klint, deck chair for Rudolph Rasmussen, 1933. 277
+
+26.09 Poul Henningsen, PH 4-3 table lamp, 1927. 277
+
+26.10 Bang and Olufsen, Beolit 39 radio cabinet, 1939. 279
+
+26.I1 Jacob Jacobsen, Luxo L-1 lamp, 1937. 281
+
+26.12 Aino Aalto, Bölgeblick glass, 1932. 283
+
+26.13 Greta-Lisa Jäderholm-Snellman, Arabia coffee service, c. 193os. 284
+
+26.14 Alvar Aalto, three-legged stacking stool, 1932–1933. 287
+
+26.15 Alvar Aalto, Paimio Armchair 41, 1932. 288
+
+26.16 Alvar and Aino Aalto, Finnish Pavilion, New York World's Fair, 1939. 289
+
+26.17 Anders Beckman, Fly with Aerotransport, poster, 1934. 291
+
+26.18 Thorvald Bindesbøll, Carlsberg Pilsner label, 1904. 292
+
+26.19 Sven Brasch, The Mysterious Woman, poster, 1929. 293
+
+26.20 Topi Vikstedt, God Passes, cover, 1929. 294
+
+27.01 Gioventù Fascista, cover, 1931. 301
+
+27.02 Attilo Calzavera, Opere Pubbliche 1922–1932, cover, 1933. 302
+
+27.03 Fortunato Depero and Fedele Azari, Depero Futurista, cover, 1927. 304
+
+27.04 Fortunato Depero, kiosk for Bestetti, Tuminelli & Treves, 1927. 305
+
+27.05 Tullio D'Albisola, Futurist ceramic jug, date unconfirmed. 306
+
+27.06 Bruno Munari, Il Poema del Vestito di Latte, cover, 1937. 307
+
+27.07 Gio Ponti, “An Archaeological Stroll," ceramic urn with cover, 1925. 309
+
+27.08 Luigi Figini, Gino Pollini et. al., Casa Elettrica, 193o. 312
+
+27.09 Giuseppe Terragni, Casa del Fascio, meeting room with mural by Mario Radice, 1936. 314
+
+27.10 Franco Albini, "Veliero” tensile bookshelf, 1938. 317
+
+27.I1 Alfonso Bialetti, Moka Expess coffee maker, 1933. 319
+
+27.12 Radio Balilla 650, 1937. 320
+
+27.13 Luigi Caccia Dominioni, Livio and Pier Giacomo Castiglioni, Phonola radio, 1939. 32o
+
+27.14 Marcello Dudovich, The New Balilla for Everyone, poster, 1932. 322
+
+27.15 Dante Giacosa, Fiat 500 "Topolino," brochure, 1936. 323
+
+27.16 Allessandro Marchetti, Savoia-Marchetti S-55 flying boat, 1925. 325
+
+27.17 Leonetto Cappiello, Bitter Campari, poster, 1921. 327
+
+27.18 Marcello Dudovich, Sea and Mountains at La Rinascente, poster, 192os. 328
+
+27.19 Federico Seneca, Buitoni, poster, c. 1928. 329
+
+27.20 Alessandro Butti and Raffaello Bertieri, Paganini typeface, 1928. 331
+
+27.21 Carlo Dradi, Attilio Rossi, and Battista Pallavera, Campo Grafico, cover, 1933. 332
+
+27.22 Mein Kampf, cover, 1939. 334
+
+27.23 Illustrierte Beobachter, cover, 1932. 335
+
+27.24 Mjölnir, The Organized Will of the Nation, poster, late 192os. 336
+
+27.25 Tannenberg typeface, advertisement, 1933. 337
+
+27.26 Herbert Bayer, Die Neue Linie, cover, 1930. 338
+
+27.27 Robert Zinner, Reich Highways in Germany, poster, 1936. 339
+
+27.28 Ferdinand Porsche, Kdf Wagen, prototype, 1938. 340
+
+27.29 Fritz August Breuhaus de Groot, Hindenberg airship lounge, 1936. 341
+
+27.30 All Germany listens to the Führer with the Volksempfänger, poster, 1936. 342
+
+27.31 El Lissitzky, Pressa, catalog, 1928. 344
+
+27.32 Gustav Klucis, We Will Repay the Coal Debt to the Country, poster, 193o. 345
+
+27.33 Natalia Pinus, Women in the Collective Farms are a Great Force, poster, 1933. 345
+
+27.34 El Lissitzky, USSR in Construction, Stalinist constitution, happy Soviet people, page from "Constitution"
+
+27.35 Alexander Rodchenko, USSR in Construction, "White Sea Canal" issue, cover, 1933. 347
+
+27.36 ZIS 101 automobile, 1936. 349
+
+27.37 2-3-2V locomotive, 1938. 350
+
+27.38 Maxim Gorky propaganda airplane, 1934. 351
+
+27.39 George Massiot-Brown, Sandeman's Port, poster, 1928. 352
+
+27.40 Emmerico H. Nunes, ABC, cover, 1923. 353
+
+27.41 Fred Kradolfer, Portuguese Colonial Exhibition in Paris, poster, 1937. 354
+
+27.42 Bernardo Marques, Portugal, cover, 1944. 355
+
+27.43 Portuguese World Exhibition entrance, 1940. 356
+
+28.01 Paul Frankl, Skyscraper bookcase, c. 1927. 371
+
+28.02 Peter Müller-Munk, Normandie pitcher, 1935. 373
+
+28.03 MoMA, Machine Art exhibition, 1934. 377
+
+28.04 MoMA, Organic Design in Home Furnishings exhibition, 1941. 378
+
+28.05 Eva Zeisel, Castleton china service, c. 1945. 379
+
+28.06 Howell Company, Modern Chromsteel Furniture, catalog cover, 1936. 381
+
+28.07 Frank Lloyd Wright, Johnson Wax headquarters, interior, 1936. 382
+
+28.08 Frederick Hurten Rhead, Fiesta Ware, 193os. 384
+
+28.09 Norman Bel Geddes, model of a streamlined train, Horizons, 1932. 390
+
+28.10 Henry Dreyfuss, Toperator washing machine, 1933. 391
+
+28.11 Henry Dreyfuss, Bell desk telephone, Model 302, 1937. 392
+
+28.12 Raymond Loewy and Clare Hodgman, Coldspot refrigerator, 1935. 393
+
+28.13 R. Buckminster Fuller and a model of his Dymaxion House, 1930. 398
+
+28.14 R. Buckminster Fuller, Dymaxion Car, 1933. 398
+
+28.15 Ford Motor Company, Model A, 1927. 402
+
+28.16 Bob Gregorie, Lincoln Zephyr, 1936. 403
+
+28.17 Wally Byam, Airstream Trailer, date unconfirmed. 409
+
+28.18 Burlington Zephyr, postcard, 193os. 411
+
+28.19 Henry Dreyfuss, 20th Century Limited, c. 1938. 414
+
+28.20 Raymond Loewy and Paul Cret, Broadway Limited, interior, 1946. 415
+
+28.21 Douglas DC-3, 1936. 417
+
+28.22 George Fred Keck, House of Tomorrow, Century of Progress Exhibition, 1933. 425
+
+28.23 Walter K. Harrison and André Fouilhoux, Trylon and Perisphere, New York World's Fair, postcard, 1939. 427
+
+28.24 Futurama brochure, page spread, 1940 428
+
+28.25 Paul Outerbridge, Ide Collars, advertisement, 1922. 432
+
+28.26 R. J. Reynolds, Camel cigarette package, c. 192os. 434
+
+28.27 Lucian Bernhard, Cat's Paw logo, 1941. 434
+
+28.28 Margaret Bourke-White, Life magazine, cover, 1936. 437
+
+28.29 William Addison Dwiggins. Paraphs, cover, 1927. 440
+
+28.30 Morris Fuller Benton, Broadway typeface, 1927. 443
+
+28.31 Oswald Cooper, Cooper Black typeface, 1922. 444
+
+29.01 Conrado Massaguer, Social, cover, 1926. 468
+
+29.02 Conrado Massaguer, Orange Crush, poster, date unconfirmed. 469
+
+29.03 Conrado Massaguer, Life, Havana Number, cover, 1928. 470
+
+29.04 Enrique García Cabrera, Tivoli Beer, poster, 192os. 471
+
+29.05 El Mundo Illustrado, cover, 1904. 477
+
+29.06 Julio Ruelas, Revista Moderna, cover, 1903. 478
+
+29.07 Ahi Esta el Detalle, poster, 1940. 483
+
+29.08 Crisol: Revista de Critica, cover, 1932. 485
+
+29.09 El Maestro, cover, 1921. 487
+
+29.10 Roberto Montenegro and Gabriel Fernández Ledesma, Lecturas clásicas para niños, cover, 1925. 487
+
+29.1I Gabriel Fernández Ledesma, Exposición de la Escuela Superior de Construcción, poster, 1933. 489
+
+29.12 Francisco Eppens, postage stamps, late 193os. 490
+
+29.13 El Machete with a masthead by Xavier Guerrero, front page, 1935. 491
+
+29.14 Companhia Mogiana de Estradas de Ferro, automotriz, 1937. 497
+
+29.15 Klaxon, cover, 1922. 501
+
+29.16 J. Carlos, Para Todos, cover, 1929. 505
+
+29.17 A Maçã, cover, 1922. 506
+
+29.18 Tatuzinho cachaça label. 507
+
+30.01 Abel Gutiérrez. Dibujos Indígenas de Chile, alphabet, 1931. 522
+
+30.02 Escuela de Artes Plasticas, Seccion Artes Aplicadas, catalog cover, 1934. 523
+
+30.03 La Lira Chilena, cover, c. 1905. 525
+
+30.04 Fernando Marcos, II National Days of Socialist Youth, poster, 1936. 531
+
+30.05 Grupo Austral, BKF chair, 1938. 533
+
+30.06 Alejandro Sirio, La Gloria de Don Ramiro, illustration, 1908. 536
+
+30.07 Panama hats, postcard, 1919. 539
+
+31.01 Canadian National Railroad, 9000 diesel locomotive, 1931. 565
+
+31.02 Joseph-Armand Bombardier, B-7 snowmobile, 1937. 567
+
+31.03 Radiola R52 “Empire State" model, 1936. 577
+
+31.04 Frank Bottrill, "Big Lizzie" tractor, c. 1927. 578
+
+31.05 Ford Coupe Utility, 1934. 580
+
+31.06 First Australian Exhibition of Women's Work, poster, 1907. 582
+
+31.07 Frances Burke, "The Hunt" fabric design, c. 1940. 585
+
+31.08 James Northfield, Pelaco shirts, poster, 193os. 588
+
+31.09 Kiwi shoe polish can, date unconfirmed. 589
+
+31.10 Walkabout, cover, 1935. 591
+
+31.11 Norman Lindsay, The Lone Hand, cover, 1908. 593
+
+31.12 John Oldham et al., Australian Pavilion, New York World's Fair, 1939. 598
+
+31.13 Temuka tobacco jar, date unconfirmed. 6oo
+
+31.14 David Payne, Tiki Bacon & Ham, poster, 193os. 607
+
+32.01 Kemal Ataturk teaching the roman alphabet in Istanbul, c. 1928. 618
+
+32.02 Ihap Hulusy Gorey as a model for the first Kulup Rakisi label, c. 193o. 622
+
+32.03 İhap Hulusi Gorey, Kulup Rakisi, label, c. 1930. 622
+
+32.04 İhap Hulusi Gorey, redesigned Kulüp Rakisi label, 193os. 623
+
+32.05 İhap Hulusi Gorey, Citizens. Fight against disrespect in society, poster, c. 193os. 623
+
+32.06 İhap Hulusi Gorey, Izmir, poster, c. 1940. 624
+
+32.07 Muhit, cover, c. 1928. 625
+
+32.08 La Turquie Kamaliste, cover, 1930s. 625
+
+32.09 Egyptian National Railways, locomotive, date unconfirmed. 628
+
+32.10 N. Strekalovsky, Misr Airwork, poster, c. 193os. 629
+
+32.II Elias Akkawi, 2nd proposal for a new Arabic alphabet, c. 1943. 63o
+
+32.12 al-Musawar, portrait of Sa'ad Basha Zaghloul, cover, 1924. 631
+
+32.13 al-Ithnayn, King Farouk I, cover, 1947. 632
+
+32.14 Ruz al-Yusuf, "The awakening of women," back cover. 1946. 632
+
+32.15 Akhir Sa'a, cover, 1947. 633
+
+32.16 Hollywood Cigarettes, advertisement. 634
+
+32.17 F. H. Coventry, Ateliers Kalfa, Cairo, poster, 1935. 635
+
+32.18 Guffa, 1932. 636
+
+32.19 Ya'akov Stark, Bezalel School of Arts and Crafts, c. 1910. 639
+
+32.20 Workshop at the Bezalel School of Arts and Crafts, 1909. 64o
+
+32.21 Mandate postage stamps depicting Rachel's Tomb, the Citadel, and the Dome of the Rock, 1927. 641
+
+32.22 David Ohannessian, trilingual street sign, Jerusalem, c. 1922. 643
+
+32.23 Yehuda Wolpert, Seder plate, 1930. 648
+
+32.24 Levant Fair, souvenir, 1934. 649
+
+32.25 Sculptures by Maurice Ascalon on the Jewish Palestine Pavilion, New York World's Fair. The Scholar, The
+
+Laborer, and The Toiler of the Soil, 1939. 651
+
+32.26 Palestine for the Arabs, label, 1938. 654
+
+32.27 Ephraiam Moses Lilien, 5th Zionist Congress, announcement, 1901. 655
+
+32.28 Ephraiam Moses Lilien, Bezalel School of Arts and Crafts, emblem, c. 1905. 656
+
+32.29 Ze'ev Raban, Industrial Art Studio, letterhead, 1923. 657
+
+32.30 Ze'ev Raban, Jerusalem Rebuilt, title page, 1923. 657
+
+32.31 Arieh El-Hanani, Palestine Produces Aromatic Tobacco, poster, 1925. 658
+
+32.32 Pesach (István) Irshay, Pachter and Hoffman Iron Works, logotype, 1929. 659
+
+32.33 Franz Krausz, Daon Cigarettes, poster, 1939. 66o
+
+32.34 Rudy Deutsch, Izhar Olive Oil, poster, 193os. 661
+
+32.35 Gabriel and Maxim Shamir, The Worker, poster, 1937. 662
+
+32.36 Esther Yoel-Berlin, Zion. Won't You Ask How Your Immigrants are Faring? Freedom for Those Who Are
+
+Imprisoned, poster, c. 1946. 663
+
+32.37 Franz Krausz, Commercial Art of Palestine, booklet, 1938. 663
+
+32.38 A Little Love for You, poster, 1932. 664
+
+32.39 Raphael Frank, Frank-Rühl typeface, 1908. 665
+
+32.40 Jan LeWitt, Haim typeface, 1929. 667
+
+32.41 Americani typeface, American Press, date unconfirmed. 670
+
+32.42 al-Dabbur, cover, 1928. 672
+
+32.43 A sanbuq from Yemen, date unconfirmed. 673
+
+32.44 Example of Naskh script, date unconfirmed. 678
+
+32.45 Persian banknote with portraits of Nasser al-Din and the lion and sword. 679
+
+32.46 Iran-e Emruz, spread, 1930s. 679
+
+33.o1 Decorated calabash used for milk by Fulani women, Nigeria. 693
+
+33.02 Felice Nori, Tripoli Trade Fair, Roman pavilion, 1927. 701
+
+33.03 Fiera di Tripoli, poster, 193o. 702
+
+33.04 Covered wagon, Great Trek, South Africa. 705
+
+33.05 Thomas Christopher Falck, coffee urn. 705
+
+33.06 British armored train, Boer War, c. 1900. 707
+
+33.07 Ge'ez Bible, 18th century. 709
+
+33.08 Chaka Print cotton bale label, c. 1920s. 715
+
+33.09 Hugo d'Alési, Compagnie Générale Transatlantique and P. L. M., poster, c. 190o. 717
+
+33.10 Roger Broders, Auto-Circuits Nord-Africains, poster, 1917. 718
+
+33.11 Sunlight Soap, advertisement, 1906. 721
+
+34.01 Railway station trolley, c. 192os. 730
+
+34.02 Eckart Muthesius, Manik Bagh, entrance hall, c. 1931. 735
+
+34.03 Margaret Bourke-White, Gandhi spinning khadi cloth, 1946. 737
+
+34.04 Calcutta Art Studio, Kali Cigarettes, calendar, 1908. 743
+
+34.05 Flying Rani, matchbox cover. 744
+
+34.06 Raja Ravi Varma, Maharaja Cigarettes, poster, 1912. 745
+
+34.07 Kodak, brochure, 1931. 745
+
+34.08 Baburao Painter, Kalyan Khajina, poster, 1924. 747
+
+34.09 Aw Boon Haw, trademark and packaging for Tiger Balm, c. 1909. 749
+
+35.01 Rickshaw with metal spoked wheels, date unconfirmed. 758
+
+35.02 Chinese sampans. 758
+
+35.03 Zhang Guangyu, furniture designs, 1930s. 760
+
+35.04 Wing On department store, date unconfirmed. 761
+
+35.05 Sincere department store, furniture department, date unconfirmed. 762
+
+35.06 Zheng Mantuo, calendar for Reinsurance "Rossia." 764
+
+35.07 Zheng Mantuo, Shanghai Huiming Electric Flashlight and Battery Company, calendar poster. 765
+
+35.08 Zhiying Studio, Kwong Sang Hong cosmetic company, calendar poster, 1937. 766
+
+35.09 Gao Qifeng, The True Record, cover, 1912. 769
+
+35.10 Fangsong typeface, 1916. 774
+
+35.11 Ye Lingfeng, Shanghai manhua, cover, 1928. 775
+
+35.12 Tang Yingwei, Woodcut World, cover, 1936. 776
+
+36.01 Iwao Yamawaki, End of the Dessau Bauhaus, photomontage, 1932. 790
+
+36.02 Art Nouveau postcard (Muse and Musical Score in Commemoration of the Goni Fair), 1906. 8o2
+
+36.03 Fujishima Takeji, Tangled Hair, cover, 1901. 802
+
+36.04 Yumeji Takehisa, Please Love Me, sheet music cover. 8o3
+
+36.05 Tada Hokuu, Kirin Beer, poster, 1937. 8o5
+
+36.06 Kataoka Toshiro (art director) and Inoue Mokuda (designer), Akadama Port Wine, poster, 1922. 8o6
+
+36.07 Yamana Ayao, Shiseido, advertisement. 8o8
+
+36.08 Okuyama Gihachiro, Nikke Wool Goods, poster, 1937. 8o9
+
+36.09 Mavo 1, cover, 1924. 811
+
+36.10 Horino Masao, "The Character of Greater Tokyo," spread, Central Review, 1932. 813
+
+36.1 Hara Hiromu, Exhibition of Mannequins, poster, 1935. 815
+
+36.12 South Manchuria Railway, Asia Express, 1934-1943. 817
+
+36.13 Taiwanese push car, c. 192os. 819
+
+36.14 Streetcar in Hanyang (Seoul), early 1900s. 822
+
+37.01 King Tiger tank, c. 1944. 835
+
+37.02 Ferdinand Porsche office, Kübelwagen Type 82, c. 1940. 838
+
+37.03 Antonio Parano and Giuseppe Panzeri, Breda Ba.88 Lince, c. 1936. 84o
+
+37.04 Winston Churchill with Cultivator No. 6, c. 1941. 842
+
+37.05 Nevil Shute Norway and DMWD engineers, Panjandrum, c. 1943. 843
+
+37.06 Harry Lester and John Dolphin, Welbike, c. 1942. 845
+
+37.07 R. J. Mitchell, RAF Spitfires, c. 1940. 847
+
+37.08 John Baker, Morrison shelter, 1940. 852
+
+37.09 Nambu Kijiro, Nambu pistol, c. 1902. 86o
+
+37.10 Ohta Mitsuo, MXY-7 Suicide Attacker, 1944. 861
+
+37.11 Charlotte Perriand, bamboo chaise longue, 1940. 864
+
+37.12 Willys-Overland Jeep, 1942. 867
+
+37.13 LCVP (Landing Craft, Vehicle, Personnel), 1942–1945. 869
+
+37.14 B-29 Superfortress, 1944. 870
+
+37.15 Bazooka, 1942. 871
+
+37.16 Galvin Manufacturing Company, walkie-talkie, 1943. 871
+
+37.17 Charles and Ray Eames, wooden splint, 1943. 872
+
+37.18 Rod Stephens Jr., Dennis Puleston, and Frank W. Speir, DUKW, 1942. 875
+
+37.19 Rudolf Gerhard Zill, Adolf Hitler is Victory, poster, 1943. 88o
+
+37.20 Anon, People of the Netherlands, the Waffen-SS calls you!, poster, c. 1943. 883
+
+37.21 V sign on the Eiffel Tower, 1944. 884
+
+37.22 Michel Jacquot, Out of Here, poster. 886
+
+37.23 H. N. Werkman, Der Blauwe Schuit, C. 1942. 887
+
+37.24 Frank Newbould, Your Britain. Fight for it Now, poster, 1942. 890
+
+37.25 Abram Games, Your Talk May Kill Your Comrades, poster, 1942. 892
+
+37.26 Picture Post, cover, 1940. 893
+
+37.27 Bernard Perlin, Avenge December 7, poster, 1942. 901
+
+37.28 Go ahead, Take Day Off, poster, c. 1943. 901
+
+37.29 J. Howard Miller, We Can Do It!, poster, 1942. 902
+
+37.30 Antonio Arias Bernal, United for Victory, poster, c. 1942. 903
+
+37.31 Jean Carlu, America's answer! Production, poster, 1942. 904
+
+37.32 El Nazismo, poster, 1938. 907
+
+As with Volume I of this history, colleagues continued to be helpful in ways similar to the first volume: reading chapter drafts, recommending or providing books and additional reference material, helping with translations, or simply offering an opportunity to talk over some of my thoughts. For this volume in particular, many colleagues were helpful in locating and in some cases providing images to complement the text. Those who helped with the volume include Huda Smitshuizen Abefares, Esra Aksan, Jenny Aland, Ralph Austen, Tevfik Balcioglu, Helena Barbosa, Noemi Bitterman, Gui Bnsiepe, Zhou Bo, Michael Bogle, Geoffrey Caban, Irina Carabas, Pedro Alvarez Caselli, Eduardo Castillo, Rosa Chiesa, David Crowley, Mic Czerwinski, Sigal Davidi-Kunda, Rafael Denis, Veronica Devalle, Luz Carmen de Vilchis Esquivel, Marina Emmanouil, Gökhan Ersan, Kjetil Fallan, Lucilla Fernandez, Haruhiko Fujita, Howard Garfinkel, Marina Garone, Paul Gehl, John Green, Jørn Guldberg, Mor Halimi, Steven Heller, Richard Hollis, Ken Isaacs, Nasim Jafarinaimi, A. Bou Jawdeh, Beni Kadar, Sadik Karamustafa, Nurith Kenaan-Kadar, Yassaman Khodadadeh, Yuko Kikuchi, Pekka Korvenma, Jackie Kwok, Soojin Lee, Cathy Leff, Elliott Lefkovitz, Dimitrios Legakos, Zeina Maasri, Klimis Mastoridis, Peter McNeil, Jeff Meikle, Pepe Menendez, Marcello Montore, Josef Mrozek, Maria Nicholas, Márton Orosz, Vanni Pasca, Raquel Pelta, Jiri Pelzł, César Augusto Peña, Alton Purvis, Martin Racine, Roger Remington, Jacinto Salcedo, Marlis Saleh, Paul Shaw, Miryam Sommerfeld, Adi Stern, Paul Stiff, Ittai Joseph Tamari, David Tartakover, Sarah Teasley, Christopher
+
+Thompson, Oscar Traversa, Jilly Treganou, Giovani Tronconi, Humberto Valdivieso, Anna Valtonen, Fedja Vukić, Gennifer Weisenfeld, Kerstin Wichman, Artemis Yagou, Yun Wang, Jerry Zbiral, and Larry Zeman.
+
+To produce two books as large and complicated as volumes I and 2 of A World History of Design required a dedicated staff. I have been fortunate to work with a group of excellent professionals who have managed the myriad details of this project with aplomb. Tristan Palmer was the editor who first brought the books to Bloomsbury (then Berg)., It was a pleasure to work with him and then with his successors, Simon Cowell, followed by Rebecca Barden. Abbie Sharman has kept track of the many administrative details on the editorial side. Ken Bruce and Joanne Murphy have been in charge of production, while Clare Turner has contributed design expertise. Kim Storry as Project Manager has kept track of all the many drafts, proofs, and changes. Working with her were Ronnie Hanna, copy editor and proofreader, Tristan Defew, typesetter, and Martin Hargreaves, who did the index. I am particularly grateful to my colleague John Massey and his associate Matthew Terdich for their superb cover and layout designs.
+
+Every effort has been made to trace copyright holders and to obtain their permission for the use of copyright material. The publisher apologizes for any errors or omissions in the copyright acknowledgments given and would be grateful if notified of any corrections that should be incorporated in future reprints or editions of this book.

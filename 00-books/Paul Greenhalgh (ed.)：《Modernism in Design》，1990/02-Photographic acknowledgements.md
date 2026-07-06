@@ -1,0 +1,1 @@
+## Photographic Acknowledgements The editor and publishers wish to express their thanks to the following for permission to reproduce illustrations: Fondation Le Corbusier p. 75 bottom; Julius Shulman pp. 107, 111 top and bottom, 115, 118, 119; San Diego Historical Society (photograph collection) p. 1o4 top and bottom.

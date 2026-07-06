@@ -1,0 +1,16 @@
+The potential of Egypt's past to attract tourists was heightened after the momentous discovery of King Tutankhamen's tomb in 1922. By the 193os, the railway administration's graphic sensibility had become more sophisticated and modern. It commissioned several posters from the Turkish graphic designer Ihap Hulusi Gorey, which made reference to icons of the past but in a more contemporary idiom, even though one of his posters described Egypt as The Land of Mystery and Romance. A poster the railroad commissioned from Ateliers Kalfa in Cairo also dispensed with the hazy romantic imagery as Hulusi did and depicted instead a mosque, which appears to be the Grand Mosque, located in Cairo, a dynamic urban center (Fig. 32.17).
+
+## Iraq
+
+During the 19th century, Iraq, then a part of the Ottoman Empire, underwent a process of selective modernization. Steamships on the Tigris and Euphrates rivers were in use as early as 1835 and the ensuing increase in trade led to the construction of port facilities at Al-Basrah in the 186os along with the concomitant construction of telegraph lines to link Baghdad with Istanbul, the Ottoman capital. Roads were improved, but railway construction came later than it did to other parts of the region.
+
+![](images/63f904af382d63935870c4828c4a49877b286574ac0d5f581e4ec07bfe1f6782.jpg)  
+Fig. 32.18: Guffa, 1932. Library of Congress, LC-DIG-matpc-13225.
+
+The modernizing process received a boost in 1869 when Midhat Pasha (1822-1883) became the governor of Baghdad. He introduced rational city planning techniques, which included the construction of a water supply system, paved streets, and street lamps. He also constructed a tramway, established textile mills along with a hospital, and he built a bridge across the Tigris. Until his term ended in 1872, Midhat Pasha did much to develop the regional economy, promoting steamer services on the Tigris and Euphrates as well as shipping in the Persian Gulf. To strengthen the port facilities at Al-Basrah, he established ship-repair yards there. He also founded a press, where modern textbooks were printed. These served a limited number of students, however, as much of the population remained illiterate.
+
+At the beginning of World War I, the British invaded Iraq and by the war's end, when the Ottoman Empire collapsed, they eventually gained control of the former Ottoman territory. The establishment of a monarchy in 1921, however, was the first step towards Iraqi independence, which was achieved in 1932. Despite the modernizing initiatives of Midhat Pasha, some writers believe that Ottoman rule in general inhibited Iraq from developing a modern economy.
+
+Agriculture, remained Iraq's mainstay, complemented by numerous small workshops, where objects were made with traditional techniques to satisfy domestic demand. Adriano Lanzoni, writing in 191o, described many goods that were made in Baghdad, where the largest number of workshops were located. Items produced included traditional clothing such as kufiya—large kerchiefs embroidered with gold and silver—and the awtar—a long gown made of cotton; leather goods for the local inhabitants and Europeans; gold and silver handicrafts; copperwork of excellent quality; and ceramic vessels.
+
+Before 1914, there were hardly any factories with power-driven machinery in Iraq and few were

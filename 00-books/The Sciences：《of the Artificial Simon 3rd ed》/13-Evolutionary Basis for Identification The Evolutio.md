@@ -1,0 +1,43 @@
+work for them even at some sacrifice of personal goals. (In effect, the group goals become personal goals.) The ethnic conflict we observe in many parts of the world provides vivid evidence of this attachment to group goals and the differential treatment it generates between "we" and "they."
+
+Identification with an organization also has a cognitive component, for members are surrounded by information, conceptions and frames of reference quite different from those of people outside the organization or in a different organization. As creatures of bounded rationality, incapable of dealing with the world in all of its complexity, we form a simplified picture of the world, viewing it from our particular organizational vantage point and our organization's interests and goals.
+
+This frame of reference and information provided by an organization influence strongly the processing and outcomes of decisions. The frame of reference varies, too, from one organization unit to another and from one level to another, so that an employee may identify at one time with his department, at another with his section, at another with the whole company.
+
+Affected by their organizational identifications, members frequently pursue organizational goals at the expense of their own interests that is to say, behave in a way that is altruistic from a personal standpoint. No organization could survive that elicited only behavior for which employees felt selfishly rewarded and that supervisors could enforce. The added effort that is elicited by identification is a major and essential source of organizational effectiveness and is a principal reason for carrying out economic activities in organizations rather than markets.
+
+## Evolutionary Basis for Identification
+
+It may be objected that human beings are basically selfish and do not behave in this altruistic fashion. In fact, neo-Darwinian evolutionary theory has generally claimed that altruism, except to close relatives, is inconsistent with the basic postulate that organisms evolve to increase their fitness.<sup>23</sup> However, I should like to show that this widely repeated claim is mistaken.<sup>24</sup>
+
+Because of their bounded rationality, and because they can therefore greatly enhance their limited knowledge and skill by accepting information and advice from the social groups to which they belong, individuals who are docile who tend to accept such information and advice have a great advantage in fitness over those who are not docile who reject social influence. Docile people do not have to learn about hot stoves by touching them.
+
+Most social influence does enhance the fitness of the recipient. It provides information and advice about the world that is generally valid or at least much more informative and valid than the information the recipient could generate independently. But docility can be "taxed" by influencing people also to take certain actions that are not personally beneficial but are beneficial to the group. As long as the "taxation" is not so heavy as to cancel the advantages of docility, the altruistic individual will be fitter than the non-docile individual. By this means, the fitness of the organization will be enhanced by the docility, hence altruism, of its members. Although, docility is generally rewarding to the individual, some fraction of the behavior it induces is altruistic in this sense, and this altruism is an important factor in the efficacy of organizations.
+
+We can summarize our account of the respective roles of markets and organizations in a modern society as follows: (1) organizations find their niches wherever constellations of interdependent activities are best carried out in coordinated fashion in order to remove the need for individuals' outguessing each other; (2) the human motivation that makes organizations viable and alleviates the public goods problems that arise when individual efforts cannot be tied closely to individual rewards is provided by organizational loyalty and identification; (3) in both organizations and markets, the bounds on human rationality are addressed by arranging decisions so that the steps in decision making can depend largely on information that is locally available to individuals.
+
+## The Evolutionary Model
+
+Evolutionary processes are significant not only for explaining organizational loyalty, but also for describing and explaining the historical development of economic institutions, including business firms. The simplest
+
+scheme of evolution depends on two processes: a generator and a test. The generator produces variety, new forms that have not existed previously, whereas the test culls out the generated forms so that only those that are well fitted to the environment will survive. In modern biological Darwinism, genetic mutation and crossover of chromosomes are the principal generators, and natural selection is the test.
+
+## The Alternative Theory of Economic Man
+
+No one supposes that a modern organization-&-market economy is the product of deliberate design. Surely it evolved from earlier subsistence economies, shaped by myriads of decisions made by hosts of actors over thousands of years. By contrast, most accounts of business firms assume that actors deliberately select actions appropriate to their goals within the context of the given economic environment. Adaptation, in the latter accounts, stems from selection by rational actors, not by natural selection of those actors whose behavior happens to be adaptive. An evolutionary theory of the firm might argue that it does not matter whether people maximize or satisfice, for in a world of competitive markets only those who make decisions as if they were maximizing will survive.<sup>25</sup> Does this evolutionary argument in fact imply optimization?
+
+Our discussion will have implications for biology as well as economics, for evolutionary biology uses the language of optimality quite freely and in recent years has even borrowed linear programming and other OR techniques to predict the outcomes of natural selection in biological systems. This is legitimate only if optimization would lead reliably to the same equilibria as would natural selection.
+
+## Local and Global Maxima
+
+For the question before us, the difference between local and global maxima is crucial. In the landscape of California every tiny hill is a local maxi-
+
+mum of altitude, but only Mt. Whitney is a global maximum. For many purposes it makes a difference whether one finds oneself standing on Nob Hill or Mt. Whitney. Finding a local maximum is usually easy: walk uphill until there is no place to walk. Finding the global maximum, on the other hand, is usually exceedingly complex unless the terrain has very special properties (no local maxima). The world of economic affairs is replete with local maxima. It is quite easy to devise systems in which each subsystem is optimally adapted to the other subsystems around it, but in which the equilibrium is only local, and quite inferior to distant equilibria that cannot be reached by the up-hill climb of evolution.
+
+## The Myopia of Evolution
+
+Darwinian evolution is completely myopic. At each incremental step the evolving organism becomes fitter relative to its current environment, but there is no reason for the progress to lead to a global maximum of fitness of the individuals, separately or severally. If we are considering this kind of system, whose environment has a multitude of local maxima, we cannot understand the system unless we know something of the method and history of its evolution. Nor is there any reasonable sense in which such a system can be regarded as "fittest."
+
+This is not just an in-principle objection to confounding hill climbing with optimization. In a myopic hill-climbing system, it may be difficult or impossible to move from a local maximum to another that is in view across a deep valley. The movement from the English system of measures to the metric system is a case in point. A society starting from scratch, and familiar with both systems, would surely prefer the metric to the English system. But if future benefits are discounted at some rate of interest, it might never be economical to switch from the one system, once adopted, to the other.
+
+Hence, from the fact that an economic system is evolving, one cannot conclude that it has reached or is likely to reach a position that bears any resemblance to the equilibria found in the theory of perfect competition. Each species in the ecosystem is adapting to an environment of other species evolving simultaneously with it. The evolution and future of such systems can only be understood from a knowledge of their histories.

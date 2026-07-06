@@ -1,0 +1,1 @@
+# ABCDEF GHIJKL MNOPQ! RSTUV:. WXYZ& Painter's Roman (frequently numbered marking it as a Special). Cut by both Page and Wells.'This specimen is printed from types at Rochester Institute of Technology, Rochester, New York. It came onto the market during the 1870's. Lowercase and figures are missing

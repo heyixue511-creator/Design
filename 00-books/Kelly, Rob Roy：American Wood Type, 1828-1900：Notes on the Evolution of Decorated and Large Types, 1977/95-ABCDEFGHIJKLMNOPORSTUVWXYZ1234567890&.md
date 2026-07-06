@@ -1,0 +1,1 @@
+# ABCDE FGHIJK LMNOP ORSTU VWXY Z12345 67890& Unique (No. 203 by Hamilton). First shown by Hamilton in his 1889 specimens. Lowercase is missing. Fairly typical of Roman designs from this period.

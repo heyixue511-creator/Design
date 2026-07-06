@@ -1,0 +1,1 @@
+# ABCDEF GHIJKL MNOPQS RSTU&& VWXYZ 1234567890 Caslon. This design was cut by Hamilton and put on the market after 1900. It appears to be patterned after the metal types of the founder. Lowercase is missing.

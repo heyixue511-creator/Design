@@ -1,0 +1,1 @@
+# Typical affair analysis個案調查資料整理 ![](images/04d22f82ce0718275241bce66533b537be2c2d7b20a8d37c57e65d23c5a33e5c.jpg) ![](images/e79f17706a617120e169e35bfc3f8129ff70c524589109403f447ea2d7a49ccf.jpg) 图4-88 家庭基本信息整理 ![](images/18b4cb3500eb30fcedef1810d8b441a18f936194beb641f77224efb7069fb436.jpg) 图4-89 家庭基本信息整理

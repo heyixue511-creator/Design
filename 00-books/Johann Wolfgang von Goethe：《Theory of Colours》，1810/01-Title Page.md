@@ -1,0 +1,1 @@
+# Theory of Colours ## Johann Wolfgang von Goethe Translated with notes by Charles Lock Eastlake DOVER PUBLICATIONS, INC. Mineola, New York OceanofPDF.com

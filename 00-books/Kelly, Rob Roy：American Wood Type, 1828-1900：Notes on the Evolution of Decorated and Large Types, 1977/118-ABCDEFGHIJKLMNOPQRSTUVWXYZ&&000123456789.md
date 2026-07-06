@@ -1,0 +1,1 @@
+# ABCDE FGHIJ KLMN OPQRS TUVW XYZ&& 000123 456789 Clarendon Extended. First shown by William Page in his 1859 specimens. This cutting by Hamilton Mfg. Company (compare with Page specimen on page 267). Lowercase is missing.

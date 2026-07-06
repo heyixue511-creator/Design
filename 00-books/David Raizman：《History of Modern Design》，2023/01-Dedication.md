@@ -1,0 +1,1 @@
+A celebration of David Raizman’s lifetime commitment to research, teaching, service, and executive and administrative leadership at Drexel University’s College of Media Arts & Design, the College Art Association, and the International Center of Medieval Art ## Dedication

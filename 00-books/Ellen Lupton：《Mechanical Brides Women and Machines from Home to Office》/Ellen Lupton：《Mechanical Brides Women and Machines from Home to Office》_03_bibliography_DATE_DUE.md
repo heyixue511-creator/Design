@@ -1,0 +1,7 @@
+# DATE DUE
+
+> Section: bibliography | Source: 05-Result-MD\03-Design-History-replenish-1\02-Books\Ellen Lupton：《Mechanical Brides Women and Machines from Home to Office》\Ellen Lupton：《Mechanical Brides Women and Machines from Home to Office》\Ellen Lupton：《Mechanical Brides Women and Machines from Home to Office》\auto\Ellen Lupton：《Mechanical Brides Women and Machines from Home to Office》.md
+
+## DATE DUE
+
+<table><tr><td>MAR 2.0 1995</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>JANE</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>MAR12000</td><td></td><td></td></tr><tr><td></td><td>020 2000</td><td></td><td></td></tr><tr><td>MAY 202002</td><td></td><td></td><td></td></tr><tr><td>MATD702082</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Ma:2.d-2009*</td><td></td><td></td><td></td></tr><tr><td>DEC</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>APR-9-1-2003</td><td></td><td></td><td></td></tr><tr><td>MAR-2-7/2004</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>6/1110</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>GAYLORD</td><td></td><td></td><td>PRINTED IN U.S.A</td></tr></table>

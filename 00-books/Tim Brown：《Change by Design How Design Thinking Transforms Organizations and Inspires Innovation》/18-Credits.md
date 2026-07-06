@@ -1,0 +1,1 @@
+Jacket concept by Sandy Speicher, Ian Groulx, and Katie Clark

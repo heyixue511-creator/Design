@@ -1,0 +1,37 @@
+lithographic illustrations, but these were replaced by half-tones as soon as the technology was available. The magazine's illustrations influenced publishers throughout India, and by the 192os and 193os a number of other illustrated magazines had appeared. As Kajri Jain notes, these magazines reached a plurality of publics from the non-literate to the literate. Kalyan, published first in Hindi and then in an English edition for overseas Indians, disseminated religious imagery, which, Jain states, helped to address some of the dilemmas of daily life. The educated class also read English-language pictorial magazines such as the Illustrated Weekly of India, which had started as the Times of India Weekly Edition in 188o but was renamed in 1923.
+
+![](images/82c331215079872582cc3e13d92dc5b0e538e5cf7f009b08aae5292072c8df44.jpg)  
+Fig. 34.04: Calcutta Art Studio, Kali Cigarettes, calendar, 1908. The Granger Collection/TopFoto.
+
+## Advertising
+
+What distinguishes the Indian mass public's engagement with print culture is that prints were the visual embodiment of deeply held religious or even political beliefs and not simply pictures dedicated primarily to aesthetic pleasure. This quality was exploited by businessmen, both British and Indian, who sought to link their products to mythological narratives, a practice that had started in the 19th century when several companies adopted paintings by Ravi Varma for advertising purposes.
+
+Spirituality and politics came together in a wellknown lithographic calendar poster of 19o8 for Kali Cigarettes, which depicted the goddess Kali in her most destructive aspect, waving a bloody scimitar (Fig. 34.o4). Produced by the Calcutta Art Studio, the calendar featured a small crouched lion in the upper-left corner—a symbol for Britain——and a decapitated soldier in the lower right corner, both of which provoked British officials to read the poster as a sign of political rebellion. The likelihood of this interpretation was supported by the text, which characterized the East India Cigarette Manufacturing Enterprise as a swadeshi business whose support would aid India's poor workers.
+
+By the end of World War I, there was a sufficient consumer-oriented Indian middle class to entice some of the large companies from abroad to establish manufacturing facilities in India or else begin serious marketing operations there. Among British firms, Lever and Associated Biscuit Manufacturers sought to sell soap and biscuits respectively. The Czech firm Bata intended to compete with indigenous tanning factories and market shoes, while Dunlop promoted tires, and General Electric and Philips sold light bulbs. Kodak also set up operations in India to sell cameras to the rising middle class.
+
+The advertising strategies of these companies shifted from one to another, but also depended on which audiences the companies were trying to reach. These varied. First was the Indian consumer who might be from a range of economic strata, although, given the products on offer, the likely market was the middle class. Then there were the foreigners living in India, including British colonials but not limited exclusively to them. And for some services, like the Indian State Railways, the market was in Britain. For each group of consumers there were particular advertising strategies and representations of Indian culture.
+
+The strategy of associating a product with a spiritual figure or narrative was evident in a 1932 calendar for Woodward's Gripe Water, a remedy for babies. The image by the Indian painter Mahadev Vishwanath Dhurandhar (1867-1944) played on the story of Lord Krishna's proclivity to steal butter from female cow herders. The advertising concept is that eating butter can make a child sick and Woodward's Gripe Water provides the cure. In the story, Krishna is rebuked by his mother who, in the calendar painting, is depicted as a middle-class housewife. Kajri Jain points out that this mingling of mythic and contemporary narratives was a strategy to reach both Indian and
+
+British audiences simultaneously. A related strategy was adopted by the manufacturer of Sunlight Soap, which featured the Hindu god Vishnu with two consorts on one of its posters (Plate 72). The depiction of gods and goddesses was evident as well on some of the matchboxes that were produced in the thriving match factories throughout the country (Fig. 34.05).
+
+Dhurandhar was a serious painter and watercolor artist who worked extensively in advertising for British and Indian companies including the South Indian Railway. An illustrator of textbooks, literary works, and magazines, he was a former student at the J. J. School of Art in Bombay, where he later became a teacher, principal, and then the first Indian director. The school was known for its realistic painting style, which Dhurandhar exemplified in his commercial work. As a teacher and administrator, he no doubt influenced a number of students who later became prominent poster artists and advertising pamphlet designers for the emerging Bombay film industry. In the absence
+
+![](images/6cca1fbb5195821c4f555a21fd197d58718c6f5b5ba1ea362b1465517bc9ce5f.jpg)  
+Fig. 34.05: Flying Rani, matchbox cover. Photo © Luca Tettoni/Bridgeman Images.
+
+![](images/cc2d3e2b2da548721cb0400adc774e5705cf7807260c67bd870ee7cb87371f89.jpg)  
+Fig. 34.06: Raja Ravi Varma, Maharaja Cigarettes, calendar poster, 1912. Private Collection.
+
+of specific training for graphic designers, it was thus artists, either self-trained or graduates of the art schools, who were prepared to do the commercial work.
+
+Ravi Varma was perhaps the first Indian painter to earn money from commercial art, and even after his death in 19o6 his paintings were still popular for advertising purposes. Though his pictures of mythological subjects were most frequently sought, there was also interest in his other genres such as portraiture. His painting of the Maharaja of Mysore was adopted for a calendar to advertise Maharaja Cigarettes, manufactured by the City Tobacco Company of Bangalore (Fig. 34.o6). In this case, the audience was likely to have been educated Indians for whom the aristocratic maharaja may have had some moderate nationalist appeal, given his commitment to the social needs of his people.
+
+Kodak took a different approach in a 1931 brochure, where the company associated its camera with modernity rather than tradition. The brochure image depicts an Anglicized Indian woman with a Kodak camera standing before a snake charmer. Behind her, other women are walking away with pots on their heads. Like the snake charmer, they are exoticized representations of Indianness with which the modern woman holding the camera is contrasted (Fig. 34.07).
+
+The Indian State Railways, which were owned and managed by the Raj, also used exotic imagery in an extensive advertising campaign during the 193os to encourage tourists from Britain to see India by rail. Similar to the poster campaign of the London Underground and those of the British railroads that were influenced by it, the Indian State Railways posters
+
+![](images/ba6ed537bfd35e85c6b41594ae489658322f475d980d37c59122042b4fa6697a.jpg)  
+Fig. 34.07: Kodak, brochure, 1931. SSPL via Getty Images.

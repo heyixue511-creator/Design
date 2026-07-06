@@ -1,0 +1,121 @@
+necessitates a categorical difference in what or how we perceive. Moreover, artist and critic obviously have important interests in regarding artworks; the artist typically views her work with the aim of creatively improving it, while the critic is concerned with producing an interpretive or evaluative appraisal. Is their perception, because of its motivating interests, then excluded from the realm of aesthetic perception? But isn’t the artist’s and critic’s perception paradigmatic of the aesthetic? If so, something seems wrong with the characterization of the aesthetic as wholly disinterested. Another problem found with the aesthetic is that it does not seem to deal adequately with much contemporary art that is blatantly political (hence not disinterested) and shuns the goal of beauty, one of the central concepts with which the aesthetic has been traditionally identified.
+
+The aesthetic is obviously a vague, polysemic, contested and shifting signifier. But vague terms still signify, and the aesthetic is by now far too deeply embedded in both theoretical and everyday language to recommend that it be expelled from our cultural discourse. Besides, its historically nested rich complexities of meaning harbor the promise of generating new rewarding directions of use. The future of this concept depends on the ways that theorists, artists, critics and consumers will appropriate the various meanings it has already acquired in its rich history, and adjust them to address and reshape our contemporary cultural world.
+
+## References
+
+Adorno, T.W. (1984) Aesthetic Theory, trans. C. Lenhardt. London: Routledge.
+
+Ames, R.T. and H. Rosemont Jr (trans.) (1998) The Analects of Confucius: A Philosophical Translation. New York: Ballantine.
+
+Aoki, T. (1998) ‘Futatsu no Gei no Michi: Geidoh to Geijutsu’ (Two Species of Art: Geidoh and Geijutsu), Nihon no Bigaku (Aesthetics of Japan) 27: 114–27.
+
+Arendt, H. (1961) Between Past and Future. New York: Viking.
+
+Aristotle (1968) The Basic Works of Aristotle, trans. R. McKeon. New York: Random House.
+
+Baumgarten, A. (1998) Theoretische Ästhetik: Die grundlegende Abschnitte aus der ‘Ästhetica’ (1750/1758), trans. H.R. Schweizer. Hamburg: Felix Meiner.
+
+Benjamin, W. (1969) Illuminations, trans. H. Zohn. New York. Schocken.
+
+Bourdieu, P. (1979) La Distinction. Paris: Minuit.
+
+Burke, E. (1998) A Philosophical Enquiry into the Origin of our Ideas of the Sublime and Beautiful. London: Penguin.
+
+Dewey, J. (1987) Art as Experience. Carbondale: Southern Illinois University Press.
+
+Dickie, G. (1974) Art and the Aesthetic: An Institutional Analysis. Ithaca, NY: Cornell University Press.
+
+Eliot, T.S. (1964) The Use of Poetry and the Use of Criticism. London: Faber.
+
+Foucault, M. (1984) L’Usage des plaisirs. Paris: Gallimard.
+
+Gadamer, H.-G. (1965) Wahrheit und Methode. Tubingen: Mohr.
+
+Hegel, G.W.F. (1993) Introductory Lectures on Aesthetics, trans. B. Bosanquet. London: Penguin.
+
+Kant, I. (1952) The Critique of Judgement, trans. J.C. Meredith. Oxford: Clarendon Press.
+
+Nietzsche, F. (1956) The Genealogy of Morals, trans. F. Golffing. New York: Doubleday.
+
+Plato (1998) Complete Works, trans. J. Cooper et al. Indianapolis: Hackett.
+
+Schiller, F. (1967) On the Aesthetic Education of Man (bilingual German-English edition, trans. E.M. Wilkinson and L.A. Willoughby). Oxford: Oxford University Press
+
+Schopenhauer, A. (1966) The World as Will and Idea, trans. E.F. Payne. New York: Dover.
+
+Shaftesbury, A., Earl of (1999) Characteristics of Men, Manners, Opinions, Times. Cambridge: Cambridge University Press.
+
+Shusterman, R. (1988) T.S. Eliot and the Philosophy of Criticism. London/New York: Duckworth/Columbia University Press.
+
+Shusterman, R. (1992) Pragmatist Aesthetics: Living Beauty, Rethinking Art. Oxford: Blackwell.
+
+Shusterman, R. (2004) ‘Pragmatism and East-Asian Thought’, in The Range of Pragmatism and the Limits of Philosophy. Oxford: Blackwell.
+
+Richard Shusterman is the Dorothy F. Schmidt Eminent Scholar in the Humanities and Professor of Philosophy at Florida Atlantic University, Boca Raton. His many books include Pragmatist Aesthetics, already published in 13 languages.
+
+# The Aesthetic in Colonial India
+
+Tania Roy
+
+Keywords aura, disinterest, exhibition-value, icon, Raj, realism, taste
+
+K <sup>ant’s</sup> <sup>Critique</sup> <sup>of</sup> <sup>Judgment</sup> <sup>(1790)</sup> <sup>con-</sup>tinues to be read widely as the most compelling articulation of the modern discourse of the aesthetic; this supplemental entry addresses only those aspects of Kant’s text that have been aligned with the question of good and bad taste in art. While it has been construed as a misinterpretation, this reading of Kant has remained influential since the turn of the 18th century. So, historian Martha Woodmansee (1994) has shown how the authority of the third Critique was deployed in public debates about art and culture in Germany, France and Britain in the late 18th century, in disputes over standards of artistic creativity and the status of authorial property rights. As a supplement, this entry traces the after-life of Kant’s text, as it passed from its contested European origins into the British colonial administration of India; it makes no attempt to establish the authenticity of readings attributed to Kant in this period.
+
+Kant’s dichotomous distinction between a ‘taste of sense’ and a ‘taste of reflection’, in this version, marks the distinction between high and low culture; and between upper and lower orders of society (Bourdieu, 1984: 41–4, 481–91). Kant’s text appears to devalue the former, which is associated with immediate, ‘interested’ or deeply private satisfactions associated with bodily desires. On the other hand, the taste of reflection assumes a ‘disinterested’ perspective, an attitude of distance from both the art-object as well as from one’s own demands. Kant himself argued that such exercises of taste had a place in public life. These judgments were ‘valid’, as much for oneself as for others; as was the pleasure, a cerebral kind, afforded by the object (Kant, 1987: 57–8).
+
+Within the terms of the European debate, the aesthetic’s distinction between ‘sense’ and ‘reflection’ was deployed in a cultural context where religion was, purportedly, a private affair. Since the exercise of taste involved publicly valid judgments, a properly aesthetic engagement with an object would presumably transcend religious, that is to say private, passions. Echoing this assumption, theorist of 20th-century European mass culture Walter
+
+Benjamin drew a distinction – widely deployed by recent scholarship – between the ‘exhibition value of a publicly accessible, mobile work of art and the ‘cult value’ of a ritual object, veiled from view and fixed to its consecrated place. In this tradition, a post-sacred appreciation of art-works is fundamental to the exercise of good judgment.
+
+In the mid-19th century, the shade of this Kantian imperative passed from Europe, through England to India, into the programmatic attempts of colonial educators to inculcate taste in their native students. ‘Taste’ was itself construed within the parameters of disinterest, that is, as a denial of the religious or cultic function of images. Consequently, it was thought that a properly aesthetic education would suppress the native’s concern with the work’s proximity to divine power; and would reform a putatively ‘primitive’ interest in the object’s usefulness as a fetish or icon.
+
+This pedagogical preoccupation with taste came to provide a broader, ideological justification for the foundation of Government Art Schools. Institutionalized dissemination of the visual and cognitive precepts of good judgment would advance the ‘scientific progress’ of a culture – so argued the eminent art-educator and amateur painter, Sir Richard Temple, in 1883:
+
+[Art schools] will teach them one thing, which through all the preceding ages they have never learnt, namely drawing objects correctly, whether figures, landscape or architecture. Such drawing tends to rectify some of their mental faults, to intensify their powers of observation, and to make them understand analytically those glories of nature which they love so well. (from Temple’s Oriental Experience, cited by Mitter, 1994: 32, emphasis added)
+
+From 1798 onwards, individuals as well as organizations had founded numerous art schools that were perceived as pioneering in their attempt to systematically import artistic techniques of the ‘West’. However, it was during the 1850s that schools in the urban centres of Calcutta, Madras, Bombay and Lahore were placed under the direct control of the Department of Public Instruction (Guha-Thakurta, 1992; Mitter, 1994). The centralization of academic art in this period was justified in terms of larger imperial policy, as the impetus for a sweeping ‘analytic’ transformation of Indian culture. The
+
+Government Art Schools would inculcate public taste, or, what was the same, secularize the basis of aesthetic judgment. Based on the disciplined ‘observation’ of nature and the practice of its accurate reproduction, the art school curriculum was supposed to fragment the fictive world of the ‘Hindu’, whose idolatrous artistic traditions, as understood by Victorian art historians, had remained incapable of distinguishing between the natural and the supra-natural. By the 1880s, the education of colonial subjects in urban art academies was aligned with the imperial mission of cultural and societal modernization (Mitter, 1994: 123).
+
+The technical component of academic art training focused on one particular visual convention of Western European salon art, derived from the Italian Renaissance, that of single-point perspective. For those who argued that a regime of visual instruction was of fundamental import to the British administration of India, an intractable anti-naturalism was a source of recurring concern. Training in the uses of perspective, according to Temple, provided a conclusive solution to such recalcitrance. Perspective was fundamental to ‘practices most approved in European Art’ but also ‘embodi[ed] principles applicable to art in all climes’, insofar as it imparted the ability to draw objects from nature ‘correctly’, that is, with a fidelity to empirical detail, anywhere. It was argued that the use of perspective awakened an appreciation of realism in the arts; that the practice of drawing objects true-to-life instilled respect for the actual proportions of the subjectmatter, training attention to changes in its appearance that were relative to the position of the beholder. In the commentaries of art school educators, perspective is treated as the proverbial silver bullet that would fracture, once and for all, the contact between the eyes of the beholder and those of the deity. Art school instruction articulated a comprehensive rejection of symmetry and frontality – visual norms that had hitherto framed traditional representations of deities (Mitter, 1994: 35; Pinney, 2003: 115).
+
+In the late 19th century, colonial perspectivalism became the sine qua non of good taste. Ethnographer Christopher Pinney has argued that the denial of eye contact between the picture’s subject and beholder evolved into a classical aesthetic of ‘absorption’, where the composition is dominated by an internalized gaze. So, the aristocratic sitter of Maratha Lady (1920s) by Abalal Rahiman of the Bombay school averts her eyes from the viewer’s, remaining absorbed in the minute task of threading a needle; in the mass-produced colour lithographs of the Calcutta Art Studio (1880s), even the god Shiv, ubiquitous within popular imagination, now ‘turned his vision towards the “Oriental Cupid” [within the image], not to the devotee gazing at the image’ (2003: 115). From the 1880s until the 1920s, this principled denial of the beholder’s presence became the consummate expression of disinterested art. The image’s self-absorption, its elliptical acknowledgement of a distanced viewer, the genres of portrait and history painting adopted from European salon art of which these characteristics were typical – all this was disseminated by the British Raj through Government Art Schools (Mitter, 1994). The perspective of the ‘absent-beholder’ came to represent the very antithesis of cultic art, whose single purpose lay in enabling a direct address of the deity. For a colonial urban elite, perspectivalism became the signature of Western ‘distinction’, a token of their distance from the obsolete world of Hindu icons (Jain, 2003; Pinney, 2003: 116).
+
+Yet even during the decades of its ideological ascendance, in the years between the 1880s and the 1920s, this strand of aesthetic discourse retained a fragile authority over the arts in the subcontinent. For if the standards of ‘taste’ had been imparted through the institutional frameworks of Government Schools, the British were themselves divided over the purpose of art teaching. In the imperial metropolis, art instruction was concerned either with ‘fine arts’ as taught at the Royal Academy, or with vocational training in the industrial or ‘applied arts’ as at the Department of Science and Art at South Kensington (Mitter, 1994: 32). The Government Schools did turn out a class of ‘gentleman painters’ and collectors in colonial centres, urban English-literate gentry who had (restricted) access to the fine arts curriculum at the schools. However, there was still an unbroken exchange between academic art and the mass market via the prolific popular image industry. Indeed, one of the earliest lithographic presses, the Calcutta Art Studio, set up in 1878 in Bengal, was established by five graduates of the Calcutta school. Still, not all trained artists had had an education in the fine arts, for many were vocationally trained as skilled craftsmen for the service of the British administration. This was due in large part to the British ambivalence over the definition of ‘the arts’; an uncertainty that was exacerbated in the colonial context by a racialized distinction between the ‘decorative arts’ (at which traditional Indian artisans were purported to excel) and the ‘fine arts’ (that were apparently non-existent within Indian civilization).
+
+In tandem with the institutionalization of Victorian taste – rather than in spite of its imperatives – the decades between the 1880s and the 1900s witnessed an exponential increase in the production and sale of popular, mechanically reproducible prints. These were dominated by chromolithography, and the Calcutta Art Studio was one of the most successful in the market. The
+
+Studio owed its popularity to a mass demand for images composed according to the traditional iconic norms of frontality, and a corporeal acknowledgement of the viewer. However, the proprietors owed their commercial dominance within a pan-Indian market in no small measure to their own mastery of Victorian perspectivalism. The naturalistic rendering of human figures and of landscape had taken on an appeal that cut across class and geographical lines. Indeed, indigenous entrepreneurs had to respond with aesthetic and technical innovations to competition from global capital: German printers, for example, were attracted by enormous profits and had begun to flood an eager market with reproductions of European subjects (that included erotic art) (Neumayer and Schelberger, 2003). While the Calcutta Art Studio produced mainly religious icons, their prints consistently deployed the devices of European naturalism – often displaying a carnal three-dimensionality, Hindu gods acquired a musculature that was borrowed directly from Greek divinities, becoming ‘object lessons in artistic anatomy acquired at art school’ (Mitter, 2003: 17). In Kantian terms, these images were decidedly the product of a ‘taste of sense’. Divinities now acquired a sensuous immanence even as they directly satisfied the beholder’s demand for visual reciprocity. Even so, Hindu iconography was disseminated through a thoroughly hybrid, illusionistic idiom that had incorporated the technical conventions of Victorian taste.
+
+Another aspect of this hybrid aesthetic was the imbrication of religious images within the economy of the market. Indeed, the iconic status of 19th-century lithographs – their ‘aura’ of religiosity – was constituted by their profane, spectacular ‘exhibition value’. Mass-produced commodities, icons acquired an unprecedented mobility through railways that transported them across the subcontinent, to devotees who could acquire them locally. Moreover, lithography exploited the significance of religious themes (e.g. from the Hindu epics of the Mahabharata and the Ramayana, or the stories of the Puranas) and rendered these realistically, through the genre of history painting. Lithographers (including those contracted by international firms) reproduced these thoroughly recognizable, carnally specified figures of myth, for branding and advertising purposes. But their sensual charge was used also to exhume a national history. Icons addressed nationalist politics through the Hindu-inflected vocabulary of religion. As a mode of mass communication, and by virtue of their sheer excess, printed images of gods were difficult to monitor, to categorize as politically inflammatory, and therefore to censor: sacralizing politics, they became integral to nationalist agitation in the 1920s and after (Pinney, 1997,
+
+2003, 2004). Significantly, the two commercially successful centres of chromolithographic production, Bengal and Maharashtra, were witness to volatile mass mobilization in this period.
+
+Painted Indian icons did incorporate the lessons of Victorian taste; paradoxically, its authority was rapidly overwhelmed by painting’s prolific after-life, in print.
+
+## References
+
+Bourdieu, P. (1984) Distinction: A Social Critique of the Judgment of Taste. Cambridge, MA: Harvard University Press.
+
+Guha-Thakurta, T. (1992) The Making of a New ‘Indian’ Art: Artists, Aesthetics and Nationalism in Colonial Bengal c. 1850–1920. Cambridge: Cambridge University Press.
+
+Jain, K. (2003) ‘More than Meets the Eye: The Circulation of Images and the Embodiment of Value’, in S. Ramaswamy (ed.) Beyond Appearances? Visual Practices and Ideologies in Modern India. New Delhi, Thousand Oaks, London: Sage Publications.
+
+Kant, I. (1987) Critique of Judgment, trans. Werner S. Pluhar. Indianapolis: Hackett.
+
+Mitter, P. (1994) Art and Nationalism in Colonial India, 1850–1922. Cambridge: Cambridge University Press.
+
+Mitter, P. (2003) ‘Mechanical Reproduction and the World of the Colonial Artist’, in S. Ramaswamy (ed.) Beyond Appearances? Visual Practices and Ideologies in Modern India. New Delhi: Sage.
+
+Neumayer, E. and C. Schelberger (2003) Popular Indian Art: Raja Ravi Varma and the Printed Gods of India. Oxford: Oxford University Press.
+
+Pinney, C. (1997) ‘The Nation (Un)pictured? Chromolithography and “Popular” Politics in India, 1878–1995’, Critical Inquiry 23(4): 834–67.
+
+Pinney, C. (2003) ‘How Indian Nationalism Made Itself Irrefutable’, in S. Ramaswamy (ed.) Beyond Appearances? Visual Practices and Ideologies in Modern India. New Delhi, Thousand Oaks, London: Sage Publications.
+
+Pinney, C. (2004) Photos of the Gods: The Printed Image and Political Struggle in India. London: Reaktion.
+
+Woodmansee, M. (1994) The Author, Art and the Market: Re-reading the History of Aesthetics. New York: Columbia University Press.
+
+Tania Roy is a visiting fellow in the Department of English Language and Literature at the National University of Singapore, with interests in the Frankfurt School and Indian modernism.

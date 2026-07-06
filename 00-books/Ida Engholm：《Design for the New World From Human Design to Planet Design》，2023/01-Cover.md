@@ -1,0 +1,1 @@
+# Design for the New World a Engholm Design for the New World # Design for the New World # From Human Design to Planet Design Ida Engholm To my parents

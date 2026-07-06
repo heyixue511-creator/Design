@@ -1,0 +1,1 @@
+# Buen Gusto and Classic ism in the Visual Cultures of Latin Americ a, 1780–1910 edited by Paul B. Niell and Stacie G. Widdifield University of New Mexico Press Albuquerque

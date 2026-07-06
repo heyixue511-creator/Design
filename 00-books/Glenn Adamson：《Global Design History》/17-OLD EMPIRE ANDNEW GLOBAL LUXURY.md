@@ -1,0 +1,168 @@
+# OLD EMPIRE AND NEW GLOBAL LUXURY
+
+# Fashioning global design<sup>1</sup>
+
+Peter McNeil
+
+In 1989, fashion designers Pam Easton and Lydia Pearson began to create from an Australian regional city of Brisbane their range of garments that were deliberately nostalgic and feminine, with an air of knowing retrospection generated through an engagement with historical and ethnographic sources. At first they were not widely known and their market was completely local. Within ten years their female clothing line, manufactured in Brisbane but made of textiles garnered from Vietnam and India, as well as Italy and France, was retailing to a global clientele: in Browns, London; Neiman Marcus, USA; and Alta Moda, Kuwait.
+
+For contemporary designers, it is not uncommon to engage with ethnographic elements; this can sometimes amount to an unthoughtful activity. Within Easton Pearson’s design imagination, traditional designs are not simply copied but rather amended to create new allusions and aesthetics. In going to the ‘source’ of ethnic textiles and re-commissioning in India fabrics that had not been produced in some cases for decades, their practice raises questions about authenticity, intervention and revival.
+
+This short paper uses a specific case to address a series of issues affecting the relationship between design, textiles and fashion in a world that is often perceived as increasingly ‘globalised’. It investigates the micro-processes through which local actors (producers of traditional fabrics in India; entrepreneurs in provincial Australia; and consumers in cosmopolitan and provincial cities in the Western hemispheres) interact to create a series of ‘relational connections’. These connections affect all actors but are in turn also affected by a series of concepts, practices, images and representations – some of which are historically inspired – that allow meaning to be formed, shaped and negotiated. This paper raises issues of ‘otherness’, of constructed exoticism, and centreperiphery, but emphasises how certain topics such as class, conspicuous consumption and lifestyle, themes that are more generally associated with fashion, continue to be significant in understanding the formation and success of design at a global scale.
+
+## Who owns fashion?
+
+Fashion today, like design, is conducted along transnational lines in which the West (Europe and North America) no longer has a monopoly on the idea of fashion, if in fact it ever did. The debate regarding the West’s ‘invention’ of fashion is lengthy, complex and unresolved.<sup>2</sup> Nonetheless, it becomes increasingly problematic to suggest that fashion can only emanate from several cardinal points or centres, as today its very means of imagination and production are completely global. As Simona Segre Reinach argues in her analysis of Italian fashion made and marketed in and for China:
+
+having or not having a ‘national fashion’ on which to rely is fundamental for the success of brands operating in the contemporary market, although production may be transnational or perhaps due to the very fact that production is transnational.
+
+Segre Reinach notes the denting of the conviction of certain ‘Euramerican’ centres as having ‘sole rights’ to fashion: ‘the possibility of creating fashion, i.e. of being recognised as “author countries” is however part of a process in which hierarchies and roles are being constantly renegotiated according to the contexts and players concerned’.<sup>3</sup>
+
+As Christopher Breward comments in this book, the nature of the fashion city has changed. The role of particularised consumer taste has become significantly more important within late twentieth-century fashion as media and marketing contexts move away from the notion of fashion as a uniform or even a dictatorial force. Secondly, new important centres of global fashion have appeared next to the more traditional European and North American ones. They interact reciprocally to form identities that are often globally constructed. Some Asian cultures, such as those expressed in Singapore, Hong Kong and parts of China, have undergone a ‘reorientalism’, in which they buy back the imagery created in the vision of the European colonisers. As scholar Hazel Clark wrote of Hong Kong in her most prescient essay of 1990:
+
+Increasingly at the end of the twentieth century major cities tended to promulgate their own fashion looks which are interpretations rather than imitations of what is current globally . . . What becomes fashionable in a city relies largely on the way that contemporary urbanites choose to identify themselves through fashion.<sup>4</sup>
+
+In order for nations to assert a healthy state of fashion in the current system, they must first argue for distinctive national patterns of design innovation as well as conformity to a general international fashion ‘template’. The case of Easton Pearson is an example of the disposition of a business and fashion-design project spanning several continents that originated from a rejection of the pervasive – one might even say ‘proto-global’ – fashion trends of the late 1980s based on minimalism, to ‘take refuge’ instead in a more local but also romanticised and nostalgic vision of Australian fashion that is self-consciously cosmopolitan.<sup>5</sup>
+
+## Virtuosity in variation
+
+‘Not everyone wants to dress in futuristic clothing.’ For some people, ‘the future seems scary and alien’ Easton Pearson explained.<sup>6</sup> Such strategies were also apparent at the time in contexts as different as the reasonably-priced revivalist designs of the very British Laura Ashley and in the elite neo-rococo couture of Frenchman Christian Lacroix. Easton Pearson’s agency as designers became stronger when they refused mass-produced textiles and worked instead to commission and design their own fabrics in India, South-East Asia and Europe. Easton Pearson have been responsible for introducing European, North American and Australian women to a range of textile possibilities they were unlikely to encounter unless they travelled abroad and, even then, only if they ventured from the main tourist trails. The issue of homogeneity, brought about by globalisation here becomes, in a local context, a matter of the variety, broadening the spectrum available more generally. Unlike some designers – such as the more recent Kenzo and Etro, who take the feel and texture of Asian textiles and then apply them to a European form – Easton Pearson embrace the effects of indigenous tradition and textiles. ‘The possibilities offered by specific textile techniques clearly influence us in terms of what might be adapted into clothing’, notes Easton.<sup>7</sup>
+
+Company records reinforce the proud focus on the artisan: ‘all handwoven’, for instance, is noted of the raw silks for September 1991. Some of the textiles they commissioned in India had not been produced for several decades. This remanufacturing process has been made possible through a sustained engagement with both merchant-brokers and also craftspeople in India. On several occasions, the designers noticed old order books in business premises and asked to see the samples therein. From early interactions of the 1980s which relied on faxes, hand-coloured photocopies and telephone calls, ironically now the designers eschew digital communication, and insist upon personal interactions face to face, travelling to India and Vietnam on a regular basis in order to develop their textile ranges.
+
+In pursuing this ‘ethnic’ turn, Easton Pearson is aligned with a group of contemporary designers, including Dries Van Noten, Rifat Ozbek, Kenzo, Ugur Ile Alijan, Anna Sui and, more recently, Peter Som. These designers continue the interest in the exotic evident in clothing influenced by Japonisme in the second half of the nineteenth century, and revisited in different forms throughout the early twentieth century by designers including Mario Fortuny, Maria Monaci Gallenga, Maurice Babani and Jeanne Lanvin. Fashion designers seem often to be allured by orientalism. However, orientalism in fashion is difficult to assess in cultural terms: as scholar Nancy Troy argues in relation to the work of Paul Poiret in the early twentieth century, it can be a symbol of conventional luxury or transgressive liberation at the same time.<sup>8</sup> The ‘ethnic turn’ might be a reference not to the East but to Scottish tartans, however in the consumer mind over the course of the twentieth century it has been constantly drawn back to Central and South East Asia, as well as South America. Some of this attention was directed by intertwined cultural and political imperatives, such as fashion designer Bonnie Cashin’s 1956 trip to India, paid for by the Ford Foundation.
+
+## Portable decoration
+
+Easton Pearson’s engagement with textiles and their design raises two issues with global implications: labour and agency. Too often debate over the production of textiles and apparel is equated primarily with the exploitation of labour. When one considers ‘design’ and the wider meaning of craftsmanship, however, the cultural politics of labour and in particular its gendered nature become central. The quilts made by the women of the Great Raan of Kutch are well known to textile experts, and Easton Pearson were first to import the work of the Shrujan women’s cooperative into Australia.<sup>9</sup> The Raan of Kutch in Gujarat, western India, is one of the poorest parts of the world. Women were once day labourers (majoor) but have now found, through their ability to sew collectively, a new source of income and agency. As a woman says of the project: ‘A few years ago I would have introduced myself as a majoor. Now I can proudly call myself an artisan. We design patterns, set deadlines, embroider and market ourselves. The work you buy is not just embroidery, it’s an expression of our pride.’<sup>10</sup>
+
+As scholar Judy Frater notes, in such a resource-limited environment objects are scarce, but this does not mean that textiles are not embellished. Quite the contrary. The outlining stitches of Rabari textiles become affiliation markers and bonds, as well as a form of portable wealth. Each motif is named and refers to a natural form and also visualises women’s lives, becoming ‘virtuosity in variation’.<sup>11</sup> The complex meanings generated by traditional craft practices and techniques thus become a design ‘resource’ of unparalleled flexibility in which the distinctiveness of each handworked stitch and irregular dyed colour-way are transferred to more Western notions of ‘individuality’ and ‘variety’ in clothing and tastes.
+
+The portable decorations of certain Indian nomadic peoples – traditionally the embroideries that introduced a bride into her groom’s family – now find their way into the wardrobes of urban and affluent women. The exportation of garments that are manufactured in Brisbane, Australia, from textiles woven and embellished in centres as different as India and Italy, raises some interesting questions regarding the circulation and consumption of goods that are not necessarily rare, but rather carry meanings of distinction and place. Thus in describing the garments created by Easton Pearson that are directed at wealthy consumers in the boutiques of London, Sydney and Dubai, we cannot lose sight of the fact that the ground of which they are composed has specific meanings in the centres where they are manufactured. Easton Pearson have noted that they always face a challenge in persuading the desert women in Kutch to accept their packages of sewing – compared to the indigenous colour ways, the women dislike the pale colours and anaemic palette designed by Easton Pearson. Thus, in viewing a textile as ‘ethnic’ or ‘authentic’, we can be blind to its very reception at the place of its making, amongst the poor labourer, and it may well take on another cast when placed in an upper-middle-class boutique. In placing scissors and needles in the packages to tempt the women to prioritise the bundles of Easton Pearson sewing over their other commissions, a great deal is said about the dilemma of the West in interacting with the poorest in the developing world.
+
+## New luxury
+
+Easton Pearson’s success is now international. The company has developed a range of luxurious lines for export to North America and Dubai, and approximately 65 per cent of Easton Pearson garments are exported.<sup>12</sup> Their work quickly found favour with style gurus such as Joan Burstein of Brown’s, London, and Stacey Kaye of Henri Bendel’s, New York. Luxury department stores including Neiman Marcus, Dallas and Los Angeles, and Lane Crawford, Hong Kong, have featured stories and run events around Easton Pearson ranges. Sheik Majed Al-Sabah, nephew of the Emir of Kuwait, hosts exclusive ‘trunk’ parties for his wealthy clients. The Sheik runs the well-known ‘Villa Moda’ boutique in Kuwait, his so-called ‘luxury bazaar which first opened in 1992 in Dasman, later shifting to a 20 million US\$ building on the edge of Kuwait City in 2001. The Sheik is an influential figure in shaping the consumption of Western luxury in the Middle East, not least because he was the financial backer of the up-market Islamic fashion magazine, Alef, aimed at Gulf readers as well as women of the diaspora.<sup>13</sup> The Sheik noted in interview that ‘Australian designers perform very well for us. The fabric weights. The exchange rates, the climate compatibility.’<sup>14</sup>
+
+Clearly the ‘ethnic’ allusions also resonate with the Gulf clients. Motifs appearing in Easton Pearson designs have deep meanings in Asian cultures, as well as strong formal qualities that make them ideally suited to being incorporated into fashion design (see Figures 11.1 and 11.2). Patterns borrowed from the Ottoman Empire of the fifteenth and sixteenth centuries, the types of silks extensively traded with Europe, include the Ottoman triple-spot motif which originally concerned power and strength and might refer to the spots on the prestigious coats of leopards and tigers. Shisha, or mirror work from India, once used mica or beetle wings rather than glass, and may indicate the evil eye. Mashru (meaning ‘permitted’) is a fabric with a silk warp and a cotton weft; Islamic tradition says that, in order to protect against vanity, men should not wear silk against the skin. Raffia is used in cultures originating in Africa; and tie-dye is used in Japan, Indonesia, China, South-East Asia, Central America and Africa. Sufi embroidery, made by the Sodha women of India, relies on skills of detailed memory. Kantha is a quilt made from old white saris in Bangladesh and eastern India; fabric is layered and then quilted using a running stitch to produce a padded effect. They also make women’s jackets that refer to the keriya, a jacket traditionally worn by Gujarati men with a hand-embroidered yoke.<sup>15</sup>
+
+Within Easton Pearson’s design imagination, traditional designs are not simply copied but rather amended to create new allusions and aesthetics. Easton Pearson clothes are not primarily about cutting. When they use an indigenous textile, the
+
+![](images/be13ea2ec81549e84656c846f06132ba38257959aff420a920ec02c8e0302904.jpg)
+
+FIGURE 11.1 Easton Pearson, Designers. Picos bolero, spring/ summer 2004, cotton net, hand embroidered with raffia, silk lining. Ciel dress, spring/ summer 2004, cotton net, hand embroidered with raffia and decorated with stone chips, silk lining. Berri skirt, spring/summer 2004, grosgrain viscose belt
+
+Source: Photograph courtesy of Queensland Art Gallery
+
+![](images/72f99f72e1047b1fdaa36b3b580cda2dcf5dcef383046b447a2552b7b18f84d5.jpg)  
+FIGURE 11.2 Easton Pearson, Designers. Detail. Berri skirt, spring/summer 2004, cotton net, hand embroidered with raffia and decorated with stone chips, wired tiers and silk lining
+
+Source: Photograph courtesy of Queensland Art Gallery garment also tends to be more abstracted. Many of the garments are based on traditional clothes and many were originally made for men, such as the skirted garments worn by Mughals in India and the little jackets worn by working men in Rajasthan and Gujarat. More recently they have generated collections from ideas around artists and moments, such as the New York School of the 1940s to the 1970s – shortened artists’ smocks in deep colours with decoration along the necklines and cuffs.
+
+Continuing from the modernist tradition in which both the cut and the materiality of non-Western garments provided European and American designers with the opportunity to create new visions of dressing the female body, ‘traditional’ garments are given new contexts and meanings. Unlike many designers who import mass lengths of sequinned fabrics from India and then cut them to shape, Easton Pearson delivered the pieces and had them reworked in Mumbai or Kutch, then reimporting them to Australia for making-up, and then onwards to export markets. Such journeys were taken to ensure a particular designerly vision in which the precise (Western) vision of the textile was realised, often by trial and error, but the journey is also redolent of the new global flow of garments and other commodities.
+
+## New global or old empire luxury?
+
+Easton Pearson’s ability to mix ethnic textiles with European lines also generates a self-conscious narrative about the garments. They have a playful desire to pursue combinations that would have seemed absurd, even offensive, in a colonial society. The spring/summer 2002 collection, for instance, mixed Victorian blouses with batik skirts. Clothes of empire become warped and distorted, as if a local dowager went slightly mad and had her servants remake all her clothes in indigenous textiles, or if a debutante were stranded in a colony and embraced the textile tradition of her retainers (see Figure 11.3). Even the names of the garments reinforce this: Sabrina, Edwina, Albertina, Wallace, Edith and Bella. ‘An aura of dilapidated suffragette’, announced an undated press release.
+
+Given the high prices involved, the indigenous woman would be likely denied access through either pricing or prohibitions to access the type of garments suggested by the Easton Pearson designs. Yet today, in a global market, the commodity they produce may now be targetted for women of multiple nationalities, ethnicities and indeed sites, and this spatial and ethnic complexity loops back and becomes a part of a marketing strategy, a public relations campaign, and a narrative set up through titles of dresses, themes of parades and fashion magazine styling. Although examples from the cultures of literature, art, music and performance are more commonly interrogated to gain understandings of colonial, post-colonial and global experiences, I would suggest that in this case fashion design provides a possible case. As Angela Woollacott notes in her monograph To Try her Fortune in London: Australian Women, Colonialism, and Modernity, for Australians ‘after 1901, being part of an empire meant being both a citizen of a ruling power of a small empire and a subject of a global empire’.<sup>16</sup> Empire, as Woollacott notes of Simon Gikandi’s position, means a
+
+Easton Pearson, Designers. Coro shirt, spring/summer 2004, stripe-weave shirting cotton, hand cut and stitched. Esme top, spring/summer 2004, crystal dobbie cotton, hand decorated. Larkin skirt, spring/summer 2004, screenprinted cotton, hand decorated with plastic sequins. Grosgrain and silk belt, spring/summer 2004, hand made
+
+Source: Photograph courtesy of Queensland Art Gallery
+
+![](images/82d264143855bdc77248c38077a09e53ae0332f3383911be0f6b2dff514ba24b.jpg)
+
+‘messing’ of identity of both coloniser and colonised.<sup>17</sup> So the Easton Pearson design using a vintage 1950s or 1960s textile produced for the tourist trade takes on ironic meanings.
+
+The reference to an imperial or colonial past to create a ‘new global present’ can be seen not just in the choice of fabrics and their material mixing, but also in cultural references to personalities and historic periods known for their glamorous and exotic internationalism. Easton Pearson have on several occasions noted their interest in particular women who are bridges between ethnicity, feminism and folklore, such as Mexican artist Frida Kahlo.<sup>18</sup> They also exhibit an interest in style icons and freethinkers of the 1930s to 1950s such as socialite Slim Keith (2001 collection), artist Georgia O’Keeffe, photographer Tina Modotti, writer Jane Bowles, and art collector Peggy Guggenheim, whom they imagine wearing their vintage Fiji silk scarf print: ‘We were imagining Peggy Guggenheim leaving the canal in Venice for a cruise to the South Pacific. She was pretty wacky.’<sup>19</sup>
+
+Easton Pearson’s interest in interwar vintage fashions points to the presence of colonial networks and experiences contained within certain twentieth-century fashion itself. These years generated a category of clothing whose messages are still under-researched – what we might call ‘fashions of empire’ – in which high-end European fashion was deliberately modulated for a colonial setting. An example is Anne Messel, Countess of Rosse, and her 1935 honeymoon trousseau for a trip to Asia, which included a fascinating piece of chinoiserie based on a Balinese palette, a wrap dress by the iconic designer Charles James. The mother of former New York fashion editor Polly Mellen would have her Chanel pyjamas copied in the West Indies in brightly coloured cotton cloths by furnishing houses such as Scalamandré.
+
+Within the ‘experience economy’, the ‘cultural turn’ and the era of ‘new economy’ that dominates contemporary hotel tourism and up-market shopping, the conjunction of eccentricity, luxury and exclusivity confers prestige and market advantage.<sup>20</sup> In referring back to outmoded notions of aristocracy co-mingled with retrospection and an image of the interwar avant-garde, fashion consumers can imagine themselves to be equally distinctive, resistant in fact to the very homogeneous forces that make their airline connections, currency transfer and duty-free shopping possible. This might be particularly important for a generation of middleclass post-feminist women, who wish to engage with fashion in a thoughtful manner that does not suggest that they simply follow trends and marketing devices like a fashion ‘victim’, and whose wearing of hand-worked textiles suggests that their fashion purchase is beyond the quotidian (see Figure 11.4).
+
+## Conclusion
+
+There is something meticulous and orderly about Easton Pearson. Even their sample books are immaculate and thoughtful; nothing is left to chance. There is none of the tearing hand and hasty scribbles of a French male couturier of the 1950s. All is measured, careful and organised. Samples, such as silk organza, are often tied down in knots so as to show the inherent properties of the textile. This sense of respect, of materiality, of making and of authoring textiles with a series of actors from entrepreneurs in Mumbai to rural workers in Kutch, is presented here as a possible new way to consider the process of fashion design. Although the global fashion industry demands a series of narratives, stories, styling opportunities and allusions, these images are no longer so very ‘white’, Anglo-Saxon, centrist, or homogeneous.
+
+![](images/8b0ce254556c12468439055c06e3370c2934ab4169023c17eb3884b50ea19a29.jpg)  
+FIGURE 11.4 Easton Pearson, Designers. Detail. Larkin skirt, spring/summer 2004, screenprinted cotton, hand decorated with plastic sequins. Grosgrain and silk belt, spring/summer 2004, hand made  
+Source: Photograph courtesy of Queensland Art Gallery
+
+Perhaps it makes a great deal of sense that Easton Pearson generated this design practice from a city and a region that had been noted for awkward and hostile race relations with indigenous peoples and a frontier mentality based on an economy of primary production and mining. We might not require that nasty linguistic construction the ‘glocal’ in order to understand that centre-periphery and metropolitanprovincial binaries have never been neat nor simple one-directional flows.
+
+## Notes
+
+1 This essay is based on research commissioned to accompany the Gallery of Modern Art (Queensland) exhibition (Miranda Wallace, Peter McNeil and Jane de Teliga, Easton Pearson, Queensland Art Gallery, 2009).
+
+2 On this point see Peter McNeil, ‘Introduction’, in Peter McNeil (ed.), Critical and Primary Sources in Fashion. Volume 1. Late Medieval to Renaissance, Oxford and New York: Berg, 2009, pp. xix–xlii.
+
+3 Simona Segre Reinach, ‘Italian and Chinese agendas in the global fashion industry’, in Giorgio Riello and Peter McNeil (eds), The Fashion History Reader: Global Perspectives, Routledge, 2010, pp. 533–42.
+
+4 Hazel Clark, ‘Fashion, identity and the city: Hong Kong’, Form/Work: An Interdisciplinary Journal of Design and the Built Environment, University of Technology, Sydney, no. 4, March 2000, p. 90.
+
+5 The British journalist and writer Colin McDowell has criticised Australian labels for ‘the ethereal and deeply feminine ethos that can loosely be described as a Japanese influence’, ‘Editorial: Style’, Sunday Times, London, May 2000, p. 13.
+
+6 ‘On the world stage’, Vogue Australia, September 1999, p. 36.
+
+7 Easton Pearson Transforming Traditions, Exhibition Catalogue, Virginia Commonwealth University School of the Arts, Qatar, 2005, Easton Pearson Archive (henceforth EPA).
+
+8 Nancy Troy, ‘Paul Poiret’s minaret style: Originality, reproduction and art in fashion’, Fashion Theory, 6, 2 (2002), pp. 117–43.
+
+9 Easton Pearson personal notes. EPA, Box 11/4.
+
+10 Statement from KMVS (Kutch Mahila Vikas Sangathan) product brochure, Bhuj, Gujarat, c. 1990, author’s collection.
+
+11 Judy Frater, A Thousand Dialects in Stitches, Bhuj-Kutch, India: Kala Raksha Folk Art Museum, 2000, p. 11.
+
+12 Courier Mail, 16 May 1998. EPA, Box 10 Nos 1–6: Loose Editorial Folders.
+
+13 I thank Professor Reina Lewis for assisting me with this information.
+
+14 Advertorial, Vogue Australia, July 2004, n.p.
+
+15 Precious Lovell, Easton Pearson Transforming Traditions, Qatar, Virginia Commonwealth University School of the Arts, 2005.
+
+16 Angela Woollacott, To Try her Fortune in London: Australian Women, Colonialism, and Modernity, New York: Oxford University Press, 2001, p. 149.
+
+17 Woollacott, To Try her Fortune, p. 179.
+
+18 Rhana Devenport, ‘Artisans and artist colonies: The fabrics and frocks of Easton Pearson’, Object, 43 (2003), p. 37.
+
+19 [Anon], ‘Be frayed, be very frayed’, Age, 21 November 2003, p. 10.
+
+20 See Paul du Gay and Michael Pryke (eds), Cultural Economy: Cultural Analysis and Commercial Life, London, Thousand Oaks: Sage, 2002.
+
+Shehnaz Suterwalla
+
+Peter McNeil offers a vivid and detailed insight into the complexities of global fashion design. Through his case study analysis of Easton Pearson, an Australian fashion house set up in 1989 that recreates and revises ethnic textiles and designs, he illustrates the opportunity for originality and ‘new allusions’ engendered by the innovative ‘relational connections’ between local producers and global consumers. Meanwhile the article highlights concomitant issues of ‘otherness’ and constructed exoticism that lie beneath the surface of such global design practice.
+
+McNeil’s account of Easton Pearson’s methods, which refuse mass-produced textiles and work instead to commission and design their own fabrics in India, South-East Asia and Europe, highlights the double advantage of this fashion house to the Western consumer: the benefit of original design, and an emphasis on the embodied effects of indigenous tradition and textiles. We also learn how Easton Pearson privilege face-to-face interactions with local producers as a means of reinforcing authenticity within their pursuit of ethnic artisanship and revivalism. So far so good.
+
+However, as McNeil himself points out, this case study raises disquieting debates about labour and agency, in particular how changes in temporal and spatial frames invert the meaning and significance of ethnic design, with the result that Easton Pearson’s cultural raiding of ethnic traditionalism can be seen as a historical reconstruction of artisanal practice that suits the global story of the design house, but distorts the agency and meaning of the objects that they appropriate. As McNeil writes, ‘Thus in viewing a textile as “ethnic” or “authentic”, we can be blind to its very reception at the place of its making, amongst the poor labourer, and it may well take on another cast when placed in an upper-middle class boutique.
+
+In the world of fashion the incorporation of the exotic, through objects and styles, presents ‘an effective way of creating a frisson (a thrill or quiver)’<sup>1</sup> especially when the differences between the ‘East’ and the ‘West’ are accentuated stereotypically. However, exaggerated differences between the East and West only serve to solidify historical and essentialized markers of difference based on the binary of familiar and strange.<sup>2</sup> Exotic dress, such as the sari or the veil, for example, have often been used in orientalist discourse to mark the production of ‘third world difference’ by the racialized gaze.<sup>3</sup> This process has most often involved static readings of ethnic textiles and design as ‘authentic’ symbols of tradition. Their appropriation into the social space of global consumption has served to highlight the ‘whiteness’ in capitalist marketing of exotica at both local and global level.
+
+In the case of Easton Pearson, McNeil’s description emphasizes how the design house attempts to unfix ethnic design so that ‘traditional’ garments are given new contexts and meaning. However this unfixing is undertaken still to ensure that a particular designerly Western vision of the textile is realized, in line with Easton Pearson’s self-conscious narrative about its garments. As outlined in McNeil’s chapter, as much as the design house champions the traditional craft practices of ethnic design, in actual fact it is using it merely as a resource to fuel the consumption of social things associated with the ‘other’.
+
+Arjun Appadurai has shown in his analysis of the social life of things that this sort of process is not that different from how art and archaeology collections are put together in the West, where ‘extremely complex blends of plunder, sale, and inheritance combined with the Western taste for things of the past and of the other’.<sup>4</sup> The result is that objects are turned into eroticized commodities set up to be mythologized, idealized and rendered into tropes. The creation of fantasy around the ‘other’ is further exaggerated as Easton Pearson’s processes of revivalism transform textiles from traditional to cool hybrid, decontextualizing them from place of production and overlaying them with new meanings. By placing these objects in the Western fashion system,<sup>5</sup> the company facilitates the consumption of difference or ‘other’, giving rise to the opportunity to ‘recode and neutralize long-standing tropes while simultaneously intensifying them’.<sup>6</sup>
+
+On a more positive note, however, the Easton Pearson case study offers an example of ‘cosmopolitan localism’,<sup>7</sup> which refers to the point of intersection between local and global dimensions that exist through specialized networks of activity. Through the development of complex networking systems within the local and the global in South-East Asia and Europe, Easton Pearson are able to draw from the richness of different actions – connected to specialized labour – occurring in the different temporal frames that vary through regions and cultures, based not only in time zones but also on individual subjectivities. This is thanks to their ability to identify particular and unique personal skills such as the craft practice of the women of the Great Raan of Kutch in India. Easton Pearson’s challenge lies in navigating the murky ground of transnational revivalism to avoid the pitfall within Western design methods where local places and territories are turned into commodities, to be consumed as the authentic ‘other’, even though paradoxically, and at the same time, they can be seen to enable agency among subaltern women.
+
+## 152 Shehnaz Suterwalla
+
+## Notes
+
+1 J. Craik, The Face of Fashion: Cultural Studies in Fashion, London and New York, Routledge, 1993, p. 17.
+
+2 I refer in particular to the highly influential text, E. W. Said, Orientalism, London, Routledge and Kegan Paul, 1978.
+
+3 C. T. Mohanty, A. Russo and L. M. Torres, Third World Women and the Politics of Feminism, Bloomington, Indiana University Press, 1991.
+
+4 A. Appadurai, ‘Introduction’, in A. Appadurai (ed.), The Social Life of Things: Commodities in Cultural Perspective, Cambridge, Cambridge University Press, 1986, pp. 26–7.
+
+5 I allude here to R. Barthes, The Fashion System, London, Cape, 1985, because of its exploration of how within the world of fashion words become loaded with idealistic bourgeois emphasis.
+
+6 D. Root, Cannibal Culture: Art, Appropriation and the Commodification of Difference, Boulder and Oxford, Westview, 1996, p. 136.
+
+7 See Ezio Manzini’s paper ‘A cosmopolitan localism: prospects for a sustainable local development and the possible role of design’ (2005): <http://sustainable-everyday. net/manzini/?p=6>.

@@ -1,0 +1,1 @@
+# ABCDEF GHIJK& LMNOP QRSTU VWXYZ Ionic. First shown by William Page in his 1859 specimens. Lowercase and figures are missing. This design is one of the most beautifully proportioned display faces from the period.

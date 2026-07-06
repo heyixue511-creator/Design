@@ -1,0 +1,1 @@
+# The social life of things Commodities in cultural perspective Edited by ARJUN APPADURAI University of Pennsylvania CAMBRIDGE UNIVERSITY PRESS

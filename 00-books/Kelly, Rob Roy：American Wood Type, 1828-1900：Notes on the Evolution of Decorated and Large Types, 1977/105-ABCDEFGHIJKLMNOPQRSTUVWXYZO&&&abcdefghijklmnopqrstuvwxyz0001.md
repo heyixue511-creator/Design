@@ -1,0 +1,1 @@
+# ABCDEFGHIJK LMNOPQRSTU VWXYZO&&& abcdefghijklmno pqrstuvwxyzo00 12345678900\$ Skeleton Antique. First listed by William Page in his 1865 specimens. These light styles of Antique were very popular with the typefounders during the last quarter of the century.

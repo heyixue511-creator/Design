@@ -1,0 +1,1 @@
+# ORINH THESTORYOF Coca-Cola The Big Drink (1960), book jacket designed by Paul Bacon for a history of Coca-Cola, is an example of 'constructiv typography, where the lettering conforn to a shape or object. This is influenced by The Mouse's Tale', opposite.

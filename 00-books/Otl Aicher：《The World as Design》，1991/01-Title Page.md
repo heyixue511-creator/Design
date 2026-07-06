@@ -1,0 +1,1 @@
+## otl aicher the world as design with an introduction by wolfgang jean stock ![](images/49f2bba3b4b09b5b25e1a1594a05ea6edfc9780a01e1112a3d8bace97e961018.jpg)

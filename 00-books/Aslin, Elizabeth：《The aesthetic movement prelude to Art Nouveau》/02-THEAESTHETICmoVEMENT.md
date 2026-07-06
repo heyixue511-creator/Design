@@ -1,0 +1,1 @@
+![](images/cdeefd4d38edfdfab707994797ddb6e645f0d5764a7b003a2ba2c70ced4db514.jpg) # THE AESTHETIC moVEMENT Prelude to Art Nouveau ![](images/69b90f3085d853440d782d51172eca21ad94048dc90aa5d943614ca8b232aacf.jpg)

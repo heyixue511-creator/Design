@@ -1,0 +1,1 @@
+# The Principles Of Harmony And Contrast Of Colors: And Their Applications To The Arts (1855) ![](images/223c7978393674c1484b955980f5363405774830857f5624a85da82cf2069c44.jpg) Michel E. Chevreul Charles Martel Digitized by the Internet Archive in 2023 with funding from Kahle/Austin Foundation

@@ -1,0 +1,14 @@
+# NOTES
+
+> Section: bibliography | Source: 05-Result-MD\03-Design-History-replenish-1\02-Books\The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York\The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York\The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York\auto\The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York.md
+
+## NOTES
+
+Extracted from Bourdieu, P., 'Introduction,' and 'The Sense of Distinction,' in Distinction: A Social Critique of the Judgement of Taste, translated by Richard Nice, London and Cambridge, MA: Harvard College and Routledge & Kegan Paul 1984, pp. 1–7, 260–317. Copyright © 1984 by the President and Fellows of Harvard College and Rourledge & Kegan Paul Ltd. Reprinted by permission of the publisher, and by Taylor and Francis Books, UK.
+
+1. Bourdieu et al., Un art moyen: essai sur les usages sociaux de la photographie (Paris, Ed. De Minuit, 1965); P. Bourdieu and A. Darbel, L'Amour de l'art: les musées et leur public (Patis, Ed. De Minuit, 1966).
+
+2. The word disposirion seems particularly suited to express what is covered by the concept of habitus (defined as a system of dispositions) - used later in this chapter. It expresses first the result of an organizing action, with a meaning close to that of words such as structure; it also designates a way of being, a habitual state (especially of the body) and, in particular, a predisposition, tendency, propensity or inclination. [The semantic cluster of 'disposition' is rather wider in French than in English, but as this note - translated literally – shows, the equivalence is adequate. Translator.] P. Bourdieu, Outline of a Theory of Practice (Cambridge, Cambridge University Press, 1977), p. 214, n. 1.
+
+3. All these interviews (this one and those of the same type that follow) were carried out in 1974, with the aim of collecting, as systematically as possible, the most significant features of each of the life-styles that had emerged from analysis of the survey, which had already reached a fairly advanced stage. Given previous knowledge of the generative formula of his or her properties and practices, it was decided to lead the interviewee (who was often a relation or acquaintance of the interviewer) methodically towards the most central areas of his or her lifestyle (hence the heterogeneity of the themes discussed, which contrasts with the forced homogeneity of statistical survey data). This was done by supplying all the reassurances and reinforcements that are expected in ordinary life from someone in whom one confides'. Finally, by tightening the discourse, through alternating use of direct, semi-direct and indirect quotation, the aim has been to intensify and so make palpable the concrete image of che systematic totality, the life-style, which statistical analysis dissolves even as it brings it to light.
+

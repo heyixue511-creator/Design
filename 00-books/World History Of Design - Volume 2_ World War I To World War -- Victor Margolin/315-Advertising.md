@@ -1,0 +1,14 @@
+WE
+
+![](images/d6bf0a942214c5fd900db948aaac441a1e329863268c7b1d67402bb3509b1bf7.jpg)  
+Fig. 32.15: Akhir Sa'a, cover, 1947. Courtesy A. Bou Jawdeh.
+
+The booming market for newspapers and periodicals was also paralleled by book publishing. The achievement of independence in 1922 and the emergence of a middle class fostered a stimulating intellectual climate, with numerous intellectuals espousing liberal secular views in politics, science, and the arts. There was also a growing market for new writing in Arabic by Egyptian novelists, short story writers, and poets. More often than not, book covers featured a typographic title rather than an illustration, and the design of book texts tended to follow standard formats. The Dar al-Maarif publishing house brought out the first Arab picture books for children in 1912. Titles included Zouzou and Foufou, The Peasants' Country, and The Red Girl. The two-color illustrations featured on the covers and inside pages were innovative at the time.
+
+## Advertising
+
+With the exception of film and tourist promotion, most domestic advertising appeared in the newspapers and popular magazines. Commercial advertising began in the 189os with the appearance of the first mass-circulation newspapers. Initially, the ads included text only, but illustrations were added as printing techniques improved and newspapers and magazines expanded their readerships. Jurji Zaidan, founder of the magazine al-Hilal, was an early proponent of magazine advertising and published several articles that extolled its benefits. During the 192os and 193os, Dar al-Hilal, the publishing house run by his sons, was a leading promoter of advertising and included numerous ads in its many magazines.
+
+The oldest advertising agency in Cairo was established in 19o6: the Société Orientale de Publicité (Oriental Advertising Society) (SOP), which changed its name some years later to Société Egyptienne de Publicité (Egyptian Advertising Society) after it acquired a new partner, the newspaper al-Misr. By 1939, the SOP was involved in diverse businesses such as newspaper publishing—it owned several English and French language dailies—printing facilities, and outdoor advertising. Major publications such as the newspaper al-Ahram and the magazine al-Hilal also had their own advertising agencies.
+
+Most of the initial advertised goods were imported, with cosmetics and patent medicines among the most popular. Other products included cigarettes, alcoholic beverages, clothing, and furniture as well as some professional services (Fig. 32.16). Many ads appeared in women's magazines, where ads for laborsaving appliances, which were heavily promoted in Turkey, for example, were less appealing to wealthy Egyptian women who could easily afford low-wage domestic help. However, some imported appliances

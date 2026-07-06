@@ -1,0 +1,44 @@
+# Global History
+
+> Section: body | Source: 05-Result-MD\03-Design-History-replenish-1\02-Books\Theory Culture：《and Society 23 2 3 Problematizing Global Knowledge，2006》\Theory Culture：《and Society 23 2 3 Problematizing Global Knowledge，2006》\Theory Culture：《and Society 23 2 3 Problematizing Global Knowledge，2006》\auto\Theory Culture：《and Society 23 2 3 Problematizing Global Knowledge，2006》.md
+
+# Global History
+
+Bruce Mazlish
+
+Keywords Eurocentrism, global history, globalization, knowledge, new global history, world history
+
+G<sup>lobal</sup> <sup>history</sup> <sup>compels</sup> <sup>us</sup> <sup>to</sup> <sup>ask</sup> <sup>what</sup> <sup>it</sup> <sup>is</sup>we know about our world, and how we we know about our world, and how we know it. In its simplest terms, globalization, the subject of study in global history, takes us beyond Eurocentrism, nationalism, and their parochial ways of thinking, into a world of both difference and differences being transcended in the name of a common humanity. In doing so, however, it raises many questions about the disciplines by which we try to discern the shape of what it is we are seeking to understand.
+
+These are lofty-sounding statements. We need to come down to earth as well. Global history is, to begin with, a sub-field of history (Mazlish, 1993; Hughes-Warrington, 2005). It is often used as a synonym for world history. This obfuscates our knowledge in an important way. While world history is also an effort to go beyond Eurocentrism, it does not focus on globalization. The latter is a theme, contained within world history, that can be traced from earliest times – hunter–gatherers spreading across the globe – up to the present. It encompasses interconnection and interdepen-
+
+Friedman, Jonathan (2004b) ‘Culture and its Politics in the Global System’, Protosociology 20: 217–38.
+
+Friedman, Jonathan (2004c) ‘Choc de cultures et logique du déclin hégémonique’, pp. 261–79 in H. Dawod (ed.) Tribus et pouvoirs en terre d’Islam. Paris: Armand Colin.
+
+Goad, Jim (1997) The Redneck Manifesto. New York: Simon & Schuster.
+
+Huntington, Samuel P. (1996) The Clash of Civilizations and the Remaking of World Order. New York: Simon & Schuster.
+
+Jonathan Friedman is Directeur d’Etudes at the Ecole des Hautes Etudes en Sciences Sociales and Professor of Social Anthropology at Lund University, Sweden. He has written extensively on issues of world systems, globalization, and sociocultural transformation.
+
+dence of people, trends that appear to be increasing over time. Yet, teleology and determinism must be rejected as we seek to understand globalization’s development. The story of the latter is made up of unintended consequences and human agency, with the result being powerful currents that move in a global direction.
+
+We ‘know’ this since some time after the end of the Second World War, when the factors making globalization achieved a level of expansion and synchronicity and synergy that, like water boiling, has brought us to a new state. The very term ‘globalization’ only appeared around the 1960s. To reflect our new awareness we would do well to adopt a new periodization: the global epoch. Previously, we spoke of ancient, medieval and modern periods or epochs. Now we must transcend the latter term in this sequence, modern (and its offspring postmodern), for it has lost its potency in orienting us in a ‘world’ (a word derived from Middle English meaning ‘earth’) that has become a globe (a word derived from Latin for spheroid, and pointing us outward) (Mazlish, 1998). Our consciousness of space and time has changed to match our changed life experiences. This is knowledge, a knowledge that requires us to re-examine all our social sciences disciplines, which were derived from an earlier transformation, that of the Industrial and French Revolutions.
+
+Many, if not most, scholars will refuse to take this jump. Their disciplinary traditions, their fights over turf, do not allow them to embrace the interdisciplinary approach and the global history perspective that is required. This is even more true in regard to what is emerging as New Global History, an initiative that focuses on present-day globalization, seen as coming into being after 1945 (for further details, see the website, www.new globalhistory.org). Knowledge moves by fits and starts – one thinks of Galileo’s opponents who refused to look through his telescope or, if they did, declared the stars seen through it to be mere dust on the glass. Such an intelligent man, but stuck in his own limited perspective, as Immanuel Wallerstein declares ‘socalled “globalization”’ to be a fad (Wallerstein, 2000, xviii–xix). Many follow him in this view.
+
+Often they are blinded by their political desires. Particular ethnic, religious, and national groupings prize particularism rather than universalism, which they link to globalization and see as threatening their ways and local power. Thus, universalizing sciences, such as mathematics and physics, are viewed as mere social constructs, with no need to accept them as true knowledge. This in spite of the fact that they are the same for Asians and Americans and produce similar results everywhere. The same can be said for parts of technology: computers work the same everywhere. How they are used, of course, is a different matter.
+
+Needless to say, outside the natural sciences, the situation is more complicated. Do we know about human rights in the same way we know about gravity? The answer is obviously no. Yet, emerging out of human historical experience as a moral imperative with universalistic claims, human rights, or so its proponents claim, override local, particularistic behaviors in the name of the greater community of humanity. Foreshadowed in the idea of cosmopolitanism (see the entry in this encyclopedia by Pheng Cheah), which is being rethought in the light of globalizing experiences, human rights are based on the reality of developments in the information revolution and the interconnections made possible by that revolution. In the shape of non-governmental organizations (NGOs), operating in connection with the UN and nationstates, the rights of each individual and of oppressed minorities are vindicated.
+
+The perspective of (new) global history requires us to see the world anew in these terms. NGOs and multinational corporations (MNCs) are the new actors, alongside the state, in our emerging global society. Our growing knowledge of this fact – for example, of the 100 largest economies, 29 of these are MNCs; as a result, the value added by, say, Exxon Mobil, is larger than the GDP of countries such as Pakistan, New Zealand,
+
+Hungary, and Vietnam – needs to be matched by our visualization of this world (Chandler and Mazlish, 2005). If we open an atlas, we do not see this fact. To remedy this distortion, an historical atlas of the MNCs, Global Inc., has been published (New Press, 2003). A project is now under way to match it with a similar atlas depicting the extent and power of the NGOs.
+
+This is knowledge for the eye as well as in the mind. Global history requires us to rethink and review all our other pieces of knowledge. Thus, the notions of sovereignty, internationalism, migrations, and so forth call out for re-conceptualization in the context of globalization, viewed from an historical perspective (in which history, of course, is interdisciplinary). In spite of certain fantasists of globalization, nation-states will not disappear in the world shaping itself around us. Yet national histories will certainly have to be written anew from the global history perspective. One can see this beginning to happen even in such extremely nationalistic and parochial settings as the teaching of American history.
+
+In short, global history puts all our preconceptions and presumed knowledge at risk. As we have been told since antiquity, with this truism recently emphasized by many postmodernists, knowledge is power. It can be power over nature, or power over humans. And power produces knowledge, whether aiding in domination or undermining existing dominations. The question at issue is whether knowledge is merely local power or can transcend its origin and become part of the heritage of humanity. The answer is, of course, contested, but now must be contested in the terms presented to us by globalization.
+
+At a minimum, global history requires us to take up the epistemological and dialectical dimensions of old questions about knowledge in a new light. Without doubt, it forces us to transcend the received Eurocentric perspective and to engage in the preliminary step of going beyond Orientalism to a close examination of Occidentalism (Coronil, 1996). The next step is to explore the geography of globalism per se, an adventure on which we are only now beginning to embark in a serious way. This is a piece of knowledge that is no longer refutable.
+

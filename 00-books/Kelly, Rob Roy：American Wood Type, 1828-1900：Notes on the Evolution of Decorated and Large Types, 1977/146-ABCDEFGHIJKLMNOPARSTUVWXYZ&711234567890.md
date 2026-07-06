@@ -1,0 +1,1 @@
+# ABCDEFGH IJKLMNOP ARSTUVW XYZ&7112 34567890 Gothic Bold. First shown by Hamilton in his 1889 specimens. Lowercase is missing. Very similar to a curious design included in the 1838 Nesbitt catalogue. The Nesbitt design appears to have resulted from applying the same modifications to the Gothic that had been applied to Antique to create the Grotesque Italian.

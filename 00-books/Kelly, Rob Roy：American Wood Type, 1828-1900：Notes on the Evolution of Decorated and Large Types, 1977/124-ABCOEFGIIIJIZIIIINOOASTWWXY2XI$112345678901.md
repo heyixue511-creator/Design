@@ -1,0 +1,1 @@
+# ABCOE FGIIIJ IKIIVIIN OORS TUWW XXY2XI \$1123415 678901 Antique Tuscan Expanded. First shown by Wells & Webb in their 1854 specimens. Lowercase is missing. This Expanded style did precede the Extended style shown on he opposite page.

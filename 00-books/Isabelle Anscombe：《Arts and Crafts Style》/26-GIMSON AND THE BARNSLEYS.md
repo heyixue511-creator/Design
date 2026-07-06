@@ -1,0 +1,22 @@
+# GIMSON AND THE BARNSLEYS
+
+Ernest Gimson (1864–1919) was born in Leicester, the son of an engineer, and articled to a local architect. In January 1884 William Morris visited Leicester: Gimson and his brother met him at the station ‘and, two minutes after his train had come in, we were at home with him and captured by his personality'. After his lecture on Art and Socialism', they all sat up talking. Morris later provided letters of introduction for Gimson to London architects, and, as a result, in 1886 he joined J. D. Sedding's office, next door to Morris and Co.'s Oxford Street showrooms, where he remained two years. Influenced by Morris, he joined the Society for the Protection of Ancient Buildings and the Art Workers' Guild.
+
+In London Gimson met the Barnsley brothers, who came from a Nonconformist family of Birmingham builders. Ernest Barnsley (1863-1926) worked in Sedding's office, and Sidney (1865–1926) in Norman Shaw's. In October 1890, inspired by Morris and Co., Gimson and the Barnsleys aloņg with W. R. Lethaby, Reginald Blomfield and Mervyn Macartney, also from Shaw's office and all members of the St George's Art Society, founded Kenton and Co. , named after the street around the corner from their rented workshop in Bloomsbury.
+
+They designed furniture for production by professional cabinet-makers. Although Gimson contributed a version of a traditional English dresser in unpolished chamfered oak, most of their pieces were influenced by the eighteenth-century originals admired by Shaw. Kenton and Co. furniture was used by Lethaby in two of his major decorating commissions, and exhibited at the premises of the Art Workers' Guild in 1891, but the firm closed the following year.
+
+In 1893 Gimson and the Barnsleys moved out of London, intending to found a craft community with the aim of revitalizing traditional craftsmanship. They settled first at
+
+Ewen, near Circencester, then moved to Pinbury House, a run-down Elizabethan manor house, where they worked in the converted stables. In 1902 they moved again. Gimson and Ernest Barnsley went into partnership at Daneway House, employing cabinet-makers to produce furniture to their designs; Peter Waals, a Dutch cabinet-maker, became their foreman. The partnership foundered in 1905 and Barnsley returned to full-time architecture, but the workshops remained busy and successful, and by 1914 were employing more than adozen men.
+
+Although Gimson had studiedturning and rushing, metalwork and forging, and decorative plasterwork, he made only a few early pieces of furniture himself, preferring to work closely with the craftsmen who executed his designs. He was a versatile designer, and made use of contrasting, geometric veneers as well as the solid woods favoured by Sidney Barnsley. Some of his work, such as the cabinets on stands with floral marquetry inlays, were inspired by Tudor pieces. After Gimson's death, the Daneway workshops closed and Waals opened his own workshop near Stroud.
+
+Sidney Barnsley kept his own separate workshop at Sapperton in Gloucestershire, where he executed his own designs. He was basically self-taught. At first, he used English oak, neither polished nor stained, then other local woods, often obtained from the village wheelwright, such as ash, elm, deal and various fruitwoods, and finally English walnut and some imported woods. As he became more skilled, the heavier pieces such as coffers gave way to lighter, more varied work, constructed with open joinery and little superficial ornamentation, although he often made distinctive use of stringing (inlaid lines of alternate dark and light woods, usually ebony and holly). His work greatly influenced younger designers such as Ambrose Heal, Gordon Russell and A. Romney Green.
+
+![](images/7810a5ce8303d75edfe29fefb4b2b9ad1bb5e4288f69ea244b79e47380438261.jpg)  
+Right: Oak sideboard by Sidney Barnsley, 1924. Cheltenham Art Gallery and Museum; (below left) the interior of Ernest Barnsley's house, Daneway House, Sapperton in 1905 and (below right) a cabinet for storing fishing tackle, made of walnut with brass handles and decorative inlays of various fruitwoods, designed by Ernest Gimson in 1913
+
+![](images/02fc4fc6019281a2424dd8bddff321bd60e5729bc83c5409e92e937bb1bb9aff.jpg)
+
+![](images/b1a461f36c09916781201e277a047197702bfb00b7e7f5fbc7d1fa0779ca5895.jpg)

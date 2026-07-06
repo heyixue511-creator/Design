@@ -1,0 +1,12 @@
+# THE MARTIN BROTHERS
+
+![](images/72f7ce6e6513f80cbce7c6de9ac6a6a038227ba8b823cd2523a84d16121002de.jpg)  
+From left to right: Walter, Wallace and Edwin Martin in their Southall studio, 1912. Opposite: two earthenware vases and a bowl, with various glazes, by George E. Ohr
+
+The Martin Brothers – Robert Wallace, Charles, Walter and Edwin – founded their own pottery in 1873, moving from Fulham in 1877 to a disused soap factory on the banks of a canal in Southall. Walter was responsible for throwing and fring the salt-glazedstonewares, achieving a wideand subtle variety of blues, browns and greens; Edwin, who, like Walter had been apprenticed at Doulton's Art Pottery in Lambeth, did much of the painting and the raised and etched decoration of the vases and decorative pieces that they initially produced; Charles was manager of their Dickensian curiosity shop' in Brownlow Street, near Holborn; and the fiercely independent Robert Wallace produced the grotesque and strange sculptural pieces that were portrayed, even at the time, as quaint, old-fashioned and mysterious.
+
+In the 1850s Robert Wallace had been assistant to one of the stone-carvers working on the vast building site of Sir Charles Barry's Palace of Westminster. In 1860 he enrolled in evening classes at Lambeth School of Art and the following year joined the studio of the sculptor Alexander Munro. The sly ‘bird jars’, as he called them, gaping spoon warmers and leering, two-faced Janus jugs which he produced during the 1880s prove him to have been a brilliant sculptor and an inspired caricaturist. By the late 189Os his creations had become pure sculptural fantasies, expressive of his obsessive sense of worldly sin and impending doom, for he was a fervent member of the fundamentalist sect, the Plymouth Brethren.
+
+Collecting Martinware, and visiting the dusty Brownlow Street shop, full of its quaint grotesque creatures, hobgoblins, fish and uncanny beasts', fresh from the latest firing, became a kind of hobby for City bankers, lawyers and such patrons as the wealthy ironmonger, Frederick Nettlefold. Many of the ‘bird jars' - ostensibly tobacco jars with detachable heads which could be moved to alter the creature's expression – are caricatures of barristers or judges, portraying a rogue's gallery of preening lasciviousness, disobliging spite and malicious hypocrisy.
+
+By the First World War, when Robert Wallace finally ceased production, his three brothers had died. He himself died in 1923.

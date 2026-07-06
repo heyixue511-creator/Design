@@ -1,0 +1,1 @@
+# ABCDEFGHIJ KLMNOPORS TUVWXYZ& 1234567890S Egyptian Ornamented. First listed by W illiam Page in his 1870 specimens. This cutting by the Tubbs Company. Lowercase is missing. This design, and the one on the facing page, were widely used in the last twenty years of the century and are commonly associated with Frontier events-they appear on stage bills," Wanted" posters, etc.

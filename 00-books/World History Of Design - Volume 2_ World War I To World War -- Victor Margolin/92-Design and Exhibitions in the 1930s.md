@@ -1,0 +1,10 @@
+van der Rohe. Conceptual projects for furniture and interior designs also appeared regularly in the journal 7 Arts.
+
+## Design and Exhibitions in the 1930s
+
+The founding of the Higher Institute of Decorative Arts helped restore van de Velde to a position of influence in Belgian society, although he had many detractors including Victor Horta. By the 193os, he was again active with major industry commissions and government consultations. He designed railroad car interiors for the Belgian State Railroad and collaborated with a young engineer on the design of a packet steamer for delivering mail. Besides these projects, he continued his architectural practice and spent considerable time as a consultant to the government on problems of architectural restoration and new construction.
+
+During the 193os, Belgium participated in four major exhibitions, two of which it organized itself. The first was the 1930 International Maritime and Colonial Exhibition, which commemorated a century of independence from Dutch rule. Held in Antwerp, it attracted pavilions from most countries in Europe including an enormous one from Great Britain. In 1935, Belgium hosted the first World's Fair since the 19oo exhibition in Paris. Organized by a conservative committee that excluded van de Velde for political reasons, the fair emphasized Belgium's traditions rather than its future. The pavilion of decorative arts featured fashionable luxury objects instead of massproduced goods. Belgium's principal contribution to
+
+![](images/09be95cf5615e80f8fe1fa4a4fbfab21ec02110ad8d3cc698bedac5850725460.jpg)  
+Fig. 24.13: De Coene Frères, Belgian Pavilion, artisan bedroom, Paris World's Fair, 1937. The Wolfsonian–Florida International University, Miami Beach, Florida, The Mitchell Wolfson, Jr. Collection, 84.2.347. Photo: David Almeida.

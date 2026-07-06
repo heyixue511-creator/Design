@@ -1,0 +1,13 @@
+<table><tr><td>1.</td><td>SCL, GCes. 865, 3. ,8.</td><td></td></tr><tr><td>2.</td><td>#sirurr6g, 6Ti. , 20. 2, 20.</td><td></td></tr><tr><td>3.</td><td>sirer Sleou, . ふć。8. 2332, 2.</td><td></td></tr><tr><td>4.</td><td>, .. 35,0.. , ..</td><td></td></tr><tr><td>5.</td><td>LI,6T.6T6.6T. .25.25.20. nod, 22.2.20. i, 6ei.</td><td></td></tr><tr><td>6.</td><td>0, D5. d, .</td><td></td></tr><tr><td>7.</td><td>Lefl, g1.Ge. , e8.3. e, 23.8.</td><td>3</td></tr><tr><td>8.</td><td>ysfrg, Ge. SDg, a , 8.</td><td></td></tr><tr><td>9.</td><td>G, 6. 5, a. , 2.</td><td></td></tr><tr><td>16.</td><td>Gugi suielé 066) pa acts agoe aacéd derd aeide deno ctndu</td><td>NOTA</td></tr></table>
+
+# Voting for a Clock or an Airplane
+
+In today’s society, it might be hard to realise that illiteracy is still widespread. In Afghanistan, only one in three people can read and write, and in many countries of Sub-Saharan Africa, half of the population is illiterate. UNESCO believes literacy can be eradicated by 2030, but until that time, we should keep in mind that 757 million people worldwide are ignored by the majority of visual communication.
+
+In India 25% of the population is illiterate, which makes the design of an election ballot a challenge. Parties in India have designed symbols to which people can cast their vote. The Election Commission has hundreds of symbols from which parties can choose, but they may propose a symbol as well. Examples are an umbrella, a hand, a lotus, or a car, but also the hammer and sickle.
+
+Some African countries with high illiteracy rates use portraits,<sup>2</sup> but elections in India can have eighteen candidates or more, which invites confusion over who is who. In the 1990s, Brazil used numbers for voting, but illiterate people have trouble with numbers larger than one digit.² Symbols work because they can be communicated on TV; they are distinct, simple, and easy to remember.
+
+Voters in Afghanistan also vote using symbols. In the 2013 election, parties could pick their symbol, which led to some interesting choices. Qutbuddin Helal, whose jihadist political faction has been charged with many human-rights abuses, chose the scales of justice as a symbol for his political party.<sup>3</sup>
+
+Symbols do not necessarily simplify the election process. They are used in addition to the candidate name, number, and portrait. India has twenty-two official languages, so even if illiteracy is eradicated, the symbols provide an invaluable visual aid to ballot design.

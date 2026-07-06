@@ -1,0 +1,1 @@
+Part II World's Fairs and Mexico After the Revolution of 179 1910 11. Toward Revolutionary Mexico 181 12. The 1922 Rio de Janeiro Fair 200 13. The 1929 Seville Fair 220 Epilogue 241 Appendix 1. The Porfirian Wizards of Progress 255 Appendix 2. The Economic Cost of World's Fairs 262 Notes 267 Bibliography 331 Index 357

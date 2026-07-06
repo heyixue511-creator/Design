@@ -1,0 +1,1 @@
+# ABCDEF GHIJKL MNOPQR STUVW XYZ&E Ionic Condensed. First listed by William Page in his 1865 specimens. This cutting by the Page Company. Lowercase and figures are missing.

@@ -1,0 +1,1 @@
+# Table of contents PREFACE. INTRODUCTORY. CHAPTER I. CHAPTER II. CHAPTER III. CHAPTER IV. CHAPTER V. CHAPTER VI. CHAPTER VII. NOTES FOOTNOTES: ![](images/850a32316cf350eedbb15db9e530cb7aa8b7a7930f5ba433521229b04839b3fc.jpg) PLATE IX.—(Frontispiece—Vol. V.) Tracery from the Campanile of Giotto at Florence.

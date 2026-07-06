@@ -1,0 +1,59 @@
+# The logic of thi
+s new hybrid vi
+sual language. . .is one of remixability: not only of the content of different media or 
+simply their ae
+sthetic
+s, but their fundamental technique
+s, working method
+s, and assumption
+s.
+
+Lev Manovich “After Effects, or Velvet Revolution in Modern Culture. Part 1”   
+2006
+
+will come from this area, but the processes I describe apply now to all media designed with software.
+
+Before they adopted software tools in the 1990s, filmmakers, graphic designers, and animators used completely different technologies. Therefore, as much as they were influenced by each other or shared the same aesthetic sensibilities, they inevitably created different-looking images. Filmmakers used camera and film technology designed to capture three-dimensional physical reality. Graphic designers were working with offset printing and lithography. Animators were working with their own technologies: transparent cells and an animation stand with a stationary film camera capable of making exposures one frame at a time as the animator changed cells and/or moved backgrounds.
+
+As a result, twentieth-century cinema, graphic design, and animation (I am talking here about standard animation techniques used by commercial studios) developed distinct artistic languages and vocabularies in terms of both form and content. For example, graphic designers worked with a two-dimensional space, film directors arranged compositions in three-dimensional space, and cell animators worked with a “two-and-a-half” dimensional space. This holds for the overwhelming majority of works produced in each field, although of course exceptions do exist. For instance, Oskar Fischinger made one abstract film that involved moving three-dimensional shapes—but as far as I know, this is the only time in the whole history of abstract animation where we see an abstract three-dimensional space.
+
+The differences in technology influenced what kind of content would appear in different media. Cinema showed “photorealistic” images of nature, built environments and human forms articulated by special lighting. Graphic designs feature typography, abstract graphic elements, monochrome backgrounds, and cutout photographs. And cartoons show hand-drawn flat characters and objects animated over hand-drawn but more detailed backgrounds. The exceptions are rare. For instance, while architectural spaces frequently appear in films because they could explore their three dimensionality in staging scenes, they practically never appear in animated films in any detail—until animation studios start using 3D computer animation.
+
+Why was it so difficult to cross boundaries? For instance, in theory one could imagine making an animated film in the following way: printing a series of slightly different graphic designs and then filming them as though they were a sequence of animated cells. Or a film where a designer simply made a series of hand drawings that used the exact vocabulary of graphic design and then filmed them one by one. And yet, to the best of my knowledge, such a film was never made. What we find instead are many abstract animated films that have certain connections to various styles of abstract painting. For example, Oskar Fischinger’s films and paintings share certain forms. We can find abstract films and animated commercials and movie titles that have certain connections to graphic design of the times. For instance, some moving image sequences made by motion graphics pioneer Pablo Ferro around 1960s display psychedelic aesthetics that can be also found in posters, record covers, and other works of graphic design in the same period.
+
+![](images/da3e5bf276d142ed11fa9723ca6738086cea8dda0ca20f7b61b8a1655d6922dd.jpg)
+
+![](images/ecdc1490a342c1adb5f4252245661ff8057f01e12fdcedc36c84dc7c439ad49a.jpg)
+
+![](images/4e475899966c9b3588ba25c8e47157f76c1d6eaa10f5d5aa43484f4fe83d83d6.jpg)
+
+![](images/a080dc71c7dd69956c5ec767622a87d2d9d68c1a7ba38d660b79789a2c5ca959.jpg)  
+Pet er Anderson Raised from the Deep, title sequence for Channel Four documentary, 2001.
+
+And yet, it is never exactly the same language. One reason is that projected film could not adequately show the subtle differences between typeface sizes, line widths, and grayscale tones crucial for modern graphic design. Therefore, when the artists were working on abstract art films or commercials that used design aesthetics (and most key abstract animators produced both), they could not simply expand the language of printed page into time dimension. They had to invent essentially a parallel visual language that used bold contrasts, more easily readable forms, and thick lines—which because of their thickness were in fact no longer lines but shapes.
+
+Although the limitations in resolution and contrast of film and television image in contrast to the printed page played a role in keeping the distance between the languages used by abstract filmmakers and graphic designers for most of the twentieth century, ultimately I do not think they were the decisive factor. Today the resolution, contrast, and color reproduction between print, computer screens, and television screens are also substantially different—and yet we often see exactly the same visual strategies deployed across these different display media. If you want to be convinced, leaf through any book or magazine on contemporary 2D design (i.e., graphic design for print, broadcast, and the web). When you look at a spread featuring the works of a particular designer or a design studio, in most cases it’s impossible to identify the origins of the images unless you read the captions. Only then do you find that this image is a poster, that one is a still from a music video, and this one is magazine editorial.
+
+I am going to use Taschen’s Graphic Design for the 21st Century: 100 of the World’s Best Graphic Designers (2003) for examples. Peter Anderson’s images [left] showing a heading against a cloud of hundreds of little letters in various orientations turn out to be the frames from the title sequence for a Channel Four documentary. His other image [page 131], which similarly plays on the contrast between jumping letters in a larger font against irregularly cut planes made from densely packed letters in much smaller fonts, turns to be a spread from IT magazine. Since the first design was made for broadcast while the second was made for print, we would expect that the first design would employ bolder forms—however, both designs use the same scale between big and small fonts and feature texture fields composed from text that no longer need to be read. [ . . . ]
+
+These designs rely on software’s ability (or on the designer being influenced by software use and following the same logic while doing the design manually) to treat text as any graphical primitive and to easily create compositions made from hundreds of similar or identical elements positioned according to some pattern. And since an algorithm can easily modify each element in the pattern, changing its position, size, color, etc., instead of the completely regular grids of modernism we see more complex structures that are made from many variations of the same element.
+
+## [ . . . ]
+
+Everybody who is practically involved in design and art today knows that contemporary designers use the same set of software tools to design everything. However, the crucial factor is not the tools themselves but the workflow process, enabled by “import” and “export” operations.
+
+When a particular media project is being put together, the software used at the final stage depends on the type of output media and the nature of the project—for instance, After Effects for motion graphics projects and video compositing, Illustrator or Freehand for print illustrations, InDesign for graphic design, Flash for interactive interfaces and web animations, 3ds Max or Maya for 3D computer models and animations. But these programs are rarely used alone to create a media design from start to finish. Typically, a designer may create elements in one program, import them into another program, add elements created in yet another program, and so on. This happens regardless of whether the final product is an illustration for print, a website, or a motion graphics sequence; whether it is a still or a moving image, interactive or noninteractive, etc. Given this production workflow, we may expect that the same visual techniques and strategies will appear in all media designed with computers.
+
+For instance, a designer can use Illustrator or Freehand to create a 2D curve (technically, a spline). This curve becomes a building block that can be used in any project. It can form a part of an illustration or a book design. It can be imported into an animation program where it can be set to motion, or imported into a 3D program where it can be extruded in 3D space to define a solid form.
+
+Each of the types of programs used by media designers—3D graphics, vector drawing, image editing, animation, compositing—excel at particular design operations, i.e., particular ways of creating a design element or modifying an already existing element. These operations can be compared to the different blocks of a Lego set. While you can make an infinite number of projects out of these blocks, most of the blocks will be utilized in every project, although they will have different functions and appear in different combinations. For example, a rectangular red block may become a part of a tabletop, part of the head of a robot, etc.
+
+Design workflow that uses multiple software programs works in a similar way, except in this case the building blocks are not just different kinds of visual elements one can create—vector patterns, 3D objects, particle systems, etc.— but also various ways of modifying these elements: blur, skew, vectorize, change transparency level, spherisize, extrude, etc. This difference is very important. If media creation and editing software did not include these and many other modification operations, we would have seen an altogether different visual language at work today. We would have seen “digital multimedia,” i.e., designs that simply combine elements from different media. Instead, we see what I call “metamedia”—the remixing of working methods and techniques of different media within a single project.
+
+Here are a few typical examples of this media “remixability” that can be seen in the majority of design projects done today around the world. Motion blur is applied to 3D computer graphics; computer-generated fields of particles are blended with live-action footage to give it an enhanced look, flat drawings are placed into a virtual space where a virtual camera moves around them, flat typography is animated as though it is made from a liquid-like material (the liquid simulation coming from computer animation software). Today a typical short film or a sequence may combine many of such pairings within the same frame. The result is a hybrid, intricate, complex, and rich media language—or, rather, numerous languages that share the basic logic of remixability.
+
+As we can see, the production workflow specific to the software age has two major consequences: the hybridity of media language we see today across the contemporary design universe, and the use of the similar techniques and strategies regardless of the output media and type of project. Like an object built from Lego blocks, a typical design today combines techniques coming
+
+Pet er Anderson Moving Surnames, Northern Ireland series 2, Treble page spread, IT Magazine.
+
+![](images/781160c36bba2e4b1d456bd1630820b505860fd66dcf3fb6298f08f13c582fa3.jpg)

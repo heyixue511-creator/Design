@@ -1,0 +1,1 @@
+## Cloth in West African History ![](images/cfb829995a3e27bce82af57f5c2de9c133505582ad2dffb7564be0104b89a315.jpg) Colleen E. Kriger Foreword by Graham Connah ![](images/73db4c51ff2da6db7b24e8b49d80e2742249658b5cd6db4f0e4060aa07502aee.jpg) A Division of ROWMAN & LITTLEFIELD PUBLISHERS, INC. Lanbam • New York • Toronto • Oxford

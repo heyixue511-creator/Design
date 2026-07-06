@@ -1,0 +1,1 @@
+![](images/ff6f75722654e6fd4ff777ec764ddbac228d1fe3c0ff360395899d71cf4563cc.jpg) ome ## A Short History of an Idea ## Witold Rybczynski Also by Witold Rybczynski Paper Heroes: A Review of Áppropriate Technology Taming the Tiger: The Struggle to Control Technology

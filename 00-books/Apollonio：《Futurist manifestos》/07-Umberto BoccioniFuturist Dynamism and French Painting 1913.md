@@ -1,0 +1,51 @@
+# Umberto Boccioni Futurist Dynamism and French Painting 1913
+
+From our first conversation in the Closerie des Lilas the day after the opening of the first exhibition of Futurist painting, I noticed that Fernand Léger was one of the most gifted and promising of the Cubists. But I could only think of him as a Cubist, that is a member of a school which seemed already to have been defined, and which, at the moment of that first exhibition of ours, was constantly contrasted with our work as something organic, square, cubic, in fact immovable.
+
+In Italy, every half-educated idiot would talk about it in the usual ironical and witless grand manner which every Italian able to read feels entitled to assume when speaking about art. Meanwhile, we were working, exhibiting and selling with that same fine and scornful indifference which distinguishes us. Against this background, you will understand with what satisfaction I read today in Montjoie! an article by Fernand Léger, the continuation of another article subtitled ‘Notes for a Lecture' [‘Les Origines de la peinture et sa valeur représentative', Montjoie!, 29 May and 14–29 June 1913].
+
+O asinine compatriots, do you not see that in France, too, painters write articles, give lectures, write books and go on painting? Well then? In Italy, any painter or sculptor who is not simply an effeminate snob with the mentality of a loathsome Greek pot or an Etruscan sarcophagus, is usually a mangy scoundrel deficient in ideas and in personal cleanliness, whose mind, although profoundly painterly, reaches no further than his stinking pipe.
+
+Léger's article is a true act of Futurist faith which gives us great satisfaction (all the more so since the author is kind enough to mention us). But we cannot agree with him when he blurs all distinctions by jumping from Impressionism to formal Divisionism, colour Divisionism and dynamism. He ought to know that dynamism, as a definitive system. received its first statement from the Futurist painters. And he cannot be unaware that when we spoke of dynamism, we conceived it in its universal synthesis of form and colour. In fact, here is what we say in our Technical Manifesto of Futurist Painting:
+
+On form: ‘The gesture which we would reproduce on canvas shall no longer be a fixed moment in universal dynamism. It shall simply be the dynamic sensation itself.'
+
+On colour: Painting cannot exist today without Divisionism. This is no process that can be learned and applied at will. Divisionism, for the modern painter, must be completely innate, deemed by us to be essential and necessary'.
+
+It is as well to recall that our manifesto, the preface to the catalogue and our paintings were attacked for being imperfect and retrogressive.
+
+There were scandalized cries in Paris and elsewhere. We were called photographic, iconoclastic and cinematic, and worst of all, with the aim of insulting our use of colours, we were called Impressionists! And the Italian critics, through the mouth of Signor Henri des Pruraux, gave us the following:
+
+‘And it is from the snapshot that are derived the grotesque statements like the following: A horse that is trotting has twenty pairs of legs. The snapshot, and, even worse, the cinema which breaks up life, tossing it about in a monotonous, rushing rhythm - are these by any chance the two new classics in favour of which the Futurists proscribe the masters in the galleries?’ (La Voce, no. 44, 31 October 1912.) It is a civil question, I agree, but mistaken. We must be indulgent. The poor old critics are only able to understand cut and dried works and periods. When the temporal limits have been established they start up and, if you like, begin to reason. But it is fatal if they are presented with a work or any historical movement still developing and veiled by the natural distortions of life.
+
+These masterpiece-hounds soon lose the scent and start snapping wildly at anything which clashes with their last night's certainties!
+
+But let us proceed. Since 1910 (and if you will allow us, some considerable time before, for a manifesto is not thought up and written in a single day or night), we, the Italian Futurist painters, have considered that the only forward-looking and definitive road for art lay in a dynamism of colour and form. We might add, indeed, that no one, either in France or in Italy, was aware of this. For when we were exhibiting in Paris, everyone turned to Picasso's magnificently gifted Divisionism for form, and to the darker colour schemes of Cézanne for colour; Cubism had already had its great baptism at the Salon d'Automne.
+
+What we then said about Impressionism, in the manifesto-preface to our catalogue (5 February 1912), was heresy but is now, I think, generally accepted:
+
+'While we repudiate Impressionism, at the same time we vigorously disapprove of the current reaction, which tries to kill the essence of Impressionism, that is the poetry of movement. It is impossible to combat the transience of Impressionism except by going beyond it. It is quite absurd to try and fight it by using the artistic laws that preceded it.’
+
+As can be seen, we spoke out clearly. Cubism proclaimed the opposite – the static, tradition française, pure objectivity, etc. And this is what Roger Allard, one of the few critics who defended the Cubists with some courage, bellowed against us:
+
+‘The voluptuous serenity of Ingres should teach you, you who have a cinematograph in your bellies'(good grief!) ‘that it is the height of stupidity to try and fix movement and narrate an analysis of such movement'(?!), 'that the artist's resources are lines and volumes, equations and equilibria and that no form of trickery can possibly give the illusion of rhythm!’ (Wham!) (Revue indepéndante, no. 3, August 1911, p. 134.)
+
+And since M. Allard, who is an intelligent critic, will soon also be talking about dynamism, forgetful perhaps of the Italian Futurists living down here in isolation, it is as well to recall what he wrote again in the Revue indépendante: I have in the past had a number of doubts about the Futurist dynamism of J. Metzinger, most of which I still entertain.'
+
+I am of course quoting, as can be seen, young, intelligent critics who are aware of the importance of our discoveries. If I were to copy down here all that has been said about us by the illustrious donkeys of all nations, you would die laughing.
+
+We are pleased and encouraged to learn of the continuous expansion of our plastic dynamism'. We want therefore to make clear our absolute priority for all dynamic experiments.
+
+The position of Futurist painting is particularly unfavourable. It arose and is developing in Italy, a country of the blind, where there is no tradition at all of modern, artistic experiment. From this point of view Italy is held abroad to be the Boeotia of Europe. We feel violently that it is our duty to shout out the prime importance of our efforts. We demand the right to live! Our artistic productions never have the success that is guaranteed to those that bear the mark of Paris, when we present them in the intellectual centres of Europe. We have always praised and defended Impressionism, Matisse, Picasso and the Cubists with complete sincerity. We demand the same treatment for ourselves in Italy. Even if, according to Guillaume Apollinaire's poetic definition, dynamism based on complementary colours and simultaneous contrasts is to be called Orphism, even if Fernand Léger is always renewing his noble striving towards linear and planar dynamism, we the Futurists, from the beginning bearers of the universal Italian genius, have always proclaimed the indissoluble simultaneity of the dynamism of colour and form.
+
+We were the first to proclaim that modern life is fast and fragmented (words also used by F. Léger). It was we who said, amid the sarcasm and mistrust of the critics, that modern life is the only source of inspiration for a modern artist, and therefore for dynamism. So much the worse for the short-sighted who thought we were in love with the isolated incident - who thought we were amateurs of trajectories and mechanical movements.
+
+We have always rejected with disgust and scorn even a distant relationship with photography, because it is outside art. Photography is valuable in one respect: it reproduces and imitates objectively, and, having perfected this, it has freed the artist from the obligation of reproducing reality exactly.
+
+We are the only modern artists to have created an art in complete accord with the modern view of life. 'If our pictures are Futurist, it is because they are the result of absolutely Futurist conceptions, ethical, aesthetic, political and social.' (5 February 1912.)
+
+Even this was thought to be unnecessary literary and philosophical phrase-mongering. On the subject of philosophy I will conclude with the words of a dear and courageous friend and brother-in-arms, Ardengo Soffici. Paris-Journal published an article from a daily paper entitled: 'Bergson and the Cubists'. Soffici correctly protested against anyone claiming to see similarities between the ideas of Bergson and the static creations of the Cubists. He ended his article deploring that: when he examined the Cubist theories which postulate immobility, objectivity and compactness and which came into being in reaction to Impressionist theories tending to lyricism, vibration and fluidity, he' (Bergson) ‘did not notice at once that they are in open contradiction, in complete opposition to the conclusions of his own philosophy and therefore of his aesthetics – this is a grave oversight.' (La Voce, no. 52, 1911.)
+
+My dear Soffici. You said then that Bergson distrusts artistic realizations. Very true. Do you not think that we Futurist painters have gone beyond that point and that some time soon someone will run along behind us - philosophically speaking - and will discover heaven knows what system in what is our, the only possible, the great dynamic and evolutionary realization?
+
+You know that we are creating surrounded by the cowardice and despicable apathy of Italian artists!

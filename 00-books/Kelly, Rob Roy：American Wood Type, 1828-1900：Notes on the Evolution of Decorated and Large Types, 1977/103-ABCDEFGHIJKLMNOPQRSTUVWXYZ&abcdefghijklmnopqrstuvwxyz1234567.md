@@ -1,0 +1,1 @@
+# ABCDEFGH IJKLMNOP QRSTUVW XYZ&abcde fghijklmnop qrstuvwxyz 1234567890 Antique Light Face. First shown by Wells & Webb in their 1854 specimens. This particular font of type differs from other versions-the blocks are very old, and the type appears crudely manufactured, perhaps entirely handmade.

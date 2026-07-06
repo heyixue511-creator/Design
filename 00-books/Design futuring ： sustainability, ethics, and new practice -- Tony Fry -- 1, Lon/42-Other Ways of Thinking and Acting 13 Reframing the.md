@@ -1,0 +1,26 @@
+## Other Ways of Thinking and Acting
+
+As the previous chapter made clcar, designers of all shades nccd to be able to crcate futures for themselves as independent agents working outside conventional models of servicc provision; while as 'service providers'they necd to work to transform thc relationships between designcr, clicnt and user. In both cases, as redirective practice makes evident, 'the tcam' displaces design as individuated action. llowever, the notion of what a tcam is begs qualifcation.
+
+The team as a collective can take many forms. It can be a multidisciplinary group clustered around a singlc table; a nctworking group working on the same problem; a gathering of different professionals interested in solving a common problem; a community of intcrcst coming together from different social, political and cconomic allegiances to more adequatcly define and engage a problem. In every casc, and irrespective of clients and uscrs being inside or outside the team, the common imperative is: the rcsolution of immediate necds while securing futuring conditions and capability. This position should not be confused with Brundtland's notion of social, economic and political progress meeting 'the needs of the present without compromising the ability of future generations to meet their own needs.'20
+
+'Futuring conditions and capability'need to be based on relational interdepcndencies between all that sustains life as we know it. They neither reduce to just human-centred interests nor to the merely biophysical. We need to remind ourselves here that the first rule of sustainment is sustaining the self - without doing this we can do nothing else.
+
+Sustaining the self is not simply a matter of physical wellbeing, for it is equally an issue of mind. By implication, this means that before designing (be it as professional designers or simply as an act of evcryday lifc) we need to place ourselves in 'the relational picture'. We are always present, implicated and responsible for what we bring into being. We literally need to put ourselves beforc what we envision and bring our selves to account. Anthropocentrism is turned not by denial but by direct confrontation with oneself and thereafter thc collective.²1
+
+![](images/8281d4250649db388f2de95fb0f023cc7f4355ed39df2eb15bd5d5836bc8de19.jpg)  
+38 The fuwure has a history
+
+## 13
+
+# Sustainment and a New Epoch of Humanity
+
+Whilc there is no assured predetermined arrival of the Sustainment (which, as indicated, is a project that cannot bc instrumentaly delivered) or for that matter any other sure-footed evolutionary track that will carry humanity to a viable future, one can confdently say that unless the 'challenge' of sustainnent is met, we wilł not survive in ways that we currently recognize as human.
+
+For tens of thousands of years humankind's mode of worldly habitation was nomadic (non-settled). During this period, the total global population stabilized at around 40-50 million people. The world was home, albeit a home with occasional and major climatic upheavals. Then around 12,000 years ago there was a period of climate change, the response to which changed the destiny of humanity.
+
+Food was scarce; so many people convcrged on where it was known to exist: the Fertile Crescent of the Middle Fast, especially Southern Mesopotamia, where therc was an abundance of wild einkorn (an early form of wheat). It had become much colder in the west, while the east was experiencing a drought that lasted a thousand years. Slowly the Fertile Crescent became more densely populated and the foundations of humnan settlement started to become established.¹ In years when the weather was good the people hunted and gathered, but when it was not, they stayed put and harvested a crop. Eventually this practicc became dominant and farning, as we know it, started to develop.
+
+## Reframing the Human Project
+
+Now, with the arrival of a rapidly changing climate, due in significant part to our unchecked burning of fossil fuels and clearing of vast tracts of land, we humans are on the edge of another epochal change that may be as dramatic as the one that gave birth to civilization as we know it. Many of us will live to see populations of some parts of the world abandon their islands, land, villages, town and cities. While there are predictions of a quarter of a billion environmental refugees by mid-century and well over half a billion by its end, many more people will simply relocate within their own homeland. Clearly the current ways of dealing witl refugees will be totally inadequate to cope with an unprecedented massive redistribution of the human population. Although affecting vast numbers of people, this will unsettle everyonc. The already tarnished illusion of continuous human development will shatter. Having moved from non-settlement (the nomadic life) to settlement, we may well be headingtoward an unknown condition of unsettlement. Having moved from the world as home, to making a home in the world, the prospect is now one of mass homelessness. While this may well be literally true for hundrcds of millions of people, homelessncss may take on a more fundamental meaning

@@ -1,0 +1,26 @@
+# THE HANNOVER PRINCIPLES: DESIGN FOR SUSTAINABILITY / William McDonough and Michael Braungart (1992)
+
+> Section: body | Source: 05-Result-MD\03-Design-History-replenish-1\02-Books\The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York\The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York\The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York\auto\The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York.md
+
+# THE HANNOVER PRINCIPLES: DESIGN FOR SUSTAINABILITY
+
+# William McDonough and Michael Braungart (1992)
+
+Insist on the rights of humanity and nature to co-exist in a healthy, supportive, diverse, and sustainable condítion.
+
+Recognize interdependence. The elements of human design interact with and depend upon the natural world, with broad and diverse implications at every scale. Expand design considerations to recognizing even distant effects. Respect relationships between spirit and matter. Consider all aspects of human settlement including community, dwelling, industry, and trade in terms of existing and evolving connections between spiritual and material consciousness.
+
+Accept responsibility for the consequences of design decisions upon human well-being, the viability of natural systems, and their right to co-exist.
+
+Create safe objects of long-term value. Do not burden future generations with requirements for maintenance or vigilant administration of potential danger due to the careless creation of products, processes, or standards.
+
+Eliminate the concept of waste. Evaluate and optimize the ful life-cycle of products and processes, to approach the state of natural systems, in which there is no waste.
+
+Rely on natural energy Alows. Human designs should, like the living world, derive their creative forces from perpetual solar income. Incorporate this energy efficiently and safely for responsible use.
+
+8. Understand the limitations of design. No human creation lasts forever and design does not solve all problems. Those who create and plan should practice humility in che face of nature. Treat nature as a model and mentor; not an inconvenience to be evaded or controlled.
+
+9. Seek constant improvement by the sharing of knowledge. Encourage direct and open communication between colleagues, patrons, manufacturers, and users to link long term sustainable considerations with ethical responsibility, and re-establish the integral relationship between natural processes and human activity.
+
+The Hannover Principles should be seen as a living document committed to the transformarion and growth in the understanding of our interdependence with nature, so that they may adapt as our knowledge of the world evolves.
+

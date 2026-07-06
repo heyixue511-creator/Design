@@ -1,0 +1,1 @@
+![](images/9a3673998829cbe137b1d8be62ca51c99846ecccf9d302a89f0e2bf7cd645f4a.jpg) # SAMMLUNG ZUGUNSTEN DER FREI-WILLIGEN KRANKENPFLEGEIM KRIEGE ABOVE: Red Cross Coliection Drive fund-raising poster, 1914 OPPOSITE: Berliner Sport Club poster, 1914 ![](images/66920b9a3e164638973c948ec9666c8b611c711628fc5b71f17d1208329b5b87.jpg)

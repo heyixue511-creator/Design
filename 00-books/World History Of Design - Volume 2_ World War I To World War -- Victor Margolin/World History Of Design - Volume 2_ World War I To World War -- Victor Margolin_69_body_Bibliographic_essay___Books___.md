@@ -1,0 +1,3639 @@
+# Bibliographic essay / Books / General / Germany / Soviet Union / Japan / United States / France / Netherlands / Mexico / China / Chapters in books / Articles / Internet
+
+> Section: body | Source: 05-Result-MD\03-Design-History-replenish-1\02-Books\World History Of Design - Volume 2_ World War I To World War -- Victor Margolin\World History Of Design - Volume 2_ World War I To World War -- Victor Margolin\World History Of Design - Volume 2_ World War I To World War -- Victor Margolin\auto\World History Of Design - Volume 2_ World War I To World War -- Victor Margolin.md
+
+## Bibliographic essay
+
+Books on different subjects were sources of information for this chapter. Considerable literature on World War II weapons exists. The Encyclopedia of Weapons of World War I edited by Chris Bishop was indispensible as it provided separate entries for several hundred weapons of all types that Allied and Axis forces used. On warfare, Robert Citino, Armored Forces: History and Sourcebook and The Encyclopedia of Twentieth Century Warfare edited by Dr. Noble Frankland were helpful.
+
+Edward R. Zilbert, Albert Speer and the Nazi Ministry of Arms: Economic Institutions and Industrial Production in the German War Economy is a thorough account of how weapons production was organized in Germany. For material on how the United States organized for wartime manufacturing see the following: Paul A. Koistinen, Arsenal of World War II: The Political Economy of American Warfare, 1940-1945 and The Military-industrial Complex: A Historical Perspective; Gerald D. Nash, World War II and the West: Reshaping the Economy; Donald M. Nelson, Arsenal of Democracy: The Story of American War Production; and R. Elberton Smith, The Army and Economic Mobilization. Three books that discuss the cooperation of American businesses with Germany are Edwin Black, IBM and the Holocaust: The Strategic Alliance between Nazi Germany and America's Most Powerful Corporation; Henry Ashby Turner Jr., General Motors and the Nazis: The Struggle for Control of Opel, Europe's Biggest Carmaker, and Mira Wilkins and Frank Ernest Hill, American Business Abroad: Ford on Six Continents. Arthur Pulos, The American Design Adventure, 1940-1975 describes the contributions of American industrial designers to the war effort as do Pat Kirkham, Charles and Ray Eames: Designers of the Twentieth Century and monographs on Henry Dreyfuss and Brooks Stevens.
+
+Books on the history of computers, control engineering, ergonomics, and operations research include Michael Williams, A History of Computing Technology, 2nd ed.; Paul E. Ceruzzi, Reckoners: The
+
+Prehistory of the Digital Computer, From Relays to the Stored Program Concept, 1935-1945; Stuart Bennett, A History of Control Engineering, 1930-1955; David A Mindell, Between Human and Machine: Feedback, Control, and Computing before Cybernetics; David Meister, The History of Human Factors and Ergonomics; Saul I. Gass and Assad A. Arjang, An Annotated Timeline of Operations Research: An Informal History; and Raúl Rojas and Ulf Hashagen, The First Computers – History and Architectures. Joseph McCloskey's articles on the beginnings of operations research in Great Britain and the United States were invaluable. See "The Beginnings of Operations Research: 1934-1941," Operations Research 35, no. 1 (January–February 1987); "British Operational Research in World War II," Operations Research 35, no. 3 (May-June 1987); and"U.S. Operations Research in World War II," Operations Research 35, no. 6 (November-December 1987). James Phinney Baxter, Scientists Against Time describes the Office of Scientific Research and Development, the agency where much of American weapons resèarch was conducted.
+
+Design for the American home front is covered in Cynthia Lee Henthorn, From Submarines to Suburbs: Selling a Better America, 1939–1959 and to some degree in John Morton Blum's definitive V was for Victory: Politics and American Culture during World War II. British Utility schemes are discussed in Judy Attfield, ed., Utility Reassessed: The Role of Ethics in the Practice of Design; Harriet Dover, Home Front Furniture: British Utility Design, 1941-195I and the exhibition catalog Utility Furniture and Fashion, 1941–1951. The exhibition catalog Charlotte Perriand and Charlotte Benton's article “From Tubular Steel to Bamboo: Charlotte Perriand, the Migrating Chaise-longue and Japan," Journal of Design History I1, no. 1 (1998) describe Charlotte Perriand's wartime activity in Japan.
+
+There is ample literature on World War II propaganda, especially on poster design. Anthony Rhodes' Propaganda: The Art of Persuasion, WWII, edited by Victor Margolin, is a broad survey of the topic. Books about the posters of all nations include
+
+Joseph Darracott and Belinda Loftus, Second World War Posters; Mario De Micheli, Manifesti della Seconda Guerra Mondiale; Denis Judd, Posters of World War Two; Peter Paret, Beth Irwin Lewis, and Paul Paret, Persuasive Images: Posters of War and Revolution from the Hoover Institution Archives; What Did You Do in the War Daddy?: A Visual History of Propaganda Posters, and, Zbyněk Zeman, Selling the War: Art and Propaganda in World War II. The definitive book on Soviet Tass posters is Peter Kort Zegers and Douglas Druick, eds., Windows on the War: Soviet Tass Posters at Home and Abroad, 1941-1945. Victoria Bonnell's Iconography of Power: Soviet Political Posters under Lenin and Stalin has a section on World War II as does Klaus Waschik and Nina Baburina, Werben für die Utopie: Russische Plakatkunst des 2o. Jahrhunderts. Aristotle A. Kallis, Nazi Propaganda and the Second World War describes the policies and politics of German propaganda, while State of Deception: The Power of Nazi Propaganda puts more emphasis on the visual representation of specific themes. See also Andreas Fleischer and Frank Kämpfer, "The Political Poster in the Third Reich," in Brandon Taylor and Wilfried van der Will, eds., The Nazification of Art: Art, Design, Music, Architecture & Film in the Third Reich. Erwin Schockel, Das Politische Plakat: Eine Psychologische Betrachtung is a study of propaganda posters that the Nazi Party published.
+
+British posters are specifically discussed in John D. Cantwell, Images of War: British Posters, 1939-1945 and Oliver Green, Underground Art: London Transport Posters, 1908 to the Present, 2nd. ed. Naomi Games, Catherine Moriarty, and June Rose, Abram Games: His Life and Work has an extensive section on Games's WWII posters. Three books with ample information on wartime propaganda in occupied France are Stéphane Marchetti, Images d'une Certaine France: Affiches, 1939–1945; Laurent Gervereau and Denis Peschanski, La Propagande sous Vichy, 1940-1944; .and Signes de la Collaboration et de la Résistance with essays by Michel Wlassikoff and Philippe Delangle. On Japan,
+
+Barak Kushner's The Thought War: Japanese Imperial Propaganda has an excellent section on advertising, art direction, and graphic design in wartime, while Gennifer Weisenfeld makes some mention of this subject in her article "Publicity and Propaganda in 193os Japan: Modernism as Method," Design Issues 25, no. 5 (Autumn 2oo9). Rei Okamoto's chapter "Images of the Enemy in the Wartime Manga Magazine, 1941–1945, published in John Lent, ed., Illustrating Asia: Comics, Humor Magazines, and Picture Books was the source for my discussion of Japanese wartime cartoons. Chang-Tai Hung, War and Popular Culture: Resistance in Modern China, 1937–1945 provides a detailed account of China's anti-Japanese poster movement.
+
+Alan M. Winkler, The Politics of Propaganda: The Office of War Information, 1942-1945 describes the founding and operation of America's propaganda agency, while discussions of American posters are dispersed through all the general books on World War II posters and propaganda. Contributions of individual graphic designers can be found in monographs on Herbert Bayer and Lester Beall as well as in Roger Remington and Barbara Hodik, Nine Pioneers in American Graphic Design and Remington's American Modernism; Graphic Design, 1920 to 1960. Leo Margolin, Paper Bullets: A Brief History of Psychological Warfare in World War II contains a discussion of how propaganda leaflets were used by all sides.
+
+## Books
+
+## General
+
+Atkins, Jacqueline M., ed. Wearing Propaganda: Textiles on the Home Front in Japan, Britain, and the United States, 1931-1945. New Haven and London: Yale University Press, 2oo7. Published for the Bard Graduate Center for Studies in the Decorative Arts, Design, and Culture.
+
+Balfour, Michael. Propaganda in War, 1939-1945: Organizations, Policies and Publics in Britain and Germany. London, Boston, and Henley: Routledge and Kegan Paul, 1979.
+
+Bennett, Stuart. A History of Control Engineering, 1930–1955. Stevenage: Peter Peregrinus Ltd, 1993.
+
+Bishop, Chris, ed. The Encyclopedia of Weapons of World War II. New York: Metro Books, 1998.
+
+Ceruzzi, Paul E. Reckoners: The Prehistory of the Digital Computer, From Relays to the Stored Program Concept, 1935–1945. Westport, CT, and London: Greenwood Press, 1983.
+
+Citino, Robert M. Armored Forces: History and Sourcebook. Westport, CT, and London: Greenwood Press, 1994.
+
+Crawford, Anthony, ed. Posters of World War I and World War II in the George C. Marshall Research Foundation. With an introduction by O. W. Riegel. Charlottesville: University of Virginia Press, 1979 (A George C. Marshall Research Foundation Publication).
+
+Darracott, Joseph and Belinda Loftus. Second World War Posters. London: Imperial War Museum, 1972.
+
+De Micheli, Mario. Manifesti della Seconda Guerra Mondiale. Milano: Fratelli Fabbri Editori, 1972.
+
+Eskilson, Stephen J. Graphic Design: A New History. London: Lawrence King Publishing, 2007.
+
+European Resistance Movements, 1939-1945. New York, Oxford, London, and Paris: Pergamon Press, 1960.
+
+Frankland, Dr. Noble, ed. The Encyclopedia of Twentieth Century Warfare. New York: Crown Publishers, 1989.
+
+Gass, Saul I. and Arjang A. Assad. An Annotated Timeline of Operations Research: An Informal History. New York: Kluwer Academic Publishers, 2007.
+
+Guidot, Raymond. Histoire du Design, 1940–1990. Paris: Éditions Hazan, 1994.
+
+Heller, Steven. Iron Fists: Branding the 2oth Century Totalitarian State. London and New York: Phaidon, 2008.
+
+Heppenheimer, T. A. A Brief History of Flight: From Balloons to Mach 3 and Beyond. New York: John Wiley & Sons, 2001.
+
+Jubert, Roxane. Typography and Graphic Design: From Antiquity to the Present. Forewords by Ellen Lupton and Serge Lemoine. Paris: Flammarion, 2006.
+
+Judd, Denis. Posters of World War Two. New York: St. Martin's Press, 1973.
+
+Margolin, Leo. Paper Bullets: A Brief History of Psychological Warfare in World War II. New York: Froben Press, 1946.
+
+Matricardi, Paolo. The Concise History of Aviation. New York: Crescent Books, 1984.
+
+Meister, David. The History of Human Factors and Ergonomics. Mahwah, NJ, and London: Lawrence Erlbaum Associates, 1999.
+
+Paret, Peter, Beth Irwin Lewis, and Paul Paret. Persuasive Images: Posters of War and Revolution from the Hoover Institution Archives. Princeton, NJ: Princeton University Press, 1992.
+
+Parker, Geoffrey, ed. The Cambridge History of Warfare. Cambridge: Cambridge University Press, 2005.
+
+Raizman, David. History of Modern Design: Graphics and Products since the Industrial Revolution. London: Lawrence King Publishing, 2003.
+
+Rhodes, Anthony. Propaganda: The Art of Persuasion, WWII. Edited by Victor Margolin. New York: Chelsea House, 1976.
+
+Rojas, Raúl and Ulf Hashagen. The First Computers - History and Architectures. Cambridge, MA, and London: MIT Press, 2000.
+
+Smil, Vaclav. Transforming the Twentieth Century: Technical Innovations and Their Consequences. Oxford and New York: Oxford University Press, 2006.
+
+War, Revolution and Peace: Propaganda Posters From the Hoover Institution Archives, 1914-1945. An Exhibition Organized by Paula Harper and Marcia Cohn Growdon. Palo Alto: Stanford University Art Department, c. 1970.
+
+Weill, Alain. The Poster. A Worldwide Survey and History. Boston: G. K. Hall & Co., 1985.
+
+What Did You Do in the War Daddy? A Visual History of Propaganda Posters. Introduction by Peter Stanley. A selection from the Australian War Memorial. Melbourne, Oxford, and New York: Oxford University Press, 1983.
+
+Williams, Michael R. A History of Computing Technology,
+
+2nd ed. Los Alamitos, CA: IEEE Computer Society Press, 1997.
+
+Zeman, Zbyněk. Selling the War: Art and Propaganda in World War II. New York: Exeter Books, 1978.
+
+## Germany
+
+Batty, Peter. The House of Krupp; The Steel Dynasty That Armed the Nazis. With a New Afterword by the Author. New York: Cooper Square Press, 20o1 (c. 1966).
+
+Burke, Christopher. Paul Renner: the Art of Typography. New York: Princeton Architectural Press, 1998.
+
+Herf, Jeffrey. Reactionary Modernism: Technology, Culture, and Politics in Weimar and the Third Reich. Cambridge: Cambridge University Press, 1984.
+
+Kallis, Aristotle A. Nazi Propaganda and the Second World War. Houndmills: Palgrave Macmillan, 2005.
+
+Ludvigsen, Karl. Battle for the Beetle. Foreword by Ivan Hirst. Cambridge, MA: Bentley Publishers, 20oo.
+
+Nelson, Walter Henry. Small Wonder: The Amazing Story of the Volkswagen. Boston and Toronto: Little, Brown and Co., 1967 (c. 1965)
+
+Rutz, Rainer. Signal: Eine Deutsche Auslandsillustrierte als Propagandainstrument im Zweiten Weltkrieg. Essen: Klartextverlag, 2007.
+
+Schockel, Erwin. Das Politische Plakat: Eine Psychologische Betrachtung, 2nd ed. Munich: Zentral Verlag der NSDAP, 1939.
+
+State of Deception: The Power of Nazi Propaganda. Washington, DC: United States Holocaust Memorial Museum, 2009.
+
+Zilbert, Edward R. Albert Speer and the Nazi Ministry of Arms: Economic Institutions and Industrial Production in the German War Economy. Rutherford: Fairleigh Dickinson University Press, and London: Associated University Presses, 1981.
+
+Great Britain and the Commonwealth Nations
+
+Attfield, Judy, ed. Utility Reassessed: The Role of Ethics in the Practice of Design. Manchester and New York: Manchester University Press, 1999.
+
+Blake, Avril. Misha Black. London: The Design Council, 1984.
+
+Cantwell, John D. Images of War: British Posters, 1939–1945. London: HMSO, 1989.
+
+Dover, Harriet. Home Front Furniture: British Utility Design, 1941-1951. Aldershot: Scolar Press, 1991.
+
+Drew, Jane. Kitchen Planning: A Brochure of New Plans and Suggestions for Labour-Saving Kitchens. London: The Gas Industry, 1944.
+
+Games, Naomi, Catherine Moriarty, and June Rose. Abram Games: His Life and Work. New York: Princeton Architectural Press, 2003.
+
+Green, Oliver. Underground Art: London Transport Posters, 1908 to the Present, 2nd, ed. London: Laurence King, 2001.
+
+MacCarthy, Fiona. A History of British Design, 1830–1970. London, Boston, and Sydney: George Allen & Unwin Ltd, 1972.
+
+Russell, Gordon. Designer's Trade: Autobiography of Gordon Russell. London: George Allen & Unwin Ltd, 1968.
+
+Utility Furniture and Fashion, 1941-I951. London: Greater London Educational Authority, 1974.
+
+## Soviet Union
+
+Bonnell, Victoria E. Iconography of Power: Soviet Political Posters under Lenin and Stalin. Berkeley, Los Angeles, and London: University of California Press, 1997.
+
+Logan, Robert A., ed. The Great Patriotic War: A Collection of World War II Soviet Propaganda Posters. Guelph: University of Guelph Library, 1984.
+
+Waschik, Klaus and Nina Baburina. Werben für die Utopie: Russische Plakatkunst des 2o. Jahrhunderts. Bietigheim-Bissingen: Edition Tertium, 2003.
+
+Zegers, Peter Kort and Douglas Druick, eds. Windows on the War: Soviet Tass Posters at Home and Abroad, 1941-1945. Chicago: The Art Institute of Chicago, and New Haven and London: Yale University Press, 20II.
+
+## Japan
+
+Brandt, Kim. Kingdom of Beauty: Mingei and the Politics of Folk Art in Imperial Japan. Durham and London: Duke University Press, 2007.
+
+Charlotte Perriand. Paris: Centre Pompidou, 2005.
+
+Dower, John. War Without Mercy: Race and Power in the Pacific War. New York: Pantheon Books, 1986.
+
+Duus, Peter, Ramon H. Myers, and Mark R. Peattie, eds. The Japanese Wartime Empire, 1931-1945. Princeton, NJ: Princeton University Press, 1996.
+
+Hane, Mikiso. Japan; A Short History. Oxford: One World, 200o.
+
+Kikuchi, Yuko. Japanese Modernisation and Mingei Theory: Cultural Nationalism and Oriental Orientalism. London and New York: Routledge Curzon, 2004.
+
+Kushner, Barak. The Thought War: Japanese Imperial
+
+Propaganda. Honolulu:University of Hawaii Press, 2006.
+
+Posters – Japan, 1800's-1980's. Nagoya: Bank of Nagoya Ltd, 1989.
+
+Thornton, Richard S. The Graphic Spirit of Japan. New York: Van Nostrand Reinhold, 1991.
+
+Tucker, Anne Wilkes, Kotaro Lizawa, and Naoyuk Kinoshita. The History of Japanese Photography. New Haven and London: Yale University Press in association with the Museum of Fine Arts, Houston, 2003.
+
+Young, Louise. Japan's Total Empire: Manchuria and the Culture of Wartime Imperialism. Berkeley, Los Angeles, and London: University of California Press, 1998.
+
+## United States
+
+Adamson, Glenn. Industrial Strength Design: How Brooks Stevens Shaped Your World. Milwaukee: Milwaukee Art Museum, and Cambridge, MA, and London: MIT Press, 2003.
+
+Albrecht, Donald, ed. World War II and the American Dream: How Wartime Building Changed a Nation. Washington, DC: National Building Museum, and Cambridge, MA, and London: MIT Press, 1995.
+
+Baxter, James Phinney 3rd ed. Scientists Against Time. Boston: Little, Brown & Co., 1946.
+
+Black, Edwin. IBM and the Holocaust: The Strategic Alliance between Nazi Germany and America's Most Powerful Corporation. New York: Crown Publishers, 2001.
+
+Blum, John Morton. V was for Victory: Politics and American Culture during World War II. San Diego, New York, and London: Harcourt, Brace, Jovanovich, 1976.
+
+Bruce, Gordon. Eliot Noyes: A Pioneer of Design and Architecture in the Age of American Modernism. London and New York: Phaidon, 2o06.
+
+Chanzit, Gwen Finkel. Herbert Bayer and Modernist Design in America. Ann Arbor and London: UMI Research Press, 1987.
+
+Cohen, Arthur A. Herbert Bayer: The Complete Work. Cambridge, MA, and London: MIT Press, 1984.
+
+Duis, Perry and Scott LaFrance. We've Got a Job to Do: Chicagoans and World War II. Chicago: Chicago Historical Society, 1992.
+
+Henthorn, Cynthia Lee. From Submarines to Suburbs: Selling a Better America, 1939–1959. Athens: Ohio University Press, 2006.
+
+Herbert Bayer: Painter, Designer, Architect. New York: Reinhold Publishing Corp., and London: Studio Vista Ltd, 1967.
+
+Kirkham, Pat. Charles and Ray Eames: Designers of the Twentieth Century. Cambridge, MA, and London: MIT Press, 1995.
+
+Koistinen, Paul A. C. The Military-industrial Complex: A Historical Perspective. Foreword by Les Aspin. New York: Praeger Publishers, 1980.
+
+—Arsenal of World War II: The Political Economy of American Warfare, 1940-1945. Wichita: University Press of Kansas, 2004.
+
+Lynes, Russell. Good Old Modern: An Intimate Portrait of the Museum of Modern Art. New York: Atheneum, 1973.
+
+Miekle, Jeffrey L. American Plastic: A Cultural History. New Brunswick, NJ: Rutgers University Press, 1995.
+
+Mindell, David A. Between Human and Machine: Feedback, Control, and Computing before Cybernetics. Baltimore and London: The Johns Hopkins University Press, 20o2 (Johns Hopkins Studies in the History of Technology).
+
+Mossman, S. T. I. and P. J. T. Morris, eds. The Development of Plastics. London: Royal Society of Chemistry, 1994.
+
+Nash, Gerald D. World War II and the West: Reshaping the Economy. Lincoln and London: University of Nebraska Press, 1990.
+
+Nelson, Donald M. Arsenal of Democracy: The Story of American War Production. New York: Harcourt, Brace and Co., 1946.
+
+Pulos, Arthur J. The American Design Adventure, 1940-1975. Cambridge, MA, and London: MIT Press, 1988.
+
+Remington, R. Roger. Lester Beall: Trailblazer of American Graphic Design. New York and London: W. W. Norton & Co., 1996
+
+—American Modernism: Graphic Design, 1920 to 1960. London: Lawrence King Publishing, 2003.
+
+Remington, Roger and Barbara J. Hodik. Nine Pioneers in American Graphic Design. Cambridge, MA, and London: MIT Press, 1989.
+
+Smith, R. Elberton. The Army and Economic Mobilization. Washington, DC: Office of the Chief of Military History, Department of the Army, 1959 (United States Army in World War II; the War Department).
+
+Turner, Henry Ashby Jr. General Motors and the Nazis: The Struggle for Control of Opel, Europe's Biggest Carmaker. New Haven and London: Yale University Press, 2005.
+
+Wilkins, Mira and Frank Ernest Hill. American Business Abroad: Ford on Six Continents. Introduction by Allan Nevins. Detroit: Wayne State University Press, 1964.
+
+Winkler, Alan M. The Politics of Propaganda: The Office of War Information, 1942-1945. New Haven and London: Yale University Press, 1978.
+
+-Home Front U.S.A.: America during World War II. Arlington Heights, IL: Harlan Davidson, 1986.
+
+## France
+
+De la Broise, Tristan and Félix Torres. Schneider: l'Histoire en Force. Paris: Éditions Jean-Pierre de Monza, 1996.
+
+Marchetti, Stéphane. Images d'une Certaine France: Affiches, 1939–1945. Préface de Alain Weill. Lausanne: Edita, 1982.
+
+La Propagande sous Vichy, 1940–1944. Ouvrage publié sous la direction de Laurent Gervereau et Denis Peschanski. Paris: Musée de Histoire Contemporaine de la Bibliothèque de Documentation Internationale Contemporaine, 1990.
+
+Signes de la Collaboration et de la Résistance. Textes de Michel Wlassikoff et Philippe Delangle. Paris: Éditions Autremont, 2000
+
+Wlasikoff, Michel. The Story of Graphic Design in France. Corte Maderia, CA: Gingko Press, 2005.
+
+## Netherlands
+
+Broos, Kees, and Paul Hefting. Grafische Formgebung in den Niederlanden 2o. Jahrhundert. Basel: Wiese Verlag, 1993.
+
+Kok, René and Erik Somers. V = Victorie: Oorlogsaffiches, 1940-1945. Amsterdam: Nederlands Instituut voor Oorlogsdocumentatie, 2003.
+
+Purvis, Alston W. Dutch Graphic Design, 1918–1945. New York: Van Nostrand Reinhold, 1992
+
+## Mexico
+
+Caplow, Deborah. Leopoldo Méndez: Revolutionary Art and the Mexican Print. Austin: University of Texas Press, 2007.
+
+Miller, Michael Nelson. Red, White, and Green: The Maturing of Mexicanidad, 1940-1946. El Paso: Texas Western Press, 1998 (Southwestern Studies No. 107).
+
+Taller de Gráfica Popular, Werkstatt für Grafische Volkskunst: Plakate und Flugblätter zu Arbeiterbewegung und Gewerkschaften in Mexico, 1937-1986. Berlin: Ibero-Americanisches Institut - Preussischer Kulturbesitz, 2002.
+
+## China
+
+Hung, Chang-Tai. War and Popular Culture: Resistance in Modern China, 1937–1945. Berkeley, Los Angeles, and London: University of California Press, 1994.
+
+## Chapters in books
+
+Fleischer, Andreas and Frank Kämpfer, "The Political Poster in the Third Reich," in Brandon Taylor and Wilfried van der Will, eds. The Nazification of Art: Art, Design, Music, Architecture & Film in the Third Reich. Winchester: The Winchester Press, 1990.
+
+Friedman, Mildred, "From Futurama to Motorama," in Brooke Kamin Rapaport and Kevin L. Stayton, Vital Forms: American Art and Design in the Atomic Age, 1940-1960. New York: Brooklyn Museum of Art in association with Harry N. Abrams Inc., 2002.
+
+Horrigan, Brian, "The Home of Tomorrow, 1927–1945," in Joseph J. Corn, ed. Imagining Tomorrow: History, Technology, and the American Future. Cambridge MA, and London: MIT Press, 1986
+
+Katz, Barry, "The Arts of War: 'Visual Presentation' and National Intelligence," in Richard Buchanan, Dennis Doordan, and Victor Margolin, eds. The Designed World: Images, Objects, Environments. Oxford and New York: Berg, 2010.
+
+Mindell, David A. "Automation's Finest Hour: Radar and System Integration in World War II," in Agatha C. Hughes and Thomas P. Hughes, eds. Systems, Experts, and Computers: The Systems Approach in Management and Engineering. World War II and After. Cambridge, MA, and London: MIT Press, 2ooo.
+
+Okamoto, Rei, "Images of the Enemy in the Wartime Manga Magazine, 1941-1945," in John Lent, ed. Illustrating Asia: Comics, Humor Magazines, and Picture Books. Honolulu: University of Hawaii Press, 20o1.
+
+Peattie, Mark R., "Japanese Attitudes Toward Colonialism, 1895–1945," in Ramon H. Myers and Mark R. Peattie, The Japanese Colonial Empire, 1895–1945. Princeton, NJ: Princeton University Press, 1984.
+
+Rau, Erik P., "The Adoption of Operations Research in the United States during World War II," in Agatha C.
+
+Hughes and Thomas P. Hughes, eds. Systems, Experts, and Computers: The Systems Approach in Management and Engineering. World War II and After. Cambridge, MA, and London: MIT Press, 2o0o.
+
+## Articles
+
+Benton, Charlotte, "From Tubular Steel to Bamboo: Charlotte Perriand, the Migrating Chaise-longue and Japan," Journal of Design History I1, no. I (1998).
+
+Johnson, Stephen B., “Three Approaches to Big Technology:Operations Research,Systems Engineering, and Project Management," Technology and Culture 38, no. 4 (October 1997).
+
+Light, Jennifer, "When Computers Were Women," Technology and Culture 40, no. 3 (July 1999)
+
+Llewelyn, Mark, "Designed by Women and Designing Women: Gender, Planning and the Geographies of the Kitchen in Britain, 1917-1946," Cultural Geographies II, no. I (2004).
+
+McCloskey, Joseph, "The Beginnings of Operations Research: 1934–1941," Operations Research 35, no. 1 (January–February 1987).
+
+-"British Operational Research in World War II," Operations Research 35, no. 3 (May-June 1987)
+
+-"U.S. Operations Research in World War II," Operations Research 35, no. 6 (November-December 1987).
+
+Owens, Larry, "The Counterproductive Management of Science in the Second World War: Vannevar Bush and the Office of Scientific Research and Development," The Business History Review 68, no. 4 (Winter 1994).
+
+Rabinach, Anson G., "The Aesthetics of Production in the Third Reich," Journal of Contemporary History II, no. 4 (October 1976).
+
+Weisenfeld, Gennifer, "Publicity and Propaganda in 1930s Japan: Modernism as Method," Design Issues 25, no. 4 (Autumn 2009).
+
+## Internet
+
+Canadian War Museum, "Propaganda/Propagande:
+
+Canadian Wartime Propaganda," http://www. civilization.ca/cwm/exhibitions/propaganda/ poster20\_e (accessed November 17, 2014).
+
+Schubert, Frank N., Mobilization: The U.S. Army in World War II. The soth Anniversary. Washington:
+
+U.S. Army Center for Military History, 1994., http:// www.history.army.mil/brochures/Mobilization/ mobpam.htm (accessed July 27, 20o11).
+
+Aall, Hans 280   
+Aalto, Alvar and Aino 117, 283, 286–9, 315, 379, 428   
+Aarons, Slim 903   
+Aars, Harald 280   
+ABC group 175   
+Abdul Hamid II, Sultan 615, 617, 671   
+Abela, Eduardo 471   
+Aborigines and Aboriginal culture 574, 585, 589–91   
+d'Aboville, Geoffroy 673   
+abstract art 121, 174, 181   
+Acharekar, M.R. 746-7   
+Achimora College 694-5   
+Acosta, José Manuel 468   
+Acosta, Wladimiro 533   
+Adams, Maude 400   
+Adeniyi-Jones, Crispin 697   
+Adler, Elmer 439   
+Adler (company) 48   
+advertising 58, 154-6, 160, 177-9 in Africa 714 African imagery in 720-1 in Argentina 536-7 in Australia 586-8 in Brazil 507-8 in Britain I3I, 135 in Chile 527-8 in China 763-8 in Colombia 542 in Egypt 633-6 in Greece 196-7 in India 743-4 in Italy 326-30 in Mexico 480-2 in Russia 23-5 in Thailand 778-9 in the United States 387, 429-34 in Uruguay 550 in Venezuela 546-7   
+advertising agencies 24, 131, 177, 190-1, 197, 333-4, 352, 355,387-8,429, 433-4,467-8, 481, 508, 527-8, 547, 569, 586–8, 607, 633, 714, 897   
+"advertising technicians" 328   
+AEG (company) 45, 320
+
+Africa 687-721   
+manufacturing in 695-8   
+African imagery in European advertising 720-1   
+Aga stove 273   
+Agha, Mehemed Fehmy 103, 436–8   
+agit-porcelain 10   
+"agitprop” 10, 24   
+Agnelli, Giovanni 322   
+Agnès, Madame 78   
+agricultural equipment 475, 563-4, 577–8, 602, 645–6,   
+692-3,729-30   
+Aguado y Rico, Fernando 465   
+Aguirre Cerda, Pedro 518, 521   
+Aharoni, Tuvia 667   
+Åhrén, Uno 271, 275   
+Aichi, Kokuki 799   
+Aikawa, Yoshisuke 798   
+Aiken, Howard 876   
+Ainsworth, Edgar 128   
+air conditioning 127   
+Air France 91   
+aircraft design 22–3, 91, 324, 415–18, 498, 567–8, 581   
+in Japan 798-800, 860-2   
+in the Soviet Union 857-8   
+in the United States 866-9   
+airlines 127-9   
+airships 340-1   
+Akkawi, Elias 629   
+Alao, George Ayiki 710   
+Albasani, João dos Santos 713   
+Albers, Anni 422-3   
+Albers, Joseph 43, 49, 52, 422-3, 467   
+Albert I, King of Belgium 164-5   
+Albini, Franco 316-17, 320   
+d’Albisola, Tullio 306   
+Aldwinckle, Eric 894   
+Aleksić, Dragan 260   
+d'Alesi, Hugo 716-17   
+Alessandri, Arturo 517   
+Alexander I, King of Serbia 256   
+Alexandre, Arsène 698   
+Alexeieff, Alexander 125   
+Alfa Romeo (company) 324   
+Alfieri, Dino 302   
+Algeria 698-9   
+Allenbach-Meier, Frida 184   
+Almaliotis, Stephanos 198   
+d’Almeida, Armando 508   
+Alons, Cor 145-6   
+Alpago-Novello, Alberto 313   
+Alsop, Rodney Howard 583   
+Alva de la Canal, Ramón 486   
+Álvarez, Eduardo 534-5   
+Álvarez Caselli, Pedro 523   
+Amáblis, Manuel 475   
+American Airlines 417-18   
+“American Colonial" designs 383   
+American Institute of Graphic Arts (AIGA) 447   
+“American Modern” furniture style 382-4   
+American Type Founders 441-2   
+American Union of Decorative Artists and Craftsmen   
+(AUDAC) 374-5, 388, 419   
+"American Way” project 383   
+Amharic language 708   
+Amin, Samir 688   
+Amster, Mauricio 191-2, 527, 530   
+Amsterdam School of architects and designers 142-8, 153   
+Ancona, Victor 905   
+Andersen, Valdemar 293   
+Anderson, Carl 379   
+Anderson, Colin 127   
+Andlovitz, Guido 311   
+de Andrade, Mário soo, 503   
+de Andrade, Oswald 50o-1, 503   
+Andreau, Jean 88   
+Andrews, Gordon 596   
+Anglepoise lamp 119-20, 281   
+animation 20   
+An, Kyong-su 823   
+Annand, Douglas 590, 594–7   
+d’Annunzio, Gabriele 310, 331   
+d’Ans, Armando 534   
+Anscombe, Edmund 602-3   
+Anstey, Vera 739   
+anti-Semitism 881-5, 888   
+Antonini, Otto 258-9   
+Antwerp Maritime and Colonial Exhibition (1930) 166   
+Anzola, Edgar 547   
+Apena, Adeline 691   
+Apollinaire, Guillaume 79, 81   
+Apsit, Alexander 7   
+a.r. (revolutionary artists' group) 239-40   
+Arab print culture 652–5   
+Arabia ceramics factory 283-5   
+Arabian Peninsula 673   
+Arabic language 629, 652   
+Aragon, Louis 81   
+Arai, Seiichiro 897   
+Arango, Alberto 543   
+Aravantinos, Panos 198
+
+Arbeitsrat für Kunst 34-5, 41   
+Arces, Manuel Maples 485   
+Archibald, J.F. 591   
+Archipenko, Alexander 421   
+Ardon, Mordechai 648   
+Aren, Peet 264   
+Arens, Egmont 367, 387, 395, 410, 433   
+Arévale, Julio 526   
+Argentina 531-8 commercial art, advertising and publishing 534-8   
+Argentina (ship) 376   
+Arias, José F. 549-50   
+Arias, Virginio 522   
+Ariza, Gonzalo 543   
+Armitage, Merle 440   
+Armour, George Denholm 123   
+Arndt, Alfred 53-4   
+Arnhold, Johann 174   
+Arnold, Henry 869   
+Arntz, Gerd 222, 242-3, 348   
+Arp, Hans 79, 175   
+Arpke, Otto 60   
+Arseven, Celal Esat 620   
+Art Dec0 75, 94, 126, 251, 281, 407, 463, 466, 471, 475, 490, 505–6, 526, 536, 542, 549, 581, 584, 600, 701, 706,734–6, 747, 759–60, 763, 769, 773,786,796, 81   
+art director's role 430, 480   
+Art Nouveau 74-5, 101, 157, 162, 164, 216, 218, 250, 308, 477–81, 494, 504-7, 527–8,532,535-6, 540, 542, 785, 801-4   
+Artek (company) 288   
+Arthenack, Juan 479   
+artisans, training of 541   
+Arts and Crafts movement 19, 107, 110, 113, 142-3, 209, 216, 226–8, 421, 439, 474, 493, 502, 637-8, 642-3, 694-5, 734, 793 in Australia 581−3, 587 in Canada 560-1 in New Zealand 599-600   
+Ascalon, Maurice 647   
+Ashbee, Charles Robert 599, 641-5, 649, 733   
+Ashton, Julian 586   
+Asplund, Gunnar 270-1, 274   
+assembly-line production 46-7, 792, 866-7   
+Aston Martin (company) 121   
+Ataturk, Kemal 615–22, 627, 676   
+Athanase-David, Louis 558   
+Atherton, John 901, 905   
+Audi (company) 48   
+Audiffred, Andrés 479–80, 484   
+Austen, Ralph 693   
+Austin, Herbert 122   
+Australia 574-97 exhibition pavilions 596–7 government promotion of industry 574-9 graphic communication 586-96 transport 579-81   
+Austria 240-8   
+Austrian Werkbund 245-6   
+autarky 318   
+autobahn system 339   
+automobile design in Australia 579-80 in Britain 121-4, 855 in Canada 565-7 in Czechoslovakia 215-16 in Egypt 627-8 in France 87-91 in Germany 46-9 in India 741−2 in Japan 796-8 in the Soviet Union 349-50 in the United States 367, 401-10   
+avant-garde movements 118–19, 148, 155, 165, 169, 174-5, 181,209-10,220,236,299,348,463-4, 501,537, 810 in France 78-87   
+Avedon, Richard 438   
+Averbuch, Genia 649   
+Averill, John 447   
+Axentowicz, Teodor 233   
+Ayalon, Ami 630−1, 652-4, 671   
+Ayer's advertising agency 430-1, 508   
+Aynsley, Jeremy 61   
+Azari, Fedele 304   
+Azikewe, Nnamdi 713   
+Baba Settlement Exhibition (Prague, 1932) 223   
+Babić, Ljubo 257   
+Bach, Richard 369, 374-5, 378, 393-4   
+Bacon, Francis 119   
+Badoglio, Pietro 702-3   
+Badran, Jamal 644-5   
+Baekeland, Leo 152   
+Baermann, Walter 420-1   
+Bailey, Teodoro 466   
+Baillie Scott, Mackay Hugh 583   
+Bairnsfather, Bruce 891   
+Bakelite 119, 127, 152, 365, 392, 497, 576   
+Baker, George 903   
+Baker, John 852-3   
+Baker, Josephine 99   
+Balaram, S. 737   
+Balbo, Italo 303, 325, 702-3   
+Balfour Declaration 641   
+Balian, Neshan 642-3   
+Balkema, A.A. 887   
+Balla, Giacomo 303-4, 310   
+Ballester, Arturo 190, 192   
+Ballmer, Theo 183   
+Balzaretti, Pier Luigi 330   
+Bandt, Lewis 580   
+Bang & Olufsen (company) 278-9   
+Baraniecki, Adrjan 226   
+Barbier, Walter 526
+
+Barbusse, Henri 538   
+Barcelona Exposición Universal (1929) 184-6, 189, 258   
+Bardi, P.M. 500   
+Barlow, Sir Thomas 855   
+Barman, Christian 119   
+Barnes, Jillian 591   
+Barr, Alfred H. Jr 376–7   
+Bartłomiejczyk, Edmund 233-5   
+Bartolozzi, Salvador 189   
+Barton, Edmund 574   
+Baruch, Bernard 866   
+Baruch, Francesca 666   
+Basagoiti, Emilio 188   
+Basch, Árpád 250   
+Bata, Tomáš (and Bata Shoes) 213−14   
+Bateman, H.M. 123, 891   
+Batista, Fulgencio 465, 469   
+Batlle y Ordóñez, José 547, 550   
+Baud, Édouard-Louis 720   
+Baugnier, Marcel 165, 168   
+Bauhaus, the 34, 40-6, 49-57, 174-5, 210, 250, 377   
+the Gropius years 49-52   
+the Meyer years 52-3   
+the Mies years 53-4   
+Bauhaus Brigade 53   
+Baumberger, Otto 173-4   
+Bayer, Herbert 44, 49-53, 62, 85, 121, 222, 337–8, 377,   
+448-9, 903, 906   
+bazookas 870-1   
+Beall, Lester 448-9, 903-4   
+Beardsley, Aubrey 478-9, 771, 774-5   
+Beau, Paul 559   
+Beaverbrook, Lord 848   
+Beck, Henry 112-13   
+Beckman, Anders 291   
+Beddington, Jack 123   
+Beecher, Catherine 151   
+Beetham, Thyra 599   
+Beezley, William 475   
+Beggarstaff Brothers 109, 126   
+Behrens, Peter 45, 246, 320   
+Bel Geddes, Norman 87, 373, 377, 388–96, 400, 409-10,   
+416, 424, 427-8, 650-1, 872   
+Belgium 141, 164-9   
+World's Fair (1935) 166-7   
+Bell, Alexander Graham 566-7   
+Bell Telephone Laboratories 391, 877   
+Bellah, Ross 379   
+Ben-Avi, Ittamar 667-8   
+Benda, Jaroslav 217   
+Ben-David, Shmuel 638-9   
+Benítez, Andrés García 469   
+Benito, Eduardo 436-7   
+Benjamin, Roger 698-9   
+Bennett, Gwen 423   
+Bensemann, Leo 604   
+"bent knee" furniture 287   
+Bentley (company) 121   
+Benton, Morris Fuller 442-3   
+bentwood furniture 245, 374   
+Ben-Yehuda, Eliezer 665   
+Benz (company) 46-8   
+Berény, Robert 253, 255   
+Beretta, Milo 549-50   
+Berger, Otti 150   
+Bergman, Eric 570   
+Berkovich, Elmar 150   
+Berlage, H.P. 142, 149, 158   
+Berlewi, Henryk 236-7   
+Berlin Conference (1884) 687   
+Berman, Mieczysław 238   
+Bernal, Antonio Arias 484, 903   
+Bernard, Francis 86-7, 718   
+Bernard, Oliver Percy 114   
+Bernège, Paulette 86   
+Bernhard, Lucian 60-1, 63, 218–19, 246, 289-90, 326,   
+433-4, 442, 446   
+Berro, Román 548-9   
+Bertelli, Augusto and Enrico 121   
+Bertieri, Raffaello 330-2   
+Bertiglia, Aurelio 888   
+Bertoia, Harry 421   
+Bertoni, Flaminio 90-1   
+Bertram, Anthony 120   
+Best, Robert Dudley 120   
+Bethell, Ernest T. 825   
+Betts, Ernest Beoku 713   
+Bezalel School 638–42, 645, 647, 656–7   
+Bhagat, Dipti 706   
+Bharier, Julian 675   
+Bialetti, Alfonso and Renato 319   
+Bialik, Haim Nahman 657   
+Bihalji, Pavle and Otto 26c-1   
+bijin-ga posters 804-6   
+Bílak, František 217   
+Bill, Max 180-2, 315   
+billboards 432-3, 569, 767   
+Billow, Anders 290-1   
+Binder, Joseph 169, 247–8, 433, 905   
+Bindesbøll, Thorvald 291-2   
+Bing, Samuel 374   
+Bird, Cyril Kenneth 891   
+Birkhauser, Peter 174   
+Birkigt, Marc 188   
+Birla, Ghanshyamdas 742   
+Biró, Mihály 241, 253   
+Bismarck, Otto von 687   
+Bittrof, Max 60, 337   
+Bjerknes, Christian 272   
+BKI (Bond voor Kunst in Industrie) 142   
+Black, Misha 11o, 889   
+black artists and inventors 399-400, 438-41, 447   
+Black Mountain College 422   
+Blackett, P.M.S. 848, 851-2   
+blacksmithing 692   
+Blair, Sheila 630   
+Blanco, Rafael 468   
+Blaser, Hermann 174   
+Blechner, Heinrich 247   
+Bletchley Park 850   
+Bloch, Marcel 91   
+Blok (journal) 230   
+Blomstedt, Pauli 286   
+BMW (Bayrische Motoren Werke) 48   
+boatmaking 692 see also shipbuilding   
+Boccasile, Gino 330, 537, 720, 888   
+Boeing Company 416-17   
+Bofill, Carlos 527   
+Bogart, Michele 431   
+Boggeri, Antonio 333   
+Boggle, Michael 576, 579   
+Bøglund, Thor 293   
+Bojesen, Kaj 277-9   
+Bollé, Herman 256   
+Bolshevism 6-10, 23   
+Bombardier, Joseph-Armand 560, 566-7   
+bomber aircraft 869-70   
+Bonet, Antoni 533   
+Bonin, Raoul 569-70   
+Book Beautiful movement 216, 219   
+book publishing and design 439-41, 484-6, 502-4, 537-8,   
+571,594-5, 633, 773, 803,825   
+Booth, George 420   
+Borduas, Paul-Émile 559   
+Borges, Jorge Luis 537-8   
+Bormann, Martin 882   
+Borro, José 55o   
+Bortnyik, Sándor 250-1, 255   
+Bosch, Robert 34   
+Boss, Hugo 343   
+Botas, Andrés 484   
+Botet, Rafael Lillo 468   
+Bottlik, József 252   
+Bottoni, Piero 313, 317   
+Bottrill, Frank 577-8   
+Bouchaud, Michel 719   
+Boulanger, Pierre Jules 90   
+Boullata, Kamal 643-4   
+Boumphrey, Geoffrey 117   
+Bourassa, Henri 555   
+Bourke-White, Margaret 436-7   
+Bovril 134-5   
+Bowlt, John 19   
+Bowlus, William Hawley 410   
+Boyd, Robin 584   
+Boydell, Phillip 891   
+Bozo, Julio 525   
+Bozzay, Dezsö 252   
+Bracho, Ángel 906   
+Brackenreg, John 595   
+Braddell, Mrs D’Arcy 120   
+Braga, Teodoro 494   
+brand names 327   
+Brandt, Kim 793-4   
+Brandt, Marianne 42, 50−1, 348   
+Brandtner, Fritz 570   
+Brangwyn, Frank 125   
+Brasch, Sven 293   
+Brašovan, Dragiša 258   
+Brassini, Armando 310, 313-14   
+Bratislava School of Applied Arts 214-15, 225   
+Brauner, Victor 261-2   
+Brazil 493-509   
+Bredendieck, Hin 53, 171, 421   
+Breer, Carl 406-7   
+Breger, David 903   
+Bréguet, Louis-Charles 91   
+Bren Gun 846   
+Brennan, Francis 900   
+Breton, André 81   
+Breton, Jean-Louis 86   
+Breuer, Marcel 43-4, 49-53, 57–8, 85, 116-17, 212, 250,   
+380,584   
+Breuhaus de Groot, Fritz August 341   
+Bridgeman, George 606   
+Brijbasi, S.S. 742   
+Brik, Lili 27   
+Brik, Osip 12-13, 895   
+Brinkman, Johannes 148-9, 157   
+Britain 107-35   
+graphics 129-35   
+transportation 121-9   
+in World War II 841-55   
+British American Tobacco 763, 778   
+British Broadcasting Corporation (BBC) 114-16, 121   
+British Commonwealth of Nations 555   
+British Empire Exhibition (Wembley, 1924) 127, 596, 64   
+British Industries Fair 115   
+British Institute of Industrial Art 107   
+British Modernism 113-14   
+British Overseas Airways Corporation (BOAC) 128   
+British Petroleum 123, 132   
+Broadcasting House 114-16   
+Broadway Limited (train) 414-15   
+Broders, Roger 718   
+Brodie, Howard 903   
+Brodovitch, Alexey 103, 437-8   
+Bromberg, Paul 150   
+Brondy, Matteo 717   
+Brown, G.H. 592   
+Brown, Gordon S. 874   
+Brucz, Stanisław 236   
+Bruehl, Anton 431   
+Bruhns, Ivan Da Silva 735   
+Brukalska, Barbara 232   
+Brukalski, Stanislaw 232   
+Brummer, Arttu 282, 285–6, 288   
+Bruneau, Odette 717   
+Brunner, Vratislav Hugo 217   
+Brunott, J. 145-6   
+Brusse, Wim 160-3   
+Brusse (company) 155, 158–60   
+Brzeski, Janusz Maria 238-9   
+Buchanan, Martha 599   
+Buchwald, Sándor 250   
+Budko, Joseph 648   
+Buehner-Warner, Frederic 373   
+Buehrig, Gordon 404, 407–8   
+Bugatti, Ettore 87   
+Bulanov, M. 24   
+Bullen, Henry Lewis 442   
+Bulow, Karen 563   
+Bund Österreichischer Gebrauchs-graphiker 248   
+Bünhaeds, Mauricio so1, 508   
+Bunschaft, Gordon 393   
+Burchartz, Max 65, 177   
+Burke, Frances 585   
+Burlington House exhibition (1935) 15   
+Burlington Zephyr 124, 411-13   
+Burma 749   
+Burn, Walter B. 904-5   
+Burova, Olga 896   
+Burroughs, Margaret 424   
+Burtin, Will 449, 902–3   
+Buscher, Alma 44   
+buses 418, 497   
+Bush, Donald J. 410   
+Bush, Vannevar 873-6   
+al-Bustani, Butrus 671   
+Bustillo, Alejandro 532-3   
+Butti, Alessandro 331   
+Buzzi, Tomaso 310   
+Byam, Wally 410   
+Bykov, Zakhar 17   
+Caballero, Francisco Largo 192   
+Caban, Geoff 588   
+Cabezón, Isaías 528-9   
+Cabrera, Enrique Garcia 465–71   
+Cahn, Henny 160-3   
+Cai Yuanpei 759   
+Caldevilla, Raul de 352   
+calendar posters and calendar art 482-3, 763-8, 779   
+Calkins, Earnest Elmo 367, 387, 400, 429-30, 433   
+Calles, Plutarco 473, 492   
+calligraphy 630, 655, 773   
+Calthrop, Samuel R. 410   
+Calzavera, Attilio 301-2   
+Camacho, Manuel Ávila 474   
+Camel cigarettes 433-4   
+cameras, use of 66   
+Camm, Sydney 847   
+Campari (brand) 327   
+Campbell, E. Simms 438   
+Campbell, Heyworth 436   
+Campo Grafico magazine 332-3   
+Canada 555-74, 893-4   
+agricultural equipment 563-4   
+exhibition design 568-9   
+graphic design 569-74   
+national handicraft movement 560-3   
+transportation 564-8   
+Canis, Johannes 65, 177   
+cantilevered structures 149, 152, 287, 316, 372, 380, 556   
+Cantor, Sol 447   
+Cao, José María 535   
+Čapek, Karel 218   
+Cappiello, Leonardo 326-9, 353   
+Caproni, Gianni 324   
+Caranza, Venustiano 473   
+Cárdenas, Lázaro 474-5, 489-92   
+Carder, Frederick 384-5   
+Cardew, Michael 695   
+Cardinaux, Émile 172   
+Carigiet, Alois 177   
+Carlos, José 505-6   
+Carlu, Jean 98-9, 449, 884   
+Carpentier, Alejo 470   
+carpet design 118   
+Carrasco, Gustavo 527   
+Carré, Léon 717   
+Carrera, Celso Martinez 496   
+Carrington, Noel 120-1   
+Carroll, Tom 564   
+Carter, George 848   
+cartoons and cartoonists 5, 8, 775, 800, 891, 895, 898-9   
+Carvalhais, Stuart 353   
+Carvalho, Flávio de 495   
+Carwardine, George 119-20, 281   
+Casa Elettrica 312-13, 317-18   
+Casabella magazine 312, 316, 332   
+Caselli, Pedro Álvarez 524, 526   
+Casely-Hayford, Joseph 712   
+Casoni, Luigi Dalmonte 330   
+Cassandre, A.M. 94, 97–103, 125–6, 158, 176, 431, 433, 57   
+Casson, Alfred 570   
+Castagnedi, Riccardo 307   
+caste system 733   
+Castellanos, Carlos Alberto 55o   
+Castiglioni, Pier Giacomo 320   
+Castillo Espinoza, Eduardo 522, 530   
+Castoldi, Mario 840   
+Castro, Cipriano 543-4   
+Castro, Fidel 465   
+Castro Maya, Raymundo Ottoni de 5o8   
+"Cat's Paw" logo 433-4   
+Catalonia 184-5, 189   
+Cataño, Eduardo 483   
+Cauvy, Leon 717   
+Cavalleiro, Henrique 506   
+Cazneaux, Harold 591, 594   
+Cendrars, Blaise 83   
+Central Intelligence Agency 900   
+Cera, René 557   
+Černigoj, August 260   
+Chagall, Marc II   
+chair design 84-5, 114-17, 143, 149-50, 172, 187–8, 211,   
+232, 245,251, 263, 275-80,286–8,317-18,372, 374,   
+378–81, 599, 789, 791   
+Chamberlain, Neville 88o, 891   
+Chandler, E.F. 607   
+Chapanis, Alphonse 874-5   
+Chapman, Dave 395   
+Chapman-Taylor, James Walter 60o   
+Charlot, Jean 484-8   
+Chase, Stuart 366-7   
+Chashnik, Ilya 19   
+Chatterjee, Bengali Ramananda 742   
+Chatterton, Alfred 729, 738-9   
+Chaucer-Guilleré, Charlotte 74   
+Chavez Morado, José 492-3   
+Chekhonin, Sergei 10, 19   
+Chen, Zhifo 772   
+Cheney, Sheldon and Martha 393, 396   
+Cheremnykh, Mikhail 8, 894   
+Chéret, Jules 189, 326, 528   
+Chermayeff, Serge 113-21   
+Chesterton, G.K. 22   
+Chiang Kai-shek 755-6, 763, 770, 775   
+Chicago Century of Progress Exhibition (1933) 424-6, 429,   
+573   
+Chicago Defender 438   
+Chichagova, Galena and Olga 29-30   
+Chiesa, Pietro 310-II   
+children's literature 29-30   
+children's magazines 594   
+Chile 517-31   
+China 2, 755-77   
+advertising, packaging, publication, design and   
+propaganda 763-77   
+art education 759-60   
+national products movement 762-3   
+propaganda 898-9   
+Chirpe, Rodney 447   
+Christie, J. Walter 856   
+Chrysler, Walter (and Chrysler company) 402, 406, 497,   
+866   
+Chrysler Building, New York 406-7   
+Chulalongkorn, King of Siam 777   
+Churchill, Winston 336, 841-8, 853, 892   
+Čikoš-Sesia, Bela 257   
+Circulo de Bellas Artes, Uruguay 548–50   
+Citino, Robert M. 835   
+Citroën, André (and Citroën company) 89-91   
+Citroen, Paul 160-1   
+“civilizing mission” 92-3, 693   
+Clapp, Harold 589-90   
+Clark, Herbert Spencer and Rose 560-1   
+Clark, Octavia 423   
+Clark, Oliver H. 407   
+Clarke, Edith 400   
+Clarke, René 429   
+Clavé, Antoni 190   
+“cleanlining” 390   
+Cleland, T.M. 435-6, 447   
+Cliff, Clarice 118   
+Clinch, Edwin 853   
+clothing design 855   
+Clourier, Albert 894   
+Coates, Wells 114-16, 119   
+Cochius, P.M. 149   
+Cochran, Sherman 749, 761, 767   
+Cochrane, Grace 581, 584   
+Cockburn, Robert 849   
+Cocteau, Jean 102   
+Coelho, Eduardo Teixera 353   
+Coene, Joe 169   
+coffee makers 319   
+Coggins, Jack 903   
+Cohen, Nurith Shiloh 639   
+Coiner, Charles 430, 449, 904-5   
+Cole, Eric Kirkham 119   
+Colin, Paul 99, 355   
+Collings, Geoff and Dahl 578–9, 594–6   
+Collins, Albert 587   
+Colombia 538-43   
+Colombo, Virginio 532   
+Colonial Revival style 379   
+colonialism 2, 687-9   
+Comfort, Charles 570   
+comic strips 774-5, 800   
+commercial art 133, 179, 219, 255, 291, 463, 470, 524–5,   
+570, 588, 590, 624, 658, 660, 663, 749, 772, 812   
+in Austria 246-9   
+in Germany 59-60   
+Communist Party 1, 6, 10, 29, 33, 193, 238, 241, 343,   
+490-2, 755-6,783, 812-13   
+The Composing Room 447   
+Compagnie Française de l’Afrique Occidentale 69r   
+computers, development of 836-7, 850, 876-7   
+concept cars 405   
+concrete art 180   
+Conover, David 903   
+Constable, John 123-4   
+Constructivism 13, 16–22, 27, 30, 38, 40, 58, 174–80,   
+220-2,230,237,346,500,537,773,812   
+"consumer engineering"” 367   
+consumer products 318-20   
+Contreras, Eleazar López 546   
+Coomaraswamy, Ananda 729, 733-4, 739   
+Co-op 2 (company) 161   
+Cooper, Austin 126, 133, 746   
+Cooper, Oswald 442-7   
+Cooper, Susie 118, 128   
+Copier, Andries Dirk 149-50   
+Coray, Hans 172   
+Corbett, Harvey Wiley 424   
+Cordeiro, Calixto 505   
+Cordognato, Plinio 329   
+Coroller, Louis 91   
+Correia Dias, Fernando 494, 502-3   
+Cortés, Ana 529   
+Corty, Dora Mönkmeyer 6o   
+Corvalán, Mario 530   
+Cosme, Sotero 504   
+Costa, Lucio 428, 499   
+Couillard, Roger 573, 894   
+Couloubayi, Woyo 711   
+Council for Art and Industry II5   
+Cousiño, Carlos 520   
+Covarrubias, Miguel 479–80   
+Cowan, Reginald Guy 384   
+Cowles, Gardner Jr 900   
+Cox Méndes, Nathaniel 525–6   
+Cracow 226-31   
+craft production 675, 689–95, 698–700, 729-34, 739–40,   
+756,820   
+Cranbrook Academy 420-3   
+Crane, Olive 594   
+Crawford, W.S. 131   
+Crawford, Sir William 108–9   
+Cret, Paul 411-15   
+Crete 194   
+Crnčić, Menci Klement 257   
+Crockart, James 568   
+Cromer, Lord 626   
+Cromie, Robert II4   
+Crommelynk, Fernand 21   
+Cross, Stan 592-3   
+Crous-Vidal, Enric 191   
+Crow, Carl 767-8   
+Crowley, David 226-7   
+Crowninshield, Frank 436   
+Crowther, Samuel 710   
+Cruz-Diez, Carlos 546   
+Csonka, János 249   
+Cuba 464-72   
+“cubic architecture” 620   
+“cubic furniture” 620, 627   
+Cubism 95–7, 103, 190, 218, 386, 658   
+Czech 211, 228   
+cummings, e.e. 440   
+Cunard Line 126   
+Curtiss, Glenn 415, 567   
+Curzon, Lord 674, 738   
+Cutler, Herbert 853   
+Cyliax, Walter 175-6   
+Czajkowski, Józef 227-8   
+Czechoslovakia 1-2, 218-26   
+Arts and Crafts Association 223-4   
+DaBoll, Ray 447   
+Dadaism 35–40, 58, 66, 81–2, 174, 500, 812   
+Daimler (company) 46-8, 838   
+Dalang, Max 176–9   
+Dalén, Gustav 273   
+Dali, Salvador 188   
+Dalmau, Rogelio 469   
+Dalton, Hugh 844, 853-5   
+da Milano, Giulio 331   
+Damski, Abram 348   
+Dana, John Cotton 369   
+Dandridge, Cecil 125-6   
+Daniel, Guarniero 316   
+Danquah, J.B. 697   
+Darío, Ruben 477-8   
+Dautry, Raoul 87   
+David, Fernand 82   
+Davis, Elmer 900, 902   
+Davis, Harry 695   
+Davis, Stanley 605   
+Dawei, Pan 764   
+Dawson, Charles 426, 447   
+Deakin, Alfred 574   
+Dean, Albert Gardner 411   
+De Andreis, Alexandre 721   
+De Bazel, K.P.C. 149   
+De Carolis, Adolfo 310   
+Dechaineaux, Lucien 581-2   
+decorative arts 93   
+in Brazil 493-5   
+in Cuba 465-7   
+in relation to fashion 77   
+Deffke, Wilhelm 61, 100   
+Degrelle, Léon 886   
+Deichmann, Kjeld and Erica 563   
+Deinika, Olga 347   
+De Klerk, Michel 142-4   
+De Koo, Nicolas P. 163   
+Délano, José 525   
+Delaunay, Robert 83   
+Delaunay, Sonia 82-3   
+De Leeuw, Joseph 150   
+De Liigt, Bart 147   
+Dell, Christian 54   
+Della Latta, Umberto 507–8   
+Del Renzi, Mario 303, 305   
+Demachy, Jean 885   
+De Maistre, Roy 583-4   
+De Mello, Tomás José (Thomas) 354   
+Denby, Elizabeth 853   
+Deni, Viktor 8   
+Denis, Rafael 505   
+Denisovsky, Vladimir 894   
+Denmark 269, 276-80   
+Society of Crafts and Design 276   
+department stores 74-5, 369, 583–4, 595, 761, 763, 791, 824   
+De Pater, P.G. 162   
+De Penagos, Rafael 189-92   
+Depero, Fortunato 303-6, 310, 327, 437   
+Derche, J.H. 717-18   
+Derham, Frances 585   
+De Roeck, Lucien 169   
+De Roos, Sjoerd Hendrik 153-6, 162   
+Derouet, Edgar 885   
+Desbrowe-Annear, Harold 583   
+Design and Industry Association (DIA) 107, IIO, II3, IIS,   
+119-21   
+Design Laboratory 423   
+design profession 400-1   
+design schools 419-24   
+Deskey, Donald 373-6, 380, 385-6, 419   
+Desmeures, Jean-Victor 92   
+Dessau, Kaj 279   
+Detterer, Ernst Frederick 446   
+Deutsch, Rudy 648, 660-3   
+Deutsche Werkbund 12, 34-5, 41, 45-6, 54-7, 60, 85–6,   
+93,115,164,249,313,332,370,372,375   
+Deutschland Ausstellung exhibition (1936) 338   
+Devěrsil Association 209-10   
+Dexel, Walter 56   
+dhows 674   
+Dhurandhar, Mahadev Vishwanath 744   
+Diagne, Ahmadou Mapaté 709   
+Diamond, Freda 382, 386   
+Dias, Fernando Correia 353   
+Díaz, Porfirio 472-3   
+Díaz de León, Francisco、484, 487-8   
+Di Cavalcanti, Emiliano 500, 502   
+Dickens, Sid 447   
+Dickie, Robert J. 601   
+Dieckmann, Erich 44, 54   
+Dietrich, Raymond 407   
+Diggelman, Alex 174   
+Dill Scott, Walter 767   
+Dippy, R.J. 849   
+Disney, Walt 499, 872   
+Diulgheroff, Nicolai 306   
+Djo-Bourgeois, Elise 82   
+Djo-Bourgeois, Georges 82   
+Do Amaral, Tarsila soı   
+Dods, Robin and Mary 583   
+Dohanos, Stevan 901   
+Dohner, Donald 396, 419   
+Dolphin, John 844-5   
+Dome of the Rock 642-5   
+domestic appliances 45-6, 86, 390 see also electrical   
+appliances   
+domestic space, design for 581-3   
+domestic use, design for 583-6   
+Domin, André 74   
+Dominioni, Luigi Caccia 320   
+Domon Ken 897   
+Doner, H. Creston 878   
+Donovan, William 872, 899–900   
+Doordan, Dennis 300, 313, 325   
+Dorand, René 91   
+Dorland Hall exhibition (1933) 115-16   
+Dorn, Marion 118, 127   
+Dostoyevsky, Fyodor 6   
+Dottori, Gerardo 307   
+Doucet, Jacques 77-8   
+Douglas, Aaron 439, 441   
+Douglas Aircraft Company 416-18, 799   
+Dowding, Hugh 849   
+Dradi, Carlo 331-2   
+Drahoňovský, Josef 209   
+Draper, Charles Stark 874   
+Drechsler, Armando 483   
+Dresser, Christopher 118, 784   
+Dressler, Bruno 67   
+Drew, Jane 854   
+Dreyfuss, Henry 388–93, 413-14, 426-8, 435, 872   
+Družstevní práce cooperative 223-4   
+Dryden, Helen 386, 408   
+Dube, John Langalibalele 704, 712   
+Du Bois, W.E.B. 438   
+Dudovich, Marcello 322-3, 326-8   
+Dufrène, Maurice 74, 82   
+Dufresne, Paul 525, 528   
+Dunand, Jean 76, 78, 94   
+Dunedin International Exhibition (1925) 602   
+Dunne, Frank 593   
+Dunstan, Roy 591   
+Dupain, Max 591, 594, 597   
+Dupas, Jean 76, 94, 111   
+Du Pont (company) 365   
+Durant, William 404   
+Dutch Functionalism 148-52   
+Dutch Post Office (PTT) 159-63   
+Dutt, R.C. 732, 740   
+Dwiggins, William Addison 439-40, 445-6   
+Eames, Charles 378, 421, 871-2   
+Eames, Ray 871-2   
+Earl, Harley 404-5   
+Eastlake, Charles 120   
+Eastman Kodak (company) 393-4 see also Kodak   
+Eced, Vicente 187   
+Echavarría, Jorge 541   
+Eckersley, Tom 133   
+Eckert, J. Presper 877   
+Edge, Stanley 122   
+Edison, Thomas 365-6   
+Edquist, Harriet 583   
+Edwards, Arturo 527   
+Edwards Mac-Clure, Augustín 520, 525-6   
+Efimov, Boris 895   
+Egypt 625-36   
+popular media and publicity 629-34   
+Ehmcke, Fritz Hellmut 60-1   
+Ehrmann, Marli 421   
+Ehrstrom, Eric O.W. 283   
+Eiffel Tower 884   
+Eisenhower, Dwight 833, 869   
+Ekholm, Kurt 284   
+Ekster, Alexandra 22   
+Eldem, Sedad 620   
+electrical appliances 119, 151–2, 188, 313, 319, 367, 575–6 se6   
+also vacuum cleaners; washing machines   
+Elektrolux (company) 273   
+Elffers, Dick 164, 887   
+Éluard, Paul 81   
+Embleton, Edwin 889   
+Embury, Aymar 534   
+Empire Marketing Board (EMB) 108-9, 127, 132-3   
+Encina, Francisco Antonio 520   
+Engblom, Runar 285   
+Engelhard, J.V. 60   
+Engelhardt, Knud V. 290   
+Englishness as a design idea 107   
+Ente Nazionale per l’Artiglianato e le Piccole Industria   
+(ENAPI) 309, 318   
+Enver Pasha 618   
+l’Eplattinier, Charles 170   
+Eppens, Francisco 490   
+Erbar, Jacob 62   
+Erdt, Rudi 47   
+Ericsson (company) 272, 391   
+Erni, Hans 172   
+Ernyev, Gyula 252   
+Erté 189, 482, 536   
+Esposizione Regionale Lombarda d’Arte Decorativa   
+(Milan, 1919) 308   
+L'Esprit Nouveau (journal) 79-82   
+Esquire (magazine) 438, 448   
+Estlander, Carl Gustaf 281   
+Estonia 262-3   
+Etchegaray, Juan 531   
+Eveleigh, Henry 894   
+Ewart, Peter 573   
+Exax, Alexander 247   
+Exinger, Otto 247   
+Exner, Virgil 405   
+Expert, Roger-Henri 94   
+Exposição do Estado Novo (Rio de Janeiro, 1938) 498   
+Exposição do Mundo Português (Lisbon, 194o) 498-9   
+Exposition des Arts Décoratifs (Paris, 1925) 80, 82, 101,   
+113, 164-5, 186-7, 228-9, 242, 249, 257-8, 271, 282   
+368-9,374,557-8,759,785   
+Exposition des Arts et Techniques dans la Vie Moderne   
+(Paris, 1937)95, 99, 102, 166–7, 234, 252, 288, 355,   
+568, 595-6, 790, 863   
+Exposition Coloniale et Internationale (Paris, 1931) 91-3   
+Exposition Universelle (Paris, 190o) 374, 784   
+Expressionism 801   
+Ezer, Alexander 649-50   
+Faber, Will 191   
+FAD (Fomento de las Arts Decorativas) 185   
+Faedrich, Nelson Boeira 504   
+Fagundes, Ary 509   
+Fahmi, Abdul Aziz 629   
+Fahrion, João 504   
+Faidy, Abel 373   
+Fairburn, Miles 598   
+Faisal I, King 668   
+Falasca-Zamponi, Simonetta 300   
+Falck, Thomas Christopher 705-6   
+Falus, Elek 250   
+Faragó, Géza 250   
+Farina, Battista 323-4   
+Farouk I, King 631–2   
+Farsi language 677   
+Fascism 299-303, 315-16 see also Nazi regime   
+Fauré, Alejandro 524   
+Favagrossa, Carlo 839   
+Favorsky, Vladimir 16, 18   
+Fawzi, Sulayman 632   
+Fayol, Henri 540   
+Federal Art Project (FAP) 423, 449   
+Federico, Gene 448   
+Feduchi Ruiz, Luiz 187   
+Fehim, Munip 624   
+Feininger, Lyonel 41   
+Fejes, Jenó 252   
+Feller, Miroslav 259   
+Feng, Zikai 772–4, 899   
+Fenton, Edith 599   
+Ferrari-Hardoy, Jorge 533   
+Ferreira, Paulo 355–6   
+Ferreiro, Alfredo Mario 551   
+Ferris, Hugh 389-90   
+Ferro, António 354-7   
+Feuerwerker, Albert 756   
+Fiat (company) 318-19, 322-4, 327   
+Fiesta Ware 383-4   
+Figari, Pedro 548-9   
+Figini, Luigi 313, 315, 317, 321   
+Figoni, Joseph 88   
+Filbert, Edward 836   
+Filippov, Alexei 17-18   
+film-making 25, 238   
+film posters 537, 634-5, 663-5, 746–7, 810, 885   
+Finey, George 593   
+Finland 269, 281–9   
+Finmar Ltd 117   
+Finsler, Hans 183   
+Finsterlin, Herman 145   
+First World War see World War I   
+Fisker, Kay 278   
+Fisker, Peder A. 278   
+Fiskers, Kaj 292   
+“fitness for purpose” philosophy 119   
+Fitton, James 133   
+Fitts, Paul 875   
+Flagg, James Montgomery 8, 192, 900   
+Fleuron Society 129   
+“Alexible manufacturing” 405   
+flight simulators 850   
+Floethe, Richard 449   
+Flögl, Mathilde 244   
+Flores, Alfredo 477, 481   
+Flowers, Tommy 850   
+fly-shuttle loom 732-3   
+flying boats 128, 324-5   
+Fokker, Anthony (and Fokker company) 153, 4I5, 799   
+Follot, Paul 74, 82, 113-14   
+Fonck, Oscar 527   
+Fontana Arte 311   
+Fontes, Lourival 509   
+Foradori, José 525   
+Forbes, Robert 692   
+Ford, Edsel 153, 402-3   
+Ford, Henry 46–7, 121–2, 177, 367, 393, 401–2, 415, 427,   
+564, 787,867,870   
+Ford Motor Company 121, 349-50, 394, 402, 415, 424–7,   
+462,497,579-80, 628,797-8,866-7   
+Fordson tractors 564   
+Forester, J. 874   
+Formica 365   
+Forsberg, Karl-Erik 290   
+Forster, Colin 575–6   
+Fortune magazine 435-6   
+Foss, George Foote 566   
+France I   
+the avant-garde 78-87   
+graphic design 95-103   
+in inter-war period 73-103   
+trains, automobiles and planes 87-91   
+Franco, Francisco 1, 141, 185, 191-4, 537   
+Frank, Jean-Michel 533   
+Frank, Josef 244-6, 272-3   
+Frank, Raphael 665–7   
+Frankl, Paul 370-1   
+Fraser, Douglas 531   
+Fraser, Norman 573   
+Frederick, Christine 56, 120, 151, 789, 792   
+Frémond, André 673   
+French North Africa 698–700   
+Frenzel, H.K. 61   
+Frey, Rolf 247   
+Frías, Carlos Eduardo 547   
+Friedlander-Wildenhain, Marguerite 46, 54   
+Friend, Leon 447-8   
+Fromek, Jan 221   
+Fry, Dorothy 592   
+Frycz, Karol 233   
+Fuerst, Edwin W. 385   
+Fujishima, Takeji 801-2   
+Fukuchi, Mataichi 785   
+Fukuhara, Shinzo 807–8   
+Fuller, R. Buckminster 397–9, 425, 872   
+Functionalism 149-50, 210-15, 222, 254-5, 274-5, 286,   
+290-2 see also Dutch Functionalism
+
+Funke, Jaromir 222, 225   
+furniture 17, 19, 143-7, 150-2, 211, 232, 241, 249-50, 272, 276-7,285-7, 379,382-3 in Africa 706 in Australia 583-4 in Brazil 495-6 in Britain 853-4 in Canada 556-60 in Cuba 466 in Germany 55-8, 342-3 in Hong Kong 747-8 in India 730, 734-6 in Japan 788-94 in New Zealand 6oo-1 in Turkey 620−1 see also tubular steel furniture   
+Fussell, Andrew 563   
+Futurism 236, 303-8, 313
+
+Gadjil, D.R. 730-1   
+Gahura, František Lydia 214   
+Gaigg, Lois 248   
+Gaitán, Julieta Ortiz 481   
+Galamb, Józef 402   
+Gali, Francesc d’Assís 188-9   
+Galland, Gilbert 716   
+Gallenga, Maria Monaci 311   
+Galleria Il Milione 315   
+al-Gamayyil, Antun 627   
+Gamble, William 773   
+Games, Abram 133, 891-2   
+Gan, Alexei 13, 27   
+Gandhi, Mohandas 729, 732, 736-7, 740   
+Gao Jianfu 760, 768   
+Gao Qifeng 768-9   
+Garbo, Greta 293   
+García Cabral, Ernesto 479   
+Gardberg, Eric 294   
+de la Garde, Gérard 885   
+Garibaldi, Giuseppe 300   
+Garvey, Marcus 697   
+gasoline pumps 123   
+gasoline stations 409   
+Gate, Simon 270-1, 278   
+GATPAC 533   
+GATEPAC (Grupo de Artistas y Tecnicos Españoles para   
+el Progreso de la Arquitectura Contemporanea) 186-   
+Gauchat, Pierre 171-2   
+Gaudet-Smet, Françoise 559   
+De Gaulle, Charles 884   
+Gauvreau, Jean-Marie 558-60, 563   
+Gavranić, Pavao 259   
+Geddes, Frances Waite 416-18   
+Gellert, Leon 584   
+General Electric 366, 390-1, 396, 400, 496   
+General Motors (GM) 47, 367, 395, 401-7, 424, 427–8,   
+462,497, 508,532, 579-80,797-8,837,866, 875   
+Genévrière, Marcel 74   
+George, Waldemar 75   
+George II, King of Greece 194   
+Georgi, Otto 528   
+Germany 1-3, 299, 334-43   
+graphic design, typography and exhibitions 335-9   
+industrial machine 339-43   
+propaganda 334-5, 879-82   
+in the Weimar period 33-69   
+in World War II 834-9   
+Gernsback, Hugo 389   
+Gershwin, George 440   
+Gerth, Karl 762   
+Gesamtkunstwerk 227   
+Gesmar, Charles 99, 482   
+Gestetner, Sigmund 392   
+Getting, Ivan 873   
+Gezo, King of Dahomey 714   
+Giacosa, Dante 323   
+Gianotti, Francisco 532   
+Gibbings, Robert 130   
+Gibbon, John Murray 572   
+Gibbs, May 592   
+Gibson, Charles Dana 429, 436   
+Giebichenstein, Burg 54   
+Giedion, Sigfried 170-1, 174, 288   
+Giedion-Welcker, Carola 174   
+Gill, Eric 126, 130, 654–5, 667   
+Gill, Macdonald 109   
+Gilroy, John 135   
+Giménez, Aurelio 535   
+Gimson, Ernst 110   
+Gingrich, Arnold 438, 594   
+Giso lamp 148-9   
+Gispen, W.H. 148-9   
+glavki system 15   
+Gloag, John 120-1, 853   
+Glover, Denis 604   
+Glücksmann, Max 537   
+Goddard, Robert H. 870   
+Godrej, Ardeshir 730   
+Godward, Ernest 601-2   
+Godwin, E.W. 147, 784   
+Goebbels, Joseph 300, 335, 879–81, 895   
+Goering, Hermann see Göring   
+Golden, William 437, 902   
+Goldmann, Kitty 529   
+Gómez, Antonio 483   
+Gómez, Juan Vicente 543-6   
+Gómez, Pepe 543   
+Gomide, Regina 495   
+Gonda, C.H. 761   
+Goodeve, Charles F. 842-3   
+Gorbunov, Vladimir 857-8   
+Gorham, William R. 797-8   
+Göring, Hermann 836, 891   
+Gorrell Report (1932) 115)
+
+Gosé, Javier 189-90   
+Gosizdat 26, 28   
+Gossip (film) 26   
+Goudy, Frederic 445   
+Gounaropoulos, Georgios 198   
+Gouwe, W.F. 162   
+government, graphic design work for 486-90   
+Grabe, Klaus 463   
+Graber, Rudolf 170   
+Graburn, Nelson 690   
+Grachev, Vitaly 857   
+graphic design in Africa 708-21 in Australia 595-6 in Brazil 499-509 in Britain 133-5 in Canada 569-74 in Chile 523-31 in Colombia 541-3 in Cuba 467-72 in Czechoslovakia 216-18, 222-6 in France 95-103 for government 486-90 in Hungary 253-6 in Italy 332-4 in Japan 800-17 in Mexico 476-93 in the Netherlands 153-64 in New Zealand 603-7 in Palestine 652-68 in Poland 233-40 in Scandinavia 289 in Siam 778-9 in Switzerland 172, 179 in Taiwan 820-1 in Tel Aviv 659-63 in Turkey 621-5 in the United States 446-9 in Venezuela 545-7   
+Graphis (journal) 183   
+Grasset, Eugène 172   
+Gratama, Jan 142   
+Gray, Eileen 77-8, 83-4   
+Gray, Milner 109-10, 889   
+Graz, John 494-5   
+Great Britain see Britain   
+Greater East Asia Co-Prosperity Sphere 784, 794-5, 800, 817,859,896-8   
+Greece 194-8 Permanent Exhibition of Greek Products (1922-28) 195   
+Green, Perce 595   
+Greenhalgh, Paul 118, 126   
+Greenhalgh, Robert 903   
+Gregorie, E.T. 402-4   
+Gregotti, Vittorio 324   
+Grenet, Julio Málaga 535   
+Grenfell, William 562
+
+Gresley, Nigel 124, 126   
+Gress, Edmund G. 441-2   
+Gretsch, Herman 46   
+Grey, Molly 583   
+Greyhound Corporation 418   
+Grierson, John 894   
+Griffin, Marion Mahony 583   
+Griffin, Walter Burley 583   
+Griffith, Chauncey H. 445   
+Griffo, Francesco 668   
+Grigoriev, Boris 527   
+Gröbel, Henrique 5o1   
+Grohe, Glenn 904   
+Gronowski, Tadeusz 234-5   
+Gropius, Walter 34-5, 40-4, 48-53, 58, 85, 116, 121, 377–8,   
+420   
+Grosz, George 35-8, 66   
+Grotell, Maija 420   
+Groult, André 75-6   
+Gruppo 7 311-12, 332   
+Gudkov, Mikhail 857-8   
+Guedez Muniz, Antonio 498   
+Guernica 193   
+Guerrero, Xavier 463, 490-2   
+Guerrini, Giovanni 309   
+Guevara, Andrés 506   
+Guggisberg, Sir Frederick Gordon 694   
+Guild, Lurelle 394   
+Guilleré, René 74   
+Guinness 135   
+Gulbrandsen, Nora 280   
+Gullichsen, Maire 288   
+Guomindang 735-6, 759, 762-3   
+Gur-Arie, Meir 638, 656   
+Gurevich, Mikhail 858   
+Guruceaga, Juan de 545   
+Gustavsberg Porcelain Factory 270, 275   
+Gutiérrez, Abel 522-3   
+Guzzi, Carlo 324   
+Gwira, W. Essuman 695-6   
+Hackenschmied, Alexander 214   
+Hadank, O.W.H. 48, 61   
+Hadden, Britton 435   
+Hagiwara, Kyojiro 811   
+The Hague School of architects and designers 145-6   
+Hahl, Nils-Gustav 288   
+Haile Selassie, Emperor 710, 713   
+Halabala, Jindřich 211   
+Hald, Edward 270-1, 278   
+Hale, Dana S. 720-1   
+Haley, Reuben 386   
+half-tone printing 742-3   
+Hall, Tom 429, 573   
+Hallett, Charles 593   
+Hallo. Charles-Jean 719   
+Ham, George 572   
+Hamada Masuji 806-7   
+Hamada Shoji 794   
+Hameiri, Avigdor 660   
+Hamel, George 88   
+El-Hanani, Arieh 649-50, 658-9   
+Hananya, Jurji Habib 652   
+handicraft production 228-9 see also craft production   
+Hang, Zhiying 766   
+Hani, Motoko 792   
+Hansson, Per Albin 269   
+Hapgood, William 561   
+Hara, Hiromu 815-16, 898   
+Hara, Takashi 818   
+Hara, Tomio 860   
+Harbeson, John 411-12   
+Harlem Community Art Center 423   
+Harper's Bazaar 437-8   
+Harrington, Ollie 438   
+Harris, H.H. 134-5   
+Harrison, Austen St. Barbe 644   
+Hartt, Cecil 592   
+Hasegawa, Nyozekan 812   
+Hashiguchi, Goyo 804   
+Hashimoto, Masujiro 797   
+Hassall, John 135   
+Hassbauer-Wallrath, Helene 184   
+Hassenpflug, Gerd 276   
+Hassenpflug, Gustav 53   
+Haughton James, Richard 576-9, 596   
+Haus & Garten studio 244   
+Haus Werkbund 35   
+Hausmann, Raul 35-40   
+Hauth, Dora 184   
+Havell, Ernest Binfield 644, 729, 732-4, 738–40   
+Havinden, Ashley 118, 131-2   
+Haw, Aw Boon 729   
+Hawkes, Thomas 384   
+Hayakawa, Tokuji 792-3   
+Hayashi, Kohei 791   
+Hayashi, Tatsuo 898   
+Haynes, Don Alberto 535   
+Hazen, Harold 873-4   
+Heal, Ambrose 113   
+Hearst, William Randolph 436-7   
+Heartfield, John 35–8, 59, 66–9, 160, 193, 238, 484, 492   
+Heberly, Jacob 599   
+Hebrew language 652, 659   
+Hebrew typography 665-6   
+Heiberg, Jean 272, 391   
+Heikinheimo, Maija 285-6, 288   
+Heimat style 299   
+Hejazi, Muhammad 68o   
+Helfmann, Gustavo 526, 528   
+de la Helguera, Jesús 483   
+Henderson, Andrew Kennaway 604   
+Henderson, Herbert V. 407   
+Henningsen, Poul 277   
+Henri, Florence 97   
+Henrion, F.H.K. 133   
+Henry, Beulah Louise 400   
+Henry, Hélène 82   
+Hepworth, Barbara 119   
+L'Herbier, Marcel 82   
+Herbst, René 85   
+Herdeg, Walter 183   
+Herkenhoff, Paulo 494   
+Herman Miller (company) 381-2, 386   
+Herrera, Carlos María 548   
+Herrick, F.C. 108-9   
+Hershey, Frank 405   
+Herzfelde, Wieland 35, 66-7   
+Herzig, Edouard 717   
+Herzl, Theodore 638-9   
+Heskett, John 299   
+Hess, Sol 445   
+Hesse, Fritz 44-5   
+Hewitt, John 123   
+Heythum, Antonin 211   
+Hider, Arthur 569   
+Higgins, Andrew Jackson 868   
+Hill, Oliver 115   
+Him, George (Jerzy) 133, 235   
+Hindenburg airship 340-1   
+Hiraoka, Gompachiro 804   
+Hirsch, Israel 665   
+Hispano-Suiza (company) 188   
+Hitchcock, Henry Russell 376   
+Hitler, Adolf 2, 68–9, 141, 169, 194, 216, 246, 299–300,   
+317, 334-40, 343, 428, 641, 646,833-5, 838,878–82,   
+889-96   
+Hobart, Percy 846   
+Hobson, Charles W. 129, 131   
+Hoch, Hannah 35-7   
+Hodgkin, Alan 850   
+Hodgkins, Frances 604   
+Hodgman, Clare 392-3   
+Hodler, Ferdinand 172   
+Hoene, Max 57   
+Hoffman, Joseph 242, 244, 246, 287, 310, 313, 372   
+Hoffmann, Wolfgang 372, 380   
+Hoggard, Noel 605   
+Hohlwein, Ludwig 59–61, 126, 174, 336, 482, 720, 881   
+Holden, Charles 112   
+Holloway, Ron 604   
+Holmes, Charles 591   
+Hong Kong 729, 747-9   
+Hong, Qing 759–60   
+Hongell, Göran 282-3, 294   
+Hood, Raymond 424   
+Hoover, Herbert 366-9   
+Hopkins, Anthony 691-2   
+Hopkinson, Tom 893   
+Horch, August 48   
+Horikoshi, Jiro 86o   
+Horino, Masao 814   
+Horová, Júlia 214-15   
+Horowitz, Alexander 152   
+Horseman, Mollie 593   
+Horta, Victor 164, 166   
+Horthy, Miklós 248, 251, 254   
+Hoste, Huib 165   
+Hounsfield, Leslie 855   
+housewares 150-1, 383   
+Howard, Cliff 578   
+Howard, Ebenezer 340, 426   
+Howe, C.D. 565   
+Howe, Christopher 795, 799   
+Howell (company) 380-1   
+Hrbek, Emanuel 225   
+Hrdlčka, Pavel 214   
+Hribar, Stjepn 257-8   
+Hsia, C.T. 771   
+Huang, Chiuju 766-7   
+Hubbard, Elbert 561   
+Huber, Max 333   
+Huelsenbeck, Richard 35   
+Huerta, Victoriano 473   
+Hughes, Howard 417   
+Hughes, Thomas 365-6   
+Hughes, William 574-5   
+Hugon, Roland 885   
+Hulusi Gorey, Ihap 621-4, 636   
+humor, designers’ use of 135, 891   
+Hungarian Werkbund 249-52   
+Hungary 248-56   
+Husqvarna motorcycles 273-4   
+Huszár, Vilmos 147, 153−5, 159   
+Hutton, Karl 893   
+Huysmans, Camille 164-5   
+Hynckes, Raoul 157   
+Hysler-Rubin, Noah 642   
+Ibáñez, Carlos 517, 520−2   
+IBM 837-8,876-7   
+icebreakers 23   
+Ideal Home Exhibition 15   
+Île de France (liner) 93, 95, 126   
+illiteracy see literacy   
+illustrated magazines 65–6, 96, 225–6, 329, 524, 534–6,   
+631,742-3,882   
+Imperial Airways 127-9, 132, 135   
+import substitution 698   
+Ina, Nobuo 815-16   
+India 729-47   
+craft romanticism 732-4   
+role of crafts 729-31   
+typography, publications and advertising 742-7   
+"industrial advertising” 177   
+"industrial arts”   
+in Britain I17-20   
+in China 760
+
+in Japan 787-8 in Uruguay 549 industrial design as a profession 232-40, 387-97, 578-9 Industrial Design Partnership 11o, 889 industrialization in Africa 687-8, 707-8 in Australia 574-9 in Brazil 496-8 in China 755-7 in Colombia 538-41 in Egypt 625-7 in Greece 195-6 in India 729-34, 738-42 in Japan 783-4, 795 in New Zealand 602 in the Ottoman Empire 616 in Palestine 645-52 in Persia 674-7 in Turkey 619-20 Inoue, Fusaichiro 788 Inoue, Mokuda 805 Inskip, Sir Thomas 841 Institut Supérieur de Arts Décoratifs (ISAD) 165-8 International Style 376 Iofan, Boris 95 Iran 676-7 see also Persia Iraq 636-7 Irbouh, Hamid 698-9 Iribe, Paul 93 Irsai, István 255; a.k.a Irshay, Pesach 659–60, 666 Isamitt, Carlos 522, 528 Ismail, Mirza 742 Isokon Ltd 116 ISOTYPE system 163, 242, 348 Israel, State of 652 Issawi, Charles 616, 618 Istituto Statale Industrie Artistiche (ISIA) 308 Italian North Africa 700-4 Italy 3, 299-334 commercial graphics, typography and book arts 326-34 Fascism in 299-303 Futurism in 303-8 industry under the Fascist regime 318-26 propaganda in 887-9 transportation in 322-6 in World War II 839-41 Itaya Hazan 785 Itten, Johannes 41–2, 54, 161, 174–5, 210 Ivanov, Victor 896 Jabavu, John Tengo 711 Jackson, Jay 438 Jackson, John Payne 713 Jackson, Simon 596 Jacobs, Sidney A. 440 Jacobsen, Jacob 281 Jacobson, Egbert 431, 447, 905
+
+Jacqmar (company) 855   
+Jacquot, Michel 885-6   
+Jäderholm-Snellman, Greta-Lisa 283-4   
+Jaguar (company) 122   
+Jain, Kajri 743-4   
+Janák, Pavel 223   
+Janco, Marcel 261   
+Janes, Les 395   
+Janković, Dušan 259   
+Jano, Vittorio 324   
+Janzen, J.W. 151   
+Japan 2-3, 755-6, 783-820, 823   
+development of design policy 784-5   
+French influences on 785-6   
+heavy industry and transport 795-800   
+Industrial Arts Research Institute (IARI) 787-8   
+lifestyle improvements and Western-style goods 79   
+propaganda in 896-8   
+Rationalization Movement 786-91   
+Showa era 783-4, 812   
+Taisho era 783-4, 791, 804-5, 812   
+in Worłd War II 833, 858–64   
+Jaray, Paul 171, 216   
+Jardine, Walter 587   
+Jasieński, Bruno 236-7   
+Jastrzçbowski, Wojciech 229   
+Jaulmes, Gustave-Louis 74   
+Jeanneret, Charles Édouard see Le Corbusier   
+Jeanneret, Pierre 84   
+Jefferis, Millis 843-5   
+Jefferson, Louise 423, 692   
+Jenner, Eduardo 189   
+Jensen, Georg 278   
+Jirů, Václav 226   
+Joel, Betty 127   
+Johannesburg Empire Exhibition (1936) 706-7   
+Johanson, H. 263   
+Johansson-Pape, Lisa 285   
+Johnová, Helena 209, 212   
+Johnson, J.F. 113   
+Johnson, James Weldon 441   
+Johnson, Philip 376-7   
+Johnston, Edward 130   
+Johnston, Franz 571   
+Johnstone, Marjorie 706   
+Jones, Frank 849–50   
+Jongert, Jac 149, 157–8, 164   
+Jonnart, Charles-Celéstin 698   
+Jonsson, Joe 593   
+Josephy, Robert 440   
+Jossot, Gustave-Henri 717   
+Jost, Heinrich 63   
+Joubert, René 74   
+Jourdain, Francis 75-6   
+Joyner, Marjorie Stuart 400   
+Jucker, Karl Jacob 43   
+Julius, Harry 586–7   
+junks 758-9   
+Justo, Augustín 532, 534   
+Južnič, Bohumil 212   
+Kabir, Amir 674   
+Käch, Walter 182-3   
+Kafka, Franz 440-1   
+Kåge, Wilhelm 270, 275, 290   
+Kahn, Albert 401, 424-5   
+Kaiser, Henry 867   
+Kalff, Louis 152   
+Kamal-al-Molk 675   
+Kamara, Kisimi 711   
+Kamekura, Yusaku 790, 816–17   
+Kamil, Mustafa 630   
+Kamiński, Zygmunt 233-4   
+Kanamaru, Shigene 814-15   
+Kanaseki, Takeo 820   
+Kandinsky, Wassily 13, 42, 50, 52   
+Kandó, Kálman 252   
+Kao Soap 814-16   
+Kaplan, Wendy 369   
+Karakashian, Megerdish 642-3   
+Karasz, Ilonka 370, 375   
+Karasz, Mariska 370   
+Károlyi, Mihályi 248   
+Kashiwagi, Hiroshi 793   
+Kassák, Lajos 253-5   
+Kastanakis, Nikos 197   
+Kataoka Toshiro 805   
+Katz, Barry 872   
+Kauffer, E. McKnight 109, I, 118, 123, 126–7, 132-3, 182,   
+596, 884, 903   
+Kaufmann, Richard 649   
+Kawai, Kanjiro 863   
+Kawakita Renshichiro 790   
+Kay, Ellen 269   
+Kay, John 732   
+Keck, George Fred 422, 425   
+Keely, Pat 133, 891   
+Keen, Harold 850   
+Kégresse, Adolphe 718   
+Keiji Kobo group of designers 789–90   
+Keil, Maria 355   
+Keisler, Frederick 419   
+Keith-Roach, Edward 647   
+Keller, Carlos 518   
+Keller, Ernst 182   
+Kelmscott Press 217, 486, 502   
+Kenaan-Kedar, Nurith 643   
+Kenadiid, Yaasiin Cismaan 710   
+Kent, Rockwell 439-40   
+Kepes, Gyorgy 250-1, 421-2, 595   
+Kerrison, Karl 853   
+Kersting, Walter Maria 341-2   
+Kesavan, B.S. 742   
+Kessels, Willy 165   
+Kesting, Walter 171   
+Khan-Magomedov, Selim 17   
+Khlebnikov, Velomir 22   
+kibbutzim 647   
+Kielland, Thor B. 280   
+Kiesler, Frederick 375   
+Kiichi Akabane 897   
+Kiljan, Gerard 157–62   
+Kikuchi, Yuko 788, 794, 820, 862   
+Kim, Song-su 823, 825   
+Kimura, Ihee 815-16, 897-8   
+King, Kenneth 690, 692   
+King, Marcus 606, 894   
+Kingford Smith, Sir Charles 579   
+Kioutacheia potteries 196   
+Kirsch, Henry 519   
+Kitazawa Rakuten 800   
+kitchen appliances 388 see also refrigerators; stoves   
+kitchen design 151, 396, 621, 792, 854, 878   
+Kiwi shoe polish 589   
+Kiyoshi Koishi 814   
+Klaarhamer, Piet 147   
+Klaxon (cultural review) 500-2   
+Klee, Paul 42, 52   
+Klinger, Julius 60, 244–8   
+Klint, Kaare 276-7   
+KLM (Royal Dutch Airlines) 153   
+Klucis, Gustav 345-6   
+Kner, Imre 255-6   
+Knoll, Florence Schust 421   
+Knopf, Alfred A. 439-41   
+Kobro, Katarzyna 230   
+Koch, Mogens 276   
+Koch, Rudolf 62-3   
+Kocklock, Marinus Adrianus 886   
+Kodak (company) 393−4 see also Eastman Kodak   
+Kodama, Gentaro 818   
+Koehler, Karl 905   
+Koerner, Henry 905   
+Koetz, Edgar 504   
+Kogan, Belle 399   
+Kogure Joichi 788–9, 793   
+Kohli, Atul 823   
+Kohlmann, Étienne 74   
+Koishi, Kiyoshi 814   
+Kokorekin, Alexei 896   
+Kollar, François 96-7   
+Kollwitz, Käthe 776   
+Kolthoff, Mark 160   
+Kondo, Hidezo 898   
+Konkreten, Zürcher 180   
+Kono, Takashi 810, 816   
+Konoe, Fumimaro 858–9, 862   
+Korea 822-5, 863   
+Koren, Eliyahu 662   
+Korff, Kurt 66   
+Korhonen, Otto 286-7   
+Körting & Matthiesen (company) 5o   
+Kosel, Herman 247   
+Koshkin, Mikhail 856   
+Kostellow, Alexander 419   
+Kotěra, Jan 213-14   
+Kozma, Lajos 249, 251, 255–6   
+Kradolfer, Fred 355   
+Kramer, Ferdinand 55, 62   
+Kramer, Piet 142-3   
+Krantz, Harold 597   
+Krásna jizba (retail outlet) 211-15   
+Krausz, Franz 660-3, 667   
+Krebs, Natalie 279   
+Krejar, Jaromir 210   
+Krizman, Tomislav 257   
+Krogh, Per Lasson 293-4   
+Krohn, Olaf 294   
+Krop, Hildo 143   
+Krupp, Gustav (and Krupp company) 339, 837   
+Kubota Gonshiro 797   
+Kuhler, Otto 410, 412-13   
+Kukriniksy group of artists 895   
+Kulagin, A. 895   
+Kulagina, Valentina 346   
+Kumlien, Akke 290   
+Kun, Béla 248, 250, 253   
+Kunii, Kitaro 787-8   
+Kuo, Mojo 776   
+Kupferschmidt, Uri 645   
+Kuprianov, Nikolai 18   
+Kurata Chikada 789   
+Kurchan, Juan 533   
+Kuroda, Seiki 806   
+Kuroda, Tatsuaki 794   
+Kustodiev, Boris 6   
+Kutuzov, Mikhail 896   
+Kuwusawa, Yoko 790   
+Kwan, Wai Nung 748-9   
+Kybal, Antonin 212   
+Kysela, František 217, 219   
+Kysela, Ludvik 214   
+Il Labirinto Society 310-11   
+Laborde, Guillermo 549   
+Lacasa, Luis 193   
+Lacaze, Julien 673   
+Lachs, Oskar 662-3   
+Lacombe, Roberto 499   
+Ład workshop 229-31   
+Laing, Ellen 763, 767   
+Lalique, René 386   
+Lamanova, Nedezda 18   
+Lambert, George 580   
+Lancia, Emilio 310, 313   
+Lancia, Vincenzo 323   
+Lane, Allen 132   
+Lang, Fritz 389   
+Lang, Jinshan 770   
+Lansky, Meyer 465   
+Lanvin, Jeanne 78   
+Lanzoni, Adriano 636-7   
+Larder, Pierre 720-1   
+Lardner, Harold 851   
+Larisch, Rudolf von 246   
+Larrain, Alejandro Alfonzo 547   
+Larsson, N.H. 677   
+Latham, Richard 395-6   
+Latin America 2, 184, 461–4   
+Latvia 262   
+Laughlin, James 441   
+Laurier, Wilfrid 555   
+Lavies, Jan 886   
+Lavinsky, Anton 17, 25   
+Lavochkin, Sergei 857   
+Lawley, Paul George 416   
+Lawrence, T.E. 642   
+Leach, Bernard 801   
+leaflets, wartime use of 879   
+League of Nations 1–2, 8, 141, 318, 615, 668   
+League of Revolutionary Artists and Writers (LEAR)   
+492-3   
+Leason, Percy 587, 592   
+Lebanon 668-72   
+Lebeau, Chris 162   
+Lebedev, Vladimir 29   
+Lebedyansky, L. 350   
+Lechner, Ödon 249   
+Le Corbusier 79–84, 93, 170, 186, 210, 245, 333, 394, 425   
+428, 463, 583, 790-1, 863   
+Ledesma, Gabriel Fernández 480, 487–9   
+Ledwinka, Hans 215-16   
+Lee Chan-gap 824   
+Lee-Elliott, Theyre 128-9   
+Leerdam Glassworks 149   
+Leet, Stephen 315   
+Lefèbvre, André 90-1   
+Léger, Fernand 81–2   
+Legrain, Pierre 77–8   
+Leibowitz, Mo 431   
+Leighton, Alfred Crocker 572   
+Leistikow, Hans 56   
+Lenhart, Franz 329   
+Lenin, Vladimir Ilyich 2, 6, 11, 15–16, 28, 69, 343   
+Leopold, King of Belgium 687-8   
+Lepape, George 96, 329   
+Lescaze, William 394   
+Leslie, Robert 447   
+Lessieux, Ernst-Louis 716   
+Lester, Harry 844-5   
+Leth, Marie Gudme 279   
+Lethaby, William 120   
+Leudo, Coriolano 541-2   
+Leupin, Herbert 99   
+Leuppi, Leo 180   
+Levant Fairs (1932 to 1936) 649-50, 662-3   
+Lever, Arnold 855   
+Lever, William 691   
+Levy, Thomas 646   
+Lewerentz, Sigurd 290   
+Lewis, Colin 461   
+Lewis, Thomas Gbianvoodeh 711   
+Le Witt, Jan 133, 235, 666–7   
+Ley, Robert 340   
+Leyendecker, James C. 429–30, 435, 482, 569, 586   
+Libbey Glass Company 385-6   
+Libera, Adalberto 303, 305   
+Liberman, Alexander 437   
+Libya 701-4, 718-19   
+Liebowitz, Matthew 905   
+Life magazine 436–7, 480, 892, 903   
+Li, Hua 776   
+Li, Shutong 772, 776   
+Likarz, Maria 244   
+Lilien, Ephraim Moshe 638, 655–6   
+Lind, Ruby 592   
+Lindbergh, Charles 410, 415   
+Lindesay, Vane 592   
+Lindgren, Armas 281   
+Lindig, Otto 121   
+Lindsay, Lionel 592   
+Lindsay, Norman 591-5, 894   
+Lindstrand, Vicke 271   
+Lin, Fengmian 759   
+Lingel, Károly and János 251   
+linocut technique 664-5, 811   
+Linotype company 742   
+Lisbon World Exhibition (1940) 356–7   
+Lismer, Arthur 570-1   
+Lissitzky, El 11−12, 17, 22, 28–9, 38–40, 63, 145, 158–9, 175   
+181, 236, 259, 289, 344–8,896   
+literacy 7–9, 626, 653, 824   
+lithography 192, 508, 537, 573, 605–7, 672–3, 716, 742–3,   
+769,800   
+Liu, Haisu 759   
+Liu, Xiamo 770   
+Llergo, José Pagés 480   
+Lloyd, Trevor 604   
+Lloyd Jenkins, Douglas 599   
+Locke, Alain 439   
+locomotives 124-5, 252, 324, 350-1,389, 411-14, 497, 519,   
+564-5, 580-1, 617, 628, 796, 818   
+Lodder, Christina 13   
+Loewy, Raymond 273, 388, 391-3, 408, 413-15, 418–19,   
+426-7,872,878   
+Löffler, Berthold 246   
+Lohse, Richard Paul 177-81   
+Lombers, Eric 133   
+London Underground 110-13, 118-19, 123-7, 132-5, 161,   
+589   
+Longton, Oscar Smits 519   
+Loos, Adolf 83, 333   
+López. Manuel Agustin 48t-2   
+López Contreras. Eleazar s44-5   
+López Mendez. Luis Altredo s+4   
+Lorant, Stefan 60, 892   
+Loschiavo dos Santos, Maria Cecilia 495-6   
+Loupor. Charles 98-100, 52-   
+Louzon. Robert -13   
+LOV furniture factory 146   
+Lovell-Smith, Edgar 605   
+Low. David 891   
+sbok woodcuts --9   
+Luce. Henry 435-6   
+Lukats. Kató 251   
+Luke. Sir Harry 64-   
+Lundgren. Tyra 283   
+Lunois, Alexander -16   
+Lu、 Shaofei -s   
+Lu、 Xun -1-2, -6--   
+Lustig, Alvin 441   
+Luterma (company) 263   
+Lyautey, Louis-Hubert 699-700   
+Lyons. William 122   
+McArthur. Warren 380-1   
+McCall's magazine 435   
+MacDonald, J.E.H. 570-1   
+MacDonald, Thoreau 51   
+de Macedo, Diogo 352   
+McGill, Elsie 568   
+McGrath, Raymond 114, 116   
+McGrew. Mac 442   
+Machado, Gerardo 465, 470   
+Machida Ryuyo 805   
+McIntvre, Peter 606--   
+McKay, H.V. 577   
+McLaren, Brian \~01   
+McLaughlin, Donal 8-2   
+McLean. Brian \~19   
+McLean. Tom 570   
+MacLeish, Archibald 900   
+McLeod, Ellen 559   
+McMein, Neysa 430   
+McMurtrie, Douglas 441-2. 446   
+Macrae. Stuart 845   
+Macy, George 439   
+Macy's department store 369,371   
+Mácza. János 254   
+Madero, Francisco 473   
+"Mae West" vest 8-1   
+Maeda, Mitsugu 808   
+Maes, Karl 165-8   
+Mafundikwa, Saki 710-11   
+Magagnoli, Giuseppe 327-8   
+Magariños, Melchior Mendez 551   
+magazines   
+in Argentina 535-6   
+in Australia 591-4   
+in Brazil s04--   
+in Chile 524-6   
+in China -68--0   
+in Cuba 46--0   
+in Egypt 631-3   
+in Mexico 4\~6-81   
+in New Zealand 60;--   
+in Svria and Lebanon 6-2   
+in Turkey 624-5   
+in the U'nited States 435-9   
+in U'ruguav 550-1   
+Magnelli, Aldo 32:   
+Magnussen、 Erik 3-3   
+Magritte. René 169   
+Magvar Múhelv-Szövetség 251   
+Magyar Müveszi Munka 249   
+Majorelle. Jacques -1-   
+Makarov. Stepan 23   
+Makerere College 694   
+Makino. Nobuaki -84   
+Malevich. Kazimir 11、 19   
+Malfatti, Anita soo, so2   
+Malin, Charles 331   
+Mallet-Stevens, Robert S2   
+Malmsten, Carl 2-0-1. 2⁻4   
+Malone, Annie 44-   
+Malyutin, hvan A. 9   
+Mambour. August 169   
+Mameli, Gotfredo Sss   
+Mamontov. Sasha 19   
+Man, Felix 89;   
+Manchuria SIS   
+Manderfield. Ellen 395-6   
+Mangold. Burkhard 1-3   
+Manhattan Project 8-4   
+Mannerstedt. Folke 2-3-4   
+Mansbach. Steven 262   
+Mao. Zedong -56、 -63   
+Maori culture 599-600. 604   
+Marangoni, Guido 308, 311-12   
+Marchetti, Alessandro 325   
+Marcks. Gerhard 42. 45-6. 54   
+Marcos, Fernando 530-1   
+Mardersteig. Hans 331   
+Mare. André -4   
+Marées, Jorge Gonzalez von s18   
+Marelli, Michele 310   
+Marengo. Kimon Evan 893   
+Marfurt. Leo 168-9   
+Marinetti. Benedetta 306   
+Marinetti, Filippo Tommaso 303, 306-8   
+Marinot, Maurice 4   
+Markelius, Sven 275   
+marketing boards 606   
+Marks. Jim 5-9   
+Marques. Bernardo 355-6   
+Marriott. C.W. 5-5-6   
+MARS group 116   
+Marsden, Keith 603   
+Marsh, Lucille Patterson 430   
+Marshak, Samuil 29   
+Marshall, George C. 865, 867   
+Martin, Charles 95   
+Martin, David Stone 900   
+Martin, Susan 696   
+Martínez, José 520-1   
+Martínez, Leoncio 546-7   
+Martínez Delgado, Santiago 543   
+Marty, André 74   
+Marussig, Guido 332-3   
+Marx, Enid 119, 854   
+Mas Olle, Helmer 271-2   
+mass production 323, 579, 797, 866-7   
+Massaguer, Conrado 467-70   
+Massaguer, Oscar 468–9   
+Massey, W.A. 598   
+Massiot-Brown, George 352   
+Matejko, Theo 881, 883   
+Matet, Maurice 74   
+Mathsson, Bruno 275-6   
+Matkovska, Jadviga 257   
+Matsuda Gonroku 786   
+Matter, Herbert 176, 904   
+Matte-Trucco, Giacomo 322   
+Mauchly, John 877   
+Mauzan, Achille 326-8, 536-7   
+Mavo group of artists 810-12   
+Maxy, Max Herman 262   
+May Fourth Movement 771   
+May, Ernst 55–6, 533   
+May, J. Claudius 713   
+Mayakovskaya, Ludmilla 19   
+Mayakovsky, Vladimir 8–9, 24, 27–8   
+Maybach, Wilhelm 47   
+Mayerovitch, Harry 894   
+Mayol, Manuel 534   
+M'Boi, Cássio 495   
+“Mechno-Faktur” 237   
+Mediana Angarita, Isaias 545   
+Medina, Álvaro 542–3   
+Medina Febres, Mariano 545   
+Meikle, Jeffrey 389, 392–3, 416, 426   
+Mello, Manlius 506   
+Melnikov, Konstantin 19, 75   
+men's magazines 594   
+Menalik II, Emperor 710   
+Mendelsohn, Erich 647-8   
+Méndez, Leopoldo 492, 906   
+Mendoza, Guillermo de 191   
+Mendoza, Leopoldo 483   
+Menhart, Oldřich 219   
+Menocal, Armando G. 467   
+Mercadal, Fernandal García 186   
+Mercedes-Benz (company) 48   
+Mercier, Jean Adrian 885-6   
+Mergenthaler, Ottmar 445   
+Merz magazine 39   
+Messenger, A.H. 606   
+Messerschmitt, Willy (and Messerschmitt company) 836   
+Metaxas, Ioannis 194   
+Metropolis (film) 389   
+Metropolitan Museum of Art, New York 369, 376, 378,   
+388   
+Metz & Co. 150   
+Meunier, Jeannette 557   
+Mexía, Pepe 542   
+Mexico 472-93   
+propaganda in 906-7   
+Meyer, Adolph 44   
+Meyer, Hannes 50, 52–3, 174, 210, 377, 463, 474, 906   
+Meyerhold, Vsevolod 20-2   
+Meyerhuber, Wilhelm 48   
+Meyerowitz, H.V. 694-5   
+Meynell, Francis 129   
+Mfolo, Thomas 710   
+Michel, Robert 56   
+Michelin man 100   
+Micić, Ljubomir 259–60   
+Middleton, Robert Hunter 446-7   
+Midhat Pasha 636   
+Mielziner, Jo 872   
+Mies van der Rohe, Ludwig 53-4, 57–8, 121, 186, 211–12,   
+258, 377, 380   
+Mihalik, Julius 384   
+Mikhail, Francis 627   
+Miki Kiyoshi 862   
+Mikoyan, Artiom 858   
+Milan Triennale 181, 252, 315–17, 334   
+Milén, Eduard 218   
+military-industrial complex 833   
+Miller, J. Howard 901-2   
+Miller, Syd 593   
+Milles, Carl 420   
+Mindlin, Henrique 495   
+mingei theory 793-4   
+Minimum Flat exhibition (1930) 231-2   
+Mirgalowsky, Henrique 508   
+Miro, Joan 188, 193   
+missionary activity 693, 708-11, 825   
+Mistry, J. 747   
+Mitchell, Bill 405   
+Mitchell, Donald 870   
+Mitchell, Leonard 606   
+Mitchell, R.J. 847   
+Mizutani, Takehito 790   
+Mjölnir (a.k.a. Hans Schweitzer) 336   
+"Model T” Ford 401-2   
+Modernism, polemics of 120-1   
+Modiano, Guido 333   
+Modley, Rudolph 449-50   
+modular furniture 382   
+Moholy, Lucia 54   
+Moholy-Nagy, László 38–9, 42−4, 49-52, 63, 85, 96, III,   
+116, 128, 131-2, 161, 182, 250, 421-2, 595, 814   
+Møller, Kai Friis 292   
+Molnár, Farkas 251   
+Mondrian, Piet 146-7, 154   
+Monleón, Manuel 192-3   
+Monotype Corporation 129-31, 156   
+Monroe, Marilyn 903   
+Monsanto, Antonio Edmundo 544   
+Monteiro Lobato, José Bento 502-3   
+Montenegro, Roberto 481, 485-8   
+Montessori, Maria 308   
+Montgomery, Tom 565–6   
+Montgomery Ward (company) 395   
+Monza Biennale (later Triennale) 309-13   
+Moor, Dmitri 7-8, 192   
+Mora, Alberto Mayor 539-40   
+Moran, Joseph 606   
+Moretti, Ettore 720   
+Morgan, Garrett 399-400   
+Morgan, Jack 395   
+Mori, Camilo 521, 529-30   
+Morison, Stanley 129–30, 156, 668   
+Moriya, Nobuo 788-9, 794   
+Morley, Lord 738-9   
+Morocco 699-700   
+Morozov, Alexander 856   
+Morrell, Josep 190   
+Morris, Charles 422   
+Morris, William (Arts and Crafts designer) 113, 122, 217,   
+269-70,308,387,474, 486, 493, 502, 523, 560, 581-3,   
+599, 658,793   
+Morris, William (car manufacturer) 122   
+Morrison, Alistair 595-6   
+Morrison, Herbert (and Morrison shelter) 853   
+Morrison, Joan 593   
+Mort, Eirene 582   
+mortars 843   
+Morvan, Hervé 721   
+Mosca, Bianca 855   
+Mościcki, Ignacy 229   
+Moscow Metro 348-9   
+Moser, Kolo 246   
+Moser, Werner 170-1   
+Moss, Tobias 902   
+Mosselprom 24   
+Mostra della Rivoluzione Fascista exhibition (Rome, 1932)   
+302   
+motorcycles 273-4, 324   
+Moyet, Edmond 89   
+Mozaffar-e-din Shah 674   
+Mrkvička, Otakar 220   
+Mrozek, Józef 227   
+Mucchi, Gabriele 317   
+Mucha, Alphonse 218, 801   
+Muche, Georg 42, 44, 49, SI, 54   
+Mueller, Erich 837   
+Mukarzal, Yusuf 672   
+Mukei group of designers 785-6   
+Mukherjee, Satish Chandra 732   
+Müller-Munk, Peter 373   
+Mumford, Lewis 375   
+Munari, Bruno 307, 333   
+Münsterberg, Hugo 177   
+Munthe-Kaas, Herman 280   
+Münzenberg, Willi 67-9   
+Muona, Toini 284   
+Murayama, Tomoyoshi 810-13   
+Murota, Kurazo 807   
+Murray, Keith 117-18   
+Museum of Modern Art (MoMA), New York 376-9, 421,   
+463,871,903-6   
+Mussert, Anton 886   
+Mussolini, Benito 2, 141, 194, 299-303, 308, 317-18, 324,   
+330,700-1,878,887-91   
+Muthesius, Eckart 735   
+Muthesius, Herman 34, 81   
+Muzika, František 221   
+Muzio, Giovanni 315   
+Myrdal, Alva 275   
+Myrdal, Gunnar 271   
+Nadel, S.F. 689-90   
+Nagase, Tomiro 814   
+Naito, Haruji 785-6   
+Nakamura, Junpei 796   
+Nakata, Sadanosuke 790   
+Nakayama, Iwata 814   
+Nambu, Kijiro 859–60   
+Namiki, Ryosuke 786   
+Nankivell, Frank 8oo   
+Napoli, José 501   
+Nariakira, Arisaka 859   
+Nash, Arthur 561   
+Nasser al-Din Shah 674, 677-9   
+Nast, Condé 436   
+Nathan, Sir Matthew 747   
+National Recovery Administration (NRA) 368, 449   
+nationalism and national identity 482   
+Natori, Yonosuke 816-17   
+Nazi regime 2, 33–4, 59, 65, 69, 181, 192, 299, 336–9, 342,   
+879-82   
+Neate, Lionel 576   
+Negreiros, Almada 353   
+Nehru, Jawaharlal 737   
+Nel Ospina, Pedro 541   
+Nelson, Donald 866   
+"Nepmen” 15   
+Netherlands, the 141–64   
+Neuburg, Hans 177-9   
+Neues Bauen style 55   
+Neumann-Neander, Ernst 47   
+Neurath, Otto 128, 163, 222, 242-3, 348, 449   
+Neutra, Richard 372   
+Neve, Carlos 480, 482   
+New Bezalel Academy 647-8   
+New Deal program 368, 423, 878, 902   
+New Directions 441   
+New Photography 813-15   
+New Typography 2, 102-3, 158–62, 181–2, 290-3   
+New York World's Fair (1939) 288–9, 356, 394, 414, 426   
+444-5, 449, 498-9, 521, 544, 568, 595-7, 650-1   
+New Zealand 597-607, 894   
+Centenary Exhibition (Wellington, 1939) 597, 602-3   
+International Exhibition (Christchurch, 1906) 599-   
+Newbould, Frank 125, 890, 892   
+Newdigate, Bernard 129   
+Newell, Fred 565   
+newspapers   
+in Africa 711-14   
+in Argentina 535   
+in Egypt 630-3   
+in Korea 824-5   
+in Mexico 477, 479   
+in Palestine 652-3   
+in Syria and Lebanon 671-2   
+Nézière, Joseph de la 717   
+Nicholas, Maria 196   
+Nicholas II, Czar 5-6   
+Nicholson, Ben 129   
+Nielsen, Harald 278   
+Niemeyer, Oscar 428, 499   
+Nigeria 695-6   
+Night Mail poster 133, 891   
+Ninomiya, Chuhachi 798-9   
+Nishiwaka, Mitsuru 821   
+Nitzan, Yaakov 649   
+Nivola, Constantino 321   
+Nizzoli, Marcello 314-16, 321, 329-30   
+Njoya, King of Cameroon 711   
+Nobbs, Percy E. 569   
+Nojima, Yasuzo 815   
+Noltein, E. 350   
+Nonnast, Paul 905   
+Norblin, Stefan 235-6, 734-5   
+Nori, Felice 701   
+Normandie (liner) 93-5, 126, 376   
+Northcliffe, Lord 889   
+Northfield, James 587–90, 894   
+Norton, Eardley 738   
+Norway 269, 280-1   
+Society of Crafts and Design 280   
+Nothelfer, Karl 342   
+Novák, Karel 225   
+Novecento style 310-18   
+Novembergruppe 34   
+Novitsky, Pavel 16   
+Nowicki, Maciej 234   
+Noxon, Kenneth 556-7   
+Noyer, Phillipe 885   
+Noyes, Eliot 378-9, 871-2   
+Nunes, Emmérico 353   
+NYK (Nippon Yusen Kaisha) Line 795-6   
+Nyman, Gunnel 285   
+Nystrom, Karl F. 412   
+Obregón, Álvaro 473   
+Ocampo, Isidoro 489   
+ocean liners 93-5, 233   
+O'Dea, Albert James 894   
+L’Oeuvre organization 170   
+office furniture 382   
+Ofrat, Gideon 658   
+Ohannessian, David 642-3   
+O'Higgins, Pablo 906   
+Ohta, Mitsuo 861   
+Okada, Saburosuke 804   
+Okada, Tatsuo 811   
+Okuyama, Gihachiro 809   
+Olbrich, Joseph 47   
+Oldham, John 596-7   
+Oliver, Juan 526   
+Oliveira Ramos, Manuel 353   
+Olivetti, Adriano (and Olivetti company) 318, 320-2, 327,   
+329   
+Olson, Hjalmar 275   
+Olympio, José 503-4   
+Onchi, Koshiro 803   
+O'Neill, Rose 430   
+Oorhuys, Cas 160-1   
+Opel (company) 47   
+operations research 841, 850-3, 875–7   
+Opovat, Hyman 706   
+Organic design 378   
+Orient Line 127   
+Oriental Carpet Manufacturers Ltd 616   
+Orientalism 635, 647, 673, 716, 863–4   
+Orion (ship) 127   
+Orion Electric Company 252   
+Ormes, Jackie 438   
+Ormsby-Gore, William 687   
+O'Rorke, Brian 127   
+Orphism 82-3   
+Orrefors Glass Factory 270-1   
+d’Ors, Eugeni 186   
+Orthof, Geraldo 508   
+Osaka Industrial Exhibition (1903) 819-20   
+Osiecki, Stefan 234   
+Osol, Olga 283-5   
+Ossa, Mario Silva 526   
+Ota, Hideshige 814-15   
+Otta, Francisco 529   
+Ottawa Agreement (1932) 748   
+Otte, Benita 42, 54   
+Ottler, Otto 60   
+Ottoman Empire 194, 615-16, 636-7, 668-9   
+Oud, J.J.P. 150   
+Oura, Shuzo 812   
+Outerbridge, Paul 431-2   
+Oviedo, Luis 531   
+Owen, Chandler 439   
+Owen, Roger 669   
+Ozenfant, Amédée 79, 333   
+Pacheco, José 353   
+packaging 433, 748-9   
+Pacon, Henri 87, 94   
+Pact of Steel (1939) 839   
+Paepcke, Walter 431   
+Pagano, Giuseppe 309, 312, 316–17, 324   
+Page, George A. Jr 868–9   
+Pahlavi, Mohammad Reza 674, 677   
+Pahlavi, Reza Shah 616, 674–80   
+Paillard & Cie (company) 171   
+Paim Viera, Antônio 503, 505   
+Painter, Baburao 746   
+Paladini, Vinicio 306   
+Palanti, Giancarlo 316   
+Palbell (company) 647   
+Palestine 637-68   
+Paley, William 394   
+Palma, Joseph 395-6   
+Pamuk, Sevket 669   
+Pan American Airways (Pan Am) 415-17   
+Panama hats 539   
+Panama Line 419   
+Pander (company) 145-6, 150   
+Pankok, Bernhard 54   
+Pannaggi, Ivo 306   
+Pansera, Anty 308, 317   
+Panzeri, Giuseppe 840-1   
+Pap, Gyula 54   
+Parano, Antonio 840-1   
+Parcq, George 626   
+Parizeau, Marcel 558   
+Parker, Wadsworth A. 442   
+Parker Pen Company 315-16   
+Pasinski, Irene 399   
+Pastana, Manoel 494   
+Paton, Hugh 586   
+Patout, Pierre 76–7, 94   
+Patten, Ray 396   
+Patterson, William 853   
+Patton, Phil 405, 409   
+Paul, Bruno 311, 372   
+Paul, Frank R. 389   
+Paulin, Georges 88–9   
+Paulsson, Gregor 269-71, 274   
+Paver, Bertram 712   
+Payne, David 607   
+Pearce, Lorne 571   
+Pears Soap 126   
+Pearse, Richard 601   
+Peche, Dagobert 244   
+Pechmann, Günther von 46   
+Pechstein, Max 33   
+Peck, Alice 561   
+Pederhans, Walter 53   
+Pederneiras, Raul Paranhos 505   
+Pedlar, Frederick 714   
+Peeters, Jozef 167-8   
+Peignot, Charles 101-2   
+Peignot, Georges 101   
+Peiper, Tadeusz 239   
+Pellegrini, Giovanni 703   
+Pellicer, Eustaquio 534   
+P.E.L. Ltd 114-17   
+Pelt, Gerrit 146   
+Penaat, Willem 141, 150, 161   
+Penkala, Eduard 257   
+Penn, Irving 437   
+Pennacchi, Fulvio 508   
+Peplar, Marian 119   
+Perestiani, Ivan 26   
+Perlin, Bernard 900-1   
+Perlyakov, Vladimir 857   
+Perón, Juan 532   
+Péron, René 885   
+Perotti, José 523   
+Perriand, Charlotte 84, 863-4   
+Persia 674-80   
+Persico, Edoardo 309, 312-17, 329   
+Persov, Shmuel 638   
+Pétain, Philippe 884-5   
+Peterhans, Walter 225   
+Petersen, Gunnar Biilman 292   
+Petit, Phillipe 74   
+Petri, Trude 46   
+Pettersen, Sverre 280-1, 293   
+Peugeot, Armand (and Peugeot company) 87-9   
+Pevsner, Nikolaus 109, 121   
+Pfeiffer, Eduard 145   
+Pferschy, Othmar 625   
+Phalke, D.G. 746   
+Phelps, Dudley 462   
+Philips (company) 152–3, 252, 497   
+Phillip Morris (company) 433   
+Phillips, Coles 430   
+Phillips, Mary 561   
+Phillips, William 525   
+Phonola radio 320   
+photography, use of 98–9, 158–60, 192, 225, 432, 436,   
+438,480,492, 506, 527, 590, 594,680, 714, 719,   
+747, 770, 800, 813-16, 882, 902-6 see also New   
+Photography   
+photogravure 805   
+photojournalism 65–6, 226, 591, 892, 897   
+photomontage 27–8, 35-7, 67-9, 158, 160, 175, 177, 192-3,   
+210, 220, 237–8, 306–7, 507, 597, 650, 896, 898   
+Piacentini, Marcello 310, 313–161   
+Pic, Pere Català 191-3   
+Picabia, Francis 81   
+Picasso, Pablo 174, 188, 193   
+Pick, Frank 87, 108–15, 19, 123, 125, 161, 589   
+“pictorial statistics” system 222, 242-3, 449-50   
+“picture poems” 220   
+Picture Post 892-3   
+Piłsudski, Józef 226, 229–30   
+Pimenov, Yuri 895   
+Pimentel, Francisco 546   
+Pina, Emilio 317   
+Pineles, Cipe 437   
+Pintori, Giovanni 321   
+Pinus, Natalia 345-6   
+Pittoni, Bice 311   
+PKZ trademark 174   
+Plaatje, Solomon Tshekisho 711-12   
+Plan Ltd 117   
+Plank, Josef 336   
+“planned obsolescence” 397   
+Plečnik, Jože 258   
+Plendl, Johannes 836   
+plows 693, 730   
+Pocai, Elvino 5o1   
+Podsadecki, Kasimierz 238-9   
+Poelzig, Hans 34   
+Poetism 220-1   
+Point du Sable, Jean Baptiste 426   
+Poiret, Paul 371   
+Poland 1, 226-40   
+Applied Arts Society 227, 233   
+Polikarpov, Nikolai 858   
+Pollini, Gino 313, 315, 317, 321   
+Pollock, Bruno 114   
+Półtawski, Adam Jerzy 235, 240   
+Polychroniadi, Celest 198   
+Ponti, Gio 309-18, 324   
+Ponty, Max 885-6   
+Popova, Liubov 18, 21−2   
+Pór, Bertalan 253   
+Porrúa, Hermanos 484   
+Porsche, Ferdinand (and Porsche company) 90-1, 216,   
+340-1,838-9   
+Porset, Clara 463, 466–7   
+Portsmann, Walter 52   
+Portugal 2, 299, 351-7   
+Posada, José Guadalupe 477   
+Posada Echeverri, José 542   
+postage stamp design 162, 218, 490-1, 606, 641, 778   
+postage stamp vending machines 601   
+posters 6–8, 97-100, 125-6, 129, 156, 168–9, 173, 180-1,   
+197-8, 218-19, 233-5, 246-8, 255, 290-3, 326-30,   
+336, 345-6, 355, 449, 508, 528–31, 542, 550, 569, 573,   
+587-90, 605, 659   
+in World War II 834, 880-907   
+see also bijin-ga posters; calendar posters; film posters;   
+recruiting posters   
+Potez, Henri 91
+
+Potts, William 399   
+Pourtout, Marcel 88-9   
+Powell, Gerry 442   
+Poznań Universal Exposition (1929) 229-31   
+Pozzati, Severo 328   
+Pradhan, D.G. 746-7   
+Prado, Juvenal 502-3, 505   
+Praesens (journal) 231   
+Prajadhipok, King of Siam 777-8   
+Prampolini, Enrico 307-8, 310   
+Preissig, Vojtěch 216-17   
+Preston, Margaret 585, 594, 597   
+Priestley, William 423   
+Prieto, Valerio 486   
+Primo de Rivera, Miguel 141, 184-5   
+printing technology in Africa 709-10 in Chile 523-4 in Japan 800   
+Pritchard, Jack 116   
+private presses 595, 604-5   
+Probst, Karl 867   
+Proctor, Thea 580, 583-4, 588   
+propaganda 6, 9–10, 23, 25, 135, 152, 192, 430, 507, 509, 619,680,817-18,878-907 in Britain and the Commonwealth 889-94 in China 898-9 in Germany 334-5, 339, 879–82 in Italy 299-302, 887–9 in Japan 896-8 in Mexico 906-7 in Occupied Europe 882-7 in the Soviet Union 343-8, 894-6 in the United States 899-906   
+Proskop, Miloslav 212   
+Prunster, Ursula 595   
+Prusakov, Nikolai 18   
+Pryse, Gerald Spencer 108   
+Prytz, Jacob Tostrup 280   
+Przyboś, Julian 239   
+Puiforcat, Jean 83   
+Puig y Catafalch, Josep 186   
+Puleston, Dennis 875   
+Pulitzer Finali, Gustavo 326   
+Purism 79-80, 190   
+Purvis, Alston 887   
+Purvis, Austin 369   
+Purvis, Tom 125–6, 133, 572–4, 590   
+Putkammer, Geza von 5o8   
+Pyke, Geoffrey 844   
+Qian, Juntao 772-3   
+Quarti, Eugenio and Mario 316   
+Queale, William 575   
+Quebec 556-60, 563   
+Queen Mary (ship) 126-7   
+quipaos 761-2, 765-6
+
+Raban, Ze’ev 638, 647, 656–60   
+Rabier, Benjamin 100-1   
+radar 836, 850-2, 873   
+Radice, Mario 314   
+radio broadcasting 834   
+Radio City Music Hall, New York 375-6, 386   
+radio sets 319-20, 576-7, 603, 792-3   
+railroad cars 389-90, 410-13, 418–19, 497, 564-5, 581,   
+796   
+railway development and services 87, 252-3, 324, 350-1,   
+616-17, 628, 688, 796   
+in Britain 124-6   
+in the United States 410-15   
+railway publicity campaigns 572-4   
+Ramo, Luciano 327-8   
+Ramón, González Valencia 540   
+Ramos de Azevedo, Francisco de Paula 493-4   
+Ramos, Graciliano 5O3   
+Ramos, Máximo 481   
+Ramos Ochotorena, Manuel 524   
+Ramsay, William 589   
+Rand, Paul 448   
+Randolph, A. Philip 439   
+Random House 439-40   
+Rapin, Henri 466   
+Rasch, Emil 53   
+Rasmussen, Steen Eiler 292   
+Ratdolt, Erhard 331   
+Rateau, Armand-Albert 78   
+Rationalist movement 311-18, 329, 332   
+Rava, Carlo Enrico 703-4   
+Ravdel, Efim 16   
+Raviv, Moshe 650   
+Rawski, Thomas 757   
+Ray, Bert 447   
+Ray, Man 96, 111−12, 905   
+Raymond, Arthur 417   
+Read, Herbert 121, 889   
+Recabarren, Luis Emilio 517   
+recruiting posters 569, 587, 893   
+Reed, Christopher 426   
+Reed, Sir Edward 795   
+Reed, Rowena 419   
+Rees, Lloyd 587   
+Reeves, Alec 849-50   
+Reeves, Ruth 375-6, 386   
+refrigerators 390-2, 575   
+Reich, Lilly 53-4   
+Reichl, Ernst 440   
+Reid, George A. 560   
+Reidemeister, Marie 242   
+Reilly, Virgil 593   
+Reiner, Imre 63, 183-4, 333   
+Reinhardt, Max 388   
+Reiss, Henrietta 386   
+Reiss, Hilda 423   
+Renau, Josep 190, 193, 484   
+Renault, Louis 89   
+Rendón, Ricardo 542   
+Renger-Patszch, Albert 96   
+Renner, Paul 62, 64, 332-3, 337   
+Renzius, Håkon Rudolph 562-3   
+Repin, Ilya   
+Resor, Stanley 388   
+retour a l’ordre movement 74   
+Revelli de Beaumont, Mario 323   
+reverse engineering 795   
+Rexism 169   
+Reyes Prieto, Rafael 538, 540-1, 544   
+Reynolds, Mary Jane 400   
+Reynolds' Tobacco 433-4   
+Rhead, Frederick Hurren 384   
+Ribas, Federico 189   
+“Ricas”307   
+Rice, Louis 373   
+Richard-Ginori ceramics 309-10   
+Richards, Charles R. 368-70   
+rickshaws 758   
+Rideout, John Gordon 396   
+Riemann, Albert and Klara 55   
+Rietveld, Gerrit 43, 146-7, 150   
+Rigal, Louis 76   
+Rios, Juan Antonio 518   
+Rivadulla, Eladio 471-2   
+Rivero Oramas, Rafael 546-7   
+Riverón, Enrique 468   
+Rizzo, Pippo 305   
+Robach, Cilla 270   
+Roberts, Hera 584, 594   
+Roberts, Russell 597-8   
+Roberts, W.E. 587   
+Robinson, Jennifer 707   
+Robson, A.H. 570   
+Rocha, José 355   
+Rockefeller, Nelson 899-900, 903-5   
+Rockwell, Norman 430, 435, 902   
+Rodchenko, Alexander 12–21, 24-9, 75, 96, 159, 346–8   
+Rodmell, Harry Hudson 572   
+Rodrigues, José Wasth 502   
+Rodríguez Morey, Antonio 467   
+Rogers, Bruce 440   
+Rogers, Leslie 438   
+Rohde, Gilbert 374, 381-2, 423, 556   
+Rohl, Karl Peter 56   
+Rojas, Luis Fernando 524, 528   
+Rolaco-MAC (company) 187-8   
+Roland Holst-Van der Schalk, Henriëtte 155   
+Roller, Alfred 246   
+Rollins, Carl Purington 439   
+Rolls-Royce Silver Ghost 121   
+Romanach, Leopoldo 467   
+Romania 261-2   
+Romano, Giovanni 316   
+Romberg, Maurice 716   
+Romoli, Filippo 329   
+Roosevelt, Franklin Delano 94, 367–8, 462, 866, 873, 878,   
+899-902   
+Rose, Hajo 161   
+Rosen, Fritz 60   
+Rosse, Herman 369, 374   
+Rossi, Attilio 331-3, 538   
+Rossi, Domiziano 493-4   
+Rössler, Jaroslav 225   
+Rossman, Zdeněk 214-15, 225   
+ROSTA Windows 8-9, 29   
+Rostkov, Valentin 349   
+rotogravure 80o   
+Roux, Alejandro 535   
+Rowe, A.P. 849, 851   
+Roy, Tirthankar 729   
+Rozanova, Olga 12   
+“rub-and-paint"” technique 764-5   
+Rublev, Andrei 6   
+Rudofsky, Bernard 463   
+Ruelas, Julio 477-9, 481   
+Ruhlmann, Jacques-Émile 76-7, 113, 310   
+Ruklevsky, Yakov 25   
+Rumpler, Edmund 47   
+Rural Electrification Administration (REA) 449   
+Ruskin, John 387, 581-2, 736, 793   
+Russell, Gordon 11o, 853-4   
+Russell, Mona 627   
+Russell, R.D. 110-11, 119   
+Russia   
+advertising and packaging 23-6   
+books and magazines 26-30   
+film, theater and exhibitions 20-2   
+New Economic Policy (1921-1928) 15-16, 23, 25   
+People's Commissariat of Enlighten-ment (IZO) 11-15   
+transportation 22-3   
+see also Soviet Union   
+Saarinen, Eero 378, 871-2   
+Saarinen, Eliel 420-3   
+Saarinen, Loja 420   
+Sabljak, Srečko 258   
+Saint-Jacques, Alphonse 558-9   
+Sakakura Junzo 790, 863   
+Sakhnoffsky, Alexis de 418   
+Sakier, George 386, 396   
+Sala, Josep 191   
+Salazar, António de Oliveira 2, 141, 299, 354–7, 499, 713   
+Salgado, Plínio 508   
+Salomon, Eric 480   
+Salomon, Jules 89-90   
+Salon des Arts Ménagers 85-7   
+Salter, George 440-1   
+Salto, Axel 279   
+Sam, Alfred C. 697   
+sampans 758-9   
+Samper, Adolfo 543   
+Sampson, J.E. 574   
+Samuel, Sir Herbert 644   
+San Remo conference (192o) 668   
+Sand, Jordan 791   
+Sandberg, Willem 163-4, 887   
+Sandburg, Carl 904, 906   
+Sandecka, Stanisława 234   
+Sandeman's port 352   
+Sandler, Lindsay 584   
+Saneh Khlaikhlu'an 778   
+Sangster, Margaret 131   
+Santa Maria, Andrés de 541   
+Santa Rosa, Tomás 503   
+Santana, Raúl 547   
+Santi, Bruno 719   
+Sanz de Santamaría, Mariano 540   
+Sapojnikov, Georgi 768   
+Sarfatti, Margharita 309   
+Sarkisian, Peter 895   
+Saroukhan, Alexandre 632, 634   
+Sartoris, Alberto 312   
+Sass, Alek 592   
+Satie, Eric 96   
+Saturday Evening Post 435, 445   
+Saudi Arabia 673   
+Savage, Augusta 423   
+Savignac, Raymond 99-100   
+Savitsky, Georgii 895   
+Sawa, Reika 808   
+SCAEM (company) 319   
+Scandinavia see Denmark; Finland; Norway; Sweden   
+Scandroglio, Rinaldo 542   
+Schatz, Boris 638–40, 645, 647, 657   
+Schawinsky, Xanti 321, 333   
+Schechter, Relli 631   
+Schechter, Yerachmiel 648   
+Scheper, Hinnerk 49-53   
+Schiffers, Franz O. 880   
+Schindler, Rudolf 372   
+Schlagerer, Pius and Eduardo 545   
+Schleger, Hans III, 132-3   
+Schlemmer, Oskar 41–2, 50   
+Schlichter, Rudolf 37   
+Schmidt, Georg 174   
+Schmidt, Joost 43-4, 53   
+Schnackenberg, Walter 60   
+Schneck, Adolf 57   
+Schneidler, F.H. Ernst 63   
+Schockel, Erwin 879-80   
+Schoen, Eugene 374   
+Schoenmaekers, M.H.J. 147   
+Schonfield, Hugh J. 668   
+Schrekengost, Viktor 384   
+Schreyer, Helmut 837   
+Schröder-Schräder, Truus 148   
+Schuitema, Paul 157–60, 164   
+Schulpig, Karl 61   
+Schuster, Franz 55   
+Schütte-Lihotsky, Grete 56, 151, 241, 621, 854   
+Schuwer, Franz 191   
+Schweitzer, Hans 336, 881   
+Schweizerische Landesausstellung (“Landi") 171-2   
+Schwitters, Kurt 39, 65   
+science fiction 389   
+scientific management 35, 45, 176–7, 540   
+Scraggier, Ernest W. 573   
+Searle, Edmundo 525-8   
+Sears Roebuck (company) 391-5   
+Second World War see World War II   
+Seddon, Richard John 597, 60o   
+Segalen, Martine 86   
+Segall, Lasar 495   
+Seix, Joan 190-1   
+Sellheim, Gert 589–90, 597   
+Semana de Arte Moderna (1922) 499–501   
+Semey, J.F. 146   
+Semper, Gottfried 169, 258   
+Seneca, Federico 328-9   
+Senkin, Sergei 28, 344   
+Seoane, Luis 538   
+Sepo 328   
+Serov, Valentin 5   
+Serpoller, Léon 87   
+Sert, Josep Lluís 186   
+Seuphor, Michel 168   
+7 Arts movement 165–8   
+Seville Exposición Ibero-Americano (1929) 186, 189   
+Sevranckx, Victor 165   
+sewing machines 319, 690, 692, 740-1, 757   
+Shahn, Ben 902   
+Shamir, Gabriel and Maxim 662   
+Shand, Philip Morton 117, 288   
+Shanghai 760-7   
+Sharon, Arieh 649   
+Sharp, George 419   
+Sharp (company) 792   
+Shaughnessy, Thomas 572   
+Shaw, George Bernard 224   
+Shaw, Paul 445   
+Sheldon, Roy 367   
+Shell Oil Company 123–4, 132, 135, 529, 596   
+Shen, Yiqian 899   
+Shepard, Otis 432   
+Shepherd, R.V. 846   
+Sherwood, Robert 899   
+Shilling, Beatrice 848   
+Shimori, Taro 803   
+shipbuilding 126-7, 325-6, 497–8, 674, 795-6, 867   
+Shiseido (company) 807-8   
+Shlink, F.J. 366-7   
+Shmarinov, Dementii 896   
+Short, Gladys 706   
+Shreckengost, Viktor 872   
+Shri Ram, Lala 741   
+Shute Norway, Nevil 843   
+Shute, Nevil see Norway, Nevil Shute   
+Siam 756, 777-9   
+Siemens & Halske (company) 45   
+Sienicki, Stefan 232   
+Sikorsky, Igor 22–3, 415   
+Šíma, Josef 221   
+Simon, Oliver 129   
+Simonson, Lee 369, 392, 650, 872   
+Simpon's (department store) 131-2, 595   
+Sinclair, Upton 67   
+Sinel, Joseph 373, 387-8, 433-4   
+Sinisgalli, Leonardo 321   
+Sintes, Juan 631-4   
+Sirén, Johan Sigfrid 282   
+Sirio, Alejandro 535–6   
+Sironi, Mario 303, 313, 329   
+Sivitanidios School of Arts and Crafts, Athens 196   
+Skellern, Victor 854   
+Skoczylas, Władyslaw 229, 235   
+Skolimowski, Jerzy 234   
+Skyscraper bookcase 371   
+slavery 688   
+Slayter, Russell 365   
+Sloan, Alfred 392, 402, 404–5   
+Sluijters, Jan 156-7   
+Sluijters, Willy 157   
+Smart, David 438   
+Smatek, Fráňa 214   
+Smirnov, N.G. 30   
+Smith, Alfred E. 580   
+Smith, Eden 560   
+Smith, Robert 442   
+Smith, Sydney Ure 578, 580, 586–7, 592–6   
+Smith-Miller, Theodore 521   
+Smith Solar, Josué 524   
+Smrčková, Ludvika 212   
+Smyrna disaster (1922) 194-5   
+Snaith, William T. 393   
+Snow, Carmel 437-8   
+snowmobiles 56o, 566-7   
+“Socialist Realism” 343, 348, 812, 895-6   
+Society of Artist-Decorators (SAD) 73-5, 80, 82, 85–7, 95   
+Society of Illustrators 430   
+Society of Industrial Artists 109   
+Society of Typographic Arts 446-7   
+Sokolov-Skalia, Pavel 894-5   
+Soloviev, Mikhail 895   
+Somervell, Brehon B. 865   
+Sommerfeld, Adolf 43, 50   
+Soto, Luiz Gutiérrez 188   
+Soucy, Elzéar 559   
+Soupault, Phillipe 81   
+South Africa 704-8, 711-14   
+South Kensington Museum 169-70   
+Southern Rhodesia 704, 708   
+Soviet Union 5-30, 299, 343-51   
+consumer goods, heavy industry and transport 348-51   
+Five-Year Plans 15, 18, 343, 345, 348, 350, 856, 858   
+propaganda in 343-8, 894-6   
+in World War II 855–8   
+Sozo, Okada 898   
+Spachis, A. 197   
+Spain 1, 141, 184-94   
+Spanish Civil War 184-5, 193-4, 530   
+Spanjaard, Frits 145-6   
+Spannagel, Fritz 342   
+Special Operations Executive 844   
+Speer, Albert 95, 337, 834   
+Speir, Frank W. 875   
+Spinčič, Ivo 258   
+Spíndola, Rafael Reyes 470   
+Spitta, Wilhelm 629   
+Spotts, Frederic 343   
+Spradbery, Walter 89-   
+Št'astný, Bohumil 225   
+Staehle, Albert 430   
+Stahl, Erich L. 880   
+Stalin, Joseph 299, 343–7, 351, 428, 474, 856–7, 895–6   
+Stam, Mart 57–8, 149–50, 175   
+Stankowski, Anton 65, 177-9   
+Stark, Ya'akov 639, 656   
+statism 619   
+Steichen, Edward 386–7, 431-2, 436, 904, 906   
+Steimberg, Oscar 536   
+Stein, L. 646   
+Steiner, Albe and Lica 888-9   
+Steiner, Heiri 183   
+Steinlen, 'Théophile 172   
+Steinweiss, Alex 448   
+Stella, Guido Balsamo 310   
+Stepanova, Varvara 13, 18, 21, 25, 347–8   
+Stephens, Rod Jr 875   
+Stephenson, George and Robert 628   
+Stern, Anatol 236-7   
+Sternberg, Vladimir 348   
+Stevens, Brooks 396-9, 878   
+Stibitz, George R. 877   
+Stickley, Gustav 639-40   
+De Stijl movement and journal 78-9, 146-50, 153-5   
+Stockholm Exhibition (1930) 274-5, 290   
+Stoecklin, Niklaus 173-4   
+Stojadinović, Milan 256   
+Stokes, C.W. 572   
+Stone, Edward Durrell 375   
+Storrs, Sir Ronald 641-3, 648–9   
+Stözl, Gunta 49, 51   
+Stout, William 408–9, 415   
+stoves 273, 388-9   
+Strakhov, P.S. 12   
+Straub, Marion 119   
+streamlining 124-5, 234, 273, 323-4, 350, 377, 389-90, 401,   
+406,410-12,418,425,497, 796,818   
+street signs 653   
+Streicher, Julius 335   
+Strengell, Marianne 279, 420   
+Stricker, Eva 19   
+Stryjeńska, Zofia 228   
+Stryjeński, Karol 228-9   
+Stryjeński, Tadeusz 226   
+Strzemiński, Władysław 230, 229   
+Štyrský, Jindřich 220−1   
+Subercaseaux, Bernard 526   
+Subercaseaux, Pedro 525   
+Sudek, Josef 212, 225   
+Süe, Louis 74   
+Suetin, Nikolai 19-20   
+Sugawara, Seizo 76, 78, 785   
+Sugimoto, Kyota 8o1   
+Sugiura, Hisui 804-7   
+Suhonen, Jorma 294   
+Sukhoi, Paul 857   
+Sukhovo-Kobylin, Alexander 21   
+Summers, Gerald 117   
+Sunlight Soap 720-1, 744   
+Sun, Yat-sen 755, 760, 768–9   
+Suprematism 11-12, 19   
+Surís, Rafael Ángel 468   
+Surrealism 103, 169, 173, 221–2, 225, 431, 441, 892   
+Sutnar, Ladislav 211–13, 222-5, 449   
+swadeshi movement 729, 732, 740   
+Swainson, Ann 395-6   
+Swales, Frances 572   
+Swanson, Pipsan and Robert 421   
+swastika symbol 334-5   
+Sweden 269-76   
+Society of Crafts and Design 269–72, 274, 290   
+Swiss Werkbund 170, 176   
+Switzer, George 395, 433, 448   
+Switzer, Les 712   
+Switzerland 169-84   
+Federal Railways 171   
+National Exhibition (Bern, 1914) 170, 172   
+syllabaries 710-11   
+Symbolism 542, 658, 810   
+Syria 668-71   
+Syrkus, Helena 232   
+Syrkus, Szymon 231-2   
+Szablya-Frischauf, Ferenc 253   
+Szczepkowski, Jan 227   
+Szczuka, Mieczysław 230-1, 237-9   
+Szyszko-Bohusz, Adolf 229   
+al-Tabi'i, Muhammad 632   
+Taboureau, Georges 717   
+Tada Hokuu 805   
+Taeuber-Arp, Sophie 174   
+Tairov, Alexander 22   
+Taiwan 818-22, 863   
+Takahashi, Kinkichi 816   
+Takamura, Toyochika 785   
+Takeda, Goichi 801   
+Takei, Katsuo 790   
+Talbot, Suzanne 78   
+Taliesin Fellowship 423   
+Tallents, Stephen 108, 133   
+Ta-lung Machinery Works 757   
+Tang, Yingwei 776   
+tanks, military 835-6, 842, 845-60, 867-8   
+Tao, Yuanqing 772   
+Tapiovaara, Ilmari 286   
+Tartakover, David 665   
+Tata Iron and Steel Company (TISCO) 741   
+Tata, Jamshetji Nusserwanji 741-2   
+Tateishi Tetsuomi 820-1   
+Tatlin, Vladimir 14–15, 17, 22   
+Tauber-Arp, Sophie 79   
+Taut, Bruno 34-5, 55, 788, 863   
+Taylor, Fred 125, 746   
+Taylor, Frederick Winslow 20, 313, 540, 787   
+Taylor, Headlie Shipard 577   
+Teague, Walter Dorwin 385–8, 393-5, 408, 424-9, 872,   
+878   
+Teasdale, William 125   
+Teasley, Sarah 789   
+Tegner, Hans 276   
+Tehran exhibition of industrial and agricultural products   
+(1934) 677   
+Teige, Karel 209-11, 220-4   
+Tel Aviv 646-7   
+commercial graphic design in 659–63   
+film posters in 663-5   
+telephones 391-2, 576   
+Telingater, S. 18, 22, 28   
+Telmo, Cottinelli 353, 357   
+Tenorio Trillo, Mauricio 473   
+Tere-Ansa, Winifried 697   
+Terragni, Giuseppe 302-3, 313-14   
+Testi, C.V. 301   
+Thailand 777 see also Siam   
+Thatcher, Betty 408   
+Thiersch, Paul 54   
+Thomas, Bert 891   
+Thomas, Henri 88   
+Thompson, Bradbury 902   
+Thompson, Christopher 60o-1   
+Thompson, J. Walter 177   
+Thonet (company) 58, 84, 114, 211, 245, 250, 341–2, 379,   
+620   
+Thornton, Richard 8o1   
+Tichon, Charles 720   
+Tichy, Karol 227–8   
+Tiemann, Walter 63, 504   
+Time magazine 435   
+The Times 130-1   
+Tizard, Sir Henry 848-9   
+Tjaarda, John 403-4, 408   
+TM (Typographic Monthly) magazine 176   
+Todt, Fritz 834   
+Toidze, Irakly 896   
+Tolmer, Alexander 102-3   
+Tolstoy, Leo 736   
+Tomimoto Kenkichi 793-4   
+Toorop, Jan 154, 162   
+Tor, Vedat Nedim 625   
+Torres-Garcia, Joaquin 55I   
+Torri, Julio 486   
+Toulouse Lautrec, Henri 99   
+tourist advertising 635-6   
+tourist graphics 472, 589-91, 715-19   
+tourist industry 198, 628   
+Toyen (a.k.a. Marie Cerminová) 221   
+Toyoda, Kiichiro 798   
+Toyoguchi, Kappei 789   
+Toyota Motor Company 798   
+traction wheels 577   
+tractors 393, 564, 577–8   
+trademarks 24, 61, 100-1, 433-4, 527-8, 587-9, 715, 767   
+Trädgårdh, Göta 291   
+trading companies 691, 714   
+trailers 409-10   
+training programmes 541, 562, 699-700   
+Transcontinental and Western Air (TWA) 416-17   
+Transjordan 637   
+Tranthim-Fryer, J.R. 581–2   
+Traversa, Oscar 536   
+Treacy, Eleanor 435   
+treaty ports 756, 760   
+Tremblay, Georges-Edouard 560   
+Trenchard, Hugh Montague 846-7   
+Trepkowski, Tadeusz 235   
+Treumann, Otto 887   
+Trevithick, Richard Francis 796   
+Tripoli Trade Fairs (1927-39) 701-2   
+Trippe, Juan 415   
+Trommer, Hans 179   
+Trompf, Percy 589–90, 894   
+Troost, Gerdy 343   
+Troost, Paul Ludwig 343   
+Troshin, Nikolai 347   
+Trotsky, Leon 343, 474   
+Trowell, Margaret 694   
+Trujillo Magnenat, Sergio 542-3   
+Trump, Georg 63, 67, 337   
+Tschichold, Jan 2, 44, 52, 59, 62–7, 102–3, 132, 158, 181–2   
+Tschinkel, Augustin 222-3   
+Tsuda, Shinobu 785   
+Tsukamoto, Kakuji 821-2   
+Tsunetomi, Kitano 801   
+tubular steel furniture 57-8, 84-5, 113-17, 149-52, 170-1,   
+188,210,212,245,251,286,291,313–18,341-2, 380,   
+425, 556, 601, 863   
+Tucholsky, Kurt 67   
+Tümpel, Wolfgang 54   
+Tunisia 698
+
+Tupolev, Andrei 23, 351   
+Turing, Alan 850   
+Turkey 616-25, 634   
+Turnbull, Wallace Rupert 566–7   
+turnstiles 395   
+Turpin, H.J. 846   
+Tuskegee Institute 697   
+20th Century Limited (train) 413-15   
+Tynell, Paavo 285   
+typewriters 321, 801   
+"typographic architecture" 305   
+typography 101-2, 235, 330-3, 337, 654-5, 773-4 in Britain 129-31 expressing the inner content of a text 28 in Germany 62-5 Hebrew 665-6 in Japan 8oo-1 in the Netherlands 155-6 in the United States 438, 441-6 see also New Typography   
+Tzara, Tristan 39, 81-2   
+Uchiyama, Komanosuke 797   
+Uhl, Edward 870   
+Uitz, Béla 253-4   
+Ulrich, Leila 423   
+ultraísmo 551   
+Umaid Singh, Maharaja of Jodhpur 734   
+Umbo, Otto (a.k.a. Otto Umbehr) 54   
+Underwood, Clarence 430   
+Unit One group 116   
+United States 365-450 advertising, magazines and books 429-41 industrial design 387-97 Office of Scientific Research and Development (OSRD) 873-7 propaganda in 899-906 transportation design 401-19 typography and graphic design 441-50 in World War II 864-78 World's Fairs 424-9   
+Urban, Joseph 372, 420, 424   
+urbanization 688-9   
+Urueta, Jesús 477   
+Uruguay 547-51   
+Utility Clothing Scheme 855   
+Utility Furniture Scheme 853-4   
+Váchal, Josef 217   
+Vachon, Marius 698-9   
+vacuum cleaners 151, 278, 319   
+Vadasz, Nicolas and Étienne 171   
+Vajiravudh, King of Siam 777-8   
+Val Alen, William 406-7   
+Valente, Antonio 303   
+Valls, Jaime 468–70   
+van Beuren, Michael 463
+
+van Doesburg, Theo 38–40, 78–9, 146–8, 153-4, 158, 180   
+van Doren, Harold 377, 396, 400-1   
+van Eesteren, Cor 78-9   
+van der Hem, Piet 157   
+van Horne, William 572   
+van Krimpen, Jan 153−6, 887   
+van der Leck, Bart 147, 150, 154-5   
+van der Leeuw, C.H. 157   
+van der Mey, Jan 142   
+van Royen, Jean François 161-2   
+van Tussenbroek, Otto 151   
+van de Velde, Henry 34, 40, 164–8   
+van der Vlugt, L.C. 148–9, 157   
+Vaněk, Jan 211   
+Vanity Fair (magazine) 436-7   
+VANK (Vereeniging van Ambachts-en Nijverheidskunst   
+141, 155   
+Vargas, Getúlio 483, 498–501, 504, 507–9, 545   
+Vargas Briones, Juan Antonio 483   
+Vargas Ocampo, Juan Antonio 483-4   
+Varley, Fred 571   
+Varma, Ravi 745-6   
+Vasarely, Victor 251   
+Vasconcelos, José 473-4, 486–8   
+Vassos, John 395   
+Venezuela 543-7   
+Venini, Paolo 310   
+Venizélos, Eleuthérios 194-6   
+Véra, Paul 74   
+Verbeek, Ari 151−2   
+Veríssimo, Érico 504   
+Veronesi, Luigi 321   
+Versailles Treaty (1919) 755, 879   
+vertical integration 401   
+Vertov, Dziga 20   
+Vesnin, Alexander 9, 22   
+Vesnin, Viktor 9   
+Viale, Pedro Blanes 549   
+Vichy regime 884-6   
+Vickery, John 573-4   
+Victor Emmanuel, King of Italy 30o, 887   
+Vienna Group of designers 247   
+Vienna Workshops 242, 244   
+"Viennese domestic culture” 245   
+Vigneau, André 97, 99   
+Vikstedt, Toivo 294   
+Villa, Pancho 473   
+Villa Tugendhat 211-12   
+Villemot, Bernard 99, 885   
+Vilnius New Art Exhibition (1923) 230   
+Vionnet, Madeleine 78, 96   
+Visconti di Modrone Erba, Carla 310-11   
+Visram, Allidana 695   
+Viswanathan, Bide 746   
+Vitebsk Art Institute 11-12   
+Vkhutemas workshops 16-19   
+vocational schools 700   
+Vogel, Lucien 96   
+Vogue (magazine) 436–8, 855   
+Volkswagen (company) 89-91, 340, 403, 838-9   
+Volpi, Giuseppe 701-2   
+Volvo (company) 271-2   
+Von Nessen, Walter 372-3   
+Vorobeichic, Moshe 650   
+Voronca, Ilarie 261-2   
+Voskuil, Jo 160-1   
+Vox, Maximilian 102, 885-6   
+Vydra, Josef 214   
+Vyzantios, Perikles 198   
+Wackett, Lawrence 581   
+Wagenfeld, Wilhelm 43, 45–6, 54   
+Wagula, Hans 247   
+Wakelin, Roland 587   
+Walchand Hirachand, Seth 742   
+Walkden, John 714   
+Wallace-Johnson, Isaac 713   
+Wallance, Don 872   
+Wallish, Otte 662   
+Walmsley, William 122   
+Wang, Dunqing 898   
+Wang, Zilian 767   
+Wanscher, Ole 276   
+Warchavchik, Gregori 495   
+Ward, Frederick 584   
+Warde, Beatrice 131, 156   
+Waring & Gillow (company) 113-14, 795-6   
+Warra, Carrie 760, 769   
+washing machines 391   
+Washington, Booker T. 697, 704   
+Washington, George 426   
+Wassily chair 50, 53, 286   
+Watson, John B. 429   
+Watson, Thomas 876-7   
+Watson-Watt, Robert 848   
+Watts, Reuben 600   
+Wauchope, Sir Arthur 654-5   
+Waugh, Sidney Behler 385   
+Weber, Hilde 506   
+Weber, Kem 372, 374   
+Wedel, Hasso von 882   
+Wehmas, Einari 294   
+Weimar Republic 33, 37, 48, 299 see also Germany in the   
+Weimar period   
+Weisenfeld, Gennifer 807, 811, 814   
+Weisgal, Meyer 650   
+Weiss, Emil 219   
+Weitzel, Frank 584   
+Weltsch, Willie 649   
+Wendingen journal and style 144-5, 153-5   
+Wenner-Gren, Axel 273   
+Werkbund see Austrian Werkbund; Deutsche Werkbund;   
+Hungarian Werkbund; Swiss Werkbund   
+Werkman, Hendrik Nicolaas 163, 887   
+West, Sarah 423   
+West, Werner 285   
+Weston, Harry 586   
+Weston, Nora K. 582   
+Wetchakon, Hem 778   
+Wettergren, Eric 269   
+Wheeler, Monroe 906   
+Whistler, Rex 135   
+White, Clarence H. 431   
+White, Egbert 903   
+White, Leyshon 588   
+Whittle, Frank 848   
+Wiertz, Jupp 6o   
+Wiese, Otis 435   
+Wieselthier, Vally 372   
+Wijdeveld, Hendricus Theodorus 144-5, 153   
+Wildhagen, Frederik 280   
+Wilhelm II, Kaiser 5, 33   
+Wilkinson, Norman 572   
+Williams, Daryle 498   
+Williams, F.C. 850   
+Williams, George Alfred 713   
+Williams, W.F. 568   
+Willimann, Alfred 183   
+Willisch, Marianne 421   
+Willrab, Willy 60, 247   
+Wils, Jan 158   
+Wilson, Kristina 379   
+Wilson, Woodrow I   
+Winkler, Ruby 592   
+Winslow, Vernon 399   
+Winston, Harry 587   
+Winter, William 570   
+Witkiewicz, Stanislaw 226-7   
+Witte, Herman 881   
+Wlach, Oskar 244   
+Wlasikoff, Michel 884   
+wohnbedarf (company) 170-1, 181   
+Wolfenberger, J.E. 173   
+Wolpe, Berthold 131   
+Wolpert, Yehuda 648   
+women artisans 559   
+women artists 592-3   
+women designers and inventors 120, 399, 400, 408–9,   
+449, 582   
+women engineers 568   
+women's magazines 593-4, 769, 778, 825   
+woodcuts 490, 492, 776–7   
+Woodham, Jonathan 108   
+Woolf, Hal 129   
+World War I 34, 269, 365–6   
+World War II 3, 95, 368, 700, 833–907   
+Britain 841-55   
+Germany 834-9   
+Italy 839-41   
+Japan 858-64   
+Soviet Union 855-8   
+United States 864-78   
+Wormley, Edward 379-80   
+Wouda, Henk 145-6   
+Wright, Frank Lloyd 371, 381–2, 423, 600   
+Wright, Mary 383   
+Wright, Russel 382-3, 427, 556   
+Wright, Virginia 556-7   
+Wu, Liande 769   
+Wyspiański, Stanislaw 227   
+Xie, Zhiguang 768   
+Xu, Yongqing 765-6   
+Yabe, Sue 808   
+Yagou, Artemis 194-6   
+Yahya Muhammad, Imam 674   
+Yajima, Shuichi 801   
+Yamada, Shinkichi 810   
+Yamamoto, Kanae 82o   
+Yamamoto, Takeo 808   
+Yamana, Ayao 803, 808, 816   
+Yamasaki, Minoru 393   
+Yamawaki, Iwao 790, 864   
+Yamawaki, Michiko 790   
+Yamazaki, Kakuraro 785   
+Yan, Shui-long 820   
+Yan, Yutang 757   
+Yanagi, Soetsu 793-4, 820, 862-4   
+Yanase, Masamu 812-13   
+Ye, Lingfeng 771, 774-5   
+Ye, Qianyu 774-5, 898   
+Yemen 674   
+Yi, Chin-sun 823   
+Yi Pyong-du 824   
+Yiddish 652, 660, 665   
+Yoel-Berlin, Esther 663   
+Yosano, Akiko 801-2   
+Yoshino, Shinji 787   
+Young, Blamire 583, 586–7   
+Young, Mabel 583   
+Yourkevitch, Vladimir 93-4   
+Yuan, Shikai 755, 757   
+Yugoslavia 256-61   
+Yuon, Konstantin 24   
+Yusuf, Ali 630-1   
+al-Yusuf, Fatima 632   
+Zaghloul, Sa'ad Basha 631   
+Zagreb 256-9   
+zaibatsu 783, 823   
+Zaidan, Jurji 633   
+Žak, Ladislav 211   
+Zakher, Abdallah 670   
+Zakopane style 226-9   
+Zalce, Alfredo 479, 493   
+Zámor, Ferenc 253   
+Zamora, Antonio 538   
+Zapata, Emiliano 473   
+Zapf, Norman 413   
+Żarnower, Teresa 237-8   
+Záveská, Hana Kučerová 211   
+Zdanevich, Ilia 81   
+Zeisel, Eva 19, 379   
+Zemlyanitsyn, B. 17   
+Zenit (journal) 259-60   
+Zeuner, Ernst 504   
+Zhang, Guangyu 774-5   
+Zhao, Wangyun 899   
+Zheng, Mantuo 764-5   
+Zheng, Zhenduo 774   
+Zhivskul'ptarkh group 13-15   
+Zhou, Bosheng 764   
+Zhou, Muqiao 764-8   
+Zhukovsky, Nikolai 23   
+Zig-Zag magazine 525-9   
+Zill, Rudolf Gerhard 88o   
+Zimmerman, John 442   
+Zinner, Robert 339   
+Zionism 638–9, 645, 650, 664   
+Zionist graphics 655-9   
+Život (journal) 210   
+Zlín 214   
+Zobo, Wido 711   
+Zorach, Marguerite 386   
+Zorzi, Carlos 525   
+Zuber, René 96   
+Zulu people 704   
+Zuse, Konrad 836-7   
+Zveteremich, Renato 321   
+Zwart, Piet 151, 153, 157–9, 162, 164   
+Zwrotnica (journal) 238-9
+
+'. . . it is an extraordinarily useful compendium. I will turn to it again and again to find new points of connection and departure, and I am sure I won't be alone. Within our discipline, I hope we can all lay aside the perspectives of our narrow expertise long enough to simply thank Professor Margolin – thank him for his effort, and thank him for his generosity. The most exciting thing about these books is the further scholarship that they will engender. In that sense, they are truly the works of a lifelong teacher. Glenn Adamson, West 86th Journal
+
+'Extensive and wide-ranging . . . the World History of Design has a key role to play in helping to shape and reshape design historical knowledge, the design history curriculum and interdisciplinary opportunities, and possible future design historical trajectories. Jonathan M. Woodham, Design and Culture
+
+'Immersive and encyclopaedic . . . a highly informative and thought-provoking reading experience. What Margolin achieves in particular is to expand the design history canon beyond the traditional Westernised focus that has dominated it. World History of Design covers a diversity of design disciplines; incorporates material and non-material history of design practice and profession history, and includes a great diversity of narratives and a plethora of images sourced from all over the world, which are not often seen in design history books.
+
+Jacques Lange, Image & Text
+
+'Victor Margolin's epic World History of Design charts the practice's perceptual shift in approach from pragmatic to artistic. The book is unique for its inclusivity, which reaches far beyond Western design research's usual orbit.
+
+Steven Heller, The Atlantic
+
+'An ambitious and impressive project . . . World History of Design encapsulates a vast body of knowledge within a singular vision. Livia Rezande and D.J. Huppatz, Journal of Design History
+
+Victor Margolin's magisterial history follows the fast-changing development of desi\~-
+
+through tumultuous decades in world history, from the outbreak of war i end of World War II.
+
+Victor Margolin is Professor Emeritus of Design History at the Universi Chicago, USA. He founded the journal Design Issues and is the author al books, including The Designed World (2010) and The Politics of the Artif He has been presented with lifetime achievement awards by both the Des Society and the LearnXDesign conference.
+
+![](images/5eabaefa772d40240ea7f05dfd0a88e4eef8106e3e3c1c9adaaaf731595d7036.jpg)
+

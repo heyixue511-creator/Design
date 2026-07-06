@@ -1,0 +1,1 @@
+# ABCDEFGHIJ KMNOPORST UVWYXZ8123 4567890abcd efghijklmnooo opqrstuvwxyz No. 506. Patented by William Page in 1887.This is one of the seventeen styles designed for the die-cut types of Page and Setchell.

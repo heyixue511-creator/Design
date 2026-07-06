@@ -1,0 +1,1 @@
+# 567890sabedeiklm Clarendon XX Condensed. First shown by William Page in his 1859 specimens. T his cutting by the Page Company. It is believed that this design originated as a wood type, and with the Page Company.

@@ -1,0 +1,23 @@
+# ACKNOWLEDGMENTS
+
+Many people have helped us shape the content of this book. We are very grateful for all the conversations, email exchanges, encouragement and, of course, research papers provided by colleagues in the HCI community around the world. Anonymous reviewers at various stages in the manuscript preparation also gave us useful guidance. We are grateful to Gaynor Redvers-Mutton for commissioning the book and to our editor, Jonathan Shipley, and project editor David Barnard, for all their helpful advice.
+
+During the writing, we had the chance to talk through issues with inspiring individuals. Their contributions have been used directly (as, for example, interview material) or indirectly here. Thanks, then, to Ben Bederson, Jason Brotherton, Ann Blandford, David Cairns, Paul Cairns, Fabio Crestani, Matthew Chalmers, Susan Dray, Elise Levanto, Stefano Mizzaro, Carl Gutwin, Scott Jenson, Ben Shneiderman, Phil Stenton, Jenny Tillotson, Don Norman, Teresa Peters, Jenny Preece, Yin Leng Theng, Marion Walton and Kevin Warwick.
+
+The following also gave us their time but in addition helped Matt in arranging meetings and visits at their organizations during a sabbatical, fact-finding trip in 2004: Steve Brewster (University of Glasgow), Mark Dunlop (Strathclyde University), Panu Korhonen (Nokia), Cliff Randell (Bristol University) and Harold Thimbleby (then of UCL Interaction Centre; now at Swansea University).
+
+‘Our’ research work was done in collaboration with others, all of whom made significant contributions. We are especially grateful for the enjoyable and stimulating work times we have had we these collaborators and friends over the years: David Bainbridge, Edwin Blake, Kevin Boone, Andy Cockburn, Sally Jo Cunningham, Shaleen Deo, George Buchanan, Norliza Mohd-Nasir, Pritti Jane, Steve Jones, Dynal Patel, Harold Thimbleby and Nigel Warren.
+
+Waikato University, New Zealand, provided funding for Matt’s sabbatical trip in 2004 and Gary’s sabbatical trip to New Zealand in 2003. At Waikato, the HCI and New Zealand Digital Library research groups provided a great environment in which to nurture ideas. Thanks especially to Mark Apperley (for helping in the laid-back thinking), Dana MacKay (who offered up interesting thoughts on social interaction), Dave Nichols (for many good pointers to useful material), Bill Rogers (for early morning encouragement and discussions), Kirsten Thomson (for helping organize usability studies) and Ian Witten (for sage advice on the joys of book writing). Additional thanks to the many students at Waikato who have helped make the work fun, including Gareth Bradley, Tim Barnett, Jason Catchpole, Anette Olsson and Rachel Hunt.
+
+Gary’s colleagues at UCT have been very understanding about giving him time to complete this book; his head of department, Prof. Ken MacGregor, has been particularly forbearing. Besides the academic staff, one of the great joys of working at UCT is being surrounded by enthusiastic post-graduate students. Many of these have provided valuable feedback on early drafts of the book, Richard Schroder, David Nunez and Dynal Patel in particular. These students and the other members of the Collaborative Visualisation Group are undertaking work which really will change the world. Also, many honors students have contributed to the content of this book by implementing some of the systems discussed. Specifically, the classroom system was implemented by Dominic Gruijters, Brendan Fry and Steve Reid. The Greenstone communitization software was implemented by Rob Cherry, Alan Haefele, Dynal Patel and Nessen Ramsammy. Finally, we would like to thank bridges.org for letting us quote the Real Access criteria.
+
+Various funding bodies have supported the work mentioned here. We are thankful to the Engineering and Physical Sciences Research Council (UK), the Foundation for Research in Science and Technology (NZ), ACM/SIGCHI (USA), the National Research Federation (SA), the Telkom/Siemens Centre of Excellence (SA), Microsoft Research (UK), Microsoft South Africa (SA), the University of Waikato (NZ), and the University of Cape Town (SA). We would also like to thank HP and bridges.org for donating over 80 PDAs to support our research.
+
+Our wives and children have put up with, supported and constructively distracted us during the long process. Thanks beyond expression to Clare, Sam, Ben and Rosie (Matt), and Gil, Holly and Jake (Gary).
+
+## PART I INTRODUCTION
+
+CHAPTER 1 POSSIBILITIES 3   
+CHAPTER 2 PRODUCTS FOR PEOPLE 39   
+CHAPTER 3 INNOVATING 67

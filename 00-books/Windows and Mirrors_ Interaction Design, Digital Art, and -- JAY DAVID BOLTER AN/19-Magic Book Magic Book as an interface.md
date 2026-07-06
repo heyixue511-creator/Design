@@ -1,0 +1,51 @@
+## Magic Book
+
+TEXT RAIN, Wooden Mirror, and Nosce Te Ipsum are located in the Art Gallery itself. When we walk from the gallery into the Emerging Technologies exhibit, we see experimental designs, some of which could be mistaken for digital art. They too are radical experiments, and they too are concerned, at least implicitly, with the experience that they offer the user. Whether we call them art or technology depends on many factors, including not just the intentions of those who created the pieces, but also what institution or department the creators belonged to and who financed the work. (If the National Science Foundation or the National Institutes of Health pay the bills, it has to be technology.).
+
+Magic Book was created by students and researchers from the Human Interface Technology Lab at the University of Washington, the ATR MIC Labs, and Hiroshima City University in Japan. Magic Book looks like a conventional printed book, which the reader or readers gather around, as it rests on a table. As they turn its physical pages, they can see colorful gnome-like characters and read a simple story. There is more to the experience, however. When the reader holds a special digital lorgnette before her eyes (figure <sup>.</sup>), the figures and buildings in the illustrations emerge from the page and appear to her in three dimensions. The book has become a digital pop-up book (figures 4.2 and 4.3). Finally, when the reader presses on the base of the lorgnette, the scene on the page rises up and surrounds her. She can now
+
+![](images/8391338d71134bcdbeeb2ba15cebe7e2ba7c2d3427e5a705364c5fa56a887190.jpg)
+
+Figure 4.1   
+Human Interface Laboratory, ATR MIC Labs, and Hiroshima City University (Mark Billinghurst, Rob Blanding, Winyu Chinthammit, Tom Furness III, Nick Hedley, Hirokazu Kato, Lori Postner, Ivan Poupyrev, and Lily Shirvanee), Magic Book.
+
+use a switch on the lorgnette to fly through and explore the virtual scene. She is no longer reading the book as a physical artifact; instead, she has “put on” the book and is experiencing it as a virtual reality. Two readers can share this physical and virtual book. If both are holding lorgnettes, one can enter into the virtual book, while the other continues to look at the threedimensional image on the pages of the physical book. In this case, the first reader appears to the second as a tiny avatar within the image.
+
+![](images/d8a5c09ce72b104e14392b9cfea3fa36399f58c47f5743bf8141a341cd50cb36.jpg)  
+Figure 4.2 Magic Book: Looking through the digital lorgnette . . .
+
+Figure 4.3  
+![](images/a05bf6d8bb4a255c2b013910a7040d3f94f1b54e6b0d42fd3708fcea632402ba.jpg)  
+Magic Book: . . . the user sees a computer-augmented view of the page.
+
+Shrunk to the size of the other characters, she seems to have become part of the story not only to herself, but to the other reader as well. She experiences the story in the first person, while the other reader experiences her in the third person.
+
+Magic Book moves through three stages, from the physical artifact to a digitally augmented artifact to a virtual reality. The second stage is called augmented reality, in which computer graphics augment the user’s view of the physical world. In this case, a video camera is attached to the special glasses, so that the reader experiences the pages of the book as a video image with computer graphics overlaid. The third is virtual reality, where the computer is drawing the whole visual scene. In this stage, the physical book disappears and is replaced by the virtual environment in which the user is immersed. When the author’s style of telling the story is compelling, a printed book can metaphorically immerse the reader in the story. The Magic Book renders that metaphor visual, as the reader watches the images first rise off the page in AR and then surround her in a VR experience. Here is how the creators describe these stages:
+
+Readers often gather around a real storybook and are transported to imaginary magic places by the pictures and text on the pages. Similar to a normal book, people can turn Magic Book pages, look at the pictures, and read the text. . . . The Magic Book expands on the idea of a “pop-up” book by offering three-dimensional animated and interactive virtual images. If they read the book wearing an AR HMD [augmented reality head-mounted display], they see virtual images appearing out of the pages. People can read the book together in the real world and also experience the virtual images that appear attached to the real book pages. . . . Finally, readers can fly into the virtual images and experience the story immersively. Thus, the AR book allows people to experience the full Reality-Virtuality continuum. <www.hitl.washington.edu/magicbook/background.html>
+
+The goal is to make the movement from the flat symbolic space of the printed page to the visual, three-dimensional space of virtual reality as simple as possible.
+
+Magic Book is an experiment in what we can call remediation—the making of new media forms out of older ones. It begins as a printed book. This physical book offers its readers an experience that the designers of Magic Book wanted to imitate, enhance, and ultimately refashion in digital technology. Through their remediations, the designers of Magic Book sought to bring out the multiple levels of experience that were latent in a printed storybook.
+
+When the designers asked themselves “What is reading?” their answer was that (at least for young readers) to read is to be transported to a world that the reader can see with her mind’s eye. The augmented reality interface allows the reader to see that world in three dimensions not with her mind’s eye, but with her physical vision. The enhanced view is in turn followed and reimagined by the fully immersive experience of virtual reality. What fascinates readers of Magic Book are the transitions among these three versions of the book. The virtual reality experience grows out of and yet still depends on the physical book with which the reader began (figure 4.4).
+
+## Magic Book as an interface
+
+A printed book is an interface. Read a book with a five-year-old child, and you will realize how complex and varied that interface can be. A child who cannot quite read by himself makes full use of the book’s interface. Much more space is devoted to images than to text in his books; there are pictures on every page. The pictures matter, and the child wants to look at them carefully. If we are reading the text to the child, we may rush to turn the page and get on with the words (which for us is the point), but our companion knows better. He wants to savor the pictures and understand the text as an interplay of words and images. If it is a familiar book, he will probably not choose to read the pages in order. He will go to a favorite page, examine it, then perhaps move back to another favorite, and so on. Children have known for decades (since the flourishing of children’s literature in the nineteenth century) how to read hypertextually. There is a long tradition of experimental interfaces in
+
+![](images/b9a74d927b89d9cc50c61ba38e7ab6b26fdf0f1cd1f3b069ebd428d66a531805.jpg)  
+Figure 4.4
+
+![](images/50de879f5dabe077caea89ae2943261ea5f75385ebae46b465ad373201f07761.jpg)
+
+![](images/28debacfd92337b1407d4abcca320b8d6e4a6ac44a90be01136609bd8db29a64.jpg)  
+Magic Book: (a) Physical space of the book, (b) augmented reality (the physical world is seen through a computed overlay), (c) immersive virtual reality (the physical world is no longer seen).
+
+children’s books—pop-up books, books in odd shapes, books with holes in the page so that the reader can see a portion of the image on the next page. In other words, children treat the book as a reflective interface.
+
+It is we adults who have lost our imagination and insist on treating the book as transparent. Our books often have no pictures, and we (at least those of us who are not designers or editors) have learned not to care about, or even to notice, the typeface and the layout. We have learned to look through the text rather than at it. We have learned to regard the page as a window, presenting us with the content, the story (if it’s a novel), or the argument (if it’s nonfiction). For us adults, Magic Book is an experiment in the meaning of reading, a radical remediation. It reminds us of possibilities for the book as interface that we knew once as children.
+
+Readers of Magic Book can move from the conventional form of the book to the immersion of virtual reality, and they can go in the other direction as well—from fully immersive to the augmented or conventional forms. Magic Book is an adaptive interface, which the user can set to the appropriate mode: from symbolic to pictorial and immersive (virtual reality). Magic Book also reminds us of the whole story of the development of the computer interface. The first interfaces on cathode ray tube terminals and on the first personal computers were text only. They were straightforward remediations of the printed page, although the printed page was much more comfortable than the twenty-four lines and eighty columns of monospaced, sans serif letters on the terminal screen. The GUI is a mixed interface—a more legible combination of text and images. And today the various attempts at immersive or natural interfaces are almost entirely pictorial.
+
+Magic Book carries us right through the myth of transparency, offering three different interfaces, each with a unique combination of the transparent and the reflective. The paged book was the transparent interface of the past; the immersive virtual reality is (perhaps) the transparent interface of the future. Between these extremes comes the augmented reality interface, which is perhaps the most reflective of the three interfaces, precisely because it joins two forms of representation that we are not used to seeing together. We are used to reading texts in printed books; we are used to seeing moving images in movies and on television. We are not used to seeing three-dimensional moving images occupying the same space as the book. This combination makes us aware of the tension between the two forms and of our relationship to both. Magic Book remediates the book by suggesting that digital technology

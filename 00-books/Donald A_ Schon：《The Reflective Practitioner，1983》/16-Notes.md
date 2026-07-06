@@ -1,0 +1,460 @@
+# Notes
+
+## Chapter 1
+
+1. Everett Hughes, "The Study of Occupations," in Robert K. Merton, Leonard Broom and Leonard S. Cottrell, Jr., eds., Sociology Today (New York: Basic Books, 1959).
+
+2H.L. Wilensky, "The Professionalization of Everyone?", American Journal of Socidlogy 70 (September 1964): 137-158.
+
+3. For example, Scott Throw, One L: An Inside Account of Life in the First Year at Harvard Law School (New York: G.P. Putnam's Sons, 1977).
+
+4. Ivan Illich, A Celebration of Awareness: A Call for Institutional Revolution (Garden City, N.Y.: Doubleday, 1970).
+
+5. See, for example, The New Professionals, Gross and Osterman, eds. (New York: Simon and Schuster, 1972).
+
+Kenneth Lynn, Introduction to "The Professions," Fall 1963 issue of Daedalus, Journal of the American Academy of Arts and Sciences, p. 649.
+
+7. Richard Hofstadter, Anti-Intellectualism in American Life, quoted in Jethro Lieberman, The Tyranny of Expertise (New York: Walker and Company, 197o), p.
+
+8. John F. Kennedy, quoted in Lieberman, Tyranny of Expertise p. 5.
+
+9. R.E. Lane, "The Decline of Politics and Ideology in a Knowledgeable Society," American Sociological Review, 31, (October 1966).
+
+10. Amitai Etzioni, The Active Society (New York: The Free Press, 1g68). Daniel Bell. "Notes on the Post-Industrial Society," The Public Interest, 6 and 7, (Winter and Spring 1967).
+
+1 1. Lane, "Decline of Politics," p. 653.
+
+12. Daniel Bell, "Labor in the Post-Industrial Society," Dissent, 19, 1 (Winter 1972): 70–80.
+
+13. Ibid.
+
+14. Wilbert Moore, The Professions (New York: Russell Sage Foundation, 1970), pp. 15–16.
+
+15. Lieberman, Tyranny of Expertise, p. 54.
+
+(16 Paul Freund, "The Legal Professions," Daedalus (Fall 1963): 696.
+
+17. Ibid., p. 697.
+
+18. Lynn, Daedalus (Fall 1963): 651.
+
+. Bernard Barber, "Some Problems in the Sociology of the Professicns," Daedalus (FaH 1963): 686.
+
+20. James Gustafson, "The Clergy in the United States,"Daedalus (Fall, 1963) 743
+
+(21 William Alonso, "Cities and City Planners," in Daedalus (Fall 1963): 838.
+
+22. See my Beyond the Stable State (New York: Random House, 1971), for a discus sion of these.
+
+23. For example, Peter Marris and Martin Rein, Dilemmas of Social Reform (New York: Atherton Press, 1967).
+
+24. See Osterman and Gross, New Professionals; Lieberman, Tyranny of Expertise; and Professionalism and Social Change, Paul Halmos, ed., The Sociological Review Monograph 20 University of Keele, (December 1973).
+
+25. Arlene K. Daniels, "How Free Should Professions Be?" in Eliot Freidson, ed., The Professions and Their Prospects (Beverly Hills: Sage Publications, 1971), p. 56.
+
+26. Alan Gartner, The Preparation of Human Service Professionals (New York: Human Sciences Press, 1976), p. 121.
+
+27. Robert Perucci, "In the Service of Man: Radical Movements in the Professions," in Halmos, Professionalism and Social Change, Pp. 179-194.
+
+28. See, for example, David Halberstam, The Best and the Brightest (New York: Random House, 1972) and Charles R. Morris, The Cost of Good Intentions (New York: W.W. Norton, 198o).
+
+29. Charles Reich, The Law of the Planned Society, quoted in Lieberman, Tyranny of Expertise, p. 268.
+
+30. David Rutstein, The Coming Revolution in Medicine (Cambridge, Mass.: MIT Press, 1967).
+
+31. For example, Marie Haug, "Deprofessionalization: An Alternate Hypothesis for the Future," and Martin Oppenheimer, "The Proletarianization of the Professions", in Halmos, Professionalism and Social Change.
+
+32. Halmos, in his introduction to the volume he has edited (Halmos, 1973), observes that the "contemporary climate of opinion is radically and bitterly antiprofessional."(p. 6) Antiprofessional critics wish to "deprofessionalize the professions . . . by creating a para-professional or subprofessional constituency and endowing it with power increasingly to match the power of the fully licensed professionals." (p. 7) But he goes on to say that "the very radical denunciatory campaigns are coupled with political demands for more generously provided, and more equitably distributed, competent, and therefore presumably professional personal services."(p. 7)
+
+33. Dr. Ephraim Friedman, Dean of the Albert Einstein School of Medicine, private communication to the author.
+
+34. Dr. William Pownes, former Dean of the Sloan School of Management, private communication to the author.
+
+35. Dr. Harvey Brooks, former Dean of the Harvard University School of Applied Physics, private communication to the author.
+
+36. Harvey Brooks, "The Dilemmas of Engineering Education," IEEE Spectrum (February 1967): 89.
+
+37. Ibid., p. 90.
+
+38. The language here is borrowed from John Dewey In his Logic. the Theory of Inquiry, Dewey proposed that problems are constructed from situations of indeterminacy, problematic situations, that we apprehend through the experience of worry, trouble, or doubt.
+
+39. Russell Ackoff, "The Future of Operational Research is Past," Joumal of Opera tional Research Society, 30, 2 (Pergamon Press, Ltd., 1979): 93-104.
+
+40. Ibid., pp. 90–100.
+
+41. Ibid., p. 94.
+
+42. Ibid., p. 100.
+
+43. Erik Erikson, "The Nature of Clinical Evidence," in Daniel Learner, ed., Evidence and Inference (Glencoe, Ill.: The Free Press of Glencoe, 1958), p. 72.
+
+44. Dr. Ephraim Friedman, private communication to the author.
+
+45. The case of the John Hancock Building, in Boston, Massachusetts, is an interesting example. When the glass windows in this towering and beautiful skyscraper began to shatter, it was impossible for skilled engineers to arrive at a confident analysis of the problem. In the building itself, the phenomena were too complex to analyze; and experiments that might clarify matters were either prohibitively expensive or dangerous. In the wind tunnel, models were developed and experiments were performed, but there was little confidence that the wind tunnel was a good representation of the actual conditions in the building. In the end, all windows were fitted with new, heavier, tougher, and more expensive panes of glass. Every once in a while, one still shatters.
+
+46. Harvey Brooks, private communication to the author.
+
+47. Leston Havens, Approaches to the Mind (Boston: Little, Brown, Inc., 1973).
+
+48. Nathan Glazer, "The Schools of the Minor Professions," Minerva, (1974).
+
+## Chapter 2
+
+1. A.M. Carr-Saunders. Professions: Their Organization and Place in Society (Oxford: The Clarendon Press, 1928). Ouoted in Vollmer and Mills, eds., Professionalization (Englewood Cliffs, N.J.: Prentice-Hall, 1966), p. 3.
+
+2Wilbert Moore, The Professions (New York: Russel Sage Foundation, 1970),
+
+3. Ibid.
+
+4. Ibid., p. 141.
+
+5. Jethro Lieberman, Tyranny of Expertise (New York: Walker and Company),
+
+6. Nathan Glazer, "Schools of the Minor Professions," Minerva, (1974): 346.
+
+7. Ibid., p. 363.
+
+8. Ibid., p. 348.
+
+9. Ibid., P. 349.
+
+10. Moore, The Professions, p. 56.
+
+11. Edgar Schein, Professional Education (New York: McGraw-Hill, 1973), P. 43.
+
+12. Ibid., p. 39.
+
+13. William Goode, "The Librarian: From Occupation to Profession," reprinted in Vollmer and Mills, Professionalization, P. 39.
+
+14. Ibid.
+
+15. Ibid.
+
+16. Ernest Greenwood, "Attributes of a Profession," reprinted in Vollmer and Mills, Professionalization, p. 1 1.
+
+17. Ibid., p. 19.
+
+18. Ibid., p. 12.
+
+19. Harvey, Brooks, "Dilemmas of Engineering Education," IEEE Spectrum (February 1967): 89.
+
+20. Schein, Professional Education, p. 44.
+
+21. Barry Thorne, "Professional Education in Medicine," in Education for the Professions of Medicine, Law, Theology and Social Welfare (New York: McGraw-Hill, 1973), p. 30.
+
+22. Ibid., p. 31.
+
+23. Ibid.
+
+24. Alan Gartner, Preparation of Human Service Professionals (New York: Human Sciences Press, 1976), p. 80.
+
+25. Ibid., p. 93.
+
+26. Derek Bok, "The President's Report," reprinted in The Harvard Magazine, (May–June 1979): 83.
+
+27. Ibid., p. 84.
+
+28. Ibid.
+
+29. From private conversations with three Harvard Business School faculty mernbers.
+
+30. See, for example, Richard J. Bernstein, The Restructuring of Social and Political Theory (New York: Harcourt Brace Jovanovich, 1976).
+
+31. I hirst used this term in Technology and Change (New York: Delacorte Press, 1966).
+
+32. Auguste Comte, quoted in Jurgan Habermas, Knowledge and Human Interests (Boston: Beacon Press, 1968), p. 77.
+
+33. Of course, the problem of the lack of agreement about ends has engaged the attention of many of the protagonists of the positivist epistemology of practice. Approaches to this problem have ranged from the search for an ultimate end, to which all others could be subordinated; to a “universal solvent" for ends, as in the utility functions of the welfare economists; to the "piecemeal social engineering" proposed by Karl Popper. For a discussion of these, their defects and merits, see Charles Frankel, "The Relation of Theory to Practice: Some Standard Views," in Social Theory and Social Intervention, Frankel et al., eds. (Cleveland: Case Western Reserve University Press, 1968).
+
+34. Edward Shils, "The Order of Learning in the United States from 1865 to 1920: the Ascendancy of the Universities," Minerva, XVI, 2 (Summer 1978): 171.
+
+35. Ibid., p. 173.
+
+36. Thorsten Veblen, The Higher Leaming in America, reprint of 1918 edition, (New York, Hill and Wang, 1962).
+
+37. Ibid., p. 15.
+
+38. Ibid., p. 23.
+
+39. Bernard Barber, in "Some Problems in the Sociology of the Professions," Daedalus (Fall, 1963): 674.
+
+40. Everett Hughes, "Higher Education and the Professions," in Content and Context: Essays on College Education, Carl Kaysen, ed. (New York: McGraw-Hill, 1973), p. 660.
+
+41. The term is taken from Clifford Gecrtz, "Thick Description: Toward an Interpretive Theory of Culture," in Clifford Geertz, The Interpretation of Cultures (New York: Basic Books, 1973).
+
+42. Schein, Professional Education, p. 44.
+
+43. Ibid., P. 45.
+
+44. Herbert Simon, The Sciences of the Artificial (Cambridge, Mass.: MIT Press, 1972), p. 55.
+
+45. Ibid., p. 56:
+
+46. Ibid.
+
+47. Ibid., p. 57.
+
+48. Ibid., p. 61.
+
+49. Bernstein, Restructuring, p. 207.
+
+50. Cilbert Ryle, "On Knowing How and Knowing That," in The Concept of Mind (London: Hutcheson, 1949), p. 32.
+
+51. Andrew Harrison, Making and Thinking (Indianapolis: Hackett, 1978).
+
+52. Chester Barnard, in The Functions of the Executive (Cambridge, Mass.: Harvard University Press, 1968, first published 1938), p. 302.
+
+53. Ibid., p. 305.
+
+54. Ibid., p. 302.
+
+55. Ibid., p. 306.
+
+56. Michael Polanyi, The Tacit Dimension, (New York: Doubleday and Co., 1967),
+
+57. Ibid., P. 12.
+
+58. Chris Alexander, Notes Toward a Synthesis of Form, (Cambridge, Mass.: Harvard University Press, 1968).
+
+59. Ibid., p. 53.
+
+60. Ibid., p. 55.
+
+61. Geoffrey Vickers, unpublished memorandum, MIT, 1978.
+
+62. The whole of contemporary linguistics and psycholinguistics is relevant here— for example, the work of Chomsky, Halle, and Sinclair
+
+63. Alfred Schutz, Collected Papers (The Hague: Nijhoff, 1962).
+
+64. Ray L. Birdwhistell, Kinesics and Context (Philadelphia: University of Pennsylvania Press, 1970).
+
+65. Jonathan Evan Maslow, "Grooving on a Baseball Afternoon," in Mainliner (May 1981): 34.
+
+66. Barbel Inhelder and Annette Karmiloff-Smith, "If you want to get ahead, get a theory," Cognition 3,3: 195–212.
+
+67. Ibid., p. 195.
+
+68. Ibid., p. 202.
+
+69. Ibid., p. 203.
+
+70. Ibid.
+
+71. Ibid., p. 205.
+
+72. Ibid.
+
+73. Ibid.
+
+74. Ibid., p. 203.
+
+75. Ibid., p. 199.
+
+76. Leo Tolstoy, "On Teaching the Rudiments," in Tolstoy on Education, Leo Wiener, ed. (Chicago and London: University of Chicago Press, 1967).
+
+77. The staff of the Teachers' Project consisted of Jeanne Bamberger, Eleanor Duckworth, and Margaret Lampert. My description of the incident of "giving the child reason" is adapted from a project memorandum by Lampert.
+
+## Chapter 3
+
+1. The origins of this case study are in a review of architectural education in which I participated during the late 197os. The study, supported by the Andrew Mellon Foundation, was directed by Dean William Porter of the MIT School of Architecture and Planning and Dean Maurice Kilbridge of the Harvard Graduate School of Design Several participant/observation studies were conducted in design studios at universities at several locations in the United States. It is from one of these that I have drawn the protocol which follows. It was recorded by Roger Simmonds, then a graduate student of mine. I am grateful to Simmonds for his help in this, as well as to William Porter, Julian Beinart, Imre Halasz, and Florian Buttlar, with all of whom I had illuminating conversations. Dean Porter, especially, helped to initiate me into the world of architectural thinking.
+
+2. Quist and Petra are fictitious names which Simmonds assigned to the participants in the design review.
+
+3. The term "language game" is taken from Ludwig Wittgenstein's Philosophical Investigations (New York: Macmillan Company, 1953).
+
+4. Jeanne Bamberger and I invented this notion, and used it in our "The Figural-Formal Transaction", Division for Study in Research in Education, Working Paper, MIT, 1978.
+
+## Chapter 4
+
+1. Norman Zinberg, "Psychiatry—A Professional Dilemma", in Daedalus (Fall, 1963).
+
+2. Leston Havens, Approaches to the Mind, (Boston: Little, Brown. Inc.. 107a).
+
+3. The protocol discussed in this section was first recorded by two student researchers, in the course of a seminar on professional education which I conducted in 1978. The two students—Bari Stauber and Mike Corbett—worked together with the psychiatric resident to collect the protocol and the interview material. Each of them wrote a term paper on the protocol. Although my analysis departs from theirs in many respects, I am indebted to them for the protocol and for their ideas.
+
+4. Erik Erikson, "The Nature of Clinical Evidence," in Daniel Lerner, ed., Evidence and Inference (Glencoe, Ill.: The Free Press of Glencoe, 1958), p. 74.
+
+5. Ibid., p. 75.
+
+6. Ibid., p. 76.
+
+7. Ibid., p. 89.
+
+8. Ibid., p. 83.
+
+9. Ibid., p. 87.
+
+10. Ibid., p. 79.
+
+11. Ibid., p. 80.
+
+12. This term, first introduced by David Bakan, has been developed in Theory in Practice, by Chris Argyris and Donald A. Schön (San Francisco: Jossey-Bass, 1974).
+
+## Chapter 5
+
+1 I am thinking here of Wittgenstein's use of “seeing-as" (see Ludwig Wittgenstein, Philosophical Investigations (New York: Macmillan Company, 1953). In reference to examples such as “seeing the figure as a box" and "seeing the duck/rabbit picture as a rabbit,"Wittgenstein points out that seeing-as is at once, and ambiguously, a process of seeing and thinking.
+
+2. Thomas Kuhn, "Second Thoughts on Paradigms," in The Essential Tension (Chicago and London: University of Chicago Press, 1977).
+
+3. Ibid., p. 307.
+
+4. This account of the logic of theory-testing experiment follows the lines set forth by Karl Popper in his Conjectures and Refutations (New York: Harper & Row, 1968).
+
+5. I have drawn this example from an article by J. C. Jones, "Feeding Behavior of Mosquitoes,"Scientific American 238 (June, 1978): 138-40.
+
+6. Popper, Conjectures.
+
+7. In Experience and Reflection (Philadelphia: University of Pennsylvania Press, 1959), E.A. Singer has propounded the thesis that scientifc hypothesis ought to be understood "in the imperative mood."
+
+8. See Elton Mayo, The Human Problems of an Industrial Civilization (New York: MacMillan, 1933).
+
+9. The idea of the relation of knower to known as a "transaction" derives from the work of John Dewey. See A. F. Bentley and John Dewey, Knowing the Known (Boston: Beacon Press, 1949).
+
+10. The phrase is from Geoffrey Vickers, unpublished memorandum, MIT, 1978.   
+11. Lisa Peattie introduced me to this term.
+
+12. See Michael Polanyi, Personal Knowledge (Chicago: University of Chicago Press, 1958).
+
+## Chapter 6
+
+1. Nathan Glazer, "Schools of the Minor Professions," Minerva, (1974): 348.
+
+2. See William Schwartz and Stephen Pauker et. al., "Toward the Simulation of Clinical Cognition: Taking a Present Illness by Computer," The American Journal of Medicine, 60 (June 1976): 991-996.
+
+3. Harvey Brooks, "Dilemmas of Engineering Education," in IEEE Spectrum, (February 1967).
+
+4. W.I.B. Beveridge, The Art of Scientific Investigation (New York: Random House, 1957).
+
+5. Richard Nelson, "The Link Between Science and Invention: The Case of the Transistor." in The Rate and Direction of Inventive Activity Economic and Social Factors, Universities-National Bureau Conference Series, No.13 (Princeton: Princeton University Press, 1962).
+
+6. Ibid., p. 557.
+
+7. Ibid., p. 562.
+
+8. Ibid.
+
+9. Ibid., p. 563.
+
+10. Ibid., p. 567.
+
+11. Thomas Kuhn, "Second Thoughts on Paradigms," The Essential Tension (Chicago and London: University of Chicago Press, 1977), p. 305.
+
+12. Ibid.
+
+13. Robert Oppenheimer, “Analogy in Science," American Psychologist, 11, 3 (1956): 127-135.
+
+14. Kuhn, "Second Thoughts," p. 306 ("both an appropriate formalism and a new way of attaching its consequences to nature").
+
+15. See my "Generative Metaphors in the Setting of Social Policy Problems," in Metaphor and Thought, Andrew Ortony, ed., (Cambridge: Cambridge University Press, 1979).
+
+16. Ibid. The example of the paintbrush, originally described in my Displacement of Concepts (New York: Humanities Press, 1963), originally occurred during my tenure at Arthur D. Little, Inc., in Cambridge, Mass.
+
+17. Dean Wilson, unpublished project report, 1977.
+
+18. From a report of the Community Systems Foundation, Cali, Colombia, 1978
+
+## Chapter 7
+
+1. This summary of the history of the city planning profession is taken in large part from Mel Scott, American City Planning Since 189o (Berkeley, Cal.: University of California Press, 1969).
+
+2. See, for example, Herbert Gans, Urban Villagers (New York: The Free Press, 1965).
+
+3. The case study presented here is derived from videotapes and interview notes originally collected by William Ronco, then a graduate student in the Department of Urban Studies and Planning at MIT. I am grateful to Dr. Ronco for his help in generating this material and for his contributions to earlier versions of its analysis. The material presented in this article is substantially different from earlier treatments of it, however, and the responsibility for it is entirely my own.
+
+4. See Chris Argyris and Donald A. Schön, Theory in Practice (San Francisco: Jossey-Bass, 1974).
+
+## Chapter 8
+
+1. Frederick Taylor, Principles of Scientific Management (New York: Norton and Co., 1967, first published 1911).
+
+2. Henry Mintzberg, The Nature of Managerial Work (New York: Harper & Row, 1973).
+
+## Chapter 9
+
+Thomas Kuhn has begun to explore the issue of translation across appreciative systems of frames—he discusses it in terms of the predicament of translation across scientihc paradigms—in his "Postscript" to The Structure of Scientific Revolutions, (Chicago University of Chicago Press, 1962), Kuhn distinguishes between the "persuasion" by which parties to a dispute may arrive at agreement, within a shared paradigm, and the "conversion" by which scientists sometimes shift from one paradigm to another.
+
+2 Hannah Arendt, Thinking, Volume I of The Life of the Mind (New York: Harcourt Brace Jovanovich, 1971).
+
+3. Reported by George Ball and Charles Bohlen, in David Halberstam, The Best and the Brightest (New York: Random House, 1972).
+
+## Chapter 10
+
+1. Ivan Illich, Deschooling Society, Vol. XLIV of the World Perspectives series, Perennial Library, (New York: Harper & Row, 197o). But for a more scholarly version of a similar argument, see Magali Larson, "Professionalism: Rise and Fall," in International Journal of Health Services, 9, 4 1979.
+
+2. A view summarized in Paul Halmos, Professionalism and Social Change, The Sociological Review Monograph 2o, University of Keele, December 1973.
+
+3. See, for example, John Van Maanan, "Observations on the Making of Policemen," Human Organization, 32, 4 (Winter 1973): 407-418.
+
+4. Marie Haug, "Deprofessionalization: An Alternate Hypothesis for the Future," in Halmos, Professionalism and Social Change.
+
+5. Everett Hughes, "The Professions in Society," in The Canadian Journal of Economics and Political Science, 26, 1 (February 196o): 54–61.
+
+6. This term, first introduced by Samuel Taylor Coleridge to describe the stance appropriate to the reading of poetry, has become commonplace in contemporary discussions of education.
+
+7. Chris Argyris and Donald A. Schön, Organizational Leaming (Reading, Mass.: Addison-Wesley, 1978).
+
+8. See Martin Rein and Sheldon White, "Knowledge for Practice," DSRE Working Paper, MIT, Cambridge, Mass., October 198o.
+
+9. Leston Havens, Approaches to the Mind (Boston: Little, Brown, 1973).
+
+10. See Nathan Glazer, "Schools of the Minor Professions," Minerva, (1974).
+
+11. Karl Mannheim, Ideology and Utopia (New York: Harvest Books, 1936).
+
+12. See, for example, David Bloor, Knowledge and Social Imagery, (London: Routledge & Kegan Paul, 1976).
+
+13. Havens, Approaches to the Mind.
+
+14. Leston Havens, Participant Observation (New York: Jason Aronson, Inc., 1976).
+
+15. See, for example, Gary Bellow, The Lawyering Process (Mineola, N.Y.: The Foundation Press, 1978).
+
+16. Chris Argyris, The Inner Contradictions of Rigorous Research (New York: Academic Press, 1980).
+
+17. William Torbert, Creating a Community of Inquiry (New York: John Wiley & Sons, 1976).
+
+18. Britton Harris argues that formal optimization models are best treated as metaphors for planning decisions, in A Paradigm for Planning, forthcoming
+
+19. Chris Argyris and Donald A. Schön, "The Role of Failure in Double-Loop Learning," unpublished memorandum, 1979.
+
+20. Israel Scheffler, "The Cognitive Emotions," The Teachers College Record, 79, 2 (Dec. 1977): 171–186.
+
+21. Malcolm Parlett, "Reflecting on Practice," manuscript, London, England, 1981
+
+22. See Barry Jentz and Joan Wofford, Leadership and Learning (New York: Mc-Graw-Hill, 1979).
+
+23. Kevin Lynch has made this point in his recent proposals for an agenda of research in urban design.
+
+24. Max Weber, "Bureaucracy," in Oscar Grusky and George A. Miller, eds., The Sociology of Organizations (New York: Free Press, 194o), p. 7.
+
+25. Ibid., p. 13.
+
+26. This view, which has shaped most thinking about democracy in contemporary political science, is presented, for example, in Seymour Lipset, Martin Trow, and James Coleman, Union Democracy, (New York: Doubleday Anchor, 1956).
+
+27. Israel Scheffler, The Language of Education (Springheld, Ill.: C.C Thomas, 1960).
+
+28. An example of such an educational technology is described at length in Seymour Papert, Mindstorms: Children, Computers and Powerful Ideas (New York: Basic Books, 1981).
+
+29. See Chris Argyris, "Alternative Schools: A Behavioral Analysis," Teachers College Record, 75, 4 (May 1974): 424–452.
+
+30. See, for example, Samuel Bowles and Herbert Gintis, Schooling in Capitalist America (New York: Basic Books, 1976).
+
+31. This view of public policy formation as a process of rational choice has been set forth, for example, in Richard Zeckhauser and Edith Stokey, A Primer for Policy Analysis, (New York: Norton, 1978).
+
+32. See, for example, )effrey Pressman and Aaron Wildavsky, Implementation (Berkeley: University of California Press, 1979).
+
+33. Lipset et al, Union Democracy.
+
+34. Milovan Djilas, The New Class (New York: Holt, Rinehart & Winston, 1974).
+
+35. See Bernard Frieden, The Environmental Hustle, (Cambridge, Mass.: MIT Press, 1980).
+
+36. There have been many studies in the 197os which have observed and criticized the ineffectiveness of the regulatory mechanisms set up in response to the advocacy and protest movements of the 196os. See, for example, Lawrence Bacow, Bargaining for Job Safety and Health, (Cambridge, Mass.: MIT Press, 1980).
+
+37. Mario Cuomo uses this phrase, and illustrates its application, in his Forest Hills Diary (New York: Random House, 1974).
+
+38. Martin Rein and I have argued this point in "Problem-Setting in Policy Research," in Carol Weiss, ed., Using Social Research in Public Policy Making (Lexington, Mass: D.C. Heath, 1977).
+
+39. See, for example, Peter Marris and Martin Rein, Dilemmas of Social Reform (New York: Atherton Press, 1967).
+
+40. Eric Trist, "New Directions of Hope," Regional Studies, 13 (Elmsford, N.Y: Pergamon Press, 1979): 439–451.

@@ -1,0 +1,1 @@
+# ABCDEFGHIJ KLMNOPORS TUVWXYZ&I 234567890S Grecian X Condensed. First shown by Wells & Webb in the L. Johnson specimens for 1846. Lowercase is missing. ## ABCDEFGHIJ KLMNOPORS TUVWXYZ& Grecian XX Condensed. First shown by Jobn Cooley in his 1859 specimens. Lowercase and figures are missing.

@@ -1,0 +1,1 @@
+# ABCDEFG HIJKLMN OPQRSTU VWXYZ& &&&1234 567890\$ No Shx.Paiintelh, W'i.iam Parein:s-.Louer:xei: missing. This is one of the seventeen styles desioned for the die-cut types of Page and Setchell.

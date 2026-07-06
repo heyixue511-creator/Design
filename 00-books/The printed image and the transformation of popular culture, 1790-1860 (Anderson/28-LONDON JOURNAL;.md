@@ -1,0 +1,27 @@
+# LONDON JOURNAL;
+
+# And Elcckly Mecord of Literature, Science, and Art.
+
+VoL. VII]
+
+FOR THE WEEK ENDING AUGUST 12, 1848.
+
+[PrICE ONE PENNY.
+
+![](images/129ba77168ce0edeb78e619a1dd7d7cc7e006ec88b59a861c8ddab85c0a14068.jpg)
+
+## MRS. KEELEY.
+
+ladyis the oldest daughter of a most relefamily residingin one of the castern cound at a very early age exhibited that strong tion for the stage which has since matured to exellence in the peculiar line to which ent has been directed. The natural bias of loward's inelination was not dircouraged by nds; and when, therefore, she had arrired at might have been considered the attractive she was introduced to a Thespian corps then ing in the Norwich cireuit. In this company her vouthfal talent and lively disposition ensured her warm frlends and much eneouragement, and her suecess with tbe publio was iminediate and decisive. As a necessary consequence, an introduction to the metropolitan boards quiekly followed the report of her provineial triumphs.
+
+Miss Goward, then in her sixteenth year only, made her début at the Lveeum Theatre on Saturday, the 2ad of July, 1825, in the character of Rosina, in the favourite opera of that name. A novelty is at all times a powerful attraction to thestrical arities, and when it is presented in the perpop of a young and intoreating female, it bqcomes doubly so. The colebrity Misa Goward had earned in her provincial engagement had beeu loudly echoed among the stage whispers of the Green Roorm in the London houses, and the public was gratified and delighted by the conviction that she report of the youthful débutante's merit had not "o'erstepped the modesty of truth." Her appearance was intorestiug-her countenance intelligent and pleasing, though, perbaps, not such as to warrant the term beautiful. Her début was marked with that irresistible charm of unaffected timidity which, in a young aotress, never fails to swaken the better sympathies of even the moet
+
+## 38. Portrait of an actress, Mrs Keeley, London Journal, 1848
+
+conventionally attractive in their pictures. Moreover, possibly because the three magazines advertised themselves as family publications, those who wrote the accounts of actresses and singers were alwavs at pains to gloss over any real-life peccadilloes and present their subiects as women who never allowed their choice of career to compromise seriously either their obligatory female virtue or their social and biological destiny. Mrs Keeley for one was not only the blameless pride of a‘most respectable' county family, but was also the fond mother of two daughters—the issue of her legal and virtuous union with Mr Keeley.
+
+Thus, for all that the Journal, Miscellany, and Paper might sometimes have shown women possibilities different from those within their own experience, the view was always limited by a generalized, not necessarily fully articulated, nor even conscious, perception of where authority would seemingly always rest. As one male writer, more enlightened than many, had declared with apparent sincerity: ‘[women have] an intelligence equal to our own They deserve, therefore, the full enjoyment of every privilege that it is in our power to confer on them.’38 A similarly limited vision structured the three magazines'forays into political commentary and social criticism. So, in general, the best that they could offer to counter the values of the status quo were empathy or compassion for the plight of the deprived or abused. There was little in the way of enlightened analysis of, or outright protest against, the unequal distribution of power that lay at the heart of social injustice.39
+
+These, though, are criticisms from a present perspective; and, while it is important to make them, they should not distract us completely from a simpler approach to the lived past. To that end we need only remember that, whatever their shortcomings, the Journal, Miscellany, and Paper brought a high level of entertainment and escapism into lives that only a short time before had felt the want of such comforts. And if the popular experience of imagery was now much further removed from the Academy exhibition room than it had been just fifteen years earlier, that was not perhaps a matter of much concern to a majority of working people. For while their pictorial life had been depleted in one direction, along the lines of social and economic inequality, it had otherwise enriched and expanded itself. It was not just practical design and the images of pots and boot-scrapers that had replaced affordable, high-quality, fine art reproduction —The Dying Gladiator had also given way to needlework patterns and game boards, fashion and war illustration, images of the theatrical world and its players, and, above all, to the teeming life and lines of the engraved illustration of popular fiction.
+
+Of the readers and viewers who participated in and helped to shape this expanded pictorial experience only fragments of evidence remain. We can now do no more than repeat a few words, pick out a response or two, from all the vast number of individuals who chose to buy, read, and look at the second generation of pictorial miscellanies. Still, it is clear that these individuals made up a diverse group, a new kind of cultural formation which had begun with the readers of the Penny Magazine. They were together a social cross-section of women and men, the poor and the comparatively prosperous, the literate and the unlettered, the young and the not so, the middle and the working classes—they were, in a word, the mass.

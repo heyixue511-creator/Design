@@ -1,0 +1,1 @@
+# ABCDEFGH IJKLMNOP QRSTUVW XYZ123456 7890&&&s &S abcdefg hijklmnopq rstuvwxyz De Vinne. Cut by Hamilton circa 1895. Another cutting in wood of a popular metal type.

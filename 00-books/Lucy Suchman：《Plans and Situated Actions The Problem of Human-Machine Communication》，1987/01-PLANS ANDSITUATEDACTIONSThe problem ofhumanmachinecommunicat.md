@@ -1,0 +1,1 @@
+Lucy A. Suchman # PLANS AND SITUATED ACTIONS The problem of human machine communication Learning in doing: Social, cognitive, and computational perspectives GENERAL EDITORS: ROY PEA JOHN SEELY BROWN Plans and situated actions: The problem of human-machine communication Digitized by the Internet Archive in 2023 with funding from Kahle/Austin Foundation

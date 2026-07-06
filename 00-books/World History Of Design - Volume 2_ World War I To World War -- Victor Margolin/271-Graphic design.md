@@ -1,0 +1,21 @@
+Latin America: Chile, Argentina, Colombia, Venezuela, and Uruguay 1900–1939
+
+university as early as 1925. Arias, a government official, had long sought to enhance the prestige of technical education and combat the tendency to look down on the Industrial Schools. The university was able to consolidate and expand the earlier initiatives in industrial education and mounted a curriculum that ranged from programs in mechanics, construction, and naval industries to decorative arts, graphic design, and evening courses for workers. Also included was a Museum of Technology.
+
+The impact of the University of Work was of course limited by the degree of Uruguay's industrial development, which was modest compared to Europe and North America, but its programs confirmed and extended the earlier vision of Battle y Ordóńez that government support could help educate the architects, designers, graphic artists, and technical experts who were essential to industrial development.
+
+The Uruguayan middle class supported the construction of comfortable homes that required specialists in the design of furniture, ironwork, stained glass, and other industrial arts, and in the 192os and 193os graduates of the various industrial and decorative arts programs were more likely to find employment in industries related to building than hard goods or transportation. The two leading furniture companies in this period, Mueblería Caviglia and Giorello y Cordano, were both founded by Italian immigrants. They maintained high standards of workmanship based on long traditions of woodworking that extended back to Europe. Mueblería Caviglia's services ranged from custom carpentry to total environments. 'The company could also provide sculptures and wall hangings as well as carpets, lighting, and various other decorative objects. Besides private homes, Mueblería Caviglia furnished various commercial spaces such as private clubs, retail establishments, and hotels. Italian immigrants were also the principal practitioners of artistic ironwork that included gates, fences, and window grills.
+
+## Graphic design
+
+## Advertising
+
+During the interwar years a flourishing advertising industry developed in Montevideo, abetted in part by students trained in commercial art courses at the Circulo de Bellas Artes and the Escuelas Industriales. While there was little to promote in the way of domestic hard goods, Uruguay was a heavy importer of automobiles and other products from abroad. Domestic enterprises included cigarettes, beer, cosmetics, and foodstuffs. A leading brand of cigarettes was called Montevideo, a brand of matches was known as Victoria, and other brand names for cigarettes such as La Paz and Don Pepe were taken from episodes in Uruguayan history.
+
+Theories of marketing from abroad were well known and local entrepreneurs adopted them. Ads were published regularly in the city's newspapers and magazines and posters were used as well. Among the poster artists was the painter Milo Beretta (1881-1935), whose posters promoted Baco wines. The tobacconist José Borro (dates unconfirmed) designed the logo, advertisements, and posters for his own enterprise. Vicente Acarino (dates unconfirmed), founder of an advertising agency in the late 192os, announced to potential clients that they should embrace advertising so as not to appear antiquarian.
+
+## Magazines
+
+One of Latin America's oldest illustrated weeklies, Caras y Caretas, was founded in Montevideo in 1890 before moving in 1898 to Buenos Aires. In 1916, Anales Mundanos (Worldly Annals), a magazine dedicated to Uruguay's wealthy class appeared. Known simply as Anales, its aim was broad, including in its coverage social life, art, literature, and sports. The graphic quality was excellent and the editor drew on artists such as Carlos Alberto Castellanos (1881-1945), a modernist painter whose logo for the magazine adhered to the French style of decoration and lettering.
+
+Anales was followed by Mundo Uruguayo (Uruguayan World) in 1919. Modeled closely on Mundo

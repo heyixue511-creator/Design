@@ -1,0 +1,18 @@
+# BRITISHARTIST-POTTERS
+
+From left to right: Stoneware cup with ashglaze made in Ajuba, Nigeria, in the late 1950s, and an earthenware bowl, slipware, made in   
+Winchcombe, Gloucestershire c. 1928–9, both by Michael Cardew; a   
+stoneware vase with ash-glaze made by Katharine Pleydell Bouverie at Kilmington in 1960; a stoneware vase with Hakeme glaze with iron   
+brushwork by Shoji Hamada, 1930; and a stoneware pot with ash-glaze made by Bernard Leach at St lves, 1960
+
+Bernard Leach (1887–1979), who made his first pots at a raku party in Japan in 1911, not only revitalized lost traditions of English pottery but also, through his writings and teaching, put forward a vastly influential new philosophy of craftsmanship. Born in Hong Kong, he spent several years of his childhood in Japan and Singapore, before moving to London where he studied at the Slade School. On his return to Japan, he spent nine years studying early Japanese, Korean and Chinese pottery and learning the techniques used by traditional Japanese potters. In 1922 he returned to England accompanied by Shoji Hamada, a young Japanese potter, who helped him to build a kiln in St Ives, Cornwall, where he began to research traditional English techniques of earthenware, stoneware and slipware pottery.
+
+Hamada returned to Japan in 1923, but during the 1920s several other potters joined Leach in St Ives – Michael Cardew, Katharine Pleydell Bouverie and Norah Braden – fulfilling his ideal of a loose community of artist-potters. Pleydell Bouverie devoted her life to researching the different wood- and vegetable-ash glazes, setting up her own kiln at her parental home, Coleshill, where she was joined by Norah Braden. She later moved to Kilmington Manor, Wiltshire, where she continued to pot until her death. She said that she never learned to handle a brush, and her pots relied on the exquisite range of colour in her ash glazes – rich cream, black, smoky blue or green, or dove grey.
+
+Michael Cardew, who was primarily interested in earthenware and slip-glaze decoration, left St Ives in 1926 and set up his own pottery in Devon; in the 1930s he began to work in tin-glazed stoneware. The three years from 1942 were spent in Ghana, and in 1950 he returned to Africa, this time to Nigeria, where he remained for fifteen years and founded a Pottery Training Centre. In Africa, he discovered a more flamboyant sense of form and decoration, often using rich dark browns and black glazes decorated with free, vigorous brushwork.
+
+Hamada, although he frequently visited England, continued to work in Japan, where his meditative approach to ceramics influenced a whole generation of potters.
+
+Leach never tried to achieve uniform perfection, believing passionately that a good pot was created intuitively and should reflect the harmony between the potter and his materials, as well as his skill and artistic judgement. He expressed his views in 1940 in A Potter's Book: . . . it seems reasonable to expect that beauty will emerge from a fusion of the individual character and culture of the potter with the nature of his materials – clay, pigment, glaze – and his management of the fire, and that consequently we may hope to find in good pots those innate qualities which we most admire in people. It is for this reason that I consider the mood, or nature, of a pot to be of first importance. . . . No process of reasoning can be a substitute for or widen the range of our intuitive knowledge. .. .' Leach continued to make pots until his eyesight failed in the 1970s.
+
+![](images/c2883669eb098c2d21f8b4eab4b2dda5ad1264c77c32af26f3aa8548d4d60643.jpg)

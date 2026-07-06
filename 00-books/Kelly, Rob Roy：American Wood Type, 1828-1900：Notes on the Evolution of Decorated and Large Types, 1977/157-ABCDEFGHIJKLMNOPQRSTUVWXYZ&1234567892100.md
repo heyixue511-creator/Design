@@ -1,0 +1,1 @@
+# ABCDEFGH IJKLMNOP QRSTUVW XYZ&1234 567892100 Tuscan Italian. First shown by William Page in his 1859 specimens. Lowercase was not designed for this face in every instance. This design was shown by Connor & Sons, in 1855, in a size which suggests that it was cut in wood.

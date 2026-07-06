@@ -1,0 +1,13 @@
+<table><tr><td>PROTO- SINAITIC X</td><td>PHOENICIAN</td><td>HEBREW</td><td>ARABIC EARLY GREEK 一</td><td>LATIN A</td></tr><tr><td>OX 口</td><td>大</td><td>N</td><td></td><td>B</td></tr><tr><td>house 一</td><td>9</td><td>ユ</td><td>7</td><td>B</td></tr><tr><td>stick</td><td>7</td><td>ス</td><td>で 厂 5</td><td>C</td></tr><tr><td>E hand</td><td>K</td><td>U</td><td>K</td><td>K</td></tr><tr><td>w water</td><td>my</td><td>D</td><td>2 M</td><td>M</td></tr><tr><td>snake</td><td>7</td><td>7</td><td>N 1</td><td>N</td></tr><tr><td>9 eye</td><td>O</td><td>3</td><td>と O</td><td>0</td></tr><tr><td>A head</td><td>A</td><td>7</td><td>P J</td><td>R</td></tr><tr><td>E</td><td>W</td><td>W</td><td>M </td><td>S</td></tr><tr><td>tooth 十 X mark</td><td>D</td><td></td><td>T 1</td><td>T</td></tr></table>
+
+# Alphabets and Abjads
+
+The Latin alphabet is the most widely used script in the world today. It is an adaptation of the first Greek alphabet from 800 B.C. The letters from the Latin alphabet can be traced back to the three-thousand-yearold Egyptian hieroglyphs, as shown in the evolution of alphabets on the left. It is from the Egyptian writing from which the first true alphabet developed in Greece. ‘True alphabet’ is how alphabets are called in which both consonants and vowels are treated as equal letters. Not all alphabets do this. The Phoenician, Hebrew, and Arabic alphabets use mainly consonants as letters. Most vowels are spoken, not written, or marks are added to note vowels. This kind of alphabet is called ‘abjad’, after the first letters of the Arabic alphabet. ‘Abjads’ like Arabic and Hebrew do contain some vowels, like the letter ‘a’ which is a direct descendent from the Egyptian hieroglyph for ox, but most of the vowels are spoken, not written.
+
+## Characters and Letters
+
+Alphabets and abjads have the advantage that they only need a small amount of letters, usually a set ranging between twenty to thirty-five, while logographies can have hundreds or even thousand of characters. Abjads have fewer vowels than true alphabets, but that does not make them smaller. The basic Arabic alphabet has twenty-eight letters, two more than the English Latin alphabet. Each alphabet has evolved to fit its linguistic needs, with its unique letters and diacritics (accents). Cyrillic alphabets tend to contain more letters because they add letters rather than using diacritics. The Kabardian and Abkhaz alphabets from the Caucasus are the largest in the world, with fifty-eight and fifty-six letters, respectively.
+
+The following pages use the Arabic and Chinese scripts as examples to show how different scripts can influence design decisions and visual communication in general.
+
+盘 a

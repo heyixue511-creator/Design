@@ -1,0 +1,1 @@
+# Anne Massey interior design of the 20th century ![](images/b2c4535ae77a190430c19c78c1ea32530bf8aac6d5a197e8084800a4ac8dc775.jpg) Thames & Hudson world of art

@@ -1,0 +1,1 @@
+# GRAPHIC DESIGN ## Edited by Steven Heller and Georgette Ballance ![](images/f76f3a09dfabf721d8850adb0e6b2fee7bf14f988a0ee639e8e22cb083b2e7cb.jpg)

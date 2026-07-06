@@ -1,0 +1,1 @@
+# ABCDEFGHIJKL MNOPORSTUV! WXYZ&123456 7800000Sabcd efghijklmnopqr stUvwxyzmam Teniers, Unique (Heber Wells), No.165 (Page). First shown by Hamilton in his 1888 specimens.

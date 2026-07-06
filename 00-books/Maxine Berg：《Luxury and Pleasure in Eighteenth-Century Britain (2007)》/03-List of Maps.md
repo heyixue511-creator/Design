@@ -1,0 +1,1 @@
+## List of Maps 2.1 World trade routes, late eighteenth century 48 2.2 Calico painting and printing in south India 63 2.3 Japan, China, and South East Asia 65 8.1 Eastern North America, 1690–1748 292

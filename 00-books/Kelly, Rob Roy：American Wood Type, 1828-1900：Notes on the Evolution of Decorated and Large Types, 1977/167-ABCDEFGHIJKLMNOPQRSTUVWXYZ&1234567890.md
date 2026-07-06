@@ -1,0 +1,1 @@
+# ABCDEF GHIJKLM NOPQRS TUVWX YZ&123 4567890 Courier. This design was cut only by Morgans & Wilcox, so it must be dated after 1881. Lowercase is missing.

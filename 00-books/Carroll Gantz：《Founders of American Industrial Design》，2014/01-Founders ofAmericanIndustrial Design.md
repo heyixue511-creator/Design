@@ -1,0 +1,1 @@
+# Founders of American Industrial Design ![](images/9fb60e0e090ae78198e426c8227884f8cb2906a3de9917f155ac36652611a7b4.jpg) Founders of American Industrial Design ALSO BY CARROLL GANTZ AND FROM MCFARLAND The Vacuum Cleaner: A History (2012) The Industrialization of Design: A History from the Steam Age to Today (2011)

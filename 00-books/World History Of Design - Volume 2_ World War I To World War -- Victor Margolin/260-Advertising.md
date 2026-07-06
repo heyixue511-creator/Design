@@ -1,0 +1,16 @@
+![](images/fa0223984270c57f451e6f0dd76f5c0ba6b44cfef587cd028217923c92c2628f.jpg)  
+Fig. 30.06: Alejandro Sirio, La Gloria de Don Ramiro, illustration, 1908. Private Collection.
+
+Caras y Caretas and Plus Ultra. Alejandro Sirio had collaborated extensively with those two publications and for many years he also served as a staff artist for La Nación, having replaced José María Cao.
+
+## Advertising
+
+Due to the large number of daily, weekly, and monthly publications in Buenos Aires, advertising flourished and many artists who did editorial illustration also illustrated advertisements. Argentina produced little in the way of hard goods, so many of the ads were for food and drink, cigarettes, clothing, health and hygiene products, and cosmetics. Most were from domestic manufacturers, but some foreign companies like Lux Soap advertised extensively. Hard goods from abroad such as sewing machines and automobiles were also promoted through advertising. The ads appeared mainly in the illustrated magazines and daily press, although posters on outdoor hoardings were used sporadically, both for products and for films.
+
+Similar to the development of advertising in other parts of the world during the period from the turn of the century to World War II, techniques and styles matured rapidly. Early ads in the illustrated magazines continued the 19th-century strategy of anecdotal illustration with occasional elaborate hand lettering. Art Nouveau was also an influence, sometimes to the point where artists lifted components directly from earlier European examples such as the ad for the famous Buenos Aires cafe La Brasileña, which recalls details of the posters for Rajah coffee by the Belgian artist Privat Livemont. Comic characters and comedic situations were also depicted in various ads.
+
+Media scholars Oscar Steimberg and Oscar Traversa have defined a trajectory of transitions in Argentine advertising of this period that moves from 19th-century anecdotal illustration to Art Nouveau and then to Art Deco and realistic drawings and paintings in the American style of the 192os and 193os. Art Deco was introduced to Argentina in the late 192os and was evident in advertising illustration from then until the 193os. The delicate line drawings of French fashion illustrators like Erté strongly influenced advertisements for cosmetics and other products for women, but by the late 193os the pragmatic American approach, which incorporated realistic illustrations into “reason why" copy that provided a hard sell to consumers, had become relatively widespread. By this time photography was also used extensively instead of illustration.
+
+One person who worked outside the trajectory of styles proposed by Steimberg and Traversa was the poster artist Achille Mauzan. Though French, Mauzan had lived in Italy and was among Italy's most prominent poster artists in the early years of the 2oth century along with Adolfo Hohenstein and Leopoldo Metlicovitz (see Chapter 17). He was steeped in the culture of European poster advertising and brought this knowledge to Buenos Aires. The sophistication of Mauzan's posters far surpassed anything that was being produced in Argentina at the time.
+
+Mauzan arrived in Buenos Aires in 1927 and

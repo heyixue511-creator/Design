@@ -1,0 +1,1 @@
+# NEWYORKER ![](images/61646db69464c1941be44170e5453399a7308daeea64b04c4f11b97f2634571b.jpg) Fig. 239. Drawing by Saul Steinberg. From The New World (Harper & Row). © 1964 Saul Steinberg. Originally in The New Yorker

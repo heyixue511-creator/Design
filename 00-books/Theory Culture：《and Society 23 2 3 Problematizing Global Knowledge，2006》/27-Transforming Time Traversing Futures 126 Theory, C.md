@@ -1,0 +1,83 @@
+nature, culture and spirit world. This integrating function has been largely dropped in the clockbased time-reckoning system. With clock-time the tie with temporality, contextuality and variation has been severed and contingent rhythmicity replaced with a decontextualized, invariable machine-time. It is this shaping of time to human design that we turn to next.
+
+## Transforming Time
+
+Clock-time, which was developed in Europe during the 14th century, no longer tracks and synthesizes time of the natural and social environment but produces instead a time that is independent from those processes: clock-time is applicable anywhere, any time. Context no longer plays a role. Variable hours, which changed with the seasons – in the northern hemisphere, short hours in winter and long ones in the summer; vice versa in the southern hemisphere – are replaced by invariable hours. The clock tells the same hour irrespective whether it is night or day, summer or winter, in the southern or northern hemisphere. Invariability, rather than the integration of fundamental variance is the goal: variance means the clock is going wrong. Standardization, quantification and universalization are its singular achievements. Clock-time is ready for service anywhere on earth and beyond, ready to measure time and structure the day, whatever the field of application. The ease with which clock-time can be applied anywhere has huge advantages compared to time-reckoning systems that were weathersensitive, such as the water clock that froze up in cold weather, time-tracking technologies that were dependent on daylight such as sun dials, or time-measuring devices that required (constant and/or consistent) maintenance and attendance, such as hour-glasses and candles. With the clock, time keeping ceased to be a chore or problem and became instead a modern, taken-for-granted convenience.
+
+The fact that this machine-time no longer resembles any of the temporalities of existence, that is, change process, cycles of repetition with variance and rhythmicity, initially posed only minor problems. When the invariable time of the clock is superimposed on living systems, it tends to be the living systems that are required to adapt to the machine-time rather than the other way around. In other words, systems marked by variability and imprecision are asked to orient to decontextualized, invariable precision. Thus, for example, people no longer work during the hours of daylight but their working day (with slight historical and contextual variations) extends over a predetermined, mostly fixed, number of hours. Schools start at the same time throughout the year. Cows are milked to a clock-based schedule. To increase their productivity, chickens have their daylight artificially extended to fit the standard day. To enable all-night harvesting, combine harvesters are equipped with floodlights and their drivers paid ‘overtime’ for the time that exceeds their standard working day. The cumulative effects of these impositions, however, have begun to register on the health of people and the sustainability of their environments.
+
+There is considerable agreement among time scholars about the institutional root of this particular rationalization of time. Among others, the historian Jacques Le Goff (1980), the philosopher Lewis Mumford (1955/1934), the geographer Nigel Thrift (1988) and sociologists Max Weber (1989/1904–5) and Eviatar Zerubavel (1981, 1985) have detailed the slow development of the clock from its early application in the Christian monasteries, where the time discipline was employed to better serve God, to today where it has become an unquestioned, naturalized system of social organization that has been exported across the world as the standard against which all other systems are measured and found wanting. The creation of rationalized time, some of these scholars argue, goes some way to explain the shift in global power from East to West and South to North.
+
+## Trading Time
+
+It is particularly in its association with money that clock-time has become the precondition for industrialization and capitalist development, which today constitutes both promise and curse for non-industrialized cultures as well as societies structured and organized on the basis of different temporal principles. In industrialized societies, time and money are mentioned in the same breath: time is money. Yet this has not always been the case; the relation has not always been, and is not everywhere understood, like this.
+
+Time used to (and in many societies still does) belong to the gods and God/Allah. As such it could not be traded because trade in goods that do not belong to you is theft – ‘usury’ in the words of the Bible. In his seminal The Protestant Ethic and the Spirit of Capitalism Max Weber details the shift in understanding of time from God’s gift to commodity, a change in perception and practice that was anything but direct or intended: far from it. Initially directed to the service of God, the rationalization of time in the monasteries was adapted for the ascetic use of Protestants; it was to ensure the salvation of their souls. By the time the religious fervour had begun to fade, making room for pure capitalist accumulation to flourish, the idea that time was money had been set and adopted as norm, the associated practices entrenched, and other temporal orientations and structures de-legitimized. The new knowledge practice had been naturalized, other knowledge practices forgotten, displaced and negated.
+
+When time is money you pay and get paid interest for loans. Efficiency and profitability are linked to achieving maximum output in the minimum time expended. And, as Karl Marx theorized in Capital (1976/1867), the fastest throughput and shortest possible capital outlay are part and parcel of that commodification of time. Hence, when time is money faster is better. Speed is valorized as an unquestioned and unquestionable goal. Naturalized as common sense, it overshadows other considerations. It does this not just in the globalized world of work but in all other spheres of social interaction that have been penetrated by this ethos.
+
+With information and communications technologies (ICT) time compression has reached its zenith: succession and duration have been replaced by seeming instantaneity and simultaneity. Duration has been compressed to zero, elevating human capacity to that of extraterrestrial beings, that is, to be everywhere at once and nowhere in particular. With that move the present is extended spatially to encircle the earth. For those with access to ICT, and those implicated in its effects, the present has been globalized and, as Virilio (1995) points out, intensity has taken over from ‘extensity’, bringing with it the possibility of concerted action in ‘real time’. From an economic perspective, therefore, communication at the speed of light is the pinnacle of efficiency.
+
+The economic time values, associated with the trade in time and inescapably tied to the creation of clock-time, have been exported across the world and imposed as globally standardized norm irrespective of their suitability to specific contexts, local conditions and traditions. Cultural resistance to this norm is equated with backwardness. Associated inequities are silenced, their effects rendered invisible. While clock-time dominates the world of work and the global economy, the great majority of the world’s people function in the shadows of the time economy of money. Children and the elderly, the unemployed, carers the world over and subsistence farmers of the majority world inhabit the shadowlands of un- and undervalued time. Women dwell there in unequal numbers. Their time does not register on the radar of commodified time. Their work is not accorded value in the capitalist scheme of things. Rather, it is rendered invisible. As ‘unproductive’ work it is relegated to the shadow of capitalist production, beyond reach and concern (Adam, 2002, 2004: 123–48).
+
+The quest to control time is central to understanding some of these historical changes and developments in temporal relations. As I have suggested above, efforts in the transcendence, tracking and trading of time have smoothed some of the edges of the terror of non-existence. These strategies have provided a semblance of individual and collective control: continuity in the face of finitude, permanence in the face of transience and ephemerality, certainty and security in the face of indeterminacy. The utilization of clock-time for economic purposes, however, provided the ultimate tool for social control. The clock-time-based shift from quality to quantity and from temporality to space (that is, time as measurable length) in particular, has enhanced control not just over processes of production and the organization of work but also over social life more generally. This control is intimately tied to the standardization and rationalization of time into a linear process along whose axis causal events can be plotted on the one hand and to the transformation of time from God’s gift to economic, tradable resource on the other.
+
+However, as every aspect of temporal existence has come to be redefined from the industrial time perspective and restructured accordingly, so the increasingly dramatic effects of that ‘mastery’ have evaded control. Thus, for example, with the development of networked electronic information technologies that operate at near the speed of light the pre-conditions for temporal control have been eliminated. Cause, sequence, linearity and predictability have been swept away in the quest for the ultimate compression of time: the combination of instantaneity and simultaneity or, to put it differently, information transfer that is instantaneously dispersed across space has been achieved at the expense of hundreds of years of advancements in efforts to control the uncontrollable and predict the unpredictable. In the potential instantaneity and simultaneity of information transfer, therefore, new frontiers of control needed to be opened up for exploitation. One of these new frontiers is the future.
+
+## Traversing Futures
+
+Of course this new frontier is not really new. The future has been exploited since the Middle Ages when merchants, and especially global traders, needed to calculate their profits and losses for extended periods. With trade ships at sea for months and even years at a time, merchants begun to trade not just goods but the promise of goods; and from that period onwards the trade in futures became part and parcel of the western, capitalist economic system. The trade in futures buys and sells futures for the benefit of the present, for profit in the here and now.
+
+A similar position is taken in another key feature of the economic system, the discounting of the future. Since all profit is established on the basis of its relevance to the present, future events decrease in value proportional to the temporal distances involved. They are discounted to establish their value in, for and to the present. While the system of discounting can be justified for the trade of goods, it becomes highly problematic for the trade in ‘bads’, to use Ulrich Beck’s (1999) term, when it is applied, for example, to environmental problems such as pollution. In this case the standardized economic practice of discounting the future means that a problem that can be calculated to constitute £1 million of trouble in 100 years time can be rendered harmless by this process: discounted, it is no problem worth talking about for us now, in the present.
+
+It is worth noting that future generations, and all other recipients of the eventual effects of that exploitation, do not feature in economic relations to the future such as the trade in and discounting of futures. Just as the work of the majority of the world’s people is air-brushed out of the globalized capitalist system of exchange, so the impact on future generations and fellow species is rendered invisible and irrelevant by the temporal strategies that form an integral part of the modern capitalist way of doing business and playing the global market. From the above we can glean that in industrial societies today the present is transcended and the future as last frontier colonized with enduring things, belief systems and institutions, with cultural and technological products, with insurance and economic practices. As such, the future is pursued, prospected, produced, polluted. It is thus traversed in the dual sense of being ‘travelled’ and negated.
+
+If we now return to the temporal relations we had discussed in the earlier parts of the article, a number of issues come to the fore. Thus, for example, we note that the boundedness of human existence is today transcended as never before. Chemical pollution has reached not just every species in every place on earth but cumulates in fatty tissue and increases with every generation. The impact of nuclear power extends for millennia hence, while genetic engineering taps into the beginning of time to produce effects for an open-ended future, the temporal equivalent of forever. Furthermore, unlike the time transcendence of ancient forebears, the industrial extension into the future is characterized by parasitical borrowing from the future, by prospecting and plundering it for use and benefit in the present without regard to time-space distantiated effects, that is, globalized impacts now and in the future. By depending on science as primary knowledge base and economics as ultimate legitimator of action,
+
+## 126 Theory, Culture & Society 23(2–3)
+
+finally, our predecessors’ enormous gains in time transcendence and time tracking know-how have been sacrificed for a radical present orientation and the associated abdication of all responsibility for latent, time-space distantiated impacts that will arise as symptoms somewhere and/or some time in the future. Much in our knowledge base and dominant socioeconomic practices needs to be changed, therefore, before some of that ground can be regained and new openings can be identified for temporal relations that are both appropriate to the contemporary condition and mindful of others’ futures.
+
+## References
+
+Adam, B. (2002) ‘The Gendered Time Politics of Globalisation: Of Shadowlands and Elusive Justice’, Feminist Review 70: 3–29.
+
+Adam, B. (2004) Time. Cambridge and Malden, MA: Polity Press.
+
+Aveni, A.F. (1980) Skywatchers of Ancient Mexico. Austin: University of Texas Press.
+
+Beck, U. (1999) World Risk Society. Cambridge: Polity.
+
+Critchlow, K. (1979) Time Stands Still: A New Light on Megalithic Science. London: Gordon Fraser.
+
+Durkheim, E. (1971/1912) The Elementary Forms of Religious Life: A Study in Religious Sociology, trans. J.W. Swain. London: George Allen and Unwin.
+
+Eliade, M. (1989/1949) The Myth of Eternal Return: Cosmos and History. London: Arkana.
+
+Elias, N. (1992) Time: An Essay. Oxford: Blackwell.
+
+Gosden, C. (1994) Social Being and Time. Oxford: Blackwell.
+
+Landes, D.S. (1983) Revolution in Time. Cambridge, MA: Harvard University Press.
+
+Le Goff, J. (1980) Time, Work and Culture in the Middle Ages. Chicago: University of Chicago Press.
+
+Lippincott, K., U. Eco, E.H. Gombrich et al. (1999) The Story of Time. London: Merrell Holberton.
+
+Marx, K. (1976/1867) Capital, vol. I. Harmondsworth: Penguin.
+
+Mumford, L. (1955/1934) ‘The Monastery and the Clock’, pp. 3–10 in The Human Prospect. Boston, MA: Beacon Press.
+
+Thompson, J.E.S. (1974) ‘Maya Astronomy’, Philosophical Transactions of the Royal Society of London 276: 83–98.
+
+Thrift, N. (1988) ‘Vicos Voco: Ringing the Changes in Historical Geography of Time Consciousness’, pp. 53–94 in M. Young and T. Schuller (eds) The Rhythms of Society. London: Routledge and Kegan Paul.
+
+Virilio, P. (1995) La Vitesse de libération. Paris: Galilée.
+
+Weber, M. (1989/1904–5) The Protestant Ethic and the Spirit of Capitalism, trans. T. Parsons, Intro. A. Giddens. London: Unwin Hyman.
+
+Zerubavel, E. (1981) Hidden Rhythms: Schedules and Calendars in Social Life. Chicago: University of Chicago Press.
+
+Zerubavel, E. (1985) The Seven-day Circle: The History and Meaning of the Week. Chicago: University of Chicago Press.
+
+Barbara Adam is Professor of Sociology at Cardiff University. She is founding editor of Time & Society and has published extensively on social time and future relations.

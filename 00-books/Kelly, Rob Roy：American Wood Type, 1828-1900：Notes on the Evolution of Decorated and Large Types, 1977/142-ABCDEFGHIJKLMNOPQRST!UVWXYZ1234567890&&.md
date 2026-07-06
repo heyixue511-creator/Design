@@ -1,0 +1,1 @@
+# ABCDEFG HIJKLMN OPQRST! UVWXYZ 1234567 890&&? Gothic Light Face. First shown by William Page in his 1859 specimens. This cutting is by the Hamilton Company. Lowercase is missing. Light face styles of Gothic, particularly the condensed designs, were revived in the late 1870's and used throughout the 1880's. The new light styles were well executed.

@@ -1,0 +1,14 @@
+![](images/86d254bd588d1f9dbe57f7d4bb7436858325a8927073fdb9bd8ccc2db87b6900.jpg)  
+Fig. 26.20: Topi Vikstedt, God Passes, cover, 1929. Courtesy National Library of Finland.
+
+clients were a brewery and the newspaper Dag Bladet. Olaf Krohn (1863-1933) and other artists associated with the Fabritius advertising agency also produced posters.
+
+One of the early local design offices that created advertisements and advertising posters in Finland was De Tre (The Three), founded around 1913 by Toivo (Topi) Vikstedt (1891–1930), Bruno Tuukkanen (1891– 1979), and Harry Röneholm (1892–1951). After two years, the principals went their separate ways. Vikstedt continued to work as an illustrator and book designer for various publishers. Subsequently he formed another office for illustration and commercial art with his wife Karin. As an independent artist, Vikstedt designed many book covers for Otava Publishers, a firm he joined in 1923 as the resident book designer (Fig. 26.20). Although he never gave up classicism completely, he did begin to draw more modern covers for Otava, particularly in a Cubist style. In 1926, Vikstedt was a founder of the graphic design department in the Central School of Arts and Crafts, thus contributing to the beginning of formal graphic design education in Finland.
+
+During the 193os, modern designs appeared selectively in Finnish advertising. The airbrush posters of Eric Gardberg (1905–1969) for Stockmann's Department Store recalled French fashion illustration of the period. Other artists such as Einari Wehmas (1898–1955), Jorma Suhonen (1911-1987), and the team of Göran Hongell, primarily a designer of glassware, and Gunnar Forsström (1894-1958) designed posters in styles that ranged from the Cubist-inspired work of Wehmas to the posters of Suhonen and Hongell and Forsström that featured flat colors and san serif lettering. Suhonen's poster, Visit Finland, was done in anticipation of the 194o Olympics that Finland had hoped to host before that hope was dashed by the onset of World War II (Plate 35).
+
+## Bibliography
+
+## Bibliographic essay
+
+One of the early surveys of Scandinavian design that included this period is David McFadden, ed., Scandinavian Modern Design 1880-198o, the catalog of an exhibition at the Cooper-Hewitt Museum in New York. Charlotte and Peter Fiell's Scandinavian Design is predominantly a visual record, while Kjetil Fallan's Scandinavian Design: Alternative Histories exemplifies the most recent scholarship on the subject. Erik Dal, Scandinavian Bookmaking in the Twentieth Century is an indispensible guide to this little-known topic of book

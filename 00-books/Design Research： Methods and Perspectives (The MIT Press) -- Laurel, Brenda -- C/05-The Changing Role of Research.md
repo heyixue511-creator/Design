@@ -1,0 +1,11 @@
+# The Changing Role of Research
+
+CHRISTOPHER IRELAND
+
+Few designers today have the luxury of creating their own vision with no input from others. If they desire to attract and delight customers or audiences for their work, they need to understand the people for whom they design. That used to be much easier. The U.S. was a “mass market" and people acted in concert. They bought similar things, they listened to similar music, they watched similar movies, and they even praised similar gods. If a designer understood a small group of people— perhaps neighbors, friends or family—then he or she could design for them and still be relevant to millions of others.
+
+But that has changed. The U.S. is home to over 290 milion highly diverse people, and the growth trend is toward more diversity. Furthermore, very few mass movements exist anymore. People have learned to choose how they spend their time and their money based on their individual beliefs, their personal desires and their specific needs. While some decry the helplessness of the consumer at the mercy of big business, in fact, the balance of power began to shift over a decade ago and shows no signs of stopping. It is big business—or any enterprise hoping to capture people's attention—that now is at the mercy of their customers or patrons. How these customers choose can make or break a company, an institution or an individual artisan.
+
+For a designer, this is a formidable world. It requires a keen understanding of people, cultures and belief systems that may seem completely foreign and unintelligible. It requires patience and an open attitude. It also requires skills and perspectives that are not traditionally taught in design school. Identifying, observing and interpreting human behaviors and attitudes toward design is a discipline in and of itself—it's not easy to “wing it."
+
+On the pages that follow, you'll meet people who have built successful careers understanding people in order to improve and enhance design. They explain the techniques and the approaches that have worked for them and offer guidance on where the future is going. In total, they offer a wide variety of methods that help designers reach beyond the constraints of their individual world-views and into a new world of choice and diversity.

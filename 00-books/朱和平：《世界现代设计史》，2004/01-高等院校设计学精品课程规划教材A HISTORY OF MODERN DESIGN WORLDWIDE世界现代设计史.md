@@ -1,0 +1,1 @@
+# 高等院校设计学精品课程规划教材 A HISTORY OF MODERN DESIGN WORLDWIDE 世界现代设计史 ISBN978-7-5344-6765-3 ![](images/668a2ab53af60daf50d110b1a1ec51801018332b8de94c707908383bbed68a02.jpg) ISBN978-7-5344-6765-3 定价：45.00元 (下载教学演示文档请登录www.jsmscbs.com.cn)

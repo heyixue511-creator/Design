@@ -1,0 +1,1 @@
+# UNIVERSAL DESIGN HANDBOOK ![](images/0eef72e3e2a747f8c41fd0a522308cc51de232235b20db71ed3f3ac4c08ca5f7.jpg) Digitized by the Internet Archive in 2022 with funding from Kahle/Austin Foundation

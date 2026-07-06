@@ -1,0 +1,1 @@
+Acknowledgments Prologue: Man as His Own Maker PART ONE: CRAFTSMEN 1. The Troubled Craftsman 2. The Workshop 3. Machines 4. Material Consciousness PART TWO: CRAFT 5. The Hand 6. Expressive Instructions 7. Arousing Tools 8. Resistance and Ambiguity PART THREE: CRAFTSMANSHIP 9. Quality-Driven Work 10. Ability ## Contents Conclusion: The Philosophical Workshop Notes Index

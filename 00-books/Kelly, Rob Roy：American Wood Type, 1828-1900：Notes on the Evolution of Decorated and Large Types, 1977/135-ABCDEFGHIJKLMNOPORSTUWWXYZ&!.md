@@ -1,0 +1,1 @@
+# ABCDEFG HIJKLMN OPORSTU WWXYZ&! Kurilian, Eureka. First shown as a wood type during the 1880's. Lowercase and figures are missing. T'be basic design for this style came from Europe and was shown by American typefounders during the mid-1850's.

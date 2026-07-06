@@ -1,0 +1,1 @@
+# William Morris The Arts and Crafts Movement A DESIGN SOURCE BOOK by Linda Parry of the Victoria and Albert Museum, London with an essay on Textiles of the American Arts and Crafts Movement by Gillian Moss of the Cooper-Hewitt Museum, New York PORTLANDHOUSE NEW YORK

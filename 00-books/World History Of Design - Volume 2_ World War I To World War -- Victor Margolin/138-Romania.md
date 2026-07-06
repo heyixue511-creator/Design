@@ -1,0 +1,14 @@
+of Nova Literatura) also published left-wing books by local and foreign authors. Articles in Nova Literatura were in the Serbian language though they were written mainly by leftist authors abroad—Bertolt Brecht, Kurt Tucholsky, and Anna Seghers in Germany; Maxim Gorky in the Soviet Union; and Upton Sinclair in the United States. Illustrations were by foreign artists like Pablo Picasso, George Grosz, and Otto Dix and local artists as well.
+
+What distinguished Nova Literatura graphically from other socially oriented publications, however, were the photomontages of Pavle Bihalji, which were strongly influenced by the work of John Heartfield. Unlike Czechoslovakia and Poland, photomontage was little known in Yugoslavia, and Bihalji's were among the few examples to be seen in the country. Bihalji also created photomontage covers for books published by Nolit, following the example of the covers that Heartfield designed for the Malik Verlag in Berlin. The Minerva publishing house in Zagreb followed suit by commissioning Franjo Bruck (dates unconfirmed) to create photomontage covers for a series of books by the prominent Croatian writer Miroslav Krleža.
+
+![](images/63694202645817a8bb06aade33fa21ba008b6e274f73adade1d58dd657f20245.jpg)  
+Fig. 25.25: Contimporanul, cover, 1924. Biblioteca Academiei Romane.
+
+## Romania
+
+## The avant-garde
+
+The situation for avant-garde Romanian poets and artists was similar to that in Yugoslavia. They lived in a conservative culture and tried to change it by publishing new literature and exhibiting new art. A central figure in this movement was Marcel Janco, who was among the first to join the nascent Dada movement in Zurich when it began in 1916 (see Chapter 18). After several years in Western Europe, Janco returned to Romania in 1921. He was instrumental in founding the avantgarde journal Contimporanul in 1922 and remained involved with it as a writer and artist for the ten years of its existence. The covers varied in typographic format although they were not as brash or polemical as those of subsequent Romanian journals (Fig. 25.25).
+
+Two years later, Contimpuranul's claim to speak for the Romanian avant-garde was challenged by 75 HP (a reference to a powerful automobile), a new journal created by a young poet, Ilarie Voronca (1903-1946), and his friend, the artist Victor Brauner (1903-1966). Brauner's polemical cover of the single issue consisted of large letters and numbers combined with abstract forms on the front and texts printed horizontally, vertically, and diagonally on the back (Fig. 25.26). The issue contained two manifestoes. The first by Voronca, which he called an Aviogram, had a layout that reflected many prior sources including the calligrams of Apollinaire and the words-in-liberty of Marinetti. The principle objective of the second, which was entitled "Pictopoetry” and was co-written with Brauner, was to

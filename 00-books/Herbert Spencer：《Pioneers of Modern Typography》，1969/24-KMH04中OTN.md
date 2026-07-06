@@ -1,0 +1,1 @@
+# KMH04 中OTN # MN OHHJhT Alexander Rodchenko, 1922. Cover design for the magazine Kino-fot. ![](images/2bae9f77c138baf4b1f11c0973e3ff49b74d766dcb347cb83c71571a586660d9.jpg) POAnm KMHO RO POMAHY AHEHA MAPTHH HA3H
