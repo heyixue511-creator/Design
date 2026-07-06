@@ -37,6 +37,16 @@
 | P029 | [`P029-Design-Issues-Editors-2004-2013-report.md`](P029-Design-Issues-Editors-2004-2013-report.md) | 期刊史、学术共同体、人物网络 | C |
 | P030 | [`P030-Design-Research-Society-Conference-1998-report.md`](P030-Design-Research-Society-Conference-1998-report.md) | DRS、创新管理、设计研究学术史 | C |
 | P031 | [`P031-Mullet-Sano-Designing-Visual-Interfaces-review-report.md`](P031-Mullet-Sano-Designing-Visual-Interfaces-review-report.md) | 视觉界面设计、HCI、GUI 与视觉传达 | B |
+| P032 | [`P032-Dorst-Core-of-Design-Thinking-report.md`](P032-Dorst-Core-of-Design-Thinking-report.md) | 设计思维、溯因推理、框架创造 | A |
+| P033 | [`P033-Dorst-Cross-Creativity-Co-evolution-report.md`](P033-Dorst-Cross-Creativity-Co-evolution-report.md) | 设计创造力、问题—方案共同演化、协议分析 | A |
+| P034 | [`P034-Dunne-Raby-Placebo-Project-report.md`](P034-Dunne-Raby-Placebo-Project-report.md) | 批判设计、Placebo Project、电子物文化 | A |
+| P035 | [`P035-Engholm-Digital-Style-History-report.md`](P035-Engholm-Digital-Style-History-report.md) | 数字风格史、Web 设计、网络视觉文化 | A |
+| P036 | [`P036-Fallman-Interaction-Design-Research-Triangle-report.md`](P036-Fallman-Interaction-Design-Research-Triangle-report.md) | 交互设计研究、三角模型、设计探索 | A |
+| P037 | [`P037-Foucault-Of-Other-Spaces-Heterotopias-report.md`](P037-Foucault-Of-Other-Spaces-Heterotopias-report.md) | 异托邦、空间理论、建筑与设计理论 | A |
+| P038 | [`P038-Frampton-Critical-Regionalism-report.md`](P038-Frampton-Critical-Regionalism-report.md) | 批判地域主义、现代性批判、建筑理论 | A |
+| P039 | [`P039-Jonas-Research-through-Design-Cybernetic-Model-report.md`](P039-Jonas-Research-through-Design-Cybernetic-Model-report.md) | research through design、控制论、设计知识论 | A |
+| P040 | [`P040-Boehner-How-HCI-Interprets-the-Probes-report.md`](P040-Boehner-How-HCI-Interprets-the-Probes-report.md) | 文化探针、HCI 方法论、reflective HCI | A |
+| P041 | [`P041-Donthu-How-to-Conduct-Bibliometric-Analysis-report.md`](P041-Donthu-How-to-Conduct-Bibliometric-Analysis-report.md) | 文献计量、科学图谱、研究方法 | A |
 
 ## 待核文档
 
