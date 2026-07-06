@@ -13,16 +13,25 @@
 | ⬜ 未处理 | 尚未生成报告 |
 | ⚠️ 待核 | 文献信息、页码、题名或来源需核对 |
 
-## 二、已完成批次
+## 二、目录结构规则
+
+`00-books-result/` 与 `00-books/` 保持相同的相对目录结构：
+
+```text
+00-books/某书名/某章节.md
+00-books-result/某书名/某章节-report.md
+```
+
+## 三、已完成批次
 
 | 编号 | 原始文档 | 报告文件 | 状态 | 重要性 | 备注 |
 |---|---|---|---|---|---|
-| B0001 | `00-books/BUCHANAN, RICHARD. Branzi/01-Branzi's DilemmaDesign in Contemporary CultureRich.md` | `B0001-Buchanan-Branzi-Dilemma-report.md` | ✅ 已完成 | A | 当代设计文化、现代主义之后、设计伦理与身份问题 |
-| B0002 | `00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_58_preface_Introduction.md` | `B0002-Margolin-World-History-of-Design-Vol2-China-Introduction-report.md` | ✅ 已完成 | A | 中国现代设计史、工业化、五四、南京十年、殖民与战争语境 |
-| B0003 | `00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_59_body_China___Crafts,_early_industri.md` | `B0003-Margolin-World-History-of-Design-Vol2-China-Crafts-Shanghai-report.md` | ✅ 已完成 | A | 中国现代设计史、上海现代、商业美术、出版与广告 |
-| B0004 | `00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_63_body_Developing_a_design_policy___F.md` | `B0004-Margolin-World-History-of-Design-Vol2-Japan-Design-Policy-report.md` | ✅ 已完成 | A | 日本现代设计史、设计政策、工业工艺、Art Deco |
+| B0001 | `00-books/BUCHANAN, RICHARD. Branzi/01-Branzi's DilemmaDesign in Contemporary CultureRich.md` | `00-books-result/BUCHANAN, RICHARD. Branzi/01-Branzi's DilemmaDesign in Contemporary CultureRich-report.md` | ✅ 已完成 | A | 当代设计文化、现代主义之后、设计伦理与身份问题 |
+| B0002 | `00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_58_preface_Introduction.md` | `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_58_preface_Introduction-report.md` | ✅ 已完成 | A | 中国现代设计史、工业化、五四、南京十年、殖民与战争语境 |
+| B0003 | `00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_59_body_China___Crafts,_early_industri.md` | `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_59_body_China___Crafts,_early_industri-report.md` | ✅ 已完成 | A | 中国现代设计史、上海现代、商业美术、出版与广告 |
+| B0004 | `00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_63_body_Developing_a_design_policy___F.md` | `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_63_body_Developing_a_design_policy___F-report.md` | ✅ 已完成 | A | 日本现代设计史、设计政策、工业工艺、Art Deco |
 
-## 三、下一批建议
+## 四、下一批建议
 
 | 优先级 | 建议处理对象 | 理由 |
 |---|---|---|
@@ -32,7 +41,7 @@
 | B | bibliography 文件 | 用于补充参考文献与章节书目 |
 | C | 目录、索引类文件 | 用于检索和定位，不优先深读 |
 
-## 四、总体进度
+## 五、总体进度
 
 ```text
 已完成：4 / 约 1344
