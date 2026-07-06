@@ -11,6 +11,8 @@
 | [`books-paths.txt`](books-paths.txt) | 书籍文档完整路径清单 | 1 个清单文件 | 底层路径检索 |
 | [`paper-paths.txt`](paper-paths.txt) | 论文文档完整路径清单 | 1 个清单文件 | 底层路径检索 |
 | [`index-system/`](index-system/) | 教材型综合索引系统 | 12 个索引模板文件 | 支持文献信息、主题、观点、概念、人物、案例、章节、教学和引用管理 |
+| [`00-Paper-result/`](00-Paper-result/) | 论文深度报告结果 | 当前已完成 4 篇 | 将论文转化为教材写作报告 |
+| [`00-books-result/`](00-books-result/) | 书籍文档深度报告结果 | 当前已完成 2 篇 | 将书籍 / 章节文档转化为教材写作报告 |
 
 ## 二、索引文件
 
@@ -20,6 +22,8 @@
 | [`00-books/INDEX.md`](00-books/INDEX.md) | 书籍资料索引：按书籍与专题方向组织 |
 | [`00-Paper/INDEX.md`](00-Paper/INDEX.md) | 论文资料索引：按理论问题、方法和专题组织 |
 | [`index-system/README.md`](index-system/README.md) | 教材型综合索引系统总说明 |
+| [`00-Paper-result/INDEX.md`](00-Paper-result/INDEX.md) | 论文深度报告索引 |
+| [`00-books-result/INDEX.md`](00-books-result/INDEX.md) | 书籍文档深度报告索引 |
 
 ## 三、教材型综合索引系统
 
@@ -38,7 +42,19 @@
 | [`11-image-method-controversy-timeline-index.md`](index-system/11-image-method-controversy-timeline-index.md) | 图像、研究方法、争议问题与时间线索引 |
 | [`12-master-index-template.md`](index-system/12-master-index-template.md) | 综合总表模板：适合转为表格或数据库 |
 
-## 四、《现当代设计史》写作使用流程
+## 四、深度报告系统
+
+| 结果目录 | 说明 |
+|---|---|
+| [`00-Paper-result/`](00-Paper-result/) | 存放 `00-Paper/` 中 72 篇论文 / 文章 / 书评 / 专题材料的逐篇深度报告 |
+| [`00-books-result/`](00-books-result/) | 存放 `00-books/` 中每一个书籍或章节 Markdown 文档的深度报告 |
+
+当前已建立首批报告，详见：
+
+- [`00-Paper-result/PROGRESS.md`](00-Paper-result/PROGRESS.md)
+- [`00-books-result/PROGRESS.md`](00-books-result/PROGRESS.md)
+
+## 五、《现当代设计史》写作使用流程
 
 建议采用以下工作流：
 
@@ -49,8 +65,9 @@
 5. **建立资料卡**：每条资料卡建议记录：文献题名、作者、年份、核心概念、可用于哪一章节、可引用页码或段落。
 6. **提炼观点与概念**：将核心文献中的判断转入观点索引，将教材术语转入概念索引。
 7. **形成章节文献组**：每章至少形成“核心书籍 + 关键论文 + 核心观点 + 重要概念 + 代表人物 + 经典案例 + 图片资料 + 教学问题”。
+8. **生成深度报告**：将每个原始 md 文档的分析结果保存到 `00-Paper-result/` 或 `00-books-result/`。
 
-## 五、章节—资料映射表
+## 六、章节—资料映射表
 
 | 写作章节或问题 | 优先资料目录 | 推荐检索关键词 |
 |---|---|---|
@@ -65,26 +82,8 @@
 | 可持续设计、转型设计与未来研究 | `00-Paper/`、`00-books/` | sustainability, transition design, Tonkinwise, Terry Irwin, Thackara |
 | 全球设计史、后殖民与跨文化设计史 | `00-books/`、`00-Paper/` | World History of Design, China, postcolonial, border thinking, regionalism |
 
-## 六、资料卡建议格式
-
-```md
-### 文献题名
-
-- 作者：
-- 年份：
-- 类型：书籍 / 章节 / 论文 / 书评 / 案例材料
-- 所属主题：
-- 可用于章节：
-- 核心观点：
-- 关键词：
-- 可引用段落或页码：
-- 与《现当代设计史》的关系：
-```
-
 ## 七、下一步建议
 
-1. 将 `books-paths.txt` 中的书籍路径按“书名文件夹”去重，生成书目级索引。
-2. 从 `00-Paper/` 的 72 篇论文中先建立 P001—P072 的基础书目信息。
-3. 为 Victor Margolin、Richard Buchanan、Nigel Cross、Terry Irwin、Cameron Tonkinwise 等核心作者建立人物索引条目。
-4. 优先补充 A 类核心文献的内容摘要、核心观点、概念和可引用页码。
-5. 为每个教材章节建立章节文献包。
+1. 继续处理 `00-Paper/` 中 Rittel & Webber、Latour、Bijker、Kopytoff、Terry Irwin、Tonkinwise 等 A 类核心文献。
+2. 继续处理 `00-books/` 中 Victor Margolin、Buchanan、Cross 等核心书籍章节。
+3. 每完成一批报告，同步更新 `00-Paper-result/PROGRESS.md` 和 `00-books-result/PROGRESS.md`。
