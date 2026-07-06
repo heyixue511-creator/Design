@@ -8,6 +8,8 @@
 |---|---|---|---|---|
 | B0001 | [`B0001-Buchanan-Branzi-Dilemma-report.md`](B0001-Buchanan-Branzi-Dilemma-report.md) | `00-books/BUCHANAN, RICHARD. Branzi/01-Branzi's DilemmaDesign in Contemporary CultureRich.md` | 当代设计文化、现代主义之后、设计伦理 | A |
 | B0002 | [`B0002-Margolin-World-History-of-Design-Vol2-China-Introduction-report.md`](B0002-Margolin-World-History-of-Design-Vol2-China-Introduction-report.md) | `00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_58_preface_Introduction.md` | 中国现代设计史、全球设计史、工业化与现代性 | A |
+| B0003 | [`B0003-Margolin-World-History-of-Design-Vol2-China-Crafts-Shanghai-report.md`](B0003-Margolin-World-History-of-Design-Vol2-China-Crafts-Shanghai-report.md) | `00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_59_body_China___Crafts,_early_industri.md` | 中国现代设计史、上海现代、商业美术 | A |
+| B0004 | [`B0004-Margolin-World-History-of-Design-Vol2-Japan-Design-Policy-report.md`](B0004-Margolin-World-History-of-Design-Vol2-Japan-Design-Policy-report.md) | `00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_63_body_Developing_a_design_policy___F.md` | 日本现代设计史、设计政策、工业工艺 | A |
 
 ## 进度
 
