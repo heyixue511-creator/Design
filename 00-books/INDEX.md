@@ -15,7 +15,7 @@
 ## 二、当前规模
 
 - 当前路径清单：[`books-paths.txt`](../books-paths.txt)
-- 当前记录：约 1344 个 `.md` 路径
+- 当前记录：15369 个 `.md` 路径（2026-07-08 重建）
 - 资料形态：整本书 Markdown、章节拆分 Markdown、导论、目录、索引、bibliography、章节正文等
 
 ## 三、优先阅读层级

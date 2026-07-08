@@ -2,6 +2,8 @@
 
 本索引记录 `00-books/` 的深度报告产出。
 
+2026-07-08 已重建真实路径基线：`00-books/` 当前共有 15369 个 `.md` 路径、500 个一级书籍目录。完整缺口见 [`MISSING_REPORTS_AUDIT.md`](MISSING_REPORTS_AUDIT.md)。
+
 ## 目录规则
 
 结果保存在对应书籍文件夹内。特殊符号或超长题名使用 `B编号-简化题名-report.md`，编号保持连续。
@@ -42,16 +44,23 @@
 | B0744—B0760 | `The Green Imperative` | ✅ | 17 |
 | B0761—B0805 | `The Printed Image and the Transformation of Popular Culture` | ✅ | 45 |
 | B0806—B0846 | `Windows and Mirrors` | ✅ | 41 |
-| B0847—B1014 | `World History Of Design - Volume 2` 连续章节 | 🟡 | 168；后续章节继续处理 |
+| B0847—B1224 | `World History Of Design - Volume 2` 连续章节 | 🟡 | 已推进至二战章节末尾书目、论文路径与索引材料；该目录仍有另一组 `_01—_70` 切片待语义去重处理 |
 
-## 本轮新增：B0915—B1014
+## 本轮新增：B1168—B1224
 
 | 编号范围 | 文件夹 | 数量 | 主题 |
 |---|---|---:|---|
-| B0915—B0941 | `World History Of Design - Volume 2` | 27 | 意大利、德国、苏联、葡萄牙及区域书目 |
-| B0942—B0976 | `World History Of Design - Volume 2` | 35 | 美国 1917—1941、工业设计职业、交通、教育、传播与战争图形 |
-| B0977—B1014 | `World History Of Design - Volume 2` | 38 | 古巴、墨西哥、巴西及智利—阿根廷—哥伦比亚章节开端 |
+| B1168—B1171 | `World History Of Design - Volume 2` | 4 | 日本工业合理化、生活改善、民艺与重工业交通 |
+| B1172—B1175 | `World History Of Design - Volume 2` | 4 | 日本印刷、字体、书籍设计、美人画海报与商业设计职业化 |
+| B1176—B1178 | `World History Of Design - Volume 2` | 3 | 日本前卫/无产阶级图形、新摄影、Kao、原弘与日本工房 |
+| B1179—B1183 | `World History Of Design - Volume 2` | 5 | 日本海外、满洲、台湾、朝鲜与 Hangul 出版 |
+| B1184—B1186 | `World History Of Design - Volume 2` | 3 | 日本及殖民地相关书目、书籍、论文与会议文献 |
+| B1187—B1193 | `World History Of Design - Volume 2` | 7 | 二战总论、德国、意大利、英国、运筹学、Utility 家具与服装 |
+| B1194—B1203 | `World History Of Design - Volume 2` | 10 | 苏联/日本战时动员、日本军工与日用品、美国生产、飞机、装备、设计师、OSRD 与运筹学 |
+| B1204—B1210 | `World History Of Design - Volume 2` | 7 | 早期计算机、美国后方生活、宣传总论、德国、占领欧洲、Vichy/反布尔什维主义与意大利宣传 |
+| B1211—B1218 | `World History Of Design - Volume 2` | 8 | 英国/英联邦、苏联、日本、中国、美国、美国现代主义网络、墨西哥反法西斯图像 |
+| B1219—B1224 | `World History Of Design - Volume 2` | 6 | 二战设计史书目、通用书目、德英/日美/法荷墨书目、中国论文路径与索引材料 |
 
-说明：B0902 使用简化文件名；B0981 首次写入返回连接错误，但已核验文件实际创建成功。
+说明：B0902 使用简化文件名；B0981 首次写入返回连接错误，但已核验文件实际创建成功。B1178 对应源文件 `405-与月与白曰於札幌駅前グランドホテル之階大宴曾場島津マネキン新作品展覚會.md`，该文件虽以图题命名，正文实际延续“广告与出版中的摄影”。
 
 详见 [`PROGRESS.md`](PROGRESS.md)。
