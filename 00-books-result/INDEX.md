@@ -36,17 +36,19 @@
 | B0371—B0415 | `Scandinavian Design Alternative Histories` | ✅ | 45 |
 | B0416—B0434 | `Taste and Power: Furnishing Modern France` | ✅ | 19 |
 | B0435—B0453 | `The Arts and Crafts Movement` | ✅ | 19 |
-| B0454—B0614 | `The Design History Reader` | 🟡 | 161；后续 OCR 与章节继续处理 |
+| B0454—B0698 | `The Design History Reader` | ✅ | 245 |
+| B0699—B0710 | `The Design Philosophy Reader` | ✅ | 12 |
+| B0711—B0714 | `The Designed World` | 🟡 | 已完成前 4 个文件 |
 
-## 本轮新增：B0515—B0614
+## 本轮新增：B0615—B0714
 
 | 编号范围 | 文件夹 | 数量 | 主题 |
 |---|---|---:|---|
-| B0515—B0545 | `The Design History Reader` | 31 | 家居情感物、技术与工艺史、女性主义、消费、媒介与全球品牌 |
-| B0546—B0564 | `The Design History Reader` | 19 | 总文件、目录、导言、对象史、工艺与工人阶级 OCR 材料 |
-| B0565—B0588 | `The Design History Reader` | 24 | 消费理论、Bourdieu、Tupperware、企业营销与媒介 OCR 材料 |
-| B0589—B0614 | `The Design History Reader` | 26 | 杂志、区域史、殖民家具、Land Rover、Swoosh、索引与书籍设计 |
+| B0615—B0654 | `The Design History Reader` | 40 | 机器工艺、现代主义、战后设计、后现代与身份 |
+| B0655—B0698 | `The Design History Reader` | 44 | 环境设计、设计史方法、对象史与性别设计，补完文件夹 |
+| B0699—B0710 | `The Design Philosophy Reader` | 12 | 本体论、伦理、殖民性、技术、生态与人工智能 |
+| B0711—B0714 | `The Designed World` | 4 | 编辑作者资料、总论与导论 |
 
-说明：B0546、B0588 因原文件名触发接口拦截，已使用简化文件名保存。
+说明：B0641 使用简化文件名保存。
 
 详见 [`PROGRESS.md`](PROGRESS.md)。
