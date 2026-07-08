@@ -42,15 +42,16 @@
 | B0744—B0760 | `The Green Imperative` | ✅ | 17 |
 | B0761—B0805 | `The Printed Image and the Transformation of Popular Culture` | ✅ | 45 |
 | B0806—B0846 | `Windows and Mirrors` | ✅ | 41 |
-| B0847—B0914 | `World History Of Design - Volume 2` 连续章节 | 🟡 | 68；后续章节继续处理 |
+| B0847—B1014 | `World History Of Design - Volume 2` 连续章节 | 🟡 | 168；后续章节继续处理 |
 
-## 本轮新增：B0815—B0914
+## 本轮新增：B0915—B1014
 
 | 编号范围 | 文件夹 | 数量 | 主题 |
 |---|---|---:|---|
-| B0815—B0846 | `Windows and Mirrors` | 32 | 透明性、反射性、再媒介化、网络文化、具身设计、数字艺术与索引，补完文件夹 |
-| B0847—B0914 | `World History Of Design - Volume 2` | 68 | 卷二导论、俄国革命、希腊、中东欧、波兰、奥地利、斯堪的纳维亚与未来主义 |
+| B0915—B0941 | `World History Of Design - Volume 2` | 27 | 意大利、德国、苏联、葡萄牙及区域书目 |
+| B0942—B0976 | `World History Of Design - Volume 2` | 35 | 美国 1917—1941、工业设计职业、交通、教育、传播与战争图形 |
+| B0977—B1014 | `World History Of Design - Volume 2` | 38 | 古巴、墨西哥、巴西及智利—阿根廷—哥伦比亚章节开端 |
 
-说明：B0902 因原题名触发接口检查，使用简化文件名 `B0902-products-report.md` 保存。
+说明：B0902 使用简化文件名；B0981 首次写入返回连接错误，但已核验文件实际创建成功。
 
 详见 [`PROGRESS.md`](PROGRESS.md)。
