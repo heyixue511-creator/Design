@@ -17,6 +17,8 @@
 
 结果保存在对应书籍文件夹内。含特殊符号、超长题名或接口无法接受的文件名，使用 `B编号-简化题名-report.md`。
 
+本轮 B0902 使用了简化文件名。
+
 ## 三、当前执行方式
 
 ```text
@@ -27,26 +29,22 @@
 
 | 范围 | 文件夹 | 状态 | 数量 |
 |---|---|---|---:|
-| B0711—B0743 | `The Designed World` | ✅ | 33 |
-| B0744—B0760 | `The Green Imperative` | ✅ | 17 |
-| B0761—B0805 | `The Printed Image and the Transformation of Popular Culture` | ✅ | 45 |
-| B0806—B0814 | `Windows and Mirrors` | 🟡 | 已完成前 9 个文件 |
+| B0806—B0846 | `Windows and Mirrors` | ✅ | 41 |
+| B0847—B0914 | `World History Of Design - Volume 2` | 🟡 | 已完成当前连续 68 个文件，后续继续 |
 
-## 五、本轮新增：B0715—B0814
+## 五、本轮新增：B0815—B0914
 
 | 编号范围 | 数量 | 主要内容 |
 |---|---:|---|
-| B0715—B0743 | 29 | 人工世界、数字技术、设计过程、Ulm、生态设计与伦理 |
-| B0744—B0760 | 17 | Papanek 生态设计、安全、社区、乡土建筑、共享与未来世代 |
-| B0761—B0805 | 45 | 印刷图像、插图杂志、商业出版、大众文化、书目和索引 |
-| B0806—B0814 | 9 | 数字艺术、交互体验、界面可见性和反射性 |
+| B0815—B0846 | 32 | 界面透明性、反射性、再媒介化、网络文化、具身设计和数字艺术 |
+| B0847—B0914 | 68 | 卷二导论、俄国革命、希腊、中东欧、波兰、奥地利、斯堪的纳维亚和未来主义 |
 
 ## 六、总体进度
 
 ```text
-已完成：814 / 约 1344
-未完成：约 530 / 约 1344
-本轮新增：100 个（B0715—B0814）
+已完成：914 / 约 1344
+未完成：约 430 / 约 1344
+本轮新增：100 个（B0815—B0914）
 ```
 
 ## 七、下一步
@@ -54,9 +52,9 @@
 下一文件为：
 
 ```text
-Windows and Mirrors/11-Photorealistic computer graphics The GUI in our vi.md
+World History Of Design - Volume 2/159-The Novecento and the crafts debate.md
 ```
 
-随后继续计算机窗口、透明性神话、反射性、多重界面与 Magic Book 等章节。
+随后继续意大利 Novecento、理性主义、法西斯时期工业、Olivetti、交通和图形设计等章节。
 
 完整范围见 [`INDEX.md`](INDEX.md)。
