@@ -17,8 +17,6 @@
 
 结果保存在对应书籍文件夹内。含特殊符号、超长题名或接口无法接受的文件名，使用 `B编号-简化题名-report.md`。
 
-本轮 B0641 使用了简化文件名。
-
 ## 三、当前执行方式
 
 ```text
@@ -29,25 +27,26 @@
 
 | 范围 | 文件夹 | 状态 | 数量 |
 |---|---|---|---:|
-| B0454—B0698 | `The Design History Reader` | ✅ | 245 |
-| B0699—B0710 | `The Design Philosophy Reader` | ✅ | 12 |
-| B0711—B0714 | `The Designed World` | 🟡 | 已完成前 4 个文件 |
+| B0711—B0743 | `The Designed World` | ✅ | 33 |
+| B0744—B0760 | `The Green Imperative` | ✅ | 17 |
+| B0761—B0805 | `The Printed Image and the Transformation of Popular Culture` | ✅ | 45 |
+| B0806—B0814 | `Windows and Mirrors` | 🟡 | 已完成前 9 个文件 |
 
-## 五、本轮新增：B0615—B0714
+## 五、本轮新增：B0715—B0814
 
 | 编号范围 | 数量 | 主要内容 |
 |---|---:|---|
-| B0615—B0654 | 40 | 机器工艺、现代主义、战后设计、后现代与身份设计 |
-| B0655—B0698 | 44 | 环境设计、设计史方法、对象史与性别设计 |
-| B0699—B0710 | 12 | 设计本体论、伦理、殖民性、技术、生态与人工智能 |
-| B0711—B0714 | 4 | 《The Designed World》人物资料、总论与导论 |
+| B0715—B0743 | 29 | 人工世界、数字技术、设计过程、Ulm、生态设计与伦理 |
+| B0744—B0760 | 17 | Papanek 生态设计、安全、社区、乡土建筑、共享与未来世代 |
+| B0761—B0805 | 45 | 印刷图像、插图杂志、商业出版、大众文化、书目和索引 |
+| B0806—B0814 | 9 | 数字艺术、交互体验、界面可见性和反射性 |
 
 ## 六、总体进度
 
 ```text
-已完成：714 / 约 1344
-未完成：约 630 / 约 1344
-本轮新增：100 个（B0615—B0714）
+已完成：814 / 约 1344
+未完成：约 530 / 约 1344
+本轮新增：100 个（B0715—B0814）
 ```
 
 ## 七、下一步
@@ -55,9 +54,9 @@
 下一文件为：
 
 ```text
-The Designed World/05-BRANZI'S DILEMMA DESIGN IN CONTEMPORARY CULTURE.md
+Windows and Mirrors/11-Photorealistic computer graphics The GUI in our vi.md
 ```
 
-随后继续人工世界、跨学科设计、信息与现实、Veblen、Loos、日常物和环境设计等章节。
+随后继续计算机窗口、透明性神话、反射性、多重界面与 Magic Book 等章节。
 
 完整范围见 [`INDEX.md`](INDEX.md)。
