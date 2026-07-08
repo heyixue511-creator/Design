@@ -38,17 +38,18 @@
 | B0435—B0453 | `The Arts and Crafts Movement` | ✅ | 19 |
 | B0454—B0698 | `The Design History Reader` | ✅ | 245 |
 | B0699—B0710 | `The Design Philosophy Reader` | ✅ | 12 |
-| B0711—B0714 | `The Designed World` | 🟡 | 已完成前 4 个文件 |
+| B0711—B0743 | `The Designed World` | ✅ | 33 |
+| B0744—B0760 | `The Green Imperative` | ✅ | 17 |
+| B0761—B0805 | `The Printed Image and the Transformation of Popular Culture` | ✅ | 45 |
+| B0806—B0814 | `Windows and Mirrors` | 🟡 | 已完成前 9 个文件 |
 
-## 本轮新增：B0615—B0714
+## 本轮新增：B0715—B0814
 
 | 编号范围 | 文件夹 | 数量 | 主题 |
 |---|---|---:|---|
-| B0615—B0654 | `The Design History Reader` | 40 | 机器工艺、现代主义、战后设计、后现代与身份 |
-| B0655—B0698 | `The Design History Reader` | 44 | 环境设计、设计史方法、对象史与性别设计，补完文件夹 |
-| B0699—B0710 | `The Design Philosophy Reader` | 12 | 本体论、伦理、殖民性、技术、生态与人工智能 |
-| B0711—B0714 | `The Designed World` | 4 | 编辑作者资料、总论与导论 |
-
-说明：B0641 使用简化文件名保存。
+| B0715—B0743 | `The Designed World` | 29 | 人工世界、数字技术、设计过程、Ulm、生态与伦理，补完文件夹 |
+| B0744—B0760 | `The Green Imperative` | 17 | Papanek、生态责任、安全、社区、乡土建筑、共享与未来世代 |
+| B0761—B0805 | `The Printed Image...` | 45 | 印刷技术、插图杂志、Penny Magazine、大众文化、书目与索引 |
+| B0806—B0814 | `Windows and Mirrors` | 9 | 数字艺术、体验设计、界面可见性与反射性 |
 
 详见 [`PROGRESS.md`](PROGRESS.md)。
