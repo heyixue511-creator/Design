@@ -1,0 +1,12 @@
+# B1221 深度报告：Germany / Great Britain bibliography
+
+源文件：`447-Germany.md`
+
+本节书目把德国与英国并置，显示二战设计史中的两种国家组织逻辑。德国部分围绕 Krupp、Speer 军备部、Volkswagen、纳粹宣传、Paul Renner、Reactionary Modernism 和 `Signal` 等文献展开，强调技术现代性、军工资本、政治宣传和字体文化如何被纳粹体制整合。这里的研究重点不是“德国是否现代”，而是现代工业、现代传播和反现代政治如何危险地结合。
+
+英国与英联邦部分则围绕 Utility 设计、Misha Black、英国战时海报、家庭家具、厨房规划、Abram Games、London Transport 和 Gordon Russell 等文献展开。相比德国书目中强烈的国家军工和宣传机器，英国书目更突出资源伦理、日常生活、公共信息和设计专业化。Utility 家具与服装不是简单节约，而是把标准化、审美克制、社会公平和战争经济放在同一制度中。
+
+将两组书目合读，可以形成一个重要问题：现代设计在威权动员和民主动员中都发挥作用，但其伦理方向取决于制度、价值和受众关系。德国研究警示现代视觉与技术可被暴力国家吸纳；英国研究则提示设计也可服务公共节制、社会协调和战后福利国家想象。
+
+教材用途：德国二战设计书目、英国 Utility 书目、Reactionary Modernism、Abram Games、军工资本与公共设计伦理。
+
