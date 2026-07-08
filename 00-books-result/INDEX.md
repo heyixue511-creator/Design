@@ -42,16 +42,18 @@
 | B0744—B0760 | `The Green Imperative` | ✅ | 17 |
 | B0761—B0805 | `The Printed Image and the Transformation of Popular Culture` | ✅ | 45 |
 | B0806—B0846 | `Windows and Mirrors` | ✅ | 41 |
-| B0847—B1014 | `World History Of Design - Volume 2` 连续章节 | 🟡 | 168；后续章节继续处理 |
+| B0847—B1191 | `World History Of Design - Volume 2` 连续章节 | 🟡 | 345；后续章节继续处理 |
 
-## 本轮新增：B0915—B1014
+## 本轮新增：B1092—B1191
 
 | 编号范围 | 文件夹 | 数量 | 主题 |
 |---|---|---:|---|
-| B0915—B0941 | `World History Of Design - Volume 2` | 27 | 意大利、德国、苏联、葡萄牙及区域书目 |
-| B0942—B0976 | `World History Of Design - Volume 2` | 35 | 美国 1917—1941、工业设计职业、交通、教育、传播与战争图形 |
-| B0977—B1014 | `World History Of Design - Volume 2` | 38 | 古巴、墨西哥、巴西及智利—阿根廷—哥伦比亚章节开端 |
+| B1092—B1111 | `World History Of Design - Volume 2` | 20 | 巴勒斯坦、希伯来字体、叙利亚、黎巴嫩、伊朗、埃及与中东书目 |
+| B1112—B1130 | `World History Of Design - Volume 2` | 19 | 非洲殖民设计、工艺教育、制造、图形、旅游及现代字体 |
+| B1131—B1147 | `World History Of Design - Volume 2` | 17 | 印度、香港、缅甸、Swadeshi、khadi、出版广告与电影海报 |
+| B1148—B1164 | `World History Of Design - Volume 2` | 17 | 中国、上海现代、国货运动、五四出版、木刻宣传与暹罗 |
+| B1165—B1191 | `World History Of Design - Volume 2` | 27 | 日本设计政策、民艺、工业、图形、满洲、朝鲜、台湾与二战开端 |
 
-说明：B0902 使用简化文件名；B0981 首次写入返回连接错误，但已核验文件实际创建成功。
+说明：本轮提交冲突均已通过原路径重试解决，编号连续且未覆盖前序文件。
 
 详见 [`PROGRESS.md`](PROGRESS.md)。
