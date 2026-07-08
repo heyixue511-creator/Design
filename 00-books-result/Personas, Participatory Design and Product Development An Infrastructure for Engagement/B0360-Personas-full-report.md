@@ -1,5 +1,10 @@
-# B0360 深度报告：Personas, Participatory Design and Product Development 总文件
+# B0360 深度报告：Personas and Participatory Product Development 总文件
 
-该总文件把 persona 定位为参与式设计基础设施：它可汇集研究资料、促进跨团队讨论并支持产品决策，但必须保持与真实用户数据的可追溯关系。
+## 定位
+对应该 persona 与参与式产品开发文献的总文件。
 
-教材用途：用户研究、参与式设计和产品开发方法。
+## 核心要点
+该文献强调 persona 需要与参与式方法、真实用户数据和产品开发协作机制结合，才能避免形式化画像。
+
+## 用途
+用于“用户研究方法与设计开发基础设施”专题。
