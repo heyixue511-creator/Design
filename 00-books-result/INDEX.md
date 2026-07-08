@@ -4,7 +4,7 @@
 
 ## 目录规则
 
-结果保存在与来源一致的书籍文件夹内。特殊符号或超长题名使用 `B编号-简化题名-report.md`，编号保持连续。
+结果保存在对应书籍文件夹内。特殊符号或超长题名使用 `B编号-简化题名-report.md`，编号保持连续。
 
 ## 当前完成范围
 
@@ -33,17 +33,18 @@
 | B0358—B0360 | `Personas and Participatory Design` | ✅ | 3 |
 | B0361—B0367 | `Pioneers of Modern Design` | ✅ | 7 |
 | B0368—B0370 | `New Methods in Art and Design Research` | ✅ | 3 |
-| B0371—B0414 | `Scandinavian Design Alternative Histories` | 🟡 | 44 |
+| B0371—B0415 | `Scandinavian Design Alternative Histories` | ✅ | 45 |
+| B0416—B0434 | `Taste and Power: Furnishing Modern France` | ✅ | 19 |
+| B0435—B0453 | `The Arts and Crafts Movement` | ✅ | 19 |
+| B0454—B0514 | `The Design History Reader` | 🟡 | 61；后续章节继续处理 |
 
-## 本轮新增：B0315—B0414
+## 本轮新增：B0415—B0514
 
-| 编号范围 | 文件夹 | 数量 |
-|---|---|---:|
-| B0315—B0350 | `Love Objects` | 36 |
-| B0351—B0357 | `Automation's Finest Hour` | 7 |
-| B0358—B0360 | `Personas and Participatory Design` | 3 |
-| B0361—B0367 | `Pioneers of Modern Design` | 7 |
-| B0368—B0370 | `New Methods in Art and Design Research` | 3 |
-| B0371—B0414 | `Scandinavian Design Alternative Histories` | 44 |
+| 编号范围 | 文件夹 | 数量 | 主题 |
+|---|---|---:|---|
+| B0415 | `Scandinavian Design Alternative Histories` | 1 | 选择书目与索引，补完文件夹 |
+| B0416—B0434 | `Taste and Power` | 19 | 法国家具、宫廷风格、品味、阶层、劳动、消费与市场 |
+| B0435—B0453 | `The Arts and Crafts Movement` | 19 | 工业化、工艺改革、Morris、国际扩散、区域案例与索引 |
+| B0454—B0514 | `The Design History Reader` | 61 | 设计史总论、工业化、现代主义、战后设计、后现代、可持续性与史学方法 |
 
 详见 [`PROGRESS.md`](PROGRESS.md)。
