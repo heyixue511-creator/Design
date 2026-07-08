@@ -27,30 +27,26 @@
 
 | 范围 | 文件夹 | 状态 | 数量 |
 |---|---|---|---:|
-| B0289—B0350 | `Love Objects` | ✅ | 62 |
-| B0351—B0357 | `Automation's Finest Hour` | ✅ | 7 |
-| B0358—B0360 | `Personas and Participatory Design` | ✅ | 3 |
-| B0361—B0367 | `Pioneers of Modern Design` | ✅ | 7 |
-| B0368—B0370 | `New Methods in Art and Design Research` | ✅ | 3 |
-| B0371—B0414 | `Scandinavian Design Alternative Histories` | 🟡 | 44；尚余末尾 bibliography 文件 |
+| B0371—B0415 | `Scandinavian Design Alternative Histories` | ✅ | 45 |
+| B0416—B0434 | `Taste and Power: Furnishing Modern France` | ✅ | 19 |
+| B0435—B0453 | `The Arts and Crafts Movement` | ✅ | 19 |
+| B0454—B0514 | `The Design History Reader` | 🟡 | 已完成当前连续 61 个文件，后续继续 |
 
-## 五、本轮新增：B0315—B0414
+## 五、本轮新增：B0415—B0514
 
 | 编号范围 | 数量 | 主要内容 |
 |---|---:|---|
-| B0315—B0350 | 36 | `Love Objects` OCR、交叉版本、总文件、目录与索引 |
-| B0351—B0357 | 7 | 雷达、自动控制、系统集成与人机协作 |
-| B0358—B0360 | 3 | persona、参与式设计、方法收益与风险 |
-| B0361—B0367 | 7 | Pevsner 现代设计史经典及版本前言 |
-| B0368—B0370 | 3 | 对象作为研究论述、实践型设计研究 |
-| B0371—B0414 | 44 | 北欧设计史学、家具、纺织、广告、汽车、媒介和政策 |
+| B0415 | 1 | 北欧设计替代史选择书目与索引 |
+| B0416—B0434 | 19 | 法国家具、宫廷风格、品味、阶层、劳动、消费和市场 |
+| B0435—B0453 | 19 | 工艺美术运动、工业化、Morris、国际传播与区域案例 |
+| B0454—B0514 | 61 | 设计史总论、工业化、现代主义、战后设计、后现代、环境设计和史学方法 |
 
-## 六、已完成报告
+## 六、总体进度
 
 ```text
-已完成：414 / 约 1344
-未完成：约 930 / 约 1344
-本轮新增：100 个（B0315—B0414）
+已完成：514 / 约 1344
+未完成：约 830 / 约 1344
+本轮新增：100 个（B0415—B0514）
 ```
 
 ## 七、下一步
@@ -58,13 +54,9 @@
 下一文件为：
 
 ```text
-Scandinavian Design Alternative Histories ... _10_bibliography_Select_Bibliography___300_INDE.md
+The Design History Reader/65-THE MOST CHERISHED OBJECTS IN THE HOME...
 ```
 
-完成后进入：
-
-```text
-Taste and Power: Furnishing Modern France
-```
+随后继续该书中的家居物、技术史、工艺史、女性主义设计批评及后续章节。
 
 完整范围见 [`INDEX.md`](INDEX.md)。
