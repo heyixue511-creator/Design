@@ -44,28 +44,25 @@
 | B0744—B0760 | `The Green Imperative` | ✅ | 17 |
 | B0761—B0805 | `The Printed Image and the Transformation of Popular Culture` | ✅ | 45 |
 | B0806—B0846 | `Windows and Mirrors` | ✅ | 41 |
-| B0847—B1224 | `World History Of Design - Volume 2` 连续章节 | 🟡 | 已推进至二战章节末尾书目、论文路径与索引材料；该目录仍有另一组 `_01—_70` 切片待语义去重处理 |
+| B0847—B1224 | `World History Of Design - Volume 2` 连续章节 | 🟡 | 已推进至二战章节末尾；另一组 `_01—_70` 切片待语义去重 |
+| B1225—B1260 | `MUJI 无印良品` | ✅ | 36 |
+| B1261—B1269 | `Learning to Consume` | ✅ | 9 |
+| B1270—B1285 | `A Color Notation` | ✅ | 16 |
+| B1286—B1294 | `Eileen Gray: Architect, Designer` | ✅ | 9 |
+| B1295 | `Liberty's: A Biography of a Shop` | ✅ | 1 |
+| B1296—B1303 | `Photomontage` | 🟡 | 已完成首批 8 个章节案例 |
 
-## 本轮新增：B1092—B1224
+## 最近新增：B1225—B1303
 
 | 编号范围 | 文件夹 | 数量 | 主题 |
 |---|---|---:|---|
-| B1092—B1111 | `World History Of Design - Volume 2` | 20 | 巴勒斯坦、希伯来字体、叙利亚、黎巴嫩、伊朗、埃及与中东书目 |
-| B1112—B1130 | `World History Of Design - Volume 2` | 19 | 非洲殖民设计、工艺教育、制造、图形、旅游及现代字体 |
-| B1131—B1147 | `World History Of Design - Volume 2` | 17 | 印度、香港、缅甸、Swadeshi、khadi、出版广告与电影海报 |
-| B1148—B1164 | `World History Of Design - Volume 2` | 17 | 中国、上海现代、国货运动、五四出版、木刻宣传与暹罗 |
-| B1165—B1167 | `World History Of Design - Volume 2` | 3 | 日本设计政策与战时设计转向 |
-| B1168—B1171 | `World History Of Design - Volume 2` | 4 | 日本工业合理化、生活改善、民艺与重工业交通 |
-| B1172—B1175 | `World History Of Design - Volume 2` | 4 | 日本印刷、字体、书籍设计、美人画海报与商业设计职业化 |
-| B1176—B1178 | `World History Of Design - Volume 2` | 3 | 日本前卫/无产阶级图形、新摄影、Kao、原弘与日本工房 |
-| B1179—B1183 | `World History Of Design - Volume 2` | 5 | 日本海外、满洲、台湾、朝鲜与 Hangul 出版 |
-| B1184—B1186 | `World History Of Design - Volume 2` | 3 | 日本及殖民地相关书目、书籍、论文与会议文献 |
-| B1187—B1193 | `World History Of Design - Volume 2` | 7 | 二战总论、德国、意大利、英国、运筹学、Utility 家具与服装 |
-| B1194—B1203 | `World History Of Design - Volume 2` | 10 | 苏联/日本战时动员、日本军工与日用品、美国生产、飞机、装备、设计师、OSRD 与运筹学 |
-| B1204—B1210 | `World History Of Design - Volume 2` | 7 | 早期计算机、美国后方生活、宣传总论、德国、占领欧洲、Vichy/反布尔什维主义与意大利宣传 |
-| B1211—B1218 | `World History Of Design - Volume 2` | 8 | 英国/英联邦、苏联、日本、中国、美国、美国现代主义网络、墨西哥反法西斯图像 |
-| B1219—B1224 | `World History Of Design - Volume 2` | 6 | 二战设计史书目、通用书目、德英/日美/法荷墨书目、中国论文路径与索引材料 |
+| B1225—B1260 | `MUJI 无印良品` | 36 | 品牌诞生、产品体系、节制设计、空间、住宅、国际化与未来 |
+| B1261—B1269 | `Learning to Consume` | 9 | 早期百货商店、消费训练、性别、视觉陈列与城市文化 |
+| B1270—B1285 | `A Color Notation` | 16 | Munsell 色相、明度、彩度、色觉、图谱、色名与反射率 |
+| B1286—B1294 | `Eileen Gray` | 9 | 早年、工艺、家具、室内、住宅、战争与史学再发现 |
+| B1295 | `Liberty's` | 1 | 商店史、工艺、零售与英国消费文化 |
+| B1296—B1303 | `Photomontage` | 8 | 达达、摄影蒙太奇、政治宣传、编辑讽刺与媒介权力 |
 
-说明：本轮提交冲突均已通过原路径重试解决，编号连续且未覆盖前序文件。B0902 使用简化文件名；B0981 首次写入返回连接错误，但已核验文件实际创建成功。B1178 对应源文件 `405-与月与白曰於札幌駅前グランドホテル之階大宴曾場島津マネキン新作品展覚會.md`，该文件虽以图题命名，正文实际延续“广告与出版中的摄影”。
+说明：Margolin `_01—_70` 自动切片与既有章节高度重叠，本轮未机械重复生成，而是转向真实缺口目录。
 
 详见 [`PROGRESS.md`](PROGRESS.md)。
