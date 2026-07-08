@@ -41,15 +41,16 @@
 | B0711—B0743 | `The Designed World` | ✅ | 33 |
 | B0744—B0760 | `The Green Imperative` | ✅ | 17 |
 | B0761—B0805 | `The Printed Image and the Transformation of Popular Culture` | ✅ | 45 |
-| B0806—B0814 | `Windows and Mirrors` | 🟡 | 已完成前 9 个文件 |
+| B0806—B0846 | `Windows and Mirrors` | ✅ | 41 |
+| B0847—B0914 | `World History Of Design - Volume 2` 连续章节 | 🟡 | 68；后续章节继续处理 |
 
-## 本轮新增：B0715—B0814
+## 本轮新增：B0815—B0914
 
 | 编号范围 | 文件夹 | 数量 | 主题 |
 |---|---|---:|---|
-| B0715—B0743 | `The Designed World` | 29 | 人工世界、数字技术、设计过程、Ulm、生态与伦理，补完文件夹 |
-| B0744—B0760 | `The Green Imperative` | 17 | Papanek、生态责任、安全、社区、乡土建筑、共享与未来世代 |
-| B0761—B0805 | `The Printed Image...` | 45 | 印刷技术、插图杂志、Penny Magazine、大众文化、书目与索引 |
-| B0806—B0814 | `Windows and Mirrors` | 9 | 数字艺术、体验设计、界面可见性与反射性 |
+| B0815—B0846 | `Windows and Mirrors` | 32 | 透明性、反射性、再媒介化、网络文化、具身设计、数字艺术与索引，补完文件夹 |
+| B0847—B0914 | `World History Of Design - Volume 2` | 68 | 卷二导论、俄国革命、希腊、中东欧、波兰、奥地利、斯堪的纳维亚与未来主义 |
+
+说明：B0902 因原题名触发接口检查，使用简化文件名 `B0902-products-report.md` 保存。
 
 详见 [`PROGRESS.md`](PROGRESS.md)。
