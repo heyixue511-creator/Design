@@ -50,10 +50,10 @@
 | B1270—B1285 | `A Color Notation` | ✅ | 16 |
 | B1286—B1294 | `Eileen Gray: Architect, Designer` | ✅ | 9 |
 | B1295 | `Liberty's: A Biography of a Shop` | ✅ | 1 |
-| B1296—B1303、B1404 | `Photomontage` | 🟡 | 已复核前 9 个源文件；第 9 个此前缺报，补建为 B1404 |
-| B1304—B1403 | `Kenya Hara: Designing Design` | 🟡 | 已完成前 100 个源文件；全目录 474 个 |
+| B1296—B1303、B1404—B1406 | `Photomontage` | 🟡 | 已复核前 10 个源文件，并补建完整书籍总报告 |
+| B1304—B1403、B1407 | `Kenya Hara: Designing Design` | 🟡 | 已完成前 101 个源文件；全目录 474 个 |
 
-## 最近新增：B1304—B1403
+## 最近新增：B1304—B1403、B1407
 
 | 编号范围 | 数量 | 主题 |
 |---|---:|---|
@@ -67,7 +67,8 @@
 | B1376—B1387 | 12 | 日本文化、审美与现代设计 |
 | B1388—B1395 | 8 | 展览、社会沟通与设计教育 |
 | B1396—B1403 | 8 | 全球视野、在地经验与未来设计 |
+| B1407 | 1 | HAPTIC：geta、足底触觉与地面信息界面 |
 
-说明：`Designing Design`批次为连续页段报告，跨页句子、图片说明与案例细节需结合相邻源文件合读。`Photomontage`同样存在大量以图版文字自动命名的连续切片，报告编号不再与源文件序号保持完全连续。
+说明：`Designing Design` 批次为连续页段报告，跨页句子、图片说明与案例细节需结合相邻源文件合读。由于 B1404—B1406 已被 `Photomontage` 补建报告占用，`Designing Design` 的第 101 份报告使用 B1407，不改动既有编号。`Photomontage` 同样存在大量以图版文字自动命名的连续切片，报告编号不再与源文件序号保持完全连续。
 
 详见 [`PROGRESS.md`](PROGRESS.md) 与 [`AUDIT-BATCH-0009-0108.md`](AUDIT-BATCH-0009-0108.md)。
