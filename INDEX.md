@@ -87,3 +87,16 @@
 1. 继续处理 `00-Paper/` 中 Doordan、Design history anthology、Capkova、Tonkinwise、Forlano、HCI / probes 等核心文献。
 2. 继续处理 `00-books/` 中 Victor Margolin、Buchanan、Cross 等核心书籍章节。
 3. 每完成一批报告，同步更新 `00-Paper-result/PROGRESS.md` 和 `00-books-result/PROGRESS.md`。
+
+## 八、自动生成索引
+
+最近一次全仓库索引已根据 `index-system/` 的字段框架生成，入口位于 [`index-system/generated/`](index-system/generated/)。
+
+| 文件 | 用途 |
+|---|---|
+| [`00-index-build-report.md`](index-system/generated/00-index-build-report.md) | 本轮索引构建摘要、统计与边界说明 |
+| [`01-total-bibliography-index.csv`](index-system/generated/01-total-bibliography-index.csv) | 全量文献主索引 |
+| [`repository-file-index.csv`](index-system/generated/repository-file-index.csv) | 全仓库文件级索引 |
+| [`source-report-map.csv`](index-system/generated/source-report-map.csv) | 源 Markdown 与深度报告映射 |
+
+该索引层不替代原文核验；观点、概念、人物、案例、图像和页码进入正文前仍需按 `13-report-integration-rules.md` 复核。

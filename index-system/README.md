@@ -66,3 +66,21 @@
 5. 把所有材料对应到教材章节。
 6. 整理可引用原文、页码、图像来源和教学设计。
 7. 最后形成每章的“文献包”：核心文献 + 关键观点 + 重要概念 + 代表人物 + 经典案例 + 教学问题。
+
+## 六、自动生成索引区
+
+`generated/` 为本索引系统的自动生成结果区，用于承接全仓库扫描、源文—报告映射和教材型中央索引。
+
+| 文件 | 内容 |
+|---|---|
+| [`generated/00-index-build-report.md`](generated/00-index-build-report.md) | 构建报告与统计 |
+| [`generated/01-total-bibliography-index.csv`](generated/01-total-bibliography-index.csv) | 01 总文献索引的全量数据版 |
+| [`generated/02-theme-index.csv`](generated/02-theme-index.csv) | 02 主题索引的全量数据版 |
+| [`generated/03-content-summary-index.csv`](generated/03-content-summary-index.csv) | 03 内容摘要索引的全量数据版 |
+| [`generated/08-chapter-correspondence-index.csv`](generated/08-chapter-correspondence-index.csv) | 08 章节对应索引的全量数据版 |
+| [`generated/09-teaching-function-index.csv`](generated/09-teaching-function-index.csv) | 09 教学功能索引的全量数据版 |
+| [`generated/10-version-translation-citation-index.csv`](generated/10-version-translation-citation-index.csv) | 10 版本与页码核验队列 |
+| [`generated/repository-file-index.csv`](generated/repository-file-index.csv) | 全仓库文件级索引 |
+| [`generated/source-report-map.csv`](generated/source-report-map.csv) | 源文与深度报告映射 |
+
+自动生成表只负责建立检索入口和候选关系；全局观点、概念、人物、案例、图像和引文编号仍按 04—11 号索引逐步人工复核入库。

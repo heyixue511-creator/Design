@@ -26,7 +26,7 @@
 未完成：0 / 72
 ```
 
-说明：`P053-Thrift-Non-Representational-Theory-report.md` 已生成待核报告，但原始 md 文件为空，不能视为真正深度分析。`Bijker / Hughes` 文件同样读取为空，暂未生成深度报告。
+说明：`P053-Thrift-Non-Representational-Theory-report.md` 已生成待核报告，但原始 md 文件为空，不能视为真正深度分析。`Bijker / Hughes` 文件已重新读取并补建 `P072-Bijker-Hughes-Social-Construction-Technological-Systems-report.md`。
 
 ## 四、本轮新增：P042—P071
 
@@ -69,11 +69,11 @@
 
 | 原始文档 | 状态 | 原因 |
 |---|---|---|
-| `00-Paper/Wiebe E. Bijker, Thomas P. Hughes：《The Social Construction of Technological Systems》，1987_paged.md` | ⚠️ 待核未处理 | 当前读取内容为空，暂不生成深度报告。 |
+| `00-Paper/Wiebe E. Bijker, Thomas P. Hughes：《The Social Construction of Technological Systems》，1987_paged.md` | ✅ 已补建报告 | 已重新读取当前 Markdown 正文并生成 `P072-Bijker-Hughes-Social-Construction-Technological-Systems-report.md`。 |
 | `00-Paper/Nigel Thrift：《Non-Representational Theory Space, Politics, Affect》，2008_paged.md` | ⚠️ 待核报告 | 当前读取内容为空，已生成 `P053-Thrift-Non-Representational-Theory-report.md` 作为待核说明。 |
 
 ## 六、后续处理建议
 
 1. 若需要真正完成 P053，需要补充 Thrift 原文或重新上传有效 md。
-2. 若需要处理 Bijker / Hughes，需要补充原文或重新上传有效 md。
+2. Bijker / Hughes 已补建 P072 报告；后续只需按实际引用版本复核页码。
 3. P054 与 P069 是同源 / 高度重合的 Isotype 书评材料，后续可做去重或交叉索引。

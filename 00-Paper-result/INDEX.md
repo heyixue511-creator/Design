@@ -82,7 +82,7 @@
 
 | 原始文档 | 问题 |
 |---|---|
-| `00-Paper/Wiebe E. Bijker, Thomas P. Hughes：《The Social Construction of Technological Systems》，1987_paged.md` | 当前读取内容为空，暂未生成深度报告，需核对文件内容或重新上传。 |
+| `00-Paper/Wiebe E. Bijker, Thomas P. Hughes：《The Social Construction of Technological Systems》，1987_paged.md` | 已重新读取并补建 `P072-Bijker-Hughes-Social-Construction-Technological-Systems-report.md`。 |
 | `00-Paper/Nigel Thrift：《Non-Representational Theory Space, Politics, Affect》，2008_paged.md` | 当前读取内容为空，已生成 P053 待核报告，需补充正文后再做真正深度分析。 |
 
 ## 进度
