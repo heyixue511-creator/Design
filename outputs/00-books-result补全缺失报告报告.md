@@ -1,0 +1,380 @@
+# 00-books-result 缺失深度报告补全
+
+- 执行模式：write
+- `00-books/` 源 Markdown：15369
+- 原有 `00-books-result/` 报告：15374
+- 计划处理：1062
+- `create_missing_report`：632
+- `rewrite_existing_unmapped_report`：430
+- 明细日志：`outputs/00-books-result补全缺失报告日志.csv`
+
+## 覆盖率复核
+
+- 本地文件系统 `00-books/` 源 Markdown：15369
+- 本地文件系统 `00-books-result/` 报告：15978
+- 已由报告内“源文件完整路径”覆盖的源 Markdown：15369
+- 仍缺失深度报告的源 Markdown：0
+- 补全脚本重新计算待处理项：0
+
+## 样本
+
+- **rewrite_existing_unmapped_report** `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3271-About-Face-Appendix-A-Design-Principles-report.md`
+  - 源文：`00-books/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/04-Appendix A Design Principles.md`
+  - 匹配：same_book_order 0.600
+- **rewrite_existing_unmapped_report** `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3272-About-Face-Appendix-B-Bibliography-report.md`
+  - 源文：`00-books/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/05-Appendix B Bibliography.md`
+  - 匹配：same_book_order 0.500
+- **rewrite_existing_unmapped_report** `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3273-About-Face-titlepage-report.md`
+  - 源文：`00-books/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/06-Titlepage.md`
+  - 匹配：same_book_order 0.333
+- **rewrite_existing_unmapped_report** `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3274-About-Face-copyright-report.md`
+  - 源文：`00-books/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/07-Copyright.md`
+  - 匹配：same_book_order 0.333
+- **rewrite_existing_unmapped_report** `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3275-About-Face-credits-report.md`
+  - 源文：`00-books/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/08-Credits.md`
+  - 匹配：same_book_order 0.333
+- **rewrite_existing_unmapped_report** `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3276-About-Face-dedication-report.md`
+  - 源文：`00-books/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/09-Dedication.md`
+  - 匹配：same_book_order 0.333
+- **rewrite_existing_unmapped_report** `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3277-About-Face-about-the-authors-report.md`
+  - 源文：`00-books/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/10-About the Authors.md`
+  - 匹配：same_book_order 0.333
+- **rewrite_existing_unmapped_report** `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3278-About-Face-acknowledgments-report.md`
+  - 源文：`00-books/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/11-Acknowledgments.md`
+  - 匹配：same_book_order 0.333
+- **rewrite_existing_unmapped_report** `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3279-About-Face-foreword-report.md`
+  - 源文：`00-books/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/12-Foreword.md`
+  - 匹配：same_book_order 0.333
+- **rewrite_existing_unmapped_report** `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3280-About-Face-introduction-fourth-edition-report.md`
+  - 源文：`00-books/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/13-Introduction to the Fourth Edition.md`
+  - 匹配：same_book_order 0.500
+- **rewrite_existing_unmapped_report** `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3281-About-Face-advertisement-mislabeled-research-fragment-report.md`
+  - 源文：`00-books/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/14-Advertisement.md`
+  - 匹配：same_book_order 0.167
+- **rewrite_existing_unmapped_report** `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3282-About-Face-eula-mixed-contents-report.md`
+  - 源文：`00-books/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/15-End-User License Agreement.md`
+  - 匹配：same_book_order 0.000
+- **rewrite_existing_unmapped_report** `00-books-result/Alastair Duncan：《American Art Deco (1986)》，1986/B3284-American-Art-Deco-introduction-report.md`
+  - 源文：`00-books/Alastair Duncan：《American Art Deco (1986)》，1986/02-INTRODUCTION.md`
+  - 匹配：same_book_order 0.167
+- **rewrite_existing_unmapped_report** `00-books-result/Alastair Duncan：《American Art Deco (1986)》，1986/B3285-American-Art-Deco-exhibitions-report.md`
+  - 源文：`00-books/Alastair Duncan：《American Art Deco (1986)》，1986/03-EXHIBITIONS.md`
+  - 匹配：same_book_order 0.167
+- **rewrite_existing_unmapped_report** `00-books-result/Alastair Duncan：《American Art Deco (1986)》，1986/B3286-American-Art-Deco-lighting-clocks-decorative-arts-report.md`
+  - 源文：`00-books/Alastair Duncan：《American Art Deco (1986)》，1986/04-LIGHTINGAND CLOCKS.md`
+  - 匹配：same_book_order 0.100
+- **rewrite_existing_unmapped_report** `00-books-result/Alastair Duncan：《American Art Deco (1986)》，1986/B3287-American-Art-Deco-architecture-report.md`
+  - 源文：`00-books/Alastair Duncan：《American Art Deco (1986)》，1986/05-ARCHITECTURE.md`
+  - 匹配：same_book_order 0.167
+- **rewrite_existing_unmapped_report** `00-books-result/Alastair Duncan：《American Art Deco (1986)》，1986/B3288-American-Art-Deco-sculpture-report.md`
+  - 源文：`00-books/Alastair Duncan：《American Art Deco (1986)》，1986/06-SCULPTURE.md`
+  - 匹配：same_book_order 0.167
+- **rewrite_existing_unmapped_report** `00-books-result/Alastair Duncan：《American Art Deco (1986)》，1986/B3289-American-Art-Deco-painting-graphics-report.md`
+  - 源文：`00-books/Alastair Duncan：《American Art Deco (1986)》，1986/07-PAINTINGAND GRAPHICS.md`
+  - 匹配：same_book_order 0.125
+- **rewrite_existing_unmapped_report** `00-books-result/Alastair Duncan：《American Art Deco (1986)》，1986/B3290-American-Art-Deco-world-fairs-report.md`
+  - 源文：`00-books/Alastair Duncan：《American Art Deco (1986)》，1986/08-WORLDFAIRS.md`
+  - 匹配：same_book_order 0.000
+- **rewrite_existing_unmapped_report** `00-books-result/Alastair Duncan：《American Art Deco (1986)》，1986/B3291-American-Art-Deco-industrial-design-report.md`
+  - 源文：`00-books/Alastair Duncan：《American Art Deco (1986)》，1986/09-INDUSTRIAL DESIGN.md`
+  - 匹配：same_book_order 0.286
+- **rewrite_existing_unmapped_report** `00-books-result/Alexander Lavrentiev：《Alexander Rodchenko Photography 1924-1954》/B3293-Rodchenko-Photography-photo-eye-main-essay-report.md`
+  - 源文：`00-books/Alexander Lavrentiev：《Alexander Rodchenko Photography 1924-1954》/02-The Photo-EyeDas Photo-AugeL'œil de l’appareil.md`
+  - 匹配：same_book_order 0.077
+- **rewrite_existing_unmapped_report** `00-books-result/Alexander Lavrentiev：《Alexander Rodchenko Photography 1924-1954》/B3294-Rodchenko-Photography-kino-eye-mess-mend-lef-report.md`
+  - 源文：`00-books/Alexander Lavrentiev：《Alexander Rodchenko Photography 1924-1954》/03-PA6OTABEPTOBA.md`
+  - 匹配：same_book_order 0.000
+- **rewrite_existing_unmapped_report** `00-books-result/Alexander Lavrentiev：《Alexander Rodchenko Photography 1924-1954》/B3295-Rodchenko-Photography-foreshortening-urban-motion-appendix-report.md`
+  - 源文：`00-books/Alexander Lavrentiev：《Alexander Rodchenko Photography 1924-1954》/04-HOBIsea.md`
+  - 匹配：same_book_order 0.000
+- **rewrite_existing_unmapped_report** `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3296-Brodovitch-Portfolio-cover-fragment-report.md`
+  - 源文：`00-books/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/01-PORTFOLIO.md`
+  - 匹配：same_book_order 0.167
+- **rewrite_existing_unmapped_report** `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3297-Brodovitch-title-contents-copyright-report.md`
+  - 源文：`00-books/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/02-AlexeyBrodovitch.md`
+  - 匹配：same_book_order 0.000
+- **rewrite_existing_unmapped_report** `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3298-Brodovitch-introduction-formative-years-report.md`
+  - 源文：`00-books/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/03-AlexeyBrodovitch.md`
+  - 匹配：same_book_order 0.000
+- **rewrite_existing_unmapped_report** `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3299-Brodovitch-ballets-russes-paris-modernism-report.md`
+  - 源文：`00-books/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/04-BALLETS RUSSES.md`
+  - 匹配：same_book_order 0.286
+- **rewrite_existing_unmapped_report** `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3300-Brodovitch-prunier-athelia-commercial-art-report.md`
+  - 源文：`00-books/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/05-SMEUNI.md`
+  - 匹配：same_book_order 0.000
+- **rewrite_existing_unmapped_report** `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3301-Brodovitch-athelia-freelance-networks-report.md`
+  - 源文：`00-books/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/06-ATHELIA.md`
+  - 匹配：same_book_order 0.167
+- **rewrite_existing_unmapped_report** `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3302-Brodovitch-contes-fantastiques-book-illustration-report.md`
+  - 源文：`00-books/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/07-CONTESFANTASTIQUES.md`
+  - 匹配：same_book_order 0.000
+- **rewrite_existing_unmapped_report** `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3303-Brodovitch-bauer-type-advertising-report.md`
+  - 源文：`00-books/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/08-BAUERBeton,a creation of Bauer's chief designer, Heinrich Jo.md`
+  - 匹配：same_book_order 0.077
+- **rewrite_existing_unmapped_report** `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3304-Brodovitch-harpers-bazaar-paper-movies-report.md`
+  - 源文：`00-books/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/09-BAZAAR.md`
+  - 匹配：same_book_order 0.143
+- **rewrite_existing_unmapped_report** `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3305-Brodovitch-saks-freelance-bazaar-tensions-report.md`
+  - 源文：`00-books/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/10-aksFifthue工.md`
+  - 匹配：same_book_order 0.000
+- **rewrite_existing_unmapped_report** `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3306-Brodovitch-design-lab-photography-ballet-report.md`
+  - 源文：`00-books/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/11-TAXI.md`
+  - 匹配：same_book_order 0.000
+- **rewrite_existing_unmapped_report** `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3307-Brodovitch-hobo-signs-portfolio-feature-report.md`
+  - 源文：`00-books/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/12-HOBOSIGNS.md`
+  - 匹配：same_book_order 0.000
+- **rewrite_existing_unmapped_report** `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3308-Brodovitch-robert-osborn-postscript-index-report.md`
+  - 源文：`00-books/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/13-ROBERT OSBORN.md`
+  - 匹配：same_book_order 0.286
+- **rewrite_existing_unmapped_report** `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3309-Brodovitch-complete-aggregate-report.md`
+  - 源文：`00-books/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha.md`
+  - 匹配：same_book_order 0.100
+- **rewrite_existing_unmapped_report** `00-books-result/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/B0251-digital-fragment-11-report.md`
+  - 源文：`00-books/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/11-LAL M ENTWIS SS T T SS IS S IAFO ATFO L ISE.md`
+  - 匹配：same_book_order 0.091
+- **rewrite_existing_unmapped_report** `00-books-result/MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World/B0355-Automation-Finest-Hour-preface-report.md`
+  - 源文：`00-books/MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World/MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World_01_preface_AUTOMATION'S_FINEST_HOUR__RADA.md`
+  - 匹配：same_book_name_similarity 0.286
+- **rewrite_existing_unmapped_report** `00-books-result/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/B0379-Fabrics-by-Yard-report.md`
+  - 源文：`00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/47-CHAPTER 3 HANDWOVEN FABRICS BY THE YARD.md`
+  - 匹配：same_book_name_similarity 0.429
+- **rewrite_existing_unmapped_report** `00-books-result/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/B0381-Consumer-in-Infinity-report.md`
+  - 源文：`00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/48-CHAPTER 4 DESIGNING THE ‘CONSUMER IN INFINITY’ CHA.md`
+  - 匹配：same_book_name_similarity 0.375
+- **rewrite_existing_unmapped_report** `00-books-result/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/B0384-Just-Decoration-report.md`
+  - 源文：`00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/49-CHAPTER 6 JUST DECORATION CHAPTER 7 GOLDFISH MEMOR.md`
+  - 匹配：same_book_name_similarity 0.286
+- **rewrite_existing_unmapped_report** `00-books-result/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/B0386-Creature-Comforts-report.md`
+  - 源文：`00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/50-CHAPTER 8 CREATURE COMFORTS CHAPTER 9 JACOB JENSEN.md`
+  - 匹配：same_book_name_similarity 0.286
+- **rewrite_existing_unmapped_report** `00-books-result/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/B0392-Exhibitable-Furniture-report.md`
+  - 源文：`00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/51-CHAPTER 11 EXHIBITABLE FURNITURE CHAPTER 12 THE AD.md`
+  - 匹配：same_book_name_similarity 0.250
+- **rewrite_existing_unmapped_report** `00-books-result/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/B0396-Policies-to-Politics-report.md`
+  - 源文：`00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/42-From Policies to Politics FinnishDesign on the Ide.md`
+  - 匹配：same_book_name_similarity 0.375
+- **rewrite_existing_unmapped_report** `00-books-result/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/B0397-Full-Palette-Black-White-report.md`
+  - 源文：`00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/43-FROM A FULL PALETTE TO BLACK AND WHITE CRAFT, NOST.md`
+  - 匹配：same_book_name_similarity 0.444
+- **rewrite_existing_unmapped_report** `00-books-result/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/B0398-Concluding-Remarks-report.md`
+  - 源文：`00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/44-CONCLUDING REMARKS Epilogue.md`
+  - 匹配：same_book_name_similarity 0.400
+- **rewrite_existing_unmapped_report** `00-books-result/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/B0403-Chapter-13-Policies-Bibliography-report.md`
+  - 源文：`00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/52-CHAPTER 13 FROM POLICIES TO POLITICS Select Biblio.md`
+  - 匹配：same_book_name_similarity 0.300
+- **rewrite_existing_unmapped_report** `00-books-result/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/B0404-Index-report.md`
+  - 源文：`00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/53-300 INDEX.md`
+  - 匹配：same_book_name_similarity 0.250
+- **rewrite_existing_unmapped_report** `00-books-result/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/B0405-Scandinavian-Design-full-report.md`
+  - 源文：`00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/Scandinavian Design Alternative Histories (Kjetil Fallan (editor)).md`
+  - 匹配：same_book_name_similarity 0.222
+- **rewrite_existing_unmapped_report** `00-books-result/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/B0418-City-Crown-Church-report.md`
+  - 源文：`00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/03-Negotiating Absolute PowerCity, Crown, and Church.md`
+  - 匹配：same_book_name_similarity 0.250
+- **rewrite_existing_unmapped_report** `00-books-result/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/B0423-Aesthetics-Productive-Labor-report.md`
+  - 源文：`00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/08-The Separation of Aestheticsand Productive Labor.md`
+  - 匹配：same_book_name_similarity 0.250
+- **rewrite_existing_unmapped_report** `00-books-result/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/B0425-Bourgeoisie-Consumers-report.md`
+  - 源文：`00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/10-The Bourgeoisie as Consumers.md`
+  - 匹配：same_book_name_similarity 0.400
+- **rewrite_existing_unmapped_report** `00-books-result/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/B0426-Ameublement-report.md`
+  - 源文：`00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/11-L'AMEUBLEMENT.md`
+  - 匹配：same_book_name_similarity 0.333
+- **rewrite_existing_unmapped_report** `00-books-result/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/B0427-Style-Commercial-World-report.md`
+  - 源文：`00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/12-Style in the NewCommercial World.md`
+  - 匹配：same_book_name_similarity 0.286
+- **rewrite_existing_unmapped_report** `00-books-result/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/B0429-Style-Nation-Market-report.md`
+  - 源文：`00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/14-Style, the Nation,and the Market.md`
+  - 匹配：same_book_name_similarity 0.600
+- **rewrite_existing_unmapped_report** `00-books-result/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/B0430-Mass-Stylistic-Regime-report.md`
+  - 源文：`00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/15-Toward a Mass Stylistic RegimeThe Citizen-Consumer.md`
+  - 匹配：same_book_name_similarity 0.222
+- **rewrite_existing_unmapped_report** `00-books-result/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/B0431-Bibliography-report.md`
+  - 源文：`00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/16-Bibliography.md`
+  - 匹配：same_book_name_similarity 0.333
+- **rewrite_existing_unmapped_report** `00-books-result/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/B0432-General-Index-report.md`
+  - 源文：`00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/17-General Index.md`
+  - 匹配：same_book_name_similarity 0.500
+- **rewrite_existing_unmapped_report** `00-books-result/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/B0433-Index-of-Names-report.md`
+  - 源文：`00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/18-Index of Names.md`
+  - 匹配：same_book_name_similarity 0.600
+- **rewrite_existing_unmapped_report** `00-books-result/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/B0438-1860s-1870s-Generation-report.md`
+  - 源文：`00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/04-THE 1860s AND 1870s SAW THE EMERGENCE OF A GENERAT.md`
+  - 匹配：same_book_name_similarity 0.222
+- **rewrite_existing_unmapped_report** `00-books-result/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/B0440-Arts-Crafts-Expansion-report.md`
+  - 源文：`00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/07-THE RICH ARTS AND CRAFTS MOVEMENT WHICH HADDEVELOP.md`
+  - 匹配：same_book_name_similarity 0.222
+- **rewrite_existing_unmapped_report** `00-books-result/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/B0442-Late-Nineteenth-Century-report.md`
+  - 源文：`00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/08-THE LATE NINETEENTH CENTURY WAS A RICH PERIOD FORA.md`
+  - 匹配：same_book_name_similarity 0.333
+- **rewrite_existing_unmapped_report** `00-books-result/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/B0443-German-Austrian-Designers-report.md`
+  - 源文：`00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/09-WHILE GERMAN AND AUSTRIAN ARTISTS AND DESIGNERSWER.md`
+  - 匹配：same_book_name_similarity 0.250
+- **rewrite_existing_unmapped_report** `00-books-result/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/B0452-Picture-Credits-Acknowledgements-report.md`
+  - 源文：`00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/18-PICTURE CREDITS ACKNOWLEDGEMENTS.md`
+  - 匹配：same_book_name_similarity 0.600
+- **rewrite_existing_unmapped_report** `00-books-result/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/B0453-Arts-Crafts-full-report.md`
+  - 源文：`00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar.md`
+  - 匹配：same_book_name_similarity 0.222
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0454-Design-History-Reader-title-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/58-DESIGN HISTORY AND THE HISTORY OF DESIGN.md`
+  - 匹配：same_book_name_similarity 0.286
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0457-Introduction-01-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/01-The designhistoryreader.md`
+  - 匹配：same_book_name_similarity 0.250
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0458-Introduction-02-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/05-INTRODUCTION.md`
+  - 匹配：same_book_name_similarity 0.250
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0461-Division-of-Labour-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/08-OF THE DIVISION OF LABOUR.md`
+  - 匹配：same_book_name_similarity 0.600
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0462-Wedgwood-Slave-Medallion-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/09-THE WEDGWOOD SLAVE MEDALLION VALUES INEIGHTEENTH-CENTURY DES.md`
+  - 匹配：same_book_name_similarity 0.333
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0463-Manufacturing-Consumption-Design-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/10-MANUFACTURING, CONSUMPTION AND DESIGN INEIGHTEENTH-CENTURY E.md`
+  - 匹配：same_book_name_similarity 0.429
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0465-Illustrations-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/101-ILLUSTRATIONS.md`
+  - 匹配：same_book_name_similarity 0.333
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0473-American-System-Mass-Production-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/17-THE 'AMERICAN SYSTEM' AND MASS-PRODUCTION,FROM INDUSTRIAL DE.md`
+  - 匹配：same_book_name_similarity 0.500
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0474-Art-Craft-Machine-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/19-THE ART AND CRAFT OF THE MACHINE.md`
+  - 匹配：same_book_name_similarity 0.500
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0476-Introduction-Modernism-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/21-INTRODUCTION.md`
+  - 匹配：same_book_name_similarity 0.250
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0481-Workshop-to-Laboratory-Bauhaus-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/27-FROM WORKSHOP TO LABORATORY, FROMTHE BAUHAUS REASSESSED.md`
+  - 匹配：same_book_name_similarity 0.500
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0483-Introduction-Postwar-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/30-INTRODUCTION.md`
+  - 匹配：same_book_name_similarity 0.250
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0484-Utility-Furniture-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/31-UTILITY FURNITURE AND THE MYTH OFUTILITY 1943-1948.md`
+  - 匹配：same_book_name_similarity 0.250
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0486-Khrushchev-Kitchen-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/34-THE KHRUSHCHEV KITCHEN DOMESTICATING THESCIENTIFIC-TECHNOLOG.md`
+  - 匹配：same_book_name_similarity 0.286
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0487-All-That-Glitters-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/35-ALL THAT GLITTERS IS NOT STAINLESSReyner Banham (1966).md`
+  - 匹配：same_book_name_similarity 0.300
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0489-Introduction-Postmodernism-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/37-INTRODUCTION.md`
+  - 匹配：same_book_name_similarity 0.250
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0491-Ecstasy-of-Communication-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/39-THE ECSTASY OF COMMUNICATIONJean Baudrillard (1987).md`
+  - 匹配：same_book_name_similarity 0.250
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0492-No-Kitsch-Only-Design-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/40-THERE IS NO KITSCH, THERE IS ONLY DESIGN!.md`
+  - 匹配：same_book_name_similarity 0.500
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0493-Deconstruction-Graphic-Design-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/41-DECONSTRUCTION AND GRAPHIC DESIGNHISTORY MEETS THEORY.md`
+  - 匹配：same_book_name_similarity 0.250
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0497-Introduction-Sustainability-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/45-INTRODUCTION.md`
+  - 匹配：same_book_name_similarity 0.250
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0498-Spaceship-Earth-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/46-OPERATING MANUAL FOR SPACESHIP EARTH.md`
+  - 匹配：same_book_name_similarity 0.333
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0499-Material-Doubts-Plastic-Fallout-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/49-MATERIAL DOUBTS AND PLASTIC FALLOUT,FROM AMERICAN PLASTIC.md`
+  - 匹配：same_book_name_similarity 0.571
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0500-Green-Consumer-Guide-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/50-INTRODUCTION TO THE GREEN CONSUMERSUPERMARKET GUIDE.md`
+  - 匹配：same_book_name_similarity 0.250
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0501-Redefining-Rubbish-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/51-REDEFINING RUBBISH COMMODITYDISPOSAL AND SOURCINGNicky Gregs.md`
+  - 匹配：same_book_name_similarity 0.286
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0502-Hannover-Principles-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/52-THE HANNOVER PRINCIPLES DESIGNFOR SUSTAINABILITY.md`
+  - 匹配：same_book_name_similarity 0.333
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0504-Introduction-Design-History-Methods-01-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/59-DESIGN HISTORY AND THE HISTORY OF DESIGN.md`
+  - 匹配：same_book_name_similarity 0.250
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0506-Taking-Stock-Design-History-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/56-TAKING STOCK IN DESIGN HISTORYFran Hannah and Tim Putnam (19.md`
+  - 匹配：same_book_name_similarity 0.250
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0507-State-of-Design-History-Part-I-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/57-THE STATE OF DESIGN HISTORY,PART I MAPPING THE FIELDClive Di.md`
+  - 匹配：same_book_name_similarity 0.444
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0508-Design-History-History-of-Design-01-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/67-THE HISTORY OF CRAFTPaul Greenhalgh (1987).md`
+  - 匹配：same_book_name_similarity 0.222
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0510-Design-History-or-Design-Studies-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/60-DESIGN HISTORY OR DESIGN STUDIESSUBJECT MATTER AND METHODSVi.md`
+  - 匹配：same_book_name_similarity 0.333
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0511-Resisting-Colonization-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/61-RESISTING COLONIZATION DESIGNHISTORY HAS ITS OWN IDENTITYJon.md`
+  - 匹配：same_book_name_similarity 0.222
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0513-Introduction-Object-Image-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/54-INTRODUCTION.md`
+  - 匹配：same_book_name_similarity 0.250
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0514-Object-as-Image-Italian-Scooter-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/64-OBJECT AS IMAGE THE ITALIAN SCOOTER CYCLEDick Hebdige (1981).md`
+  - 匹配：same_book_name_similarity 0.444
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0515-Most-Cherished-Objects-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/65-THE MOST CHERISHED OBJECTS IN THE HOMEMihaly Csikszentmihaly.md`
+  - 匹配：same_book_name_similarity 0.375
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0520-Introduction-Gender-Design-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/91-INTRODUCTION TO DESIGN AND THEMODERN MAGAZINE.md`
+  - 匹配：same_book_name_similarity 0.250
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0523-We-Three-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/75-WE THREE.md`
+  - 匹配：same_book_name_similarity 0.500
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0524-Self-Made-Motormen-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/76-SELF-MADE MOTORMEN THE MATERIALCONSTRUCTION OF WORKING-CLASS.md`
+  - 匹配：same_book_name_similarity 0.333
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0526-Introduction-Consumption-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/55-INTRODUCTION.md`
+  - 匹配：same_book_name_similarity 0.250
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0527-Commodity-Fetishism-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/79-THE FETISHISM OF THE COMMODITY ANDITS SECRET, FROM CAPITAL.md`
+  - 匹配：same_book_name_similarity 0.250
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0528-Conspicuous-Consumption-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/80-CONSPICUOUS CONSUMPTION, INTHE THEORY OF THE LEISURE CLASS.md`
+  - 匹配：same_book_name_similarity 0.222
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0529-Sense-of-Distinction-Introduction-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/82-INTRODUCTION AND THE SENSE OF DISTINCTION,FROM DISTINCTION A.md`
+  - 匹配：same_book_name_similarity 0.667
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0530-Tupperware-Party-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/83-'PARTIES ARE THE ANSWER' THE ASCENT OFTHE TUPPERWARE PARTY.md`
+  - 匹配：same_book_name_similarity 0.222
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0531-Revolution-Will-Be-Marketed-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/84-THE REVOLUTION WILL BE MARKETEDAMERICAN CORPORATIONS AND BLA.md`
+  - 匹配：same_book_name_similarity 0.333
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0533-Introduction-Mediation-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/63-INTRODUCTION.md`
+  - 匹配：same_book_name_similarity 0.250
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0535-Advertising-Mother-Graphic-Design-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/88-ADVERTISING, MOTHER OF GRAPHIC DESIGNSteven Heller (1995).md`
+  - 匹配：same_book_name_similarity 0.300
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0537-Integrative-Practice-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/90-INTEGRATIVE PRACTICE ORAL HISTORY,DRESS AND DISABILITY STUDI.md`
+  - 匹配：same_book_name_similarity 0.222
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0542-Finding-Poland-Zakopane-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/95-FINDING POLAND IN THE MARGINSTHE CASE OF THE ZAKOPANE STYLED.md`
+  - 匹配：same_book_name_similarity 0.300
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0544-Land-Rover-Colonial-Adventure-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/98-LAND ROVER AND COLONIAL-STYLE ADVENTUREJeanne van Eeden (200.md`
+  - 匹配：same_book_name_similarity 0.273
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0545-Swoosh-Haiti-Romania-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/99-SWOOSH IDENTITY RECONTEXTUALIZATIONSIN HAITI AND ROMANIA.md`
+  - 匹配：same_book_name_similarity 0.429
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0596-Zakopane-Introduction-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/70-INTRODUCTION.md`
+  - 匹配：same_book_name_similarity 0.250
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0608-Swoosh-Introduction-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/78-INTRODUCTION.md`
+  - 匹配：same_book_name_similarity 0.250
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0619-Section-3-Introduction-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/86-INTRODUCTION.md`
+  - 匹配：same_book_name_similarity 0.250
+- **rewrite_existing_unmapped_report** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0652-Identity-Introduction-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/94-INTRODUCTION.md`
+  - 匹配：same_book_name_similarity 0.250
+- **rewrite_existing_unmapped_report** `00-books-result/The design philosophy reader _ edited by Anne-Marie Willis_ -- Anne-Marie Willis/B0699-Design-Ontological-Question-report.md`
+  - 源文：`00-books/The design philosophy reader _ edited by Anne-Marie Willis_ -- Anne-Marie Willis/01-DESIGN AS AN ONTOLOGICAL QUESTIONTony Fry.md`
+  - 匹配：same_book_order 0.222

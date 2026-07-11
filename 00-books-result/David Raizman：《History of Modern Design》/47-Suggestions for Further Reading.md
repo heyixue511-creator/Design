@@ -1,0 +1,160 @@
+# B44133253-Suggestions-for-Further-Reading 深度报告：Suggestions for Further Reading
+
+- **执行状态**：已完成 V2.0 批量重写；来源于 `P1` 重写队列
+- **建议等级**：A 类核心章节材料
+- **图像状态**：未检测到 Markdown 图片链接
+- **源文件完整路径**：`00-books/David Raizman：《History of Modern Design》/47-Suggestions for Further Reading.md`
+- **报告文件路径**：`00-books-result/David Raizman：《History of Modern Design》/47-Suggestions for Further Reading.md`
+- **文件类型**：学术专著或论文型章节
+- **文本完整性**：102591 字符；存在数字/字母混淆痕迹
+- **相邻文件关系**：前序 `00-books/David Raizman：《History of Modern Design》/46-Timeline.md`；后续 `00-books/David Raizman：《History of Modern Design》/48-Sources and Credits for Quotations.md`
+
+## 1. 源文核验与内容概述
+
+已重新读取对应 `00-books/` Markdown 源文。本报告不依据旧短报告扩写，而以源文件标题、段落、小标题、图注和可读注释为证据边界。
+
+| 层级 | 标题 |
+|---:|---|
+| 1 | Suggestions for Further Reading |
+| 2 | INTRODUCTION AND PART I: DEMAND, SUPPLY, AND DESIGN 1700-1800 |
+| 2 | PART II: EXPANSION AND TASTE 1800-1865 |
+| 2 | PART III: ARTS, CRAFTS, AND MACHINES-INDUSTRIALIZATION: HOPES AND FEARS 1865-1914 |
+| 2 | PART IV: AFTER WORLD WAR I: ART, INDUSTRY, AND UTOPIAS 1918-1944 |
+| 2 | PART V: HUMANISM AND LUXURY:INTERNATIONAL MODERNISM ANDMASS CULTURE AFTER WORLD WAR II 1945-1960 |
+| 2 | PART VI: PROGRESS, PROTEST, AND PLURALISM 1960-2010 |
+| 2 | GENERAL |
+| 2 | Select Bibliography |
+| 2 | GRAPHIC DESIGN |
+| 2 | FASHION DESIGN |
+| 2 | PRIMARY SOURCE ANTHOLOGIES AND HISTORIOGRAPHY READERS |
+| 2 | DICTIONARIES AND REFERENCE |
+| 2 | PARTl |
+| 2 | PARTII |
+| 2 | PART III |
+| 2 | PART IV |
+| 2 | PART V |
+| ... | 另有 2 个标题未在此表展开 |
+
+源文开端可读内容显示：Suggestions for Further Reading
+
+源文末段或末尾可读内容显示：15.9 Courtesy Jame Reid/© Sex Pistols Residuals 2003
+
+从全文高频词和关键句看，本文主要围绕 博物馆/展示制度、现代性/现代主义、平面设计、历史叙事 展开。需要注意，这一判断是对源文词汇、标题和段落结构的归纳，不等同于外部知识补充。
+
+源文中检测到的注释/书目信号：有；若用于正式论文引文，仍需回到原书页码和注释系统复核。
+
+## 2. 文献性质、作者立场与史料等级
+
+该文件在本仓库中应按“学术专著或论文型章节”处理。其史料等级建议为“A 类核心章节材料”：
+
+该文件提供作者在当前切片中的历史叙述、概念判断与案例组织。报告区分作者论断、可核事实、图像线索和后续分析，不把章节观点自动视为中立事实。
+
+本报告撰写者的判断只覆盖当前切片内已经出现的内容。人物身份、作品年代、机构归属和页码均应在进入论文、教材或数据库前再做版本核验。
+
+## 3. 语义深度分析
+
+### 3.1 核心命题
+
+标题、小标题、段落重心与高频概念共同表明，当前切片集中处理 博物馆/展示制度、现代性/现代主义、平面设计、历史叙事。分析范围严格限定在“Suggestions for Further Reading”及本文件可读内容；相邻章节、外部常识和作者其他著作不补入当前结论。
+
+### 3.2 关键论证句与证据线索
+
+| 序号 | 源文关键句/段落抓手 | 可支持的分析方向 |
+|---:|---|---|
+| 1 | , 10o Masterpieces of Furniture from the Vitra Design Museum Collection, Weil am Rhein, Vitra Design Museum, 1996 Walker, John A., Design History and the History of Modern Design... | 用于定位作者如何建立章节问题、概念关系或案例证据；正式引用需回源文核页。 |
+| 2 | , Interior Design and Identity, Manchester University Press, 2004 Meikle, Jeffrey L., American Plastic: a Cultural History New Brunswick, NJ, Rutgers University Press, 1995 Ibid... | 用于定位作者如何建立章节问题、概念关系或案例证据；正式引用需回源文核页。 |
+| 3 | , Design Discourse: History-Theory-Criticism, Chicago University Press, 1989 DICTIONARIES AND REFERENCE Byars, Mel, The Design Encylopaedia: The Museum of Modern Art, London... | 用于定位作者如何建立章节问题、概念关系或案例证据；正式引用需回源文核页。 |
+| 4 | , The Culture of Consumption: Critical Essays in American History 1880-1980, New York, Pantheon Books, 1983 Franciscono, Marcel, Walter Gropius and the Creation of the Bauhaus... | 用于定位作者如何建立章节问题、概念关系或案例证据；正式引用需回源文核页。 |
+| 5 | Abrams and the American Craft Museum, 1995 Kaufmann, Edgar Jr., Prize Designs for Modern Furniture from the International Competition for Low-cost Furniture Design, New York... | 用于定位作者如何建立章节问题、概念关系或案例证据；正式引用需回源文核页。 |
+| 6 | Otto, Weissenhof 1927 and the Modern Movement in Architecture, Chicago and London, University of Chicago Press, 1991 Porter, Glenn, Raymond Loewy: Designs for a Consumer Culture... | 用于定位作者如何建立章节问题、概念关系或案例证据；正式引用需回源文核页。 |
+| 7 | 1992/© ADAGP, Paris and DACS, London 2o1o 8.25 © Tate, London 2002 8.27 © ADAGP, Paris and DACS, London 2010 8.28 Special Collections, Davidow Archives, Box A5 8.30 © FLC/ADAGP... | 用于定位作者如何建立章节问题、概念关系或案例证据；正式引用需回源文核页。 |
+| 8 | 1979 Fenichell, Stephen, Plastic: the Making of a Synthetic Century, New York, HarperBusiness, 1997 Fiell, Charlotte and Peter, Design of the 2oth Century, Cologne, Taschen, 2000... | 用于定位作者如何建立章节问题、概念关系或案例证据；正式引用需回源文核页。 |
+
+### 3.3 章节结构中的论证层级
+
+| 源文章节/段落 | 内容抓手 | 报告判断 |
+|---|---|---|
+| Suggestions for Further Reading | The following sources provide a starting point for further investigation of many of the topics treated in the 2nd edition of History of Modern Design. | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+| INTRODUCTION AND PART I: DEMAND, SUPPLY, AND DESIGN 1700-1800 | State-owned manufactories form part of the introduction to John Heskett, Industrial Design 198o , and are treated, along with guilds, specialization, and the... | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+| PART II: EXPANSION AND TASTE 1800-1865 | For the history of printing technology, including lithography, see Michael Twyman in An Illustrated History of its Development and Uses in England 1970 , while... | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+| PART III: ARTS, CRAFTS, AND MACHINES-INDUSTRIALIZATION: HOPES AND FEARS 1865-1914 | The Kelmscott Press: A History of William Morris, Typographical Adventure 1991 ; for the Private Press movement generally see Colin Franklin, The Private... | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+| PART IV: AFTER WORLD WAR I: ART, INDUSTRY, AND UTOPIAS 1918-1944 | Monographs on industrial designers such as Henry Dreyfuss and Raymond Loewy are listed in the bibliography, while the careers of several interwar modern... | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+| PART V: HUMANISM AND LUXURY... | Examples of Scandinavian furniture are amply illustrated in Hiesinger and Marcus 1982 and 1993 and are the subject of Eileen Beer 1971 , and McFadden 1980 ... | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+| PART VI: PROGRESS, PROTEST, AND PLURALISM 1960-2010 | Glenn Adamson's Thinking Through Craft 2007 is a recent and engaging attempt to describe the nature of craft mostly in relation to craft as it has been treated... | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+| GENERAL | 1979 Fenichell, Stephen, Plastic: the Making of a Synthetic Century, New York, HarperBusiness, 1997 Fiell, Charlotte and Peter, Design of the 2oth Century... | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+| Select Bibliography | , Interior Design and Identity, Manchester University Press, 2004 Meikle, Jeffrey L., American Plastic: a Cultural History New Brunswick, NJ, Rutgers... | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+| GRAPHIC DESIGN | , Looking Closer: Classic Writings on Graphic Design, New York, Allworth Press, 1994 Ibid., Looking Closer 2: Classic Writings on Graphic Design, New York... | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+| ... | 另有 10 个小节未在表中展开 | 后续精引时应回到源文逐节核验 |
+
+从结构上看，报告应避免只写“本文讨论某主题”这种旧式短摘要。更可靠的读法是：先确认文本类型和切片边界，再把标题/小标题当作论证层级，把高频概念当作议题线索，把图注、注释和案例名当作可核验材料。这样才能区分源文事实、作者判断和后续研究者的再阐释。
+
+## 4. 知识要素解构与术语标准化
+
+### A. 知识要素表
+
+| 要素类型 | 原文名称 | 标准英文／原文名 | 原文语境 | 可归入议题 | 证据状态 |
+|---|---|---|---|---|---|
+| 人物／机构／作品线索 | Suggestions for Further Reading The | Suggestions for Further Reading The | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | History of Modern Design | History of Modern Design | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | The Internet | The Internet | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | INTRODUCTION AND PART | INTRODUCTION AND PART | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | AND DESIGN | AND DESIGN | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | John Heskett | John Heskett | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | Industrial Design | Industrial Design | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | Edward Lucie-Smith | Edward Lucie-Smith | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | The Story | The Story | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | The Craftsman's Role | The Craftsman's Role | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | Denis Diderot | Denis Diderot | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | Alexandre Pradère | Alexandre Pradère | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | French Furniture Makers | French Furniture Makers | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | The Art | The Art | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 概念／议题 | york | york | 全文高频或关键议题词，出现约 198 次 | 章节核心议题或索引线索 | 已在源文中出现 |
+| 概念／议题 | press | press | 全文高频或关键议题词，出现约 164 次 | 章节核心议题或索引线索 | 已在源文中出现 |
+| 概念／议题 | london | london | 全文高频或关键议题词，出现约 141 次 | 章节核心议题或索引线索 | 已在源文中出现 |
+| 概念／议题 | university | university | 全文高频或关键议题词，出现约 111 次 | 章节核心议题或索引线索 | 已在源文中出现 |
+| 概念／议题 | museum | museum | 全文高频或关键议题词，出现约 94 次 | 博物馆/展示制度 | 已在源文中出现 |
+| 概念／议题 | modern | modern | 全文高频或关键议题词，出现约 64 次 | 现代性/现代主义 | 已在源文中出现 |
+| 概念／议题 | graphic | graphic | 全文高频或关键议题词，出现约 61 次 | 平面设计 | 已在源文中出现 |
+| 概念／议题 | courtesy | courtesy | 全文高频或关键议题词，出现约 61 次 | 章节核心议题或索引线索 | 已在源文中出现 |
+| 概念／议题 | dacs | dacs | 全文高频或关键议题词，出现约 55 次 | 章节核心议题或索引线索 | 已在源文中出现 |
+| 概念／议题 | publ | publ | 全文高频或关键议题词，出现约 54 次 | 章节核心议题或索引线索 | 已在源文中出现 |
+| 议题簇 | 博物馆/展示制度、现代性/现代主义、平面设计、历史叙事 | 原文名同左 | 由高频词和关键句综合归纳 | 章节主题归纳 | 归纳性判断 |
+
+### B. 术语与关键词
+
+源文高频词包括：york(198)、press(164)、london(141)、university(111)、museum(94)、modern(64)、graphic(61)、courtesy(61)、dacs(55)、publ(54)、collection(53)、history(49)。
+
+这些词不应被机械翻译为固定理论标签。更稳妥的处理方式是保留英文原词或源文用语，并在报告、索引或教学条目中说明它在当前章节中的具体语境。例如，同一个 `style` 可能指风格制度、商品外观、历史复兴样式或作者批判对象；同一个 `design` 也可能指职业实践、人工物规划、形式判断或社会技术过程。
+
+## 5. 实证材料、案例与图像线索
+
+源文未检测到 Markdown 图片链接；本节主要依据正文中的案例、人名、机构名和术语线索。
+
+可进入后续数据库或教学索引的材料包括：章节标题、可读小标题、反复出现的关键词、人物/机构/作品名、图注文字和注释线索。不能直接进入可靠事实库的内容包括：未核页码的引文、OCR 可能误读的人名、只由图片文件名推断出的作品信息，以及源文没有明确说明的年代和因果关系。
+
+## 6. 可用边界与不可用边界
+
+| 类型 | 可用结论 | 不可越界 |
+|---|---|---|
+| 源文核验 | 当前报告已读取 `00-books/David Raizman：《History of Modern Design》/47-Suggestions for Further Reading.md`，可确认其大致结构、标题、关键词和可读段落 | 不代表已核对原 PDF 页码、扫描图像和印刷版版式 |
+| 语义分析 | 可把本文纳入 博物馆/展示制度、现代性/现代主义、平面设计、历史叙事 的议题网络 | 不应把同书其他章节或作者其他著作的观点补入当前切片 |
+| 知识要素 | 可抽取人物、机构、作品、技术、媒介和概念线索 | 不应把自动抽取实体直接当作权威规范名 |
+| 图像材料 | 可记录 Markdown 图注和图片链接存在 | 不应描述未实际查看的图像视觉细节 |
+
+## 7. 教材、研究与索引用途
+
+本文件适合用于：博物馆/展示制度、现代性/现代主义、平面设计、历史叙事 的章节导读、关键词索引、案例线索整理和设计史/设计理论课程的材料入口。若用于课堂讲授，可先以源文标题和小标题建立问题框架，再选取关键句回读，让学生区分作者论证、案例证据和后续解释。
+
+若用于研究写作，建议把本报告当作“复审入口”而非最终引文依据：进入写作前应回到源 Markdown 和原 PDF，补齐页码、注释、图版编号、译名和版本信息。
+
+## 8. 可引用内容与不可确认内容
+
+可引用范围限于源文明确出现的标题、人物、机构、作品、案例、图注、数据和作者判断；直接引语必须回原书补页码。不可确认的内容包括仅由文件名推断的主题、未查看图片的视觉细节、OCR 可疑专名，以及当前切片没有展开的因果关系。
+
+## 9. 技术核验与证据边界
+
+源文件共约 102591 个字符；存在数字/字母混淆痕迹。未检测到 Markdown 图片链接。相邻文件为前序 `00-books/David Raizman：《History of Modern Design》/46-Timeline.md`、后续 `00-books/David Raizman：《History of Modern Design》/48-Sources and Credits for Quotations.md`。正式使用前需核对原 PDF 页码、注释、图版和版本信息。
+
+## 10. 复审结论
+
+本报告已重新读取 `00-books/David Raizman：《History of Modern Design》/47-Suggestions for Further Reading.md`，并按“学术专著或论文型章节”的实际信息结构完成 V2.0 重写。当前可作为 博物馆/展示制度、现代性/现代主义、平面设计、历史叙事 的研究入口；自动抽取的专名、术语和证据关系已保留复核标记，不替代原书精读与正式引文核验。

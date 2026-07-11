@@ -1,0 +1,477 @@
+# 00-books-result 长篇原文搬运修复报告
+
+- 执行模式：write
+- 扫描到超长行/超长标题报告：115
+- `rewritten`：115
+- 修复后仍存在超长行/超长标题报告：49
+- 明细日志：`outputs/00-books-result修复长篇原文搬运日志.csv`
+
+## 最终复核
+
+- 全库最长行超过 650 字符的报告：0
+- H1 超过 260 字符的报告：0
+- H1 超过 180 但不超过 260 的报告：49（剩余为文件名/报告编号较长，不是源文搬运）
+- 示例 `B44144495-第7章现代设计的成熟时期-第二次世界大战前后的设计-report.md`：总字符 7365，H1 157，最长行 370
+
+## 样本
+
+- **rewritten** `00-books-result/Between Wit and Reason_ Defining Associative, Speculative, -- Malpass, Matt（Cent/B44144519-Between-Wit-and-Reason-Defining-Associative-Speculative-Malpass-Matt-Cent-report.md`
+  - 源文：`00-books/Between Wit and Reason_ Defining Associative, Speculative, -- Malpass, Matt（Cent/Between Wit and Reason_ Defining Associative, Speculative, -- Malpass, Matt（Cent.md`
+  - 修复前 H1/最长行：181 / 395
+  - 修复后 H1/最长行：181 / 395
+- **rewritten** `00-books-result/Cairo：《The functional art an introduction to information graphics and visualization》/B3991-Cairo-The-functional-art-an-introduction-to-information-graphics-report.md`
+  - 源文：`00-books/Cairo：《The functional art an introduction to information graphics and visualization》/Cairo：《The functional art an introduction to information graphics and visualization》_02_body_27.2°_the_27.0%_functional_art.md`
+  - 修复前 H1/最长行：108 / 718
+  - 修复后 H1/最长行：108 / 470
+- **rewritten** `00-books-result/Chermayeff：《Identify. Basic Principles of Identity Design in the Iconic Trademar/B44144529-Chermayeff-Identify-Basic-Principles-of-Identity-Design-in-the-Iconic-Trademar-report.md`
+  - 源文：`00-books/Chermayeff：《Identify. Basic Principles of Identity Design in the Iconic Trademar/Chermayeff：《Identify. Basic Principles of Identity Design in the Iconic Trademar.md`
+  - 修复前 H1/最长行：189 / 342
+  - 修复后 H1/最长行：189 / 342
+- **rewritten** `00-books-result/Design futuring ： sustainability, ethics, and new practice -- Tony Fry -- 1, Lon/B44133338-Design-futuring-sustainability-ethics-and-new-practice-Tony-Fry-report.md`
+  - 源文：`00-books/Design futuring ： sustainability, ethics, and new practice -- Tony Fry -- 1, Lon/Design futuring ： sustainability, ethics, and new practice -- Tony Fry -- 1, Lon_07_bibliography_Notes.md`
+  - 修复前 H1/最长行：86 / 660
+  - 修复后 H1/最长行：86 / 433
+- **rewritten** `00-books-result/Design Research： Methods and Perspectives (The MIT Press) -- Laurel, Brenda -- C/B44133397-Design-Research-Methods-and-Perspectives-The-MIT-Press-Laurel-Br-report.md`
+  - 源文：`00-books/Design Research： Methods and Perspectives (The MIT Press) -- Laurel, Brenda -- C/Design Research： Methods and Perspectives (The MIT Press) -- Laurel, Brenda -- C_06_preface_Acknowledgements.md`
+  - 修复前 H1/最长行：98 / 681
+  - 修复后 H1/最长行：98 / 448
+- **rewritten** `00-books-result/Design, History and Time _ New Temporalities in a Digital -- Hendon, Zoë (editor/B44133471-Design-History-and-Time-_-New-Temporalities-in-a-Digital-Hendon-report.md`
+  - 源文：`00-books/Design, History and Time _ New Temporalities in a Digital -- Hendon, Zoë (editor/Design, History and Time _ New Temporalities in a Digital -- Hendon, Zoë (editor_32_body_9_Tube_Time__How_the_Subterran.md`
+  - 修复前 H1/最长行：140 / 660
+  - 修复后 H1/最长行：140 / 416
+- **rewritten** `00-books-result/Design, History and Time _ New Temporalities in a Digital -- Hendon, Zoë (editor/B44133475-Design-History-and-Time-_-New-Temporalities-in-a-Digital-Hendon-report.md`
+  - 源文：`00-books/Design, History and Time _ New Temporalities in a Digital -- Hendon, Zoë (editor/Design, History and Time _ New Temporalities in a Digital -- Hendon, Zoë (editor_36_body_10_Dreams_of_the_Fun_Palace_an.md`
+  - 修复前 H1/最长行：174 / 660
+  - 修复后 H1/最长行：174 / 416
+- **rewritten** `00-books-result/Digital Materialities ： Design and Anthropology -- Sarah Pink; Elisenda Ardèvol;/B44133621-Digital-Materialities-Design-and-Anthropology-Sarah-Pink-Elisend-report.md`
+  - 源文：`00-books/Digital Materialities ： Design and Anthropology -- Sarah Pink; Elisenda Ardèvol;/Digital Materialities ： Design and Anthropology -- Sarah Pink; Elisenda Ardèvol;_02_toc_Contents.md`
+  - 修复前 H1/最长行：90 / 675
+  - 修复后 H1/最长行：90 / 454
+- **rewritten** `00-books-result/Digital Materialities ： Design and Anthropology -- Sarah Pink; Elisenda Ardèvol;/B44133624-Digital-Materialities-Design-and-Anthropology-Sarah-Pink-Elisend-report.md`
+  - 源文：`00-books/Digital Materialities ： Design and Anthropology -- Sarah Pink; Elisenda Ardèvol;/Digital Materialities ： Design and Anthropology -- Sarah Pink; Elisenda Ardèvol;_05_preface_Acknowledgements.md`
+  - 修复前 H1/最长行：98 / 681
+  - 修复后 H1/最长行：98 / 448
+- **rewritten** `00-books-result/Digital Materialities ： Design and Anthropology -- Sarah Pink; Elisenda Ardèvol;/B44133625-Digital-Materialities-Design-and-Anthropology-Sarah-Pink-Elisend-report.md`
+  - 源文：`00-books/Digital Materialities ： Design and Anthropology -- Sarah Pink; Elisenda Ardèvol;/Digital Materialities ： Design and Anthropology -- Sarah Pink; Elisenda Ardèvol;_06_body_Smart_global_futures__Designin.md`
+  - 修复前 H1/最长行：156 / 666
+  - 修复后 H1/最长行：156 / 422
+- **rewritten** `00-books-result/Digital Materialities ： Design and Anthropology -- Sarah Pink; Elisenda Ardèvol;/B44133648-Digital-Materialities-Design-and-Anthropology-Sarah-Pink-Elisend-report.md`
+  - 源文：`00-books/Digital Materialities ： Design and Anthropology -- Sarah Pink; Elisenda Ardèvol;/Digital Materialities ： Design and Anthropology -- Sarah Pink; Elisenda Ardèvol;_29_bibliography_Notes.md`
+  - 修复前 H1/最长行：87 / 675
+  - 修复后 H1/最长行：87 / 448
+- **rewritten** `00-books-result/Digital Materialities ： Design and Anthropology -- Sarah Pink; Elisenda Ardèvol;/B44133650-Digital-Materialities-Design-and-Anthropology-Sarah-Pink-Elisend-report.md`
+  - 源文：`00-books/Digital Materialities ： Design and Anthropology -- Sarah Pink; Elisenda Ardèvol;/Digital Materialities ： Design and Anthropology -- Sarah Pink; Elisenda Ardèvol;_31_bibliography_Bibliography.md`
+  - 修复前 H1/最长行：94 / 682
+  - 修复后 H1/最长行：94 / 448
+- **rewritten** `00-books-result/Erich Gamma：《Design Patterns Elements of Reusable Object-Oriented Software》/B44134546-Erich-Gamma-Design-Patterns-Elements-of-Reusable-Object-Oriented-report.md`
+  - 源文：`00-books/Erich Gamma：《Design Patterns Elements of Reusable Object-Oriented Software》/Erich Gamma：《Design Patterns Elements of Reusable Object-Oriented Software》_09_preface_Figure_1.1__Design_pattern_rel.md`
+  - 修复前 H1/最长行：122 / 670
+  - 修复后 H1/最长行：122 / 428
+- **rewritten** `00-books-result/Erich Gamma：《Design Patterns Elements of Reusable Object-Oriented Software》/B44134547-Erich-Gamma-Design-Patterns-Elements-of-Reusable-Object-Oriented-report.md`
+  - 源文：`00-books/Erich Gamma：《Design Patterns Elements of Reusable Object-Oriented Software》/Erich Gamma：《Design Patterns Elements of Reusable Object-Oriented Software》_10_body_1.6_How_Design_Patterns_Solve_.md`
+  - 修复前 H1/最长行：127 / 673
+  - 修复后 H1/最长行：127 / 434
+- **rewritten** `00-books-result/Erich Gamma：《Design Patterns Elements of Reusable Object-Oriented Software》/B44134572-Erich-Gamma-Design-Patterns-Elements-of-Reusable-Object-Oriented-report.md`
+  - 源文：`00-books/Erich Gamma：《Design Patterns Elements of Reusable Object-Oriented Software》/Erich Gamma：《Design Patterns Elements of Reusable Object-Oriented Software》_35_appendix_Appendix_C.md`
+  - 修复前 H1/最长行：92 / 651
+  - 修复后 H1/最长行：92 / 428
+- **rewritten** `00-books-result/Graeme Brooker Sally Stone：《Re-Readings 2 Interior Architecture and the Principl/B44135001-Graeme-Brooker-Sally-Stone-Re-Readings-2-Interior-Architecture-a-report.md`
+  - 源文：`00-books/Graeme Brooker Sally Stone：《Re-Readings 2 Interior Architecture and the Principl/Graeme Brooker Sally Stone：《Re-Readings 2 Interior Architecture and the Principl_34_bibliography_References.md`
+  - 修复前 H1/最长行：92 / 680
+  - 修复后 H1/最长行：92 / 448
+- **rewritten** `00-books-result/Graeme Brooker Sally Stone：《Re-Readings 2 Interior Architecture and the Principl/B44135004-Graeme-Brooker-Sally-Stone-Re-Readings-2-Interior-Architecture-a-report.md`
+  - 源文：`00-books/Graeme Brooker Sally Stone：《Re-Readings 2 Interior Architecture and the Principl/Graeme Brooker Sally Stone：《Re-Readings 2 Interior Architecture and the Principl_37_preface_Foreword___Introduction.md`
+  - 修复前 H1/最长行：105 / 695
+  - 修复后 H1/最长行：105 / 455
+- **rewritten** `00-books-result/Jenny L. Davis：《How Artifacts Afford The Power and Politics of Everyday Things》/B44135645-Jenny-L-Davis-How-Artifacts-Afford-The-Power-and-Politics-of-Eve-report.md`
+  - 源文：`00-books/Jenny L. Davis：《How Artifacts Afford The Power and Politics of Everyday Things》/Jenny L. Davis：《How Artifacts Afford The Power and Politics of Everyday Things》_05_bibliography_Notes.md`
+  - 修复前 H1/最长行：87 / 658
+  - 修复后 H1/最长行：87 / 432
+- **rewritten** `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B44144715-Love-objects-emotion-design-and-material-culture-Anna-Moran-Editor-Sor-27-body-T-report.md`
+  - 源文：`00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_27_body_The_imagined_sex_shop___‘Posh_.md`
+  - 修复前 H1/最长行：191 / 416
+  - 修复后 H1/最长行：191 / 416
+- **rewritten** `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B44144716-Love-objects-emotion-design-and-material-culture-Anna-Moran-Editor-Sor-33-body-K-report.md`
+  - 源文：`00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_33_body_Katrina’s_‘Letter_of_Intent’__.md`
+  - 修复前 H1/最长行：191 / 418
+  - 修复后 H1/最长行：191 / 418
+- **rewritten** `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B44144717-Love-objects-emotion-design-and-material-culture-Anna-Moran-Editor-Sor-37-body-1-report.md`
+  - 源文：`00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_37_body_1_‘I_Love_Giving_Presents’___2.md`
+  - 修复前 H1/最长行：191 / 421
+  - 修复后 H1/最长行：191 / 421
+- **rewritten** `00-books-result/Löwgren：《Thoughtful interaction design a design perspective on information technology》/B44137541-Löwgren-Thoughtful-interaction-design-a-design-perspective-on-in-report.md`
+  - 源文：`00-books/Löwgren：《Thoughtful interaction design a design perspective on information technology》/Löwgren：《Thoughtful interaction design a design perspective on information technology》_01_cover_封面_扉页.md`
+  - 修复前 H1/最长行：87 / 662
+  - 修复后 H1/最长行：87 / 436
+- **rewritten** `00-books-result/Objects of desire ： design and society since 1750 -- Forty, Adrian, 1948- -- New/B44139033-Objects-of-desire-design-and-society-since-1750-Forty-Adrian-194-report.md`
+  - 源文：`00-books/Objects of desire ： design and society since 1750 -- Forty, Adrian, 1948- -- New/Objects of desire ： design and society since 1750 -- Forty, Adrian, 1948- -- New_06_body_2._The_First_Industrial_Design.md`
+  - 修复前 H1/最长行：115 / 698
+  - 修复后 H1/最长行：115 / 454
+- **rewritten** `00-books-result/Philip Steadman：《The Evolution of Designs Biological Analogy in Architecture and/B44144738-Philip-Steadman-The-Evolution-of-Designs-Biological-Analogy-in-Architecture-and-report.md`
+  - 源文：`00-books/Philip Steadman：《The Evolution of Designs Biological Analogy in Architecture and/Philip Steadman：《The Evolution of Designs Biological Analogy in Architecture and.md`
+  - 修复前 H1/最长行：190 / 252
+  - 修复后 H1/最长行：190 / 252
+- **rewritten** `00-books-result/Rudolf Arnheim：《The Dynamics of Architectural Form Based on the 1975 Mary Duke Biddle Lectures at the Cooper Union》，1975/B44144748-Rudolf-Arnheim-The-Dynamics-of-Architectural-Form-Based-on-the-1975-Mary-Duke-Bi-report.md`
+  - 源文：`00-books/Rudolf Arnheim：《The Dynamics of Architectural Form Based on the 1975 Mary Duke Biddle Lectures at the Cooper Union》，1975/Rudolf Arnheim：《The Dynamics of Architectural Form Based on the 1975 Mary Duke Biddle Lectures at the Cooper Union》，1975.md`
+  - 修复前 H1/最长行：191 / 332
+  - 修复后 H1/最长行：191 / 332
+- **rewritten** `00-books-result/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/B44144762-Scandinavian-Design-Alternative-Histories-Kjetil-Fallan-editor-03-preface-A-Hist-report.md`
+  - 源文：`00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))_03_preface_A_Historiography_of_Scandinavi.md`
+  - 修复前 H1/最长行：191 / 365
+  - 修复后 H1/最长行：191 / 365
+- **rewritten** `00-books-result/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/B44144765-Scandinavian-Design-Alternative-Histories-Kjetil-Fallan-editor-06-body-CONCLUSIO-report.md`
+  - 源文：`00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))_06_body_CONCLUSION__WHAT_IS_SO_SCANDIN.md`
+  - 修复前 H1/最长行：191 / 378
+  - 修复后 H1/最长行：191 / 378
+- **rewritten** `00-books-result/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/B44144768-Scandinavian-Design-Alternative-Histories-Kjetil-Fallan-editor-09-body-CHAPTER-1-report.md`
+  - 源文：`00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))_09_body_CHAPTER_1._A_HISTORIOGRAPHY_OF.md`
+  - 修复前 H1/最长行：191 / 385
+  - 修复后 H1/最长行：191 / 385
+- **rewritten** `00-books-result/Steven Heller Veronique Vienne：《Citizen Designer Perspectives on Design Responsi/B44140637-Steven-Heller-Veronique-Vienne-Citizen-Designer-Perspectives-on-report.md`
+  - 源文：`00-books/Steven Heller Veronique Vienne：《Citizen Designer Perspectives on Design Responsi/Steven Heller Veronique Vienne：《Citizen Designer Perspectives on Design Responsi_05_body_Part_1.md`
+  - 修复前 H1/最长行：87 / 674
+  - 修复后 H1/最长行：87 / 454
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144821-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-02-toc-CO-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_02_toc_CONTENTS.md`
+  - 修复前 H1/最长行：106 / 675
+  - 修复后 H1/最长行：106 / 454
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144824-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-05-prefac-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_05_preface_ACKNOWLEDGEMENTS___GENERAL_INT.md`
+  - 修复前 H1/最长行：191 / 410
+  - 修复后 H1/最长行：191 / 410
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144829-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-100-body-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_100_body_HUMANIZING_MODERNISM_THE_CRAFT.md`
+  - 修复前 H1/最长行：190 / 435
+  - 修复后 H1/最长行：190 / 435
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144831-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-102-body-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_102_body_'IN_LONDON'S_MAZE'__THE_PLEASU.md`
+  - 修复前 H1/最长行：190 / 416
+  - 修复后 H1/最长行：190 / 416
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144833-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-104-body-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_104_body_SELF-MADE_MOTORMEN__THE_MATERI.md`
+  - 修复前 H1/最长行：190 / 663
+  - 修复后 H1/最长行：190 / 418
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144837-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-108-body-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_108_body_SECTION_10___Consumption.md`
+  - 修复前 H1/最长行：121 / 682
+  - 修复后 H1/最长行：121 / 443
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144838-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-109-prefa-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_109_preface_INTRODUCTION.md`
+  - 修复前 H1/最长行：110 / 656
+  - 修复后 H1/最长行：110 / 426
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144842-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-112-body-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_112_body_CONSPICUOUS_CONSUMPTION,_IN_TH.md`
+  - 修复前 H1/最长行：190 / 416
+  - 修复后 H1/最长行：190 / 416
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144844-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-114-prefa-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_114_preface_INTRODUCTION_AND_THE_SENSE_OF_.md`
+  - 修复前 H1/最长行：160 / 673
+  - 修复后 H1/最长行：160 / 425
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144845-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-115-body-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_115_body_Pierre_Bourdieu_(1979).md`
+  - 修复前 H1/最长行：117 / 675
+  - 修复后 H1/最长行：117 / 438
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144850-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-11-prefac-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_11_preface_MANUFACTURING,_CONSUMPTION_AND.md`
+  - 修复前 H1/最长行：191 / 433
+  - 修复后 H1/最长行：191 / 433
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144854-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-123-body-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_123_body_SECTION_11___Mediation.md`
+  - 修复前 H1/最长行：119 / 680
+  - 修复后 H1/最长行：119 / 443
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144855-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-124-prefa-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_124_preface_INTRODUCTION.md`
+  - 修复前 H1/最长行：110 / 672
+  - 修复后 H1/最长行：110 / 442
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144856-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-125-body-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_125_body_Grace_Lees-Maffei___THE_WORK_O.md`
+  - 修复前 H1/最长行：190 / 420
+  - 修复后 H1/最长行：190 / 420
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144858-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-127-body-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_127_body_R._&_A._GARRETT__HOUSE_DECORAT.md`
+  - 修复前 H1/最长行：190 / 418
+  - 修复后 H1/最长行：190 / 418
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144860-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-129-body-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_129_body_INTEGRATIVE_PRACTICE__ORAL_HIS.md`
+  - 修复前 H1/最长行：190 / 440
+  - 修复后 H1/最长行：190 / 440
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144863-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-131-prefa-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_131_preface_INTRODUCTION_TO_DESIGN_AND_THE.md`
+  - 修复前 H1/最长行：144 / 681
+  - 修复后 H1/最长行：144 / 433
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144864-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-132-body-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_132_body_Jeremy_Aynsley_and_Kate_Forde_.md`
+  - 修复前 H1/最长行：187 / 461
+  - 修复后 H1/最长行：187 / 461
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144866-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-134-body-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_134_body_SECTION_12___Local_Regional_Na.md`
+  - 修复前 H1/最长行：140 / 688
+  - 修复后 H1/最长行：140 / 443
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144867-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-135-prefa-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_135_preface_INTRODUCTION.md`
+  - 修复前 H1/最长行：110 / 680
+  - 修复后 H1/最长行：110 / 450
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144872-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-13-prefac-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_13_preface_SECTION_2___INTRODUCTION___Reb.md`
+  - 修复前 H1/最长行：186 / 433
+  - 修复后 H1/最长行：186 / 433
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144877-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-144-body-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_144_body_LAND_ROVER_AND_COLONIAL-STYLE_.md`
+  - 修复前 H1/最长行：158 / 663
+  - 修复后 H1/最长行：158 / 418
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144879-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-146-body-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_146_body_LAND_ROVER_AND_THE_ADVERTISING.md`
+  - 修复前 H1/最长行：190 / 418
+  - 修复后 H1/最长行：190 / 418
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144881-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-148-body-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_148_body_SWOOSH_IDENTITY__RECONTEXTUALI.md`
+  - 修复前 H1/最长行：167 / 663
+  - 修复后 H1/最长行：167 / 418
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144884-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-150-body-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_150_body_THE_SWOOSH_IN_ROMANIA_AND_HAIT.md`
+  - 修复前 H1/最长行：189 / 440
+  - 修复后 H1/最长行：189 / 440
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144888-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-15-prefac-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_15_preface_THE_IDEAL_BOOK_William_Morris_.md`
+  - 修复前 H1/最长行：191 / 440
+  - 修复后 H1/最长行：191 / 440
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144893-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-20-prefac-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_20_preface_SECTION_3___INTRODUCTION___Reb.md`
+  - 修复前 H1/最长行：191 / 433
+  - 修复后 H1/最长行：191 / 433
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144897-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-24-body-T-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_24_body_THE_COLORISTES_AND_CHARLES-EDO.md`
+  - 修复前 H1/最长行：191 / 414
+  - 修复后 H1/最长行：191 / 414
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144899-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-26-body-F-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_26_body_FROM_WORKSHOP_TO_LABORATORY,_F.md`
+  - 修复前 H1/最长行：187 / 414
+  - 修复后 H1/最长行：187 / 414
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144901-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-28-body-T-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_28_body_THE_SEARCH_FOR_AN_AMERICAN_DES.md`
+  - 修复前 H1/最长行：185 / 439
+  - 修复后 H1/最长行：185 / 439
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144903-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-30-body-S-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_30_body_SECTION_4.md`
+  - 修复前 H1/最长行：107 / 664
+  - 修复后 H1/最长行：107 / 441
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144904-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-31-prefac-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_31_preface_INTRODUCTION.md`
+  - 修复前 H1/最长行：110 / 656
+  - 修复后 H1/最长行：110 / 427
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144905-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-32-body-G-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_32_body_Grace_Lees-Maffei___UTILITY_FU.md`
+  - 修复前 H1/最长行：191 / 416
+  - 修复后 H1/最长行：191 / 416
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144907-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-34-body-H-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_34_body_'HERE_IS_THE_MODERN_WORLD_ITSE.md`
+  - 修复前 H1/最长行：191 / 414
+  - 修复后 H1/最长行：191 / 414
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144909-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-36-body-2-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_36_body_21_POPULUXE_Thomas_Hine_(1987).md`
+  - 修复前 H1/最长行：191 / 414
+  - 修复后 H1/最长行：191 / 414
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144913-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-40-body-S-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_40_body_SECTION_5.md`
+  - 修复前 H1/最长行：107 / 658
+  - 修复后 H1/最长行：107 / 435
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144914-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-41-prefac-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_41_preface_INTRODUCTION.md`
+  - 修复前 H1/最长行：110 / 656
+  - 修复后 H1/最长行：110 / 427
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144915-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-42-body-R-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_42_body_Rebecca_Houze___A_SIGNIFICANCE.md`
+  - 修复前 H1/最长行：191 / 416
+  - 修复后 H1/最长行：191 / 416
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144923-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-50-body-W-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_50_body_WHAT_WAS_PHILIPPE_STARCK_THINK.md`
+  - 修复前 H1/最长行：191 / 414
+  - 修复后 H1/最长行：191 / 414
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144925-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-52-body-F-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_52_body_FABRICATING_IDENTITIES__SURVIV.md`
+  - 修复前 H1/最长行：191 / 660
+  - 修复后 H1/最长行：191 / 416
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144929-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-56-body-S-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_56_body_SECTION_6.md`
+  - 修复前 H1/最长行：107 / 664
+  - 修复后 H1/最长行：107 / 441
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144930-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-57-prefac-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_57_preface_INTRODUCTION.md`
+  - 修复前 H1/最长行：110 / 656
+  - 修复后 H1/最长行：110 / 427
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144931-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-58-body-R-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_58_body_Rebecca_Houze___OPERATING_MANU.md`
+  - 修复前 H1/最长行：191 / 416
+  - 修复后 H1/最长行：191 / 416
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144933-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-60-body-D-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_60_body_DO-IT-YOURSELF_MURDER__THE_SOC.md`
+  - 修复前 H1/最长行：191 / 414
+  - 修复后 H1/最长行：191 / 414
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144935-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-62-prefac-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_62_preface_INTRODUCTION_TO_THE_GREEN_CONS.md`
+  - 修复前 H1/最长行：150 / 678
+  - 修复后 H1/最长行：150 / 431
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144936-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-63-body-J-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_63_body_Joel_Makower,_John_Elkington_a.md`
+  - 修复前 H1/最长行：191 / 434
+  - 修复后 H1/最长行：191 / 434
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144938-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-65-body-T-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_65_body_THE_HANNOVER_PRINCIPLES__DESIG.md`
+  - 修复前 H1/最长行：191 / 439
+  - 修复后 H1/最长行：191 / 439
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144940-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-67-body-P-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_67_body_PART_II_METHODS_AND_THEMES.md`
+  - 修复前 H1/最长行：124 / 681
+  - 修复后 H1/最长行：124 / 441
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144941-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-68-prefac-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_68_preface_INTRODUCTION.md`
+  - 修复前 H1/最长行：110 / 672
+  - 修复后 H1/最长行：110 / 443
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144943-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-70-prefac-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_70_preface_INTRODUCTION.md`
+  - 修复前 H1/最长行：110 / 676
+  - 修复后 H1/最长行：110 / 447
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144944-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-71-body-G-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_71_body_Grace_Lees-Maffei___TAKING_STO.md`
+  - 修复前 H1/最长行：191 / 416
+  - 修复后 H1/最长行：191 / 416
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144948-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-75-body-D-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_75_body_DESIGN_HISTORY_AND_THE_HISTORY.md`
+  - 修复前 H1/最长行：181 / 414
+  - 修复后 H1/最长行：181 / 414
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144950-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-77-body-D-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_77_body_DESIGN_HISTORY_AND_THE_HISTORY.md`
+  - 修复前 H1/最长行：191 / 414
+  - 修复后 H1/最长行：191 / 414
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144956-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-83-body-S-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_83_body_SECTION_8.md`
+  - 修复前 H1/最长行：107 / 664
+  - 修复后 H1/最长行：107 / 441
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144957-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-84-prefac-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_84_preface_INTRODUCTION.md`
+  - 修复前 H1/最长行：110 / 656
+  - 修复后 H1/最长行：110 / 427
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144960-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-87-body-T-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_87_body_THE_MOST_CHERISHED_OBJECTS_IN_.md`
+  - 修复前 H1/最长行：191 / 414
+  - 修复后 H1/最长行：191 / 414
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144962-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-89-body-T-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_89_body_THE_HISTORY_OF_CRAFT_Paul_Gree.md`
+  - 修复前 H1/最长行：191 / 414
+  - 修复后 H1/最长行：191 / 414
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144966-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-93-body-S-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_93_body_SECTION_9___Gender_and_Design.md`
+  - 修复前 H1/最长行：127 / 684
+  - 修复后 H1/最长行：127 / 441
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144967-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-94-prefac-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_94_preface_INTRODUCTION.md`
+  - 修复前 H1/最长行：110 / 676
+  - 修复后 H1/最长行：110 / 447
+- **rewritten** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B44144970-The-design-history-reader-Grace-Lees-Maffei-Rebecca-Houze-eds-New-York-97-prefac-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York_97_preface_THE_ARCHITECT'S_WIFE,_INTRODUC.md`
+  - 修复前 H1/最长行：184 / 667
+  - 修复后 H1/最长行：184 / 420
+- **rewritten** `00-books-result/The Politics of Design： A (Not So) Global Design Manual for -- [writer and desig/B44140946-The-Politics-of-Design-A-Not-So-Global-Design-Manual-for-writer-report.md`
+  - 源文：`00-books/The Politics of Design： A (Not So) Global Design Manual for -- [writer and desig/The Politics of Design： A (Not So) Global Design Manual for -- [writer and desig_03_bibliography_Further_Reading.md`
+  - 修复前 H1/最长行：96 / 670
+  - 修复后 H1/最长行：96 / 433
+- **rewritten** `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B44144990-The-printed-image-and-the-transformation-of-popular-culture-1790-1860-Anderson-0-report.md`
+  - 源文：`00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/The printed image and the transformation of popular culture, 1790-1860 (Anderson_01_preface_THE_PRINTED_IMAGEAND_THETRANSF.md`
+  - 修复前 H1/最长行：191 / 386
+  - 修复后 H1/最长行：191 / 386
+- **rewritten** `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B44144992-The-printed-image-and-the-transformation-of-popular-culture-1790-1860-Anderson-0-report.md`
+  - 源文：`00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/The printed image and the transformation of popular culture, 1790-1860 (Anderson_03_preface_Illustrations___Acknowledgemen.md`
+  - 修复前 H1/最长行：188 / 425
+  - 修复后 H1/最长行：188 / 425
+- **rewritten** `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B44144994-The-printed-image-and-the-transformation-of-popular-culture-1790-1860-Anderson-0-report.md`
+  - 源文：`00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/The printed image and the transformation of popular culture, 1790-1860 (Anderson_05_bibliography_Select_Bibliography.md`
+  - 修复前 H1/最长行：117 / 689
+  - 修复后 H1/最长行：117 / 448
+- **rewritten** `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B44144995-The-printed-image-and-the-transformation-of-popular-culture-1790-1860-Anderson-0-report.md`
+  - 源文：`00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/The printed image and the transformation of popular culture, 1790-1860 (Anderson_06_body_PRIMARYSOURCES____Manuscript_C.md`
+  - 修复前 H1/最长行：191 / 453
+  - 修复后 H1/最长行：191 / 453
+- **rewritten** `00-books-result/Tom Flynn Tim Barringer：《Colonialism and the object empire, material culture and the museum》/B44141444-Tom-Flynn-Tim-Barringer-Colonialism-and-the-object-empire-materi-report.md`
+  - 源文：`00-books/Tom Flynn Tim Barringer：《Colonialism and the object empire, material culture and the museum》/Tom Flynn Tim Barringer：《Colonialism and the object empire, material culture and the museum》_06_body_Part_1.md`
+  - 修复前 H1/最长行：88 / 734
+  - 修复后 H1/最长行：88 / 502
+- **rewritten** `00-books-result/Tom Flynn Tim Barringer：《Colonialism and the object empire, material culture and the museum》/B44141456-Tom-Flynn-Tim-Barringer-Colonialism-and-the-object-empire-materi-report.md`
+  - 源文：`00-books/Tom Flynn Tim Barringer：《Colonialism and the object empire, material culture and the museum》/Tom Flynn Tim Barringer：《Colonialism and the object empire, material culture and the museum》_18_preface_Acknowledgements.md`
+  - 修复前 H1/最长行：98 / 724
+  - 修复后 H1/最长行：98 / 479
+- **rewritten** `00-books-result/Tom Flynn Tim Barringer：《Colonialism and the object empire, material culture and the museum》/B44141463-Tom-Flynn-Tim-Barringer-Colonialism-and-the-object-empire-materi-report.md`
+  - 源文：`00-books/Tom Flynn Tim Barringer：《Colonialism and the object empire, material culture and the museum》/Tom Flynn Tim Barringer：《Colonialism and the object empire, material culture and the museum》_25_bibliography_Notes.md`
+  - 修复前 H1/最长行：87 / 735
+  - 修复后 H1/最长行：87 / 496
+- **rewritten** `00-books-result/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/B44145016-Windows-and-Mirrors-Interaction-Design-Digital-Art-and-JAY-DAVID-BOLTER-AN-03-pr-report.md`
+  - 源文：`00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN_03_preface_Acknowledgments___Introduction.md`
+  - 修复前 H1/最长行：191 / 425
+  - 修复后 H1/最长行：191 / 425
+- **rewritten** `00-books-result/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/B44145017-Windows-and-Mirrors-Interaction-Design-Digital-Art-and-JAY-DAVID-BOLTER-AN-04-bo-report.md`
+  - 源文：`00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN_04_body_To_design_a_digital_artifact_i.md`
+  - 修复前 H1/最长行：191 / 447
+  - 修复后 H1/最长行：191 / 447
+- **rewritten** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B44141969-World-History-Of-Design-Volume-2_-World-War-I-To-World-War-Victo-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_28_bibliography_Bibliography.md`
+  - 修复前 H1/最长行：94 / 677
+  - 修复后 H1/最长行：94 / 444
+- **rewritten** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B44141973-World-History-Of-Design-Volume-2_-World-War-I-To-World-War-Victo-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_32_bibliography_Bibliography.md`
+  - 修复前 H1/最长行：94 / 677
+  - 修复后 H1/最长行：94 / 444
+- **rewritten** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B44141977-World-History-Of-Design-Volume-2_-World-War-I-To-World-War-Victo-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_36_bibliography_Bibliography.md`
+  - 修复前 H1/最长行：94 / 677
+  - 修复后 H1/最长行：94 / 444
+- **rewritten** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B44141981-World-History-Of-Design-Volume-2_-World-War-I-To-World-War-Victo-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_40_bibliography_Bibliography.md`
+  - 修复前 H1/最长行：94 / 677
+  - 修复后 H1/最长行：94 / 444
+- **rewritten** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B44141983-World-History-Of-Design-Volume-2_-World-War-I-To-World-War-Victo-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_42_bibliography_Bibliography.md`
+  - 修复前 H1/最长行：94 / 677
+  - 修复后 H1/最长行：94 / 444
+- **rewritten** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B44141987-World-History-Of-Design-Volume-2_-World-War-I-To-World-War-Victo-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_46_bibliography_Bibliography.md`
+  - 修复前 H1/最长行：94 / 677
+  - 修复后 H1/最长行：94 / 444
+- **rewritten** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B44141989-World-History-Of-Design-Volume-2_-World-War-I-To-World-War-Victo-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_48_bibliography_Bibliography.md`
+  - 修复前 H1/最长行：94 / 677
+  - 修复后 H1/最长行：94 / 444
+- **rewritten** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B44141993-World-History-Of-Design-Volume-2_-World-War-I-To-World-War-Victo-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_52_bibliography_Bibliography.md`
+  - 修复前 H1/最长行：94 / 677
+  - 修复后 H1/最长行：94 / 444
+- **rewritten** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B44141997-World-History-Of-Design-Volume-2_-World-War-I-To-World-War-Victo-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_56_bibliography_Bibliography.md`
+  - 修复前 H1/最长行：94 / 677
+  - 修复后 H1/最长行：94 / 444
+- **rewritten** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B44142001-World-History-Of-Design-Volume-2_-World-War-I-To-World-War-Victo-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_60_bibliography_Bibliography.md`
+  - 修复前 H1/最长行：94 / 677
+  - 修复后 H1/最长行：94 / 444
+- **rewritten** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B44142005-World-History-Of-Design-Volume-2_-World-War-I-To-World-War-Victo-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_64_bibliography_Bibliography.md`
+  - 修复前 H1/最长行：94 / 677
+  - 修复后 H1/最长行：94 / 444
+- **rewritten** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B44142009-World-History-Of-Design-Volume-2_-World-War-I-To-World-War-Victo-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_68_bibliography_Bibliography.md`
+  - 修复前 H1/最长行：94 / 677
+  - 修复后 H1/最长行：94 / 444
+- **rewritten** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B44145122-World-History-Of-Design-Volume-2-World-War-I-To-World-War-Victor-Margolin-11-bib-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_11_bibliography_Bibliography.md`
+  - 修复前 H1/最长行：110 / 680
+  - 修复后 H1/最长行：110 / 447
+- **rewritten** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B44145124-World-History-Of-Design-Volume-2-World-War-I-To-World-War-Victor-Margolin-16-bib-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_16_bibliography_Bibliography.md`
+  - 修复前 H1/最长行：110 / 677
+  - 修复后 H1/最长行：110 / 444
+- **rewritten** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B44145126-World-History-Of-Design-Volume-2-World-War-I-To-World-War-Victor-Margolin-20-bib-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_20_bibliography_Bibliography.md`
+  - 修复前 H1/最长行：110 / 677
+  - 修复后 H1/最长行：110 / 444
+- **rewritten** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B44145128-World-History-Of-Design-Volume-2-World-War-I-To-World-War-Victor-Margolin-24-bib-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin_24_bibliography_Bibliography.md`
+  - 修复前 H1/最长行：110 / 677
+  - 修复后 H1/最长行：110 / 444

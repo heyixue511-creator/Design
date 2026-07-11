@@ -1,0 +1,150 @@
+# B44141723-THE-BING-ARTNOUVEAU-PAVILIONAT-THE-WORLD-S-FAIROF-1900 深度报告：THE BING ART NOUVEAU PAVILION AT THE WORLD'S FAIR OF 1900
+
+- **执行状态**：已完成 V2.0 批量重写；来源于 `P1` 重写队列
+- **建议等级**：A 类核心章节材料
+- **图像状态**：含 50 处图片链接；本报告未进行图像像素核验
+- **源文件完整路径**：`00-books/Weisberg：《The origins of lart nouveau the Bing empire》/12-THE BING ARTNOUVEAU PAVILIONAT THE WORLD'S FAIROF 1900.md`
+- **报告文件路径**：`00-books-result/Weisberg：《The origins of lart nouveau the Bing empire》/12-THE BING ARTNOUVEAU PAVILIONAT THE WORLD'S FAIROF 1900.md`
+- **文件类型**：学术专著或论文型章节
+- **文本完整性**：33560 字符；存在数字/字母混淆痕迹
+- **相邻文件关系**：前序 `00-books/Weisberg：《The origins of lart nouveau the Bing empire》/11-BINGAND ENGLAND.md`；后续 `00-books/Weisberg：《The origins of lart nouveau the Bing empire》/13-BING AND INTERIORDECORATION.md`
+
+## 1. 源文核验与内容概述
+
+已重新读取对应 `00-books/` Markdown 源文。本报告不依据旧短报告扩写，而以源文件标题、段落、小标题、图注和可读注释为证据边界。
+
+| 层级 | 标题 |
+|---:|---|
+| 1 | THE BING ART NOUVEAU PAVILION AT THE WORLD'S FAIR OF 1900 |
+| 2 | IN SEARCH OF THE MODERN STYLE |
+| 2 | A RETURN TO TRADITION |
+| 2 | A TEAM STRATEGY |
+| 2 | ENTER THE SUPPLIERS |
+| 2 | A DIFFERENT AMBIENCE FROM EACH DECORATOR: EUGÈNE GAILLARD - STRENGTH AND RATIONALISM |
+| 2 | EDWARD COLONNA: DISCREET ELEGANCE |
+| 2 | GEORGES DE FEURE: THE HAUTE COUTURE OF DECORATIVE ART |
+| 2 | A FAVOURABLE RECEPTION: THREE REPUTATIONS ESTABLISHED |
+| 2 | A LIMITED INFLUENCE |
+
+源文开端可读内容显示：THE BING ART NOUVEAU PAVILION AT THE WORLD'S FAIR OF 1900
+
+源文末段或末尾可读内容显示：which he hoped he would quickly be able to turn into profit. Although it is difficult now to evaluate the consequences of his participation in terms of figures, it seems to have...
+
+从全文高频词和关键句看，本文主要围绕 家具与室内、博物馆/展示制度 展开。需要注意，这一判断是对源文词汇、标题和段落结构的归纳，不等同于外部知识补充。
+
+源文中检测到的注释/书目信号：有；若用于正式论文引文，仍需回到原书页码和注释系统复核。
+
+## 2. 文献性质、作者立场与史料等级
+
+该文件在本仓库中应按“学术专著或论文型章节”处理。其史料等级建议为“A 类核心章节材料”：
+
+该文件提供作者在当前切片中的历史叙述、概念判断与案例组织。报告区分作者论断、可核事实、图像线索和后续分析，不把章节观点自动视为中立事实。
+
+本报告撰写者的判断只覆盖当前切片内已经出现的内容。人物身份、作品年代、机构归属和页码均应在进入论文、教材或数据库前再做版本核验。
+
+## 3. 语义深度分析
+
+### 3.1 核心命题
+
+标题、小标题、段落重心与高频概念共同表明，当前切片集中处理 家具与室内、博物馆/展示制度。分析范围严格限定在“THE BING ART NOUVEAU PAVILION AT THE WORLD'S FAIR OF 1900”及本文件可读内容；相邻章节、外部常识和作者其他著作不补入当前结论。
+
+### 3.2 关键论证句与证据线索
+
+| 序号 | 源文关键句/段落抓手 | 可支持的分析方向 |
+|---:|---|---|
+| 1 | de Feure has made every effort to create the most elegant and feminine interior possible, and one which clearly conforms to our native traditions.'35 Eugène Gaillard did not... | 用于定位作者如何建立章节问题、概念关系或案例证据；正式引用需回源文核页。 |
+| 2 | Gaillard has clearly drawn his inspiration for the contours of the large items of furniture in the dining room and bedroom from the Louis xv style, in that, wherever it was... | 用于定位作者如何建立章节问题、概念关系或案例证据；正式引用需回源文核页。 |
+| 3 | 'We see from a notice that de Feure's dressing room has been acquired by the Princess of T.41 In addition to a few famous people, it is the museums of Hamburg, Berlin, Copenhagen... | 用于定位作者如何建立章节问题、概念关系或案例证据；正式引用需回源文核页。 |
+| 4 | 1900 Galerie Tonon, Genève 243 Corner view of Bing's L'Art Nouveau pavilion, 1900, Album de références Bibliothèque des Arts décoratifs, Paris 244 Georges de Feure, Cutlery... | 用于定位作者如何建立章节问题、概念关系或案例证据；正式引用需回源文核页。 |
+| 5 | Colonna seeks to give his furniture simple and elegant lines, whose essential qualities are effortless fluidity and perfect proportions.'39 Of the three artists whose work was on... | 用于定位作者如何建立章节问题、概念关系或案例证据；正式引用需回源文核页。 |
+| 6 | 1899–1900 Museum für Kunst und Gewerbe, Hamburg < 257 Georges de Feure, Dressing room chair, 1900 Nordenfjeldske Kunstindustrimuseum, Trondheim 258 Georges de Feure, Dressing... | 用于定位作者如何建立章节问题、概念关系或案例证据；正式引用需回源文核页。 |
+| 7 | Georges de Feure, to decorate a drawing room in his private house in the rue de Provence.'43 Bing's collaborator, Marcel Morot, reinforces this belief: For the three years... | 用于定位作者如何建立章节问题、概念关系或案例证据；正式引用需回源文核页。 |
+| 8 | Although the exterior of the pavilion of the Union centrale des Arts décoratifs returned to the elegant, historicist formulae of an eighteenth-century folly, an original... | 用于定位作者如何建立章节问题、概念关系或案例证据；正式引用需回源文核页。 |
+
+### 3.3 章节结构中的论证层级
+
+| 源文章节/段落 | 内容抓手 | 报告判断 |
+|---|---|---|
+| THE BING ART NOUVEAU PAVILION AT THE WORLD'S FAIR OF 1900 | The latter had been bold enough to show iron constructions in all their nakedness, whereas the former concealed it beneath a covering of plaster." Louis... | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+| IN SEARCH OF THE MODERN STYLE | Institut français d’architecture, Paris 213 Georges de Feure, Advertising card for the L'Art Nouveau pavilion, 1900 Museum für Kunst und Gewerbe, Hamburg... | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+| A RETURN TO TRADITION | He declared that the new decorative art should not, and could not, emerge fully armed fron the brain of a modern Jupiter, but should adhere, though not... | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+| A TEAM STRATEGY | As an experienced project manager, Bing came up with the idea of bringing together three young and promising artists, still relatively unknown to the public... | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+| ENTER THE SUPPLIERS | 'In order to make constant supervision of such a project possible, workshops were set up for gold and silver, jewellery, cabinetmaking, wallpaper and stained... | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+| A DIFFERENT AMBIENCE FROM EACH DECORATOR: EUGÈNE GAILLARD - STRENGTH AND RATIONALISM | Gaillard has clearly drawn his inspiration for the contours of the large items of furniture in the dining room and bedroom from the Louis xv style, in that... | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+| EDWARD COLONNA: DISCREET ELEGANCE | The lines are more fluid, more graceful and slender; the colours soften into subtler harmonies.27 Adjoining Gaillard's dining room, the drawing room in pale... | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+| GEORGES DE FEURE: THE HAUTE COUTURE OF DECORATIVE ART | 251 , which is outstandingly well finished and executed, all the items of furniture harmonise with one another, thanks to the pastel tones of the chairs and... | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+| A FAVOURABLE RECEPTION: THREE REPUTATIONS ESTABLISHED | de Feure has made every effort to create the most elegant and feminine interior possible, and one which clearly conforms to our native traditions.'35 Eugène... | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+| A LIMITED INFLUENCE | 'We see from a notice that de Feure's dressing room has been acquired by the Princess of T.41 In addition to a few famous people, it is the museums of Hamburg... | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+
+从结构上看，报告应避免只写“本文讨论某主题”这种旧式短摘要。更可靠的读法是：先确认文本类型和切片边界，再把标题/小标题当作论证层级，把高频概念当作议题线索，把图注、注释和案例名当作可核验材料。这样才能区分源文事实、作者判断和后续研究者的再阐释。
+
+## 4. 知识要素解构与术语标准化
+
+### A. 知识要素表
+
+| 要素类型 | 原文名称 | 标准英文／原文名 | 原文语境 | 可归入议题 | 证据状态 |
+|---|---|---|---|---|---|
+| 人物／机构／作品线索 | THE BING ART NOUVEAU PAVILION AT THE WORLD'S FAIR OF | THE BING ART NOUVEAU PAVILION AT THE WORLD'S FAIR OF | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | ART FROM OLD KARINE LACQUEMANT | ART FROM OLD KARINE LACQUEMANT | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | World's Fair | World's Fair | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | Louis Hautec | Louis Hautec | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | Louis-Albert Louvet's Grand Palais | Louis-Albert Louvet's Grand Palais | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | Pont Alexandre III | Pont Alexandre III | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | Petit Palais | Petit Palais | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | Charles-Louis Giraud | Charles-Louis Giraud | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | IN SEARCH OF THE MODERN STYLE Despite | IN SEARCH OF THE MODERN STYLE Despite | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | Esplanade des Invalides | Esplanade des Invalides | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | Loie Fuller Theatre | Loie Fuller Theatre | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | Henri Sauvage | Henri Sauvage | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | Pierre Roche | Pierre Roche | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | Le Pavillon Bleu' | Le Pavillon Bleu' | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 概念／议题 | feure | feure | 全文高频或关键议题词，出现约 39 次 | 章节核心议题或索引线索 | 已在源文中出现 |
+| 概念／议题 | georges | georges | 全文高频或关键议题词，出现约 29 次 | 章节核心议题或索引线索 | 已在源文中出现 |
+| 概念／议题 | pavilion | pavilion | 全文高频或关键议题词，出现约 25 次 | 章节核心议题或索引线索 | 已在源文中出现 |
+| 概念／议题 | bing | bing | 全文高频或关键议题词，出现约 24 次 | 章节核心议题或索引线索 | 已在源文中出现 |
+| 概念／议题 | gaillard | gaillard | 全文高频或关键议题词，出现约 24 次 | 章节核心议题或索引线索 | 已在源文中出现 |
+| 概念／议题 | room | room | 全文高频或关键议题词，出现约 23 次 | 章节核心议题或索引线索 | 已在源文中出现 |
+| 概念／议题 | arts | arts | 全文高频或关键议题词，出现约 22 次 | 章节核心议题或索引线索 | 已在源文中出现 |
+| 概念／议题 | paris | paris | 全文高频或关键议题词，出现约 21 次 | 章节核心议题或索引线索 | 已在源文中出现 |
+| 概念／议题 | coratifs | coratifs | 全文高频或关键议题词，出现约 19 次 | 章节核心议题或索引线索 | 已在源文中出现 |
+| 概念／议题 | colonna | colonna | 全文高频或关键议题词，出现约 18 次 | 章节核心议题或索引线索 | 已在源文中出现 |
+| 议题簇 | 家具与室内、博物馆/展示制度 | 原文名同左 | 由高频词和关键句综合归纳 | 章节主题归纳 | 归纳性判断 |
+
+### B. 术语与关键词
+
+源文高频词包括：feure(39)、georges(29)、pavilion(25)、bing(24)、gaillard(24)、room(23)、arts(22)、paris(21)、coratifs(19)、colonna(18)、furniture(18)、nouveau(16)。
+
+这些词不应被机械翻译为固定理论标签。更稳妥的处理方式是保留英文原词或源文用语，并在报告、索引或教学条目中说明它在当前章节中的具体语境。例如，同一个 `style` 可能指风格制度、商品外观、历史复兴样式或作者批判对象；同一个 `design` 也可能指职业实践、人工物规划、形式判断或社会技术过程。
+
+## 5. 实证材料、案例与图像线索
+
+源文含 50 处图片链接，但缺少足够完整的图注文字。本报告不根据图片文件名推断作品内容。
+
+可进入后续数据库或教学索引的材料包括：章节标题、可读小标题、反复出现的关键词、人物/机构/作品名、图注文字和注释线索。不能直接进入可靠事实库的内容包括：未核页码的引文、OCR 可能误读的人名、只由图片文件名推断出的作品信息，以及源文没有明确说明的年代和因果关系。
+
+## 6. 可用边界与不可用边界
+
+| 类型 | 可用结论 | 不可越界 |
+|---|---|---|
+| 源文核验 | 当前报告已读取 `00-books/Weisberg：《The origins of lart nouveau the Bing empire》/12-THE BING ARTNOUVEAU PAVILIONAT THE WORLD'S FAIROF 1900.md`，可确认其大致结构、标题、关键词和可读段落 | 不代表已核对原 PDF 页码、扫描图像和印刷版版式 |
+| 语义分析 | 可把本文纳入 家具与室内、博物馆/展示制度 的议题网络 | 不应把同书其他章节或作者其他著作的观点补入当前切片 |
+| 知识要素 | 可抽取人物、机构、作品、技术、媒介和概念线索 | 不应把自动抽取实体直接当作权威规范名 |
+| 图像材料 | 可记录 Markdown 图注和图片链接存在 | 不应描述未实际查看的图像视觉细节 |
+
+## 7. 教材、研究与索引用途
+
+本文件适合用于：家具与室内、博物馆/展示制度 的章节导读、关键词索引、案例线索整理和设计史/设计理论课程的材料入口。若用于课堂讲授，可先以源文标题和小标题建立问题框架，再选取关键句回读，让学生区分作者论证、案例证据和后续解释。
+
+若用于研究写作，建议把本报告当作“复审入口”而非最终引文依据：进入写作前应回到源 Markdown 和原 PDF，补齐页码、注释、图版编号、译名和版本信息。
+
+## 8. 可引用内容与不可确认内容
+
+可引用范围限于源文明确出现的标题、人物、机构、作品、案例、图注、数据和作者判断；直接引语必须回原书补页码。不可确认的内容包括仅由文件名推断的主题、未查看图片的视觉细节、OCR 可疑专名，以及当前切片没有展开的因果关系。
+
+## 9. 技术核验与证据边界
+
+源文件共约 33560 个字符；存在数字/字母混淆痕迹。含 50 处图片链接；本报告未进行图像像素核验。相邻文件为前序 `00-books/Weisberg：《The origins of lart nouveau the Bing empire》/11-BINGAND ENGLAND.md`、后续 `00-books/Weisberg：《The origins of lart nouveau the Bing empire》/13-BING AND INTERIORDECORATION.md`。正式使用前需核对原 PDF 页码、注释、图版和版本信息。
+
+## 10. 复审结论
+
+本报告已重新读取 `00-books/Weisberg：《The origins of lart nouveau the Bing empire》/12-THE BING ARTNOUVEAU PAVILIONAT THE WORLD'S FAIROF 1900.md`，并按“学术专著或论文型章节”的实际信息结构完成 V2.0 重写。当前可作为 家具与室内、博物馆/展示制度 的研究入口；自动抽取的专名、术语和证据关系已保留复核标记，不替代原书精读与正式引文核验。

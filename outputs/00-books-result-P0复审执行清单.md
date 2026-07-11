@@ -1,0 +1,532 @@
+# 00-books-result P0 复审执行清单
+
+本清单由全量审计明细生成，用于开始处理不可计入可靠完成量的 P0 报告。
+
+## 一、动作分组
+
+- `exclude_and_rebuild`：173
+- `locate_source_then_reaudit`：1058
+- `deduplicate_b_number`：124
+- `resolve_case_collision`：0
+- `manual_review`：0
+
+## 二、未声明源路径报告的自动匹配情况
+
+- `high`：251
+- `medium`：502
+- `low`：305
+
+说明：自动匹配只作为定位辅助，不能替代源文复核。只有重新读取 `00-books/` 源 Markdown 并按 V2.0 补齐证据边界后，报告才可恢复为可靠完成量。
+
+## 三、第一批建议处理
+
+### A. 先排除并重建：源文为空/不可读/近空却被写成报告
+
+- `00-books-result/Charles, Victoria：Neoclassicism, 2019/B44132189-Cover-Page-report.md`
+  - 源文：`00-books/Charles, Victoria：Neoclassicism, 2019/01-Cover Page.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Craig Clunas：《Superfluous Things Material Culture and Social Status in Early Modern China》/B44132673-CWZ_页面_129-report.md`
+  - 源文：`00-books/Craig Clunas：《Superfluous Things Material Culture and Social Status in Early Modern China》/129-CWZ_页面_129.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Craig Clunas：《Superfluous Things Material Culture and Social Status in Early Modern China》/B44132676-CWZ_页面_131-report.md`
+  - 源文：`00-books/Craig Clunas：《Superfluous Things Material Culture and Social Status in Early Modern China》/131-CWZ_页面_131.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44132946-00000503-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/02-00000503.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44132948-00000505-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/04-00000505.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44132952-00000509-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/08-00000509.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44132955-00000601-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/100-00000601.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44132957-00000603-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/102-00000603.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44132961-00000607-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/106-00000607.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44132970-00000615-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/114-00000615.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44132976-00000513-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/12-00000513.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44132984-00000628-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/127-00000628.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133020-00000517-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/16-00000517.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133025-00000665-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/164-00000665.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133042-00000519-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/18-00000519.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133059-00000696-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/195-00000696.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133064-00000521-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/20-00000521.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133066-00000523-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/22-00000523.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133072-00000529-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/28-00000529.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133076-00000533-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/32-00000533.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133078-00000535-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/34-00000535.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133080-00000537-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/36-00000537.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133082-00000539-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/38-00000539.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133084-00000541-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/40-00000541.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133086-00000543-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/42-00000543.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133094-00000551-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/50-00000551.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133098-00000555-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/54-00000555.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133100-00000557-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/56-00000557.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133104-00000561-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/60-00000561.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133106-00000563-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/62-00000563.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133108-00000565-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/64-00000565.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133112-00000569-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/68-00000569.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133116-00000573-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/72-00000573.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133118-00000575-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/74-00000575.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133122-00000579-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/78-00000579.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133124-00000581-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/80-00000581.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133126-00000583-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/82-00000583.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133130-00000587-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/86-00000587.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133132-00000589-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/88-00000589.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133134-00000591-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/90-00000591.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133140-00000597-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/96-00000597.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133142-00000599-tif-report.md`
+  - 源文：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/98-00000599.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Donald A. Norman：《The Design of Everyday Things》/B44133682-Image-0004-tif-report.md`
+  - 源文：`00-books/Donald A. Norman：《The Design of Everyday Things》/04-Image 0004.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Donald A. Norman：《The Design of Everyday Things》/B44133732-Image-0014-tif-report.md`
+  - 源文：`00-books/Donald A. Norman：《The Design of Everyday Things》/14-Image 0014.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Donald A. Norman：《The Design of Everyday Things》/B44133834-Image-0232-tif-report.md`
+  - 源文：`00-books/Donald A. Norman：《The Design of Everyday Things》/232-Image 0232.tif.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Edward R. Tufte：《The Visual Display of Quantitative Information》，1983/B44134113-img014-jpg-report.md`
+  - 源文：`00-books/Edward R. Tufte：《The Visual Display of Quantitative Information》，1983/14-img014.jpg.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Edward R. Tufte：《The Visual Display of Quantitative Information》，1983/B44134124-img015-jpg-report.md`
+  - 源文：`00-books/Edward R. Tufte：《The Visual Display of Quantitative Information》，1983/15-img015.jpg.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Edward R. Tufte：《The Visual Display of Quantitative Information》，1983/B44134125-img150-jpg-report.md`
+  - 源文：`00-books/Edward R. Tufte：《The Visual Display of Quantitative Information》，1983/150-img150.jpg.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Edward R. Tufte：《The Visual Display of Quantitative Information》，1983/B44134131-img156-jpg-report.md`
+  - 源文：`00-books/Edward R. Tufte：《The Visual Display of Quantitative Information》，1983/156-img156.jpg.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Edward R. Tufte：《The Visual Display of Quantitative Information》，1983/B44134135-img016-jpg-report.md`
+  - 源文：`00-books/Edward R. Tufte：《The Visual Display of Quantitative Information》，1983/16-img016.jpg.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/Edward R. Tufte：《The Visual Display of Quantitative Information》，1983/B44134175-img024-jpg-report.md`
+  - 源文：`00-books/Edward R. Tufte：《The Visual Display of Quantitative Information》，1983/24-img024.jpg.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/John Thackara：《In the Bubble Designing in a Complex World》，2005/B44136065-Page_ii-pdf-report.md`
+  - 源文：`00-books/John Thackara：《In the Bubble Designing in a Complex World》，2005/03-Page_ii.pdf.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/John Thackara：《In the Bubble Designing in a Complex World》，2005/B44136069-Page_vi-pdf-report.md`
+  - 源文：`00-books/John Thackara：《In the Bubble Designing in a Complex World》，2005/07-Page_vi.pdf.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/John Thackara：《In the Bubble Designing in a Complex World》，2005/B44136083-Page_x-pdf-report.md`
+  - 源文：`00-books/John Thackara：《In the Bubble Designing in a Complex World》，2005/11-Page_x.pdf.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/John Thackara：《In the Bubble Designing in a Complex World》，2005/B44136098-Page_112-pdf-report.md`
+  - 源文：`00-books/John Thackara：《In the Bubble Designing in a Complex World》，2005/123-Page_112.pdf.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/John Thackara：《In the Bubble Designing in a Complex World》，2005/B44136151-Page_160-pdf-report.md`
+  - 源文：`00-books/John Thackara：《In the Bubble Designing in a Complex World》，2005/171-Page_160.pdf.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/John Thackara：《In the Bubble Designing in a Complex World》，2005/B44136206-Page_210-pdf-report.md`
+  - 源文：`00-books/John Thackara：《In the Bubble Designing in a Complex World》，2005/221-Page_210.pdf.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/John Thackara：《In the Bubble Designing in a Complex World》，2005/B44136285-Page_282-pdf-report.md`
+  - 源文：`00-books/John Thackara：《In the Bubble Designing in a Complex World》，2005/293-Page_282.pdf.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/John Thackara：《In the Bubble Designing in a Complex World》，2005/B44136300-Page_296-pdf-report.md`
+  - 源文：`00-books/John Thackara：《In the Bubble Designing in a Complex World》，2005/307-Page_296.pdf.md`
+  - 问题：P0:source unreadable/empty but report generated
+- `00-books-result/John Thackara：《In the Bubble Designing in a Complex World》，2005/B44136329-Page_322-pdf-report.md`
+  - 源文：`00-books/John Thackara：《In the Bubble Designing in a Complex World》，2005/333-Page_322.pdf.md`
+  - 问题：P0:source unreadable/empty but report generated
+
+### B. 先补源路径再复审：可自动推测源文的报告
+
+- `00-books-result/The green imperative _ natural design for the real world -- Papanek, Victor J --/B0749-Here-Today-Gone-Tomorrow-report.md`
+  - 建议源文：`00-books/The green imperative _ natural design for the real world -- Papanek, Victor J --/06-Here Today, Gone Tomorrow.md`（high，score=0.800）
+- `00-books-result/Personas, Participatory Design and Product Development An Infrastructure for Engagement/B0359-benefits-risks-personas-report.md`
+  - 建议源文：`00-books/Personas, Participatory Design and Product Development An Infrastructure for Engagement/02-Benefits of personas Risks of personas.md`（high，score=0.750）
+- `00-books-result/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/B0361-Pioneers-Modern-Design-01-report.md`
+  - 建议源文：`00-books/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/01-Pioneers of Modern Design.md`（high，score=0.750）
+- `00-books-result/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/B0361-pioneers-modern-design-report.md`
+  - 建议源文：`00-books/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/01-Pioneers of Modern Design.md`（high，score=0.750）
+- `00-books-result/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/B0362-Pioneers-Modern-Design-02-report.md`
+  - 建议源文：`00-books/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/01-Pioneers of Modern Design.md`（high，score=0.750）
+- `00-books-result/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/B0420-From-Style-to-Taste-report.md`
+  - 建议源文：`00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/05-FROM STYLE TO TASTE.md`（high，score=0.750）
+- `00-books-result/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/B0452-Picture-Credits-Acknowledgements-report.md`
+  - 建议源文：`00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/18-PICTURE CREDITS ACKNOWLEDGEMENTS.md`（high，score=0.750）
+- `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0467-Guide-Further-Reading-01-report.md`
+  - 建议源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/11-GUIDE TO FURTHER READING.md`（high，score=0.750）
+- `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0475-Guide-Further-Reading-02-report.md`
+  - 建议源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/11-GUIDE TO FURTHER READING.md`（high，score=0.750）
+- `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0478-Ornament-and-Crime-report.md`
+  - 建议源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/23-ORNAMENT AND CRIME.md`（high，score=0.750）
+- `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0482-Guide-Further-Reading-03-report.md`
+  - 建议源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/11-GUIDE TO FURTHER READING.md`（high，score=0.750）
+- `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0488-Guide-Further-Reading-04-report.md`
+  - 建议源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/11-GUIDE TO FURTHER READING.md`（high，score=0.750）
+- `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0496-Guide-Further-Reading-05-report.md`
+  - 建议源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/11-GUIDE TO FURTHER READING.md`（high，score=0.750）
+- `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0503-Guide-Further-Reading-06-report.md`
+  - 建议源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/11-GUIDE TO FURTHER READING.md`（high，score=0.750）
+- `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0512-Guide-Further-Reading-07-report.md`
+  - 建议源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/11-GUIDE TO FURTHER READING.md`（high，score=0.750）
+- `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0519-Guide-Further-Reading-08-report.md`
+  - 建议源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/11-GUIDE TO FURTHER READING.md`（high，score=0.750）
+- `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0525-Guide-Further-Reading-09-report.md`
+  - 建议源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/11-GUIDE TO FURTHER READING.md`（high，score=0.750）
+- `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0532-Guide-Further-Reading-10-report.md`
+  - 建议源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/11-GUIDE TO FURTHER READING.md`（high，score=0.750）
+- `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0539-Guide-Further-Reading-11-report.md`
+  - 建议源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/11-GUIDE TO FURTHER READING.md`（high，score=0.750）
+- `00-books-result/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/B0717-Scenario-for-Design-report.md`
+  - 建议源文：`00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/07-A SCENARIO FOR DESIGN.md`（high，score=0.750）
+- `00-books-result/The green imperative _ natural design for the real world -- Papanek, Victor J --/B0756-Sharing-Not-Buying-report.md`
+  - 建议源文：`00-books/The green imperative _ natural design for the real world -- Papanek, Victor J --/13-Sharing not Buying.md`（high，score=0.750）
+- `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0791-Varney-the-Vampyre-report.md`
+  - 建议源文：`00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/32-VARNEY;.THE VAMPYRE;.md`（high，score=0.750）
+- `00-books-result/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/B0822-Seeing-the-Interface-report.md`
+  - 建议源文：`00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/18-Seeing the interface.md`（high，score=0.750）
+- `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B0938-Books-and-Magazines-report.md`
+  - 建议源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/18-Books and Magazines.md`（high，score=0.750）
+- `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1019-Graphics-on-the-Left-report.md`
+  - 建议源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/39-Graphics on the left.md`（high，score=0.750）
+- `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1076-Other-Design-Schools-report.md`
+  - 建议源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/31-Other Design Schools.md`（high，score=0.750）
+- `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1162-Graphics-on-the-left-report.md`
+  - 建议源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/39-Graphics on the left.md`（high，score=0.750）
+- `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B0951-Industrial-Design-Outside-New-York-report.md`
+  - 建议源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/192-Industrial Design outside New York.md`（high，score=0.714）
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0308-magic-toyshops-report.md`
+  - 建议源文：`00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/21-'Magic Toyshops'.md`（high，score=0.667）
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0309-mediating-relationships-report.md`
+  - 建议源文：`00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/22-Mediating Relationships.md`（high，score=0.667）
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0310-material-memories-report.md`
+  - 建议源文：`00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/23-Material Memories.md`（high，score=0.667）
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0313-ecological-destruction-report.md`
+  - 建议源文：`00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/26-Ecological destruction.md`（high，score=0.667）
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0321-notes-on-contributors-report.md`
+  - 建议源文：`00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/04-NOTES ON CONTRIBUTORS.md`（high，score=0.667）
+- `00-books-result/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/B0375-Finland-Norway-report.md`
+  - 建议源文：`00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/05-FINLAND NORWAY.md`（high，score=0.667）
+- `00-books-result/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/B0391-Something-Old-New-Stolen-report.md`
+  - 建议源文：`00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/32-Something Old, Something New,Something Stolen, Som.md`（high，score=0.667）
+- `00-books-result/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/B0421-Revolutionary-Transformation-report.md`
+  - 建议源文：`00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/06-Revolutionary Transformation.md`（high，score=0.667）
+- `00-books-result/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/B0432-General-Index-report.md`
+  - 建议源文：`00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/17-General Index.md`（high，score=0.667）
+- `00-books-result/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/B0433-Index-of-Names-report.md`
+  - 建议源文：`00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/18-Index of Names.md`（high，score=0.667）
+- `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0456-General-Introduction-report.md`
+  - 建议源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/03-GENERAL INTRODUCTION.md`（high，score=0.667）
+- `00-books-result/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/B0711-Editors-Biographies-report.md`
+  - 建议源文：`00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/01-EDITORS' BIOGRAPHIES.md`（high，score=0.667）
+- `00-books-result/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/B0712-Authors-Biographies-report.md`
+  - 建议源文：`00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/02-AUTHORS' BIOGRAPHIES.md`（high，score=0.667）
+- `00-books-result/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/B0713-General-Introduction-report.md`
+  - 建议源文：`00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/03-GENERAL INTRODUCTION.md`（high，score=0.667）
+- `00-books-result/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/B0729-Further-Reading-Part-II-Section-1-report.md`
+  - 建议源文：`00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/22-FURTHER READING FOR PART II, SECTION 1.md`（high，score=0.667）
+- `00-books-result/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/B0733-Visibility-in-Progress-report.md`
+  - 建议源文：`00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/26-VISIBILITY IN PROGRESS.md`（high，score=0.667）
+- `00-books-result/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/B0736-Further-Reading-Part-II-Section-2-report.md`
+  - 建议源文：`00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/22-FURTHER READING FOR PART II, SECTION 1.md`（high，score=0.667）
+- `00-books-result/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/B0743-General-Bibliography-report.md`
+  - 建议源文：`00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/39-GENERAL BIBLIOGRAPHY.md`（high，score=0.667）
+- `00-books-result/The green imperative _ natural design for the real world -- Papanek, Victor J --/B0752-Sensing-a-Dwelling-report.md`
+  - 建议源文：`00-books/The green imperative _ natural design for the real world -- Papanek, Victor J --/09-Sensing a Dwelling.md`（high，score=0.667）
+- `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0777-Reynolds-Miscellany-01-report.md`
+  - 建议源文：`00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/18-REYNOLDS'S MISCELLANY.md`（high，score=0.667）
+- `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0778-Reynolds-Miscellany-02-report.md`
+  - 建议源文：`00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/18-REYNOLDS'S MISCELLANY.md`（high，score=0.667）
+- `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0779-Reynolds-Miscellany-03-report.md`
+  - 建议源文：`00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/18-REYNOLDS'S MISCELLANY.md`（high，score=0.667）
+- `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0780-London-Journal-01-report.md`
+  - 建议源文：`00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/26-LONDON JOURNAL.md`（high，score=0.667）
+- `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0784-Reynolds-Miscellany-04-report.md`
+  - 建议源文：`00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/18-REYNOLDS'S MISCELLANY.md`（high，score=0.667）
+- `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0785-London-Journal-02-report.md`
+  - 建议源文：`00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/26-LONDON JOURNAL.md`（high，score=0.667）
+- `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0787-London-Journal-03-report.md`
+  - 建议源文：`00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/26-LONDON JOURNAL.md`（high，score=0.667）
+- `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0792-Jack-Sheppard-report.md`
+  - 建议源文：`00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/33-JACK SHEPPARD.md`（high，score=0.667）
+- `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0794-England-Going-Down-Hill-report.md`
+  - 建议源文：`00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/35-England's going down the Hill..md`（high，score=0.667）
+- `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0796-Select-Bibliography-report.md`
+  - 建议源文：`00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/37-Select Bibliography.md`（high，score=0.667）
+- `00-books-result/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/B0832-Embodied-Design-report.md`
+  - 建议源文：`00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/29-Embodied design.md`（high，score=0.667）
+- `00-books-result/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/B0836-Digital-Focus-report.md`
+  - 建议源文：`00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/33-Digital focus.md`（high，score=0.667）
+- `00-books-result/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/B0840-References-Index-report.md`
+  - 建议源文：`00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/38-References Index.md`（high，score=0.667）
+- `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B0853-Introduction-Volume-2-report.md`
+  - 建议源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/07-Introduction to Volume 2.md`（high，score=0.667）
+- `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B0899-Chapters-in-Books-report.md`
+  - 建议源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/76-Chapters in books.md`（high，score=0.667）
+- `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B0967-US-Graphic-Design-report.md`
+  - 建议源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/84-Graphic design.md`（high，score=0.667）
+- `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B0972-US-Chapters-in-Books-report.md`
+  - 建议源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/76-Chapters in books.md`（high，score=0.667）
+- `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1090-Bezalel-After-World-War-I-report.md`
+  - 建议源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/322-Bezalel after World War I.md`（high，score=0.667）
+- `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1108-Commercial-art-report.md`
+  - 建议源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/34-Commercial art.md`（high，score=0.667）
+- `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1110-Chapters-in-books-report.md`
+  - 建议源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/76-Chapters in books.md`（high，score=0.667）
+- `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1119-Type-design-report.md`
+  - 建议源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/35-Type design.md`（high，score=0.667）
+- `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1124-African-imagery-European-advertising-report.md`
+  - 建议源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/354-African imagery in European advertising.md`（high，score=0.667）
+- `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1141-Gefesselter-Blick-report.md`
+  - 建议源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/37-Gefesselter Blick.md`（high，score=0.667）
+- `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3277-About-Face-about-the-authors-report.md`
+  - 建议源文：`00-books/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/10-About the Authors.md`（high，score=0.600）
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0301-genteel-craft-subversion-report.md`
+  - 建议源文：`00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/14-The Genteel Craft of Subversion.md`（high，score=0.600）
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0307-war-national-identity-report.md`
+  - 建议源文：`00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/20-War and national identity.md`（high，score=0.600）
+- `00-books-result/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/B0363-foreword-first-edition-report.md`
+  - 建议源文：`00-books/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/03-Foreword to the First Edition.md`（high，score=0.600）
+- `00-books-result/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/B0364-foreword-second-edition-report.md`
+  - 建议源文：`00-books/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/04-Foreword to the Second Edition.md`（high，score=0.600）
+- `00-books-result/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/B0365-Foreword-Pelican-Edition-report.md`
+  - 建议源文：`00-books/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/05-Foreword to the Pelican Edition.md`（high，score=0.600）
+- `00-books-result/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/B0393-Artistic-Accord-Photogenic-report.md`
+  - 建议源文：`00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/36-AN ARTISTIC ACCORD PHOTOGENIC DESIGN.md`（high，score=0.600）
+- `00-books-result/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/B0417-Courtly-Stylistic-Regime-report.md`
+  - 建议源文：`00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/02-The Courtly Stylistic Regime.md`（high，score=0.600）
+- `00-books-result/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/B0450-Context-Events-Bibliography-report.md`
+  - 建议源文：`00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/16-A CONTEXT OF EVENTS SELECTED BIBLIOGRAPHY.md`（high，score=0.600）
+- `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0464-Guide-Further-Reading-final-report.md`
+  - 建议源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/11-GUIDE TO FURTHER READING.md`（high，score=0.600）
+
+### C. 重复 B 编号/大小写冲突
+
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/11-Sex, Birth and Nurture Unto DeathPatching Together Quilted B-report.md`
+  - 问题：P1:low-information source graded A | P2:very incomplete V2 structure | P1:multiple reports declare same source | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/12-Projecting andSubverting Identities-report.md`
+  - 问题：P1:empty/near-empty source graded high | P1:low-information source graded A | P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/13-Courtly Cruising and Nineteenth-Century American Men's Roman-report.md`
+  - 问题：P1:low-information source graded A | P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/14-The Genteel Craft of Subversion-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/15-Performing Masculinity ThroughObjects in Postwar America-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/16-Gender, class and the pipe-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/17-Objects andEmbodiment-report.md`
+  - 问题：P1:empty/near-empty source graded high | P1:low-information source graded A | P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/18-Seduced by the Archive-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/19-Kitsch, Enchantment and PowerThe Bleeding Statues of Templem-report.md`
+  - 问题：P1:low-information source graded A | P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/20-War and national identity-report.md`
+  - 问题：P1:low-information source graded A | P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/21-'Magic Toyshops'-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/22-Mediating Relationships-report.md`
+  - 问题：P1:empty/near-empty source graded high | P1:low-information source graded A | P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/23-Material Memories-report.md`
+  - 问题：P1:low-information source graded A | P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/24-The Problematic Decision to LiveIrish-Romanian Home-Making a-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/25-Designing Meaningful and LastingUser Experiences-report.md`
+  - 问题：P1:low-information source graded A | P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/26-Ecological destruction-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/27-BIBLIOGRAPHY-report.md`
+  - 问题：P1:low-information source graded A | P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/28-3 Sex, Birth and Nurture Unto Death-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/29-6 Performing Masculinity Through Objects inPostwar America-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0298-Sex-Birth-Nurture-Quilted-report.md`
+  - 问题：P1:low-information source graded A | P2:very incomplete V2 structure | P1:multiple reports declare same source | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0299-Projecting-Subverting-Identities-report.md`
+  - 问题：P0:tracked report path not materialized in Windows worktree | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0300-Courtly-Cruising-report.md`
+  - 问题：P0:tracked report path not materialized in Windows worktree | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0301-Genteel-Craft-Subversion-report.md`
+  - 问题：P0:tracked report path not materialized in Windows worktree | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0302-Performing-Masculinity-report.md`
+  - 问题：P0:tracked report path not materialized in Windows worktree | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0303-Gender-Class-Pipe-report.md`
+  - 问题：P0:tracked report path not materialized in Windows worktree | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0306-Kitsch-Enchantment-Power-report.md`
+  - 问题：P0:tracked report path not materialized in Windows worktree | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0307-War-National-Identity-report.md`
+  - 问题：P0:tracked report path not materialized in Windows worktree | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0308-Magic-Toyshops-report.md`
+  - 问题：P0:tracked report path not materialized in Windows worktree | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0309-Mediating-Relationships-report.md`
+  - 问题：P0:tracked report path not materialized in Windows worktree | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0310-Material-Memories-report.md`
+  - 问题：P0:tracked report path not materialized in Windows worktree | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0311-Irish-Romanian-Home-Making-report.md`
+  - 问题：P0:tracked report path not materialized in Windows worktree | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0313-Ecological-Destruction-report.md`
+  - 问题：P0:tracked report path not materialized in Windows worktree | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0314-Bibliography-report.md`
+  - 问题：P0:tracked report path not materialized in Windows worktree | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0317-Love-Objects-full-report.md`
+  - 问题：P0:tracked report path not materialized in Windows worktree | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0322-Fran-Carter-preface-report.md`
+  - 问题：P0:tracked report path not materialized in Windows worktree | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0323-Forgetting-Keeping-Giving-report.md`
+  - 问题：P0:tracked report path not materialized in Windows worktree | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0332-Playboy-Bachelor-report.md`
+  - 问题：P0:tracked report path not materialized in Windows worktree | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0336-Life-in-Archive-report.md`
+  - 问题：P0:tracked report path not materialized in Windows worktree | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0340-Saint-Sulpice-Kitsch-report.md`
+  - 问题：P0:tracked report path not materialized in Windows worktree | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor-report.md`
+  - 问题：P1:low-information source graded A | P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_02_preface_Love_Objects___Love_Objects_Em-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_03_toc_CONTENTS-report.md`
+  - 问题：P1:low-information source graded A | P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_04_preface_SECTION_1__The_Lives_of_Object-report.md`
+  - 问题：P1:low-information source graded A | P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_05_bibliography_NOTES_ON_CONTRIBUTORS-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_06_preface_Fran_Carter_(School_of_Art_and-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_08_bibliography_Notes-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_10_bibliography_Notes-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_11_body_Sex,_Birth_and_Nurture_Unto_De-report.md`
+  - 问题：P1:low-information source graded A | P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_12_preface_Introduction-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_13_body_Maternal_memory___Coarse_craft-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_14_bibliography_Notes-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_15_body_Performing_Masculinity_Through-report.md`
+  - 问题：P1:low-information source graded A | P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_16_preface_Introduction-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_17_body_The_playboy_bachelor_and_the_p-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_18_bibliography_Notes-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_19_body_Objects_and_Embodiment___Seduc-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_20_preface_Introduction-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_21_body_A_life_in_the_archive___The_bi-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_22_bibliography_Notes-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_23_body_Kitsch,_Enchantment_and_Power_-report.md`
+  - 问题：P1:low-information source graded A | P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_24_preface_Introduction-report.md`
+  - 问题：P1:low-information source graded A | P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_25_body_Saint_Sulpice_and_kitsch___The-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_26_preface_Introduction-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_28_bibliography_Notes-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_29_body_SECTION_4___Mediating_Relation-report.md`
+  - 问题：P1:low-information source graded A | P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_30_preface_Introduction-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_31_body_Family,_memory,_photography___-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_32_preface_Introduction-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_34_preface_Introduction-report.md`
+  - 问题：P1:low-information source graded A | P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_35_body_Meaning_and_the_made___Belief_-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_36_bibliography_BIBLIOGRAPHY-report.md`
+  - 问题：P1:low-information source graded A | P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor_38_bibliography_INDEX-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World/01-AUTOMATION'S FINEST HOURRADAR AND SYSTEM INTEGRATI-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World/03-8. Assist in training programs AUTOMATIC CONTROL's-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World/04-MORE THAN THE SUM OF ITS COMPONENT PARTS DYNAMICSY-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World/B0354-Mindell-full-report.md`
+  - 问题：P0:tracked report path not materialized in Windows worktree | P0:duplicate B number
+- `00-books-result/MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World/B0357-Mindell-Notes-report.md`
+  - 问题：P0:tracked report path not materialized in Windows worktree | P0:duplicate B number
+- `00-books-result/MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World/MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World/MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World_02_body_THE_DIFFICULT_STEPCHILD__RADAR-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+- `00-books-result/MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World/MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World_03_bibliography_NOTES-report.md`
+  - 问题：P2:very incomplete V2 structure | P0:duplicate B number
+
+完整明细见 `00-books-result-P0执行清单.csv`。

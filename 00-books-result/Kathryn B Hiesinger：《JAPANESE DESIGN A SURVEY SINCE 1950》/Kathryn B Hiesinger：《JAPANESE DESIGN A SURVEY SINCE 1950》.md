@@ -1,0 +1,172 @@
+# B44144624-Kathryn-B-Hiesinger-JAPANESE-DESIGN-A-SURVEY-SINCE-1950 深度报告：D E S I G N
+
+- **执行状态**：已完成 V2.0 批量重写；来源于 `P1` 重写队列
+- **建议等级**：A 类核心章节材料
+- **图像状态**：含 328 处图片链接，并检测到 29 条图注/图版说明；本报告只依据 Markdown 可读文字，不补写图像视觉细节
+- **源文件完整路径**：`00-books/Kathryn B Hiesinger：《JAPANESE DESIGN A SURVEY SINCE 1950》/Kathryn B Hiesinger：《JAPANESE DESIGN A SURVEY SINCE 1950》.md`
+- **报告文件路径**：`00-books-result/Kathryn B Hiesinger：《JAPANESE DESIGN A SURVEY SINCE 1950》/Kathryn B Hiesinger：《JAPANESE DESIGN A SURVEY SINCE 1950》.md`
+- **文件类型**：学术专著或论文型章节
+- **文本完整性**：745675 字符；存在断词或 OCR 连字痕迹；存在数字/字母混淆痕迹
+- **相邻文件关系**：前序 `00-books/Kathryn B Hiesinger：《JAPANESE DESIGN A SURVEY SINCE 1950》/06-238おけぼの.md`；后续 `无同目录后续 Markdown`
+
+## 1. 源文核验与内容概述
+
+已重新读取对应 `00-books/` Markdown 源文。本报告不依据旧短报告扩写，而以源文件标题、段落、小标题、图注和可读注释为证据边界。
+
+| 层级 | 标题 |
+|---:|---|
+| 1 | D E S I G N |
+| 2 | Contents |
+| 2 | Japanese Design: A Survey Since 1950 |
+| 1 | D E S I G N |
+| 2 | Contents |
+| 2 | Japanese Design: A Survey Since 1950 |
+| 1 | O design japan house |
+| 2 | 品粧化堂生資 |
+| 2 | Designer Statement Riki Watanabe |
+| 2 | Company History: GK Design Group Kenji Ekuan |
+| 2 | Company History: Honda Shinya Iwakura |
+| 2 | Company History: Kenmochi Design Associates Tetsuo Matsumoto |
+| 2 | Company History: Nippon Design Center Kazumasa Nagai |
+| 2 | Company History: Sony Matami Yamaguchi |
+| 2 | 2 Rope chair, 1952 |
+| 2 | 4 Poster for Kintetsu department store, 1951 Designed by Yoshio Hayakawa Lithograph, 29 1/2 x 20 13/... |
+| 2 | 7 Rice cooker, 1954 |
+| 2 | 10 National radio, 1953 |
+| ... | 另有 235 个标题未在此表展开 |
+
+源文开端可读内容显示：Kathryn B. Hiesinger and Felice Fischer
+
+源文末段或末尾可读内容显示：Images have been losslessly embedded. Information about the original file can be found in PDF attachments. Some stats more in the PDF attachments
+
+从全文高频词和关键句看，本文主要围绕 博物馆/展示制度、平面设计、现代性/现代主义 展开。需要注意，这一判断是对源文词汇、标题和段落结构的归纳，不等同于外部知识补充。
+
+源文中检测到的注释/书目信号：有；若用于正式论文引文，仍需回到原书页码和注释系统复核。
+
+## 2. 文献性质、作者立场与史料等级
+
+该文件在本仓库中应按“学术专著或论文型章节”处理。其史料等级建议为“A 类核心章节材料”：
+
+该文件提供作者在当前切片中的历史叙述、概念判断与案例组织。报告区分作者论断、可核事实、图像线索和后续分析，不把章节观点自动视为中立事实。
+
+本报告撰写者的判断只覆盖当前切片内已经出现的内容。人物身份、作品年代、机构归属和页码均应在进入论文、教材或数据库前再做版本核验。
+
+## 3. 语义深度分析
+
+### 3.1 核心命题
+
+标题、小标题、段落重心与高频概念共同表明，当前切片集中处理 博物馆/展示制度、平面设计、现代性/现代主义。分析范围严格限定在“D E S I G N”及本文件可读内容；相邻章节、外部常识和作者其他著作不补入当前结论。
+
+### 3.2 关键论证句与证据线索
+
+| 序号 | 源文关键句/段落抓手 | 可支持的分析方向 |
+|---:|---|---|
+| 1 | In an informal report to MiTI on exporting to the American market, Diamond emphasized the growing importance of housewives as consumers and the need for multipurpose products... | 用于定位作者如何建立章节问题、概念关系或案例证据；正式引用需回源文核页。 |
+| 2 | After leaving Hosei University, Tokyo, in 1947, Awazu began his career as an independent designer, deliberately avoiding commercial clients Recognition first came in 1956 when he... | 用于定位作者如何建立章节问题、概念关系或案例证据；正式引用需回源文核页。 |
+| 3 | For the catalogue design, Mitsuo Katsui and his staff, Masako Ishibashi, Kozo Kakei, and Risa Hirakawa; for the installation design concept, Kisho Kurokawa and his colleagues... | 用于定位作者如何建立章节问题、概念关系或案例证据；正式引用需回源文核页。 |
+| 4 | 10 National radio, 1953 Designed by Zenichi Mano Made by Matsushita Electric Industrial Company, Osaka Prize: Mainichi industrial design competition, 1953 Plastic, 7 x 14 x 5 1/2"... | 用于定位作者如何建立章节问题、概念关系或案例证据；正式引用需回源文核页。 |
+| 5 | 65 Poster for Eighteenth Olympic Games, Tokyo, 1961 Designed by Yusaku Kamekura Prizes: Tokyo Art Directors Club, gold medal, 1961; Mainichí industrial design prize, 1963... | 用于定位作者如何建立章节问题、概念关系或案例证据；正式引用需回源文核页。 |
+| 6 | Kawakami graduated from the Tokyo National University of Fine Arts and Music in 1964, and received his master's degree there in 1966 Like a number of other Japanese designers... | 用于定位作者如何建立章节问题、概念关系或案例证据；正式引用需回源文核页。 |
+| 7 | Wada, Visiting Scholar, The Center for Japanese Studies, University of California at Berkeley Fashion 37 Akiko Fukai, Director, Kyoto Costume Institute Packaging 38 Katsu Kimura... | 用于定位作者如何建立章节问题、概念关系或案例证据；正式引用需回源文核页。 |
+| 8 | In 1933, when Taut visited the exhibition at the Mitsukoshi department store that showed experimental works of the Industrial Arts Institute, he criticized the tendency of the... | 用于定位作者如何建立章节问题、概念关系或案例证据；正式引用需回源文核页。 |
+
+### 3.3 章节结构中的论证层级
+
+| 源文章节/段落 | 内容抓手 | 报告判断 |
+|---|---|---|
+| D E S I G N | Hiesinger and Felice Fischer P H I L A D E L P H I A M U S E U M O F A R T in association with Published on the occasion of the exhibition Japanese Design: A... | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+| Contents | Wada, Visiting Scholar, The Center for Japanese Studies, University of California at Berkeley Fashion 37 Akiko Fukai, Director, Kyoto Costume Institute... | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+| Japanese Design: A Survey Since 1950 | Hiesinger, with Akiko Fukai, Diane Minnite, Research Assistant, Philadelphia Museum of Art, Shutaro Mukai, Julia Smith, Research Assistant, Philadelphia Museum... | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+| D E S I G N | Hiesinger and Felice Fischer P H I L A D E L P H I A M U S E U M O F A R T in association with Published on the occasion of the exhibition Japanese Design: A... | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+| Contents | Wada, Visiting Scholar, The Center for Japanese Studies, University of California at Berkeley Fashion 37 Akiko Fukai, Director, Kyoto Costume Institute... | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+| Japanese Design: A Survey Since 1950 | In an informal report to MiTI on exporting to the American market, Diamond emphasized the growing importance of housewives as consumers and the need for... | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+| O design japan house | In addition, the government invited the German architect Bruno Taut and the French designer, and associate of Le Corbusier, Charlotte Perriand to Japan in an... | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+| 品粧化堂生資 | Thus, in 1950, just five years after the end of the war, full-fledged preparations got under way toward the founding of a nationwide alliance of graphic... | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+| Designer Statement Riki Watanabe | In the end, the invitation had to be declined mainly for financial reasons and because of a lack of time, but it served as a much-needed stimulus, and our... | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+| Company History: GK Design Group Kenji Ekuan | Particularly during the period of industrial and economic growth in Japan during the 1960s and 1970s, we augmented our staff year by year and expanded the... | 该部分提供章节论证的直接证据；使用时应保留其所在小节语境。 |
+| ... | 另有 241 个小节未在表中展开 | 后续精引时应回到源文逐节核验 |
+
+从结构上看，报告应避免只写“本文讨论某主题”这种旧式短摘要。更可靠的读法是：先确认文本类型和切片边界，再把标题/小标题当作论证层级，把高频概念当作议题线索，把图注、注释和案例名当作可核验材料。这样才能区分源文事实、作者判断和后续研究者的再阐释。
+
+## 4. 知识要素解构与术语标准化
+
+### A. 知识要素表
+
+| 要素类型 | 原文名称 | 标准英文／原文名 | 原文语境 | 可归入议题 | 证据状态 |
+|---|---|---|---|---|---|
+| 人物／机构／作品线索 | SURVEY SINCE | SURVEY SINCE | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | Hiesinger and Felice Fischer | Hiesinger and Felice Fischer | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | Japanese Design | Japanese Design | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | Survey Since | Survey Since | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | Philadelphia Museum | Philadelphia Museum | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | Art September | Art September | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | Rhodes and Leona | Rhodes and Leona | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | Carpenter Foundation | Carpenter Foundation | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | The Pew Memorial Trusts | The Pew Memorial Trusts | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | National Endowment | National Endowment | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | The Japan Foundation | The Japan Foundation | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | Japan-United States Friendship Commission | Japan-United States Friendship Commission | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | The Commemorative Association | The Commemorative Association | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 人物／机构／作品线索 | Japan World Exposition | Japan World Exposition | 源文英文或外文专名 | 人物、设计师、作者或责任者 | 已在源文中出现，正式引用仍需页码核验 |
+| 概念／议题 | tokyo | tokyo | 全文高频或关键议题词，出现约 890 次 | 章节核心议题或索引线索 | 已在源文中出现 |
+| 概念／议题 | japan | japan | 全文高频或关键议题词，出现约 662 次 | 章节核心议题或索引线索 | 已在源文中出现 |
+| 概念／议题 | japanese | japanese | 全文高频或关键议题词，出现约 618 次 | 章节核心议题或索引线索 | 已在源文中出现 |
+| 概念／议题 | industrial | industrial | 全文高频或关键议题词，出现约 416 次 | 章节核心议题或索引线索 | 已在源文中出现 |
+| 概念／议题 | designed | designed | 全文高频或关键议题词，出现约 416 次 | 章节核心议题或索引线索 | 已在源文中出现 |
+| 概念／议题 | company | company | 全文高频或关键议题词，出现约 379 次 | 章节核心议题或索引线索 | 已在源文中出现 |
+| 概念／议题 | designers | designers | 全文高频或关键议题词，出现约 286 次 | 章节核心议题或索引线索 | 已在源文中出现 |
+| 概念／议题 | museum | museum | 全文高频或关键议题词，出现约 211 次 | 博物馆/展示制度 | 已在源文中出现 |
+| 概念／议题 | designer | designer | 全文高频或关键议题词，出现约 196 次 | 章节核心议题或索引线索 | 已在源文中出现 |
+| 概念／议题 | prize | prize | 全文高频或关键议题词，出现约 194 次 | 章节核心议题或索引线索 | 已在源文中出现 |
+| 议题簇 | 博物馆/展示制度、平面设计、现代性/现代主义 | 原文名同左 | 由高频词和关键句综合归纳 | 章节主题归纳 | 归纳性判断 |
+
+### B. 术语与关键词
+
+源文高频词包括：tokyo(890)、japan(662)、japanese(618)、industrial(416)、designed(416)、company(379)、designers(286)、museum(211)、designer(196)、prize(194)、arts(187)、university(180)。
+
+这些词不应被机械翻译为固定理论标签。更稳妥的处理方式是保留英文原词或源文用语，并在报告、索引或教学条目中说明它在当前章节中的具体语境。例如，同一个 `style` 可能指风格制度、商品外观、历史复兴样式或作者批判对象；同一个 `design` 也可能指职业实践、人工物规划、形式判断或社会技术过程。
+
+## 5. 实证材料、案例与图像线索
+
+| 图注/案例线索 | 使用边界 |
+|---|---|
+| Kyoto National Museum, 1895 Fig. 2 Coffee service, c. 1875, signed Kichizan. Porcelain. Philadelphia Museum of Art. Gift of Visi Aromiskis | 可作为作品、图版或案例索引线索；图像内容需另行视觉核验。 |
+| Design for a cloisonné vase, by Yasuyuki Namikawa 1845–1927 . Ink and colors on paper. Philadelphia Museum of Art. Gift of Clayton French Banks, Jr., in memory of his grandparents, George W and Mary French Banks | 可作为作品、图版或案例索引线索；图像内容需另行视觉核验。 |
+| Box carved with quails and millet, c. 1900 Ivory. Philadelphia Museum of Art. Gift of Mrs. Henry W. Breyer, Sr. Fig. 5 Mitsukoshi department store, Tokyo, 1914 | 可作为作品、图版或案例索引线索；图像内容需另行视觉核验。 |
+| Catalogue of kimono patterns for Marubeni department store, Kyoto, Fall 1926 collection. Philadelphia Museum of Art. Gift of Dr. Judith Stein in memory of Saul Bernstein | 可作为作品、图版或案例索引线索；图像内容需另行视觉核验。 |
+| Poster for Mitsukoshi department store, designed by Hisui Sugiura, 1914 Lithograph. Museum & Library, Musashino Art University, Tokyo Fig. 8 Poster for Un Suicide, designed by Takashi Kono, 1929. Silkscreen. Tokyo... | 可作为作品、图版或案例索引线索；图像内容需另行视觉核验。 |
+| Chair, designed by Katsuhei Toyoguchi for Keiji Kobo, 1934. Wood and hemp. Museum & | 可作为作品、图版或案例索引线索；图像内容需另行视觉核验。 |
+| Katsura Detached Palace, Kyoto, 1636 | 可作为作品、图版或案例索引线索；图像内容需另行视觉核验。 |
+| Bruno Taut and Kitaro Kunii in front of the Industrial Arts Institute, Sendai, 1934 Courtesy of Kenmochi Design Associates | 可作为作品、图版或案例索引线索；图像内容需另行视觉核验。 |
+| Datsun Deluxe Sedan DB, made by Nissan Motor Company, 1948 | 可作为作品、图版或案例索引线索；图像内容需另行视觉核验。 |
+| lamp, designed by Bruno Taut, 1936. Lacquered wood and paper. The position of the shade can be adjusted along the entire height of the frame Photograph by Osamu Murai | 可作为作品、图版或案例索引线索；图像内容需另行视觉核验。 |
+| ... | 另有 19 条图注未展开。 |
+
+可进入后续数据库或教学索引的材料包括：章节标题、可读小标题、反复出现的关键词、人物/机构/作品名、图注文字和注释线索。不能直接进入可靠事实库的内容包括：未核页码的引文、OCR 可能误读的人名、只由图片文件名推断出的作品信息，以及源文没有明确说明的年代和因果关系。
+
+## 6. 可用边界与不可用边界
+
+| 类型 | 可用结论 | 不可越界 |
+|---|---|---|
+| 源文核验 | 当前报告已读取 `00-books/Kathryn B Hiesinger：《JAPANESE DESIGN A SURVEY SINCE 1950》/Kathryn B Hiesinger：《JAPANESE DESIGN A SURVEY SINCE 1950》.md`，可确认其大致结构、标题、关键词和可读段落 | 不代表已核对原 PDF 页码、扫描图像和印刷版版式 |
+| 语义分析 | 可把本文纳入 博物馆/展示制度、平面设计、现代性/现代主义 的议题网络 | 不应把同书其他章节或作者其他著作的观点补入当前切片 |
+| 知识要素 | 可抽取人物、机构、作品、技术、媒介和概念线索 | 不应把自动抽取实体直接当作权威规范名 |
+| 图像材料 | 可记录 Markdown 图注和图片链接存在 | 不应描述未实际查看的图像视觉细节 |
+
+## 7. 教材、研究与索引用途
+
+本文件适合用于：博物馆/展示制度、平面设计、现代性/现代主义 的章节导读、关键词索引、案例线索整理和设计史/设计理论课程的材料入口。若用于课堂讲授，可先以源文标题和小标题建立问题框架，再选取关键句回读，让学生区分作者论证、案例证据和后续解释。
+
+若用于研究写作，建议把本报告当作“复审入口”而非最终引文依据：进入写作前应回到源 Markdown 和原 PDF，补齐页码、注释、图版编号、译名和版本信息。
+
+## 8. 可引用内容与不可确认内容
+
+可引用范围限于源文明确出现的标题、人物、机构、作品、案例、图注、数据和作者判断；直接引语必须回原书补页码。不可确认的内容包括仅由文件名推断的主题、未查看图片的视觉细节、OCR 可疑专名，以及当前切片没有展开的因果关系。
+
+## 9. 技术核验与证据边界
+
+源文件共约 745675 个字符；存在断词或 OCR 连字痕迹；存在数字/字母混淆痕迹。含 328 处图片链接，并检测到 29 条图注/图版说明；本报告只依据 Markdown 可读文字，不补写图像视觉细节。相邻文件为前序 `00-books/Kathryn B Hiesinger：《JAPANESE DESIGN A SURVEY SINCE 1950》/06-238おけぼの.md`、后续 `无同目录后续 Markdown`。正式使用前需核对原 PDF 页码、注释、图版和版本信息。
+
+## 10. 复审结论
+
+本报告已重新读取 `00-books/Kathryn B Hiesinger：《JAPANESE DESIGN A SURVEY SINCE 1950》/Kathryn B Hiesinger：《JAPANESE DESIGN A SURVEY SINCE 1950》.md`，并按“学术专著或论文型章节”的实际信息结构完成 V2.0 重写。当前可作为 博物馆/展示制度、平面设计、现代性/现代主义 的研究入口；自动抽取的专名、术语和证据关系已保留复核标记，不替代原书精读与正式引文核验。

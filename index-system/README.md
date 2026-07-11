@@ -24,6 +24,7 @@
 | [`10-version-translation-citation-index.md`](10-version-translation-citation-index.md) | 版本、译本、引文与页码索引 |
 | [`11-image-method-controversy-timeline-index.md`](11-image-method-controversy-timeline-index.md) | 图像、研究方法、争议问题与时间线索引 |
 | [`12-master-index-template.md`](12-master-index-template.md) | 综合总表模板：适合做成一个总表或数据库 |
+| [`13-report-integration-rules.md`](13-report-integration-rules.md) | 深度报告入库规则：规定精读层与中央索引层的字段映射、编号、去重和复核流程 |
 
 ## 二、使用原则
 

@@ -1,0 +1,1004 @@
+# 00-books-result 全量复审审计报告
+
+依据：`00-books-result/00-books Markdown 深度报告生成与复审规则.md`（V2.0）。
+
+本轮审计重新读取 `00-books/` 与 `00-books-result/` 的本地完整克隆文件，先做全量机器审计，用于定位需要人工复核、局部修订、大幅重写或废弃重建的报告。
+
+## 一、总量
+
+- `00-books/` Markdown 源文件：15369
+- `00-books-result/` `*report.md`：15374
+- 源文件未被任何报告声明引用：1062
+- 声明同一源文件的多个报告组：238
+- 重复 B 编号组：142
+- 规范化后正文完全相同的报告组：28
+- Git 路径大小写冲突组：28
+
+## 二、风险分层
+
+- P0：1269
+- P1：5089
+- P2：574
+- P3：8442
+
+P0 代表报告无法被视为可靠完成量；P1 代表高度疑似不正确，需要优先人工复核；P2 代表结构或覆盖不足；P3 为轻微缺项或低优先级问题。
+
+## 三、主要问题类型
+
+- P1:low source/report entity overlap：4557
+- P0:no source path declared：946
+- P2:very incomplete V2 structure：810
+- P1:multiple reports declare same source：547
+- P0:duplicate B number：358
+- P1:low-information source graded A：246
+- P0:source unreadable/empty but report generated：173
+- P2:partial V2 structure：79
+- P1:low-information source has overlong report：35
+- P0:tracked report path not materialized in Windows worktree：28
+- P3:minor V2 omissions：19
+- P1:empty/near-empty source graded high：8
+- P1:marked reliable but lacks V2 coverage：1
+
+## 四、优先处理清单
+
+### 1. 没有声明源文件路径的报告
+
+- `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3271-About-Face-Appendix-A-Design-Principles-report.md`
+- `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3272-About-Face-Appendix-B-Bibliography-report.md`
+- `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3273-About-Face-titlepage-report.md`
+- `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3274-About-Face-copyright-report.md`
+- `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3275-About-Face-credits-report.md`
+- `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3276-About-Face-dedication-report.md`
+- `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3277-About-Face-about-the-authors-report.md`
+- `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3278-About-Face-acknowledgments-report.md`
+- `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3279-About-Face-foreword-report.md`
+- `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3280-About-Face-introduction-fourth-edition-report.md`
+- `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3281-About-Face-advertisement-mislabeled-research-fragment-report.md`
+- `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3282-About-Face-eula-mixed-contents-report.md`
+- `00-books-result/Alastair Duncan：《American Art Deco (1986)》，1986/B3284-American-Art-Deco-introduction-report.md`
+- `00-books-result/Alastair Duncan：《American Art Deco (1986)》，1986/B3285-American-Art-Deco-exhibitions-report.md`
+- `00-books-result/Alastair Duncan：《American Art Deco (1986)》，1986/B3286-American-Art-Deco-lighting-clocks-decorative-arts-report.md`
+- `00-books-result/Alastair Duncan：《American Art Deco (1986)》，1986/B3287-American-Art-Deco-architecture-report.md`
+- `00-books-result/Alastair Duncan：《American Art Deco (1986)》，1986/B3288-American-Art-Deco-sculpture-report.md`
+- `00-books-result/Alastair Duncan：《American Art Deco (1986)》，1986/B3289-American-Art-Deco-painting-graphics-report.md`
+- `00-books-result/Alastair Duncan：《American Art Deco (1986)》，1986/B3290-American-Art-Deco-world-fairs-report.md`
+- `00-books-result/Alastair Duncan：《American Art Deco (1986)》，1986/B3291-American-Art-Deco-industrial-design-report.md`
+- `00-books-result/Alexander Lavrentiev：《Alexander Rodchenko Photography 1924-1954》/B3293-Rodchenko-Photography-photo-eye-main-essay-report.md`
+- `00-books-result/Alexander Lavrentiev：《Alexander Rodchenko Photography 1924-1954》/B3294-Rodchenko-Photography-kino-eye-mess-mend-lef-report.md`
+- `00-books-result/Alexander Lavrentiev：《Alexander Rodchenko Photography 1924-1954》/B3295-Rodchenko-Photography-foreshortening-urban-motion-appendix-report.md`
+- `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3296-Brodovitch-Portfolio-cover-fragment-report.md`
+- `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3297-Brodovitch-title-contents-copyright-report.md`
+- `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3298-Brodovitch-introduction-formative-years-report.md`
+- `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3299-Brodovitch-ballets-russes-paris-modernism-report.md`
+- `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3300-Brodovitch-prunier-athelia-commercial-art-report.md`
+- `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3301-Brodovitch-athelia-freelance-networks-report.md`
+- `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3302-Brodovitch-contes-fantastiques-book-illustration-report.md`
+- `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3303-Brodovitch-bauer-type-advertising-report.md`
+- `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3304-Brodovitch-harpers-bazaar-paper-movies-report.md`
+- `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3305-Brodovitch-saks-freelance-bazaar-tensions-report.md`
+- `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3306-Brodovitch-design-lab-photography-ballet-report.md`
+- `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3307-Brodovitch-hobo-signs-portfolio-feature-report.md`
+- `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3308-Brodovitch-robert-osborn-postscript-index-report.md`
+- `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3309-Brodovitch-complete-aggregate-report.md`
+- `00-books-result/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/B0251-digital-fragment-11-report.md`
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0298-quilted-bodies-report.md`
+- `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0299-projecting-subverting-identities-report.md`
+- ……另有 906 项，见 CSV 明细。
+
+### 2. 声明的源文件路径不存在
+
+- 无
+
+### 3. 低信息量源文件却评为 A 类或过度展开
+
+- `00-books-result/A. H. Munsell：《A color notation》/B1270-A-Color-Notation-full-report.md`
+- `00-books-result/A. H. Munsell：《A color notation》/B1272-A-Color-Notation-preface-report.md`
+- `00-books-result/A. H. Munsell：《A color notation》/B1285-Luminous-Reflectances-report.md`
+- `00-books-result/Adam, Peter：Eileen Gray：Architect, Designer, 1987/B1286-Eileen-Gray-Early-Youth-report.md`
+- `00-books-result/Adam, Peter：Eileen Gray：Architect, Designer, 1987/B1287-Eileen-Gray-Student-Years-report.md`
+- `00-books-result/Adam, Peter：Eileen Gray：Architect, Designer, 1987/B1288-Eileen-Gray-Rue-de-Lota-report.md`
+- `00-books-result/Adam, Peter：Eileen Gray：Architect, Designer, 1987/B1289-Eileen-Gray-Toward-Architecture-report.md`
+- `00-books-result/Adam, Peter：Eileen Gray：Architect, Designer, 1987/B1290-Eileen-Gray-Tempe-a-Pailla-report.md`
+- `00-books-result/Adam, Peter：Eileen Gray：Architect, Designer, 1987/B1291-Eileen-Gray-Building-for-Others-report.md`
+- `00-books-result/Adam, Peter：Eileen Gray：Architect, Designer, 1987/B1292-Eileen-Gray-Second-World-War-report.md`
+- `00-books-result/Adam, Peter：Eileen Gray：Architect, Designer, 1987/B1293-Eileen-Gray-Starting-Anew-report.md`
+- `00-books-result/Adam, Peter：Eileen Gray：Architect, Designer, 1987/B1294-Eileen-Gray-Bibliography-report.md`
+- `00-books-result/Adburgham, Alison：《Libertys a biography of a shop》/B1295-Libertys-biography-of-a-shop-report.md`
+- `00-books-result/Ades：《Photomontage》/B1296-Photomontage-overview-report.md`
+- `00-books-result/Ades：《Photomontage》/B1297-Soebenerschienen-report.md`
+- `00-books-result/Ades：《Photomontage》/B1298-Der-Beginn-report.md`
+- `00-books-result/Ades：《Photomontage》/B1299-Dada-Almanach-report.md`
+- `00-books-result/Ades：《Photomontage》/B1300-Durchlicht-zur-Nacht-report.md`
+- `00-books-result/Ades：《Photomontage》/B1302-Private-Eye-Election-report.md`
+- `00-books-result/Ades：《Photomontage》/B1303-Control-report.md`
+- `00-books-result/Ades：《Photomontage》/B1404-Kino-Eye-film-posters-report.md`
+- `00-books-result/Ades：《Photomontage》/B1406-Photomontage-complete-book-report.md`
+- `00-books-result/Adolf Loos：《Ornament and Crime》，2019/B3221-Loos-Ornament-and-Crime-report.md`
+- `00-books-result/Alison J. Clarke (ed.)：《Design Anthropology Object Cultures in Transition》/B3360-Design-Anthropology-introduction-report.md`
+- `00-books-result/Alla Kholmatova：《Design Systems》/B3376-Design-Systems-brand-business-shared-language-report.md`
+- `00-books-result/Alla Kholmatova：《Design Systems》/B3378-Design-Systems-modularity-organization-planning-report.md`
+- `00-books-result/Alla Kholmatova：《Design Systems》/B3380-Design-Systems-aggregate-fullbook-boundary-report.md`
+- `00-books-result/Alla Kholmatova：《Design Systems》/B3393-Design-Systems-principles-functional-perceptual-patterns-report.md`
+- `00-books-result/Alla Kholmatova：《Design Systems》/B3398-Design-Systems-pattern-documentation-maintenance-report.md`
+- `00-books-result/Ami Ayalon：《The Arabic Print Revolution Cultural Production and Mass Readership》/B3404-Arabic-Print-Revolution-preface-report.md`
+- `00-books-result/Ami Ayalon：《The Arabic Print Revolution Cultural Production and Mass Readership》/B3407-Arabic-Print-Revolution-printers-publishers-report.md`
+- `00-books-result/Andrew Feenberg：《Transforming Technology A Critical Theory Revisited》/B3417-Transforming-Technology-frontmatter-introduction-report.md`
+- `00-books-result/Anne Massey：《Interior Design of the 20th Century》，1990/B3431-Interior-Design-full-book-report.md`
+- `00-books-result/Anthony Dunne, Fiona Raby：《Design Noir The Secret Life of Electronic Objects》/B3432-Design-Noir-full-book-report.md`
+- `00-books-result/Anthony Dunne, Fiona Raby：《Speculative Everything Design, Fiction, and Social Dreaming》，2013/B3535-Speculative-Everything-methodological-playground-report.md`
+- `00-books-result/Anthony Dunne, Fiona Raby：《Speculative Everything Design, Fiction, and Social Dreaming》，2013/B3538-Speculative-Everything-between-reality-and-impossible-report.md`
+- `00-books-result/Anthony Dunne：《Hertzian Tales Electronic Products, Aesthetic Experience, and Critical Design》，2005/B3547-Hertzian-Tales-foreword-intro-postoptimal-report.md`
+- `00-books-result/Apollonio：《Futurist manifestos》/B3564-Umberto-BoccioniFuturist-Dynamism-and-French-Painting-1913-report.md`
+- `00-books-result/Armin Hofmann D. Q. Stephenson：《Graphic Design Manual Principles and Practice》/B3581-28-report.md`
+- `00-books-result/Armin Hofmann D. Q. Stephenson：《Graphic Design Manual Principles and Practice》/B3582-DEAREVEBRRE3KIN-report.md`
+- ……另有 206 项，见 CSV 明细。
+
+### 4. 标记“已完成可靠复审”但 V2 覆盖不足
+
+- `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B3524-450-China-Bibliography-Tail-and-Index-A-Duplicate-report.md`
+
+### 5. 源文与报告英文实体重合度过低
+
+- `00-books-result/Adolf Loos：《Ornament and Crime》，2019/B3210-Loos-New-Style-Bronze-Industry-report.md`
+- `00-books-result/Alain Weill：《The Poster A Worldwide Survey and History》，1985/B3261-Weill-Poster-biographical-notes-entries-report.md`
+- `00-books-result/Alain Weill：《The Poster A Worldwide Survey and History》，1985/B3263-Weill-Poster-bibliography-list-of-illustrations-report.md`
+- `00-books-result/Alain Weill：《The Poster A Worldwide Survey and History》，1985/B3265-Weill-Poster-index-A-L-report.md`
+- `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3268-About-Face-Part-I-Goal-Directed-Design-report.md`
+- `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3270-About-Face-Part-III-Interaction-Details-report.md`
+- `00-books-result/Alison Black：《Information Design. Research and practice》/B3341-Information-Design-colour-contrast-WCAG-report.md`
+- `00-books-result/Alison Black：《Information Design. Research and practice》/B3343-Information-Design-evaluation-methods-report.md`
+- `00-books-result/Alison Black：《Information Design. Research and practice》/B3357-Information-Design-medical-legislation-index-report.md`
+- `00-books-result/Alison J. Clarke (ed.)：《Design Anthropology Object Cultures in Transition》/B3361-Design-Anthropology-materials-design-report.md`
+- `00-books-result/Alison J. Clarke (ed.)：《Design Anthropology Object Cultures in Transition》/B3362-Design-Anthropology-objects-sociology-report.md`
+- `00-books-result/Alison J. Clarke (ed.)：《Design Anthropology Object Cultures in Transition》/B3369-Design-Anthropology-functioning-forms-anti-design-report.md`
+- `00-books-result/Alison J. Clarke (ed.)：《Design Anthropology Object Cultures in Transition》/B3371-Design-Anthropology-internet-parliament-pub-report.md`
+- `00-books-result/Ami Ayalon：《The Arabic Print Revolution Cultural Production and Mass Readership》/B3405-Arabic-Print-Revolution-introduction-report.md`
+- `00-books-result/Ami Ayalon：《The Arabic Print Revolution Cultural Production and Mass Readership》/B3410-Arabic-Print-Revolution-advancing-circulation-report.md`
+- `00-books-result/Ami Ayalon：《The Arabic Print Revolution Cultural Production and Mass Readership》/B3411-Arabic-Print-Revolution-reading-readers-report.md`
+- `00-books-result/Ami Ayalon：《The Arabic Print Revolution Cultural Production and Mass Readership》/B3412-Arabic-Print-Revolution-reading-public-report.md`
+- `00-books-result/Andrew Feenberg：《Transforming Technology A Critical Theory Revisited》/B3419-Transforming-Technology-technology-transition-report.md`
+- `00-books-result/Andrew Feenberg：《Transforming Technology A Critical Theory Revisited》/B3422-Transforming-Technology-postindustrial-discourses-report.md`
+- `00-books-result/Andrew Feenberg：《Transforming Technology A Critical Theory Revisited》/B3425-Transforming-Technology-development-report.md`
+- `00-books-result/Anthony Dunne, Fiona Raby：《Speculative Everything Design, Fiction, and Social Dreaming》，2013/B3531-Speculative-Everything-beyond-radical-design-report.md`
+- `00-books-result/Anthony Dunne, Fiona Raby：《Speculative Everything Design, Fiction, and Social Dreaming》，2013/B3532-Speculative-Everything-map-of-unreality-report.md`
+- `00-books-result/Anthony Dunne, Fiona Raby：《Speculative Everything Design, Fiction, and Social Dreaming》，2013/B3534-Speculative-Everything-consuming-monsters-report.md`
+- `00-books-result/Anthony Dunne, Fiona Raby：《Speculative Everything Design, Fiction, and Social Dreaming》，2013/B3536-Speculative-Everything-physical-fictions-report.md`
+- `00-books-result/Anthony Dunne, Fiona Raby：《Speculative Everything Design, Fiction, and Social Dreaming》，2013/B3537-Speculative-Everything-aesthetics-of-unreality-report.md`
+- `00-books-result/Anthony Dunne, Fiona Raby：《Speculative Everything Design, Fiction, and Social Dreaming》，2013/B3539-Speculative-Everything-chapter-9-report.md`
+- `00-books-result/Anthony Dunne：《Hertzian Tales Electronic Products, Aesthetic Experience, and Critical Design》，2005/B3548-Hertzian-Tales-body-core-report.md`
+- `00-books-result/Anthony Dunne：《Speculative Everything Design, Fiction, and Social Dreaming》/B3556-Speculative-Everything-frontmatter-ch1-3-report.md`
+- `00-books-result/Anthony Dunne：《Speculative Everything Design, Fiction, and Social Dreaming》/B3557-Speculative-Everything-ch4-5-report.md`
+- `00-books-result/Appadurai, Arjun (ed.)：The Social Life of Things：Commodities in Cultural Perspective, 1986/B3579-Part-V-Historical-transformations-and-commodity-codes-report.md`
+- `00-books-result/Arthur J. Pulos：《American design ethic a history of industrial design to 1940》/B3601-Elegance-and-theMiddle-Class-report.md`
+- `00-books-result/Aslin, Elizabeth：《The aesthetic movement prelude to Art Nouveau》/B3643-ART-INDUSTRY-report.md`
+- `00-books-result/Attfield：《A View from the interior feminism, women, and design》/B44131987-Sexual-Division-of-Labour-in-theArts-and-Crafts-Movement-report.md`
+- `00-books-result/Attfield：《A View from the interior feminism, women, and design》/B44131988-11The-Arts-and-Crafts-AlternativeLynne-Walker-report.md`
+- `00-books-result/Attfield：《A View from the interior feminism, women, and design》/B44131989-12Women-and-the-Inter-warHandicrafts-Revival-report.md`
+- `00-books-result/Attfield：《A View from the interior feminism, women, and design》/B44131990-13A-View-from-the-InteriorAlison-Ravetz-report.md`
+- `00-books-result/Attfield：《A View from the interior feminism, women, and design》/B44131992-Inside-Pram-Town-A-CaseStudy-of-Harlow-HouseInteriors-1951-report.md`
+- `00-books-result/Batchen：《Burning with desire the conception of photography》/B44131996-PHOTOGRAPHIES-report.md`
+- `00-books-result/Batchen：《Burning with desire the conception of photography》/B44131997-PHOTOGRAPHY-ITSELF-report.md`
+- `00-books-result/Batchen：《Burning with desire the conception of photography》/B44131998-ORIGIN-STORIES-report.md`
+- ……另有 4517 项，见 CSV 明细。
+
+## 五、重复与冲突
+
+### 1. 重复 B 编号示例
+
+- `B0298`：3 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/11-Sex, Birth and Nurture Unto DeathPatching Together Quilted B-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0298-Sex-Birth-Nurture-Quilted-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0298-quilted-bodies-report.md`
+- `B0299`：3 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/12-Projecting andSubverting Identities-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0299-Projecting-Subverting-Identities-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0299-projecting-subverting-identities-report.md`
+- `B0300`：3 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/13-Courtly Cruising and Nineteenth-Century American Men's Roman-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0300-Courtly-Cruising-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0300-courtly-cruising-report.md`
+- `B0301`：3 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/14-The Genteel Craft of Subversion-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0301-Genteel-Craft-Subversion-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0301-genteel-craft-subversion-report.md`
+- `B0302`：3 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/15-Performing Masculinity ThroughObjects in Postwar America-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0302-Performing-Masculinity-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0302-performing-masculinity-report.md`
+- `B0303`：3 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/16-Gender, class and the pipe-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0303-Gender-Class-Pipe-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0303-gender-class-pipe-report.md`
+- `B0304`：3 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/17-Objects andEmbodiment-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0304-Objects-Embodiment-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0304-objects-and-embodiment-report.md`
+- `B0305`：3 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/18-Seduced by the Archive-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0305-Seduced-by-Archive-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0305-archive-affect-report.md`
+- `B0306`：3 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/19-Kitsch, Enchantment and PowerThe Bleeding Statues of Templem-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0306-Kitsch-Enchantment-Power-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0306-kitsch-enchantment-power-report.md`
+- `B0307`：3 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/20-War and national identity-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0307-War-National-Identity-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0307-war-national-identity-report.md`
+- `B0308`：3 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/21-'Magic Toyshops'-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0308-Magic-Toyshops-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0308-magic-toyshops-report.md`
+- `B0309`：3 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/22-Mediating Relationships-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0309-Mediating-Relationships-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0309-mediating-relationships-report.md`
+- `B0310`：3 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/23-Material Memories-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0310-Material-Memories-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0310-material-memories-report.md`
+- `B0311`：3 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/24-The Problematic Decision to LiveIrish-Romanian Home-Making a-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0311-Irish-Romanian-Home-Making-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0311-irish-romanian-home-making-report.md`
+- `B0312`：3 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/25-Designing Meaningful and LastingUser Experiences-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0312-Meaningful-Lasting-User-Experiences-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0312-meaningful-lasting-experiences-report.md`
+- `B0313`：3 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/26-Ecological destruction-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0313-Ecological-Destruction-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0313-ecological-destruction-report.md`
+- `B0314`：3 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/27-BIBLIOGRAPHY-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0314-Bibliography-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0314-bibliography-report.md`
+- `B0315`：3 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/28-3 Sex, Birth and Nurture Unto Death-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0315-Sex-Birth-Nurture-repeat-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0315-section-sex-birth-nurture-report.md`
+- `B0316`：3 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/29-6 Performing Masculinity Through Objects inPostwar America-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0316-Performing-Masculinity-repeat-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0316-section-performing-masculinity-report.md`
+- `B0317`：3 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0317-Love-Objects-full-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0317-love-objects-full-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor-report.md`
+
+### 2. 同一源文件对应多个报告示例
+
+- `00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/12-INTRODUCTION.md`：13 个报告
+  - `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0464-Guide-Further-Reading-final-report.md`
+  - `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0467-Guide-Further-Reading-01-report.md`
+  - `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0469-Science-Industry-Art-report.md`
+  - `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0475-Guide-Further-Reading-02-report.md`
+  - `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0482-Guide-Further-Reading-03-report.md`
+- `00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/11-GUIDE TO FURTHER READING.md`：12 个报告
+  - `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0464-Guide-Further-Reading-final-report.md`
+  - `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0467-Guide-Further-Reading-01-report.md`
+  - `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0475-Guide-Further-Reading-02-report.md`
+  - `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0482-Guide-Further-Reading-03-report.md`
+  - `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0488-Guide-Further-Reading-04-report.md`
+- `00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/102-CONTRIBUTORS.md`：12 个报告
+  - `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0464-Guide-Further-Reading-final-report.md`
+  - `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0467-Guide-Further-Reading-01-report.md`
+  - `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0475-Guide-Further-Reading-02-report.md`
+  - `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0482-Guide-Further-Reading-03-report.md`
+  - `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0488-Guide-Further-Reading-04-report.md`
+- `00-books/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/02-PIONEERS OFMODERN DESIGN.md`：5 个报告
+  - `00-books-result/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/02-PIONEERS OFMODERN DESIGN-report.md`
+  - `00-books-result/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/B0361-Pioneers-Modern-Design-01-report.md`
+  - `00-books-result/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/B0361-pioneers-modern-design-report.md`
+  - `00-books-result/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/B0362-Pioneers-Modern-Design-02-report.md`
+  - `00-books-result/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/B0363-foreword-first-edition-report.md`
+- `00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/21-'Magic Toyshops'.md`：4 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/21-'Magic Toyshops'-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0307-war-national-identity-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0308-magic-toyshops-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0309-mediating-relationships-report.md`
+- `00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/22-Mediating Relationships.md`：4 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/22-Mediating Relationships-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0308-magic-toyshops-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0309-mediating-relationships-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0310-material-memories-report.md`
+- `00-books/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/01-Pioneers of Modern Design.md`：4 个报告
+  - `00-books-result/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/01-Pioneers of Modern Design-report.md`
+  - `00-books-result/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/B0361-Pioneers-Modern-Design-01-report.md`
+  - `00-books-result/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/B0361-pioneers-modern-design-report.md`
+  - `00-books-result/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/B0362-Pioneers-Modern-Design-02-report.md`
+- `00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/18-REYNOLDS'S MISCELLANY.md`：4 个报告
+  - `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0777-Reynolds-Miscellany-01-report.md`
+  - `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0778-Reynolds-Miscellany-02-report.md`
+  - `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0779-Reynolds-Miscellany-03-report.md`
+  - `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0784-Reynolds-Miscellany-04-report.md`
+- `00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/17-The Business of ImageryThe Second Generation ofPictorial Mag.md`：4 个报告
+  - `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0777-Reynolds-Miscellany-01-report.md`
+  - `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0778-Reynolds-Miscellany-02-report.md`
+  - `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0779-Reynolds-Miscellany-03-report.md`
+  - `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0784-Reynolds-Miscellany-04-report.md`
+- `00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/19-REYNOLDS'S MISCELLANY.md`：4 个报告
+  - `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0777-Reynolds-Miscellany-01-report.md`
+  - `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0778-Reynolds-Miscellany-02-report.md`
+  - `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0779-Reynolds-Miscellany-03-report.md`
+  - `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0784-Reynolds-Miscellany-04-report.md`
+- `00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/03-LIST OF ILLUSTRATIONS.md`：3 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/03-LIST OF ILLUSTRATIONS-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0321-Notes-on-Contributors-OCR-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0321-notes-on-contributors-report.md`
+- `00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/04-NOTES ON CONTRIBUTORS.md`：3 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/04-NOTES ON CONTRIBUTORS-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0321-Notes-on-Contributors-OCR-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0321-notes-on-contributors-report.md`
+- `00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/15-Performing Masculinity ThroughObjects in Postwar America.md`：3 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/15-Performing Masculinity ThroughObjects in Postwar America-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0301-genteel-craft-subversion-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0303-gender-class-pipe-report.md`
+- `00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/17-Objects andEmbodiment.md`：3 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/17-Objects andEmbodiment-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0303-gender-class-pipe-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0305-Seduced-by-Archive-report.md`
+- `00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/19-Kitsch, Enchantment and PowerThe Bleeding Statues of Templem.md`：3 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/19-Kitsch, Enchantment and PowerThe Bleeding Statues of Templem-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0305-Seduced-by-Archive-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0307-war-national-identity-report.md`
+- `00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/20-War and national identity.md`：3 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/20-War and national identity-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0307-war-national-identity-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0308-magic-toyshops-report.md`
+- `00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/23-Material Memories.md`：3 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/23-Material Memories-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0309-mediating-relationships-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0310-material-memories-report.md`
+- `00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/26-Ecological destruction.md`：3 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/26-Ecological destruction-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0313-ecological-destruction-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0314-bibliography-report.md`
+- `00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/27-BIBLIOGRAPHY.md`：3 个报告
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/27-BIBLIOGRAPHY-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0313-ecological-destruction-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0314-bibliography-report.md`
+- `00-books/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/03-Foreword to the First Edition.md`：3 个报告
+  - `00-books-result/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/03-Foreword to the First Edition-report.md`
+  - `00-books-result/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/B0363-foreword-first-edition-report.md`
+  - `00-books-result/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/B0364-foreword-second-edition-report.md`
+
+### 3. 大小写路径冲突示例
+
+- 2 个路径在 Windows 上冲突：
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0299-Projecting-Subverting-Identities-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0299-projecting-subverting-identities-report.md`
+- 2 个路径在 Windows 上冲突：
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0300-Courtly-Cruising-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0300-courtly-cruising-report.md`
+- 2 个路径在 Windows 上冲突：
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0301-Genteel-Craft-Subversion-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0301-genteel-craft-subversion-report.md`
+- 2 个路径在 Windows 上冲突：
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0302-Performing-Masculinity-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0302-performing-masculinity-report.md`
+- 2 个路径在 Windows 上冲突：
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0303-Gender-Class-Pipe-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0303-gender-class-pipe-report.md`
+- 2 个路径在 Windows 上冲突：
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0306-Kitsch-Enchantment-Power-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0306-kitsch-enchantment-power-report.md`
+- 2 个路径在 Windows 上冲突：
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0307-War-National-Identity-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0307-war-national-identity-report.md`
+- 2 个路径在 Windows 上冲突：
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0308-Magic-Toyshops-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0308-magic-toyshops-report.md`
+- 2 个路径在 Windows 上冲突：
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0309-Mediating-Relationships-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0309-mediating-relationships-report.md`
+- 2 个路径在 Windows 上冲突：
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0310-Material-Memories-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0310-material-memories-report.md`
+- 2 个路径在 Windows 上冲突：
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0311-Irish-Romanian-Home-Making-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0311-irish-romanian-home-making-report.md`
+- 2 个路径在 Windows 上冲突：
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0313-Ecological-Destruction-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0313-ecological-destruction-report.md`
+- 2 个路径在 Windows 上冲突：
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0314-Bibliography-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0314-bibliography-report.md`
+- 2 个路径在 Windows 上冲突：
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0317-Love-Objects-full-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0317-love-objects-full-report.md`
+- 2 个路径在 Windows 上冲突：
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0322-Fran-Carter-preface-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0322-fran-carter-preface-report.md`
+- 2 个路径在 Windows 上冲突：
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0323-Forgetting-Keeping-Giving-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0323-forgetting-keeping-giving-report.md`
+- 2 个路径在 Windows 上冲突：
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0332-Playboy-Bachelor-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0332-playboy-bachelor-report.md`
+- 2 个路径在 Windows 上冲突：
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0336-Life-in-Archive-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0336-life-in-archive-report.md`
+- 2 个路径在 Windows 上冲突：
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0340-Saint-Sulpice-Kitsch-report.md`
+  - `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0340-saint-sulpice-kitsch-report.md`
+- 2 个路径在 Windows 上冲突：
+  - `00-books-result/MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World/B0354-Mindell-full-report.md`
+  - `00-books-result/MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World/B0354-mindell-full-report.md`
+
+## 六、高风险报告样本
+
+- **P0** `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3271-About-Face-Appendix-A-Design-Principles-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3272-About-Face-Appendix-B-Bibliography-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3273-About-Face-titlepage-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：低信息量辅助文件 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3274-About-Face-copyright-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3275-About-Face-credits-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：低信息量辅助文件 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3276-About-Face-dedication-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：低信息量辅助文件 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3277-About-Face-about-the-authors-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3278-About-Face-acknowledgments-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3279-About-Face-foreword-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3280-About-Face-introduction-fourth-edition-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3281-About-Face-advertisement-mislabeled-research-fragment-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3282-About-Face-eula-mixed-contents-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：未标明 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alastair Duncan：《American Art Deco (1986)》，1986/B3284-American-Art-Deco-introduction-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：11/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alastair Duncan：《American Art Deco (1986)》，1986/B3285-American-Art-Deco-exhibitions-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alastair Duncan：《American Art Deco (1986)》，1986/B3286-American-Art-Deco-lighting-clocks-decorative-arts-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alastair Duncan：《American Art Deco (1986)》，1986/B3287-American-Art-Deco-architecture-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alastair Duncan：《American Art Deco (1986)》，1986/B3288-American-Art-Deco-sculpture-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alastair Duncan：《American Art Deco (1986)》，1986/B3289-American-Art-Deco-painting-graphics-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alastair Duncan：《American Art Deco (1986)》，1986/B3290-American-Art-Deco-world-fairs-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alastair Duncan：《American Art Deco (1986)》，1986/B3291-American-Art-Deco-industrial-design-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alexander Lavrentiev：《Alexander Rodchenko Photography 1924-1954》/B3293-Rodchenko-Photography-photo-eye-main-essay-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alexander Lavrentiev：《Alexander Rodchenko Photography 1924-1954》/B3294-Rodchenko-Photography-kino-eye-mess-mend-lef-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alexander Lavrentiev：《Alexander Rodchenko Photography 1924-1954》/B3295-Rodchenko-Photography-foreshortening-urban-motion-appendix-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3296-Brodovitch-Portfolio-cover-fragment-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：低信息量辅助文件 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3297-Brodovitch-title-contents-copyright-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3298-Brodovitch-introduction-formative-years-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3299-Brodovitch-ballets-russes-paris-modernism-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3300-Brodovitch-prunier-athelia-commercial-art-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3301-Brodovitch-athelia-freelance-networks-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3302-Brodovitch-contes-fantastiques-book-illustration-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：11/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3303-Brodovitch-bauer-type-advertising-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3304-Brodovitch-harpers-bazaar-paper-movies-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：11/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3305-Brodovitch-saks-freelance-bazaar-tensions-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3306-Brodovitch-design-lab-photography-ballet-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3307-Brodovitch-hobo-signs-portfolio-feature-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3308-Brodovitch-robert-osborn-postscript-index-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/B3309-Brodovitch-complete-aggregate-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：已完成可靠复审 / 未标明；V2 覆盖：10/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Charles, Victoria：Neoclassicism, 2019/B44132189-Cover-Page-report.md`
+  - 源文件：`00-books/Charles, Victoria：Neoclassicism, 2019/01-Cover Page.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / C；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Craig Clunas：《Superfluous Things Material Culture and Social Status in Early Modern China》/B44132673-CWZ_页面_129-report.md`
+  - 源文件：`00-books/Craig Clunas：《Superfluous Things Material Culture and Social Status in Early Modern China》/129-CWZ_页面_129.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Craig Clunas：《Superfluous Things Material Culture and Social Status in Early Modern China》/B44132676-CWZ_页面_131-report.md`
+  - 源文件：`00-books/Craig Clunas：《Superfluous Things Material Culture and Social Status in Early Modern China》/131-CWZ_页面_131.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44132946-00000503-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/02-00000503.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44132948-00000505-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/04-00000505.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44132952-00000509-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/08-00000509.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44132955-00000601-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/100-00000601.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44132957-00000603-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/102-00000603.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44132961-00000607-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/106-00000607.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44132970-00000615-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/114-00000615.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44132976-00000513-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/12-00000513.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44132984-00000628-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/127-00000628.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133020-00000517-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/16-00000517.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133025-00000665-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/164-00000665.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133042-00000519-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/18-00000519.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133059-00000696-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/195-00000696.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133064-00000521-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/20-00000521.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133066-00000523-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/22-00000523.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133072-00000529-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/28-00000529.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133076-00000533-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/32-00000533.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133078-00000535-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/34-00000535.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133080-00000537-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/36-00000537.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133082-00000539-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/38-00000539.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133084-00000541-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/40-00000541.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133086-00000543-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/42-00000543.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133094-00000551-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/50-00000551.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133098-00000555-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/54-00000555.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133100-00000557-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/56-00000557.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133104-00000561-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/60-00000561.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133106-00000563-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/62-00000563.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133108-00000565-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/64-00000565.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133112-00000569-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/68-00000569.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133116-00000573-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/72-00000573.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133118-00000575-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/74-00000575.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133122-00000579-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/78-00000579.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133124-00000581-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/80-00000581.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133126-00000583-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/82-00000583.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133130-00000587-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/86-00000587.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133132-00000589-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/88-00000589.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133134-00000591-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/90-00000591.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133140-00000597-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/96-00000597.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/B44133142-00000599-tif-report.md`
+  - 源文件：`00-books/Daniel Berkeley Updike：《Printing Types Their History, Forms, and Use》/98-00000599.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Digital Design Theory_ Readings from the Field (Design -- Armstrong, Helen -- De/B0251-digital-fragment-11-report.md`
+  - 源文件：`未声明`
+  - 状态/等级：未标明 / B；V2 覆盖：4/12；实体重合：NA
+  - 问题：P0:no source path declared
+- **P0** `00-books-result/Donald A. Norman：《The Design of Everyday Things》/B44133682-Image-0004-tif-report.md`
+  - 源文件：`00-books/Donald A. Norman：《The Design of Everyday Things》/04-Image 0004.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Donald A. Norman：《The Design of Everyday Things》/B44133732-Image-0014-tif-report.md`
+  - 源文件：`00-books/Donald A. Norman：《The Design of Everyday Things》/14-Image 0014.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Donald A. Norman：《The Design of Everyday Things》/B44133834-Image-0232-tif-report.md`
+  - 源文件：`00-books/Donald A. Norman：《The Design of Everyday Things》/232-Image 0232.tif.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Edward R. Tufte：《The Visual Display of Quantitative Information》，1983/B44134113-img014-jpg-report.md`
+  - 源文件：`00-books/Edward R. Tufte：《The Visual Display of Quantitative Information》，1983/14-img014.jpg.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Edward R. Tufte：《The Visual Display of Quantitative Information》，1983/B44134124-img015-jpg-report.md`
+  - 源文件：`00-books/Edward R. Tufte：《The Visual Display of Quantitative Information》，1983/15-img015.jpg.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Edward R. Tufte：《The Visual Display of Quantitative Information》，1983/B44134125-img150-jpg-report.md`
+  - 源文件：`00-books/Edward R. Tufte：《The Visual Display of Quantitative Information》，1983/150-img150.jpg.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Edward R. Tufte：《The Visual Display of Quantitative Information》，1983/B44134131-img156-jpg-report.md`
+  - 源文件：`00-books/Edward R. Tufte：《The Visual Display of Quantitative Information》，1983/156-img156.jpg.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Edward R. Tufte：《The Visual Display of Quantitative Information》，1983/B44134135-img016-jpg-report.md`
+  - 源文件：`00-books/Edward R. Tufte：《The Visual Display of Quantitative Information》，1983/16-img016.jpg.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Edward R. Tufte：《The Visual Display of Quantitative Information》，1983/B44134175-img024-jpg-report.md`
+  - 源文件：`00-books/Edward R. Tufte：《The Visual Display of Quantitative Information》，1983/24-img024.jpg.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/John Thackara：《In the Bubble Designing in a Complex World》，2005/B44136065-Page_ii-pdf-report.md`
+  - 源文件：`00-books/John Thackara：《In the Bubble Designing in a Complex World》，2005/03-Page_ii.pdf.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/John Thackara：《In the Bubble Designing in a Complex World》，2005/B44136069-Page_vi-pdf-report.md`
+  - 源文件：`00-books/John Thackara：《In the Bubble Designing in a Complex World》，2005/07-Page_vi.pdf.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/John Thackara：《In the Bubble Designing in a Complex World》，2005/B44136083-Page_x-pdf-report.md`
+  - 源文件：`00-books/John Thackara：《In the Bubble Designing in a Complex World》，2005/11-Page_x.pdf.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/John Thackara：《In the Bubble Designing in a Complex World》，2005/B44136098-Page_112-pdf-report.md`
+  - 源文件：`00-books/John Thackara：《In the Bubble Designing in a Complex World》，2005/123-Page_112.pdf.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/John Thackara：《In the Bubble Designing in a Complex World》，2005/B44136151-Page_160-pdf-report.md`
+  - 源文件：`00-books/John Thackara：《In the Bubble Designing in a Complex World》，2005/171-Page_160.pdf.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/John Thackara：《In the Bubble Designing in a Complex World》，2005/B44136206-Page_210-pdf-report.md`
+  - 源文件：`00-books/John Thackara：《In the Bubble Designing in a Complex World》，2005/221-Page_210.pdf.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/John Thackara：《In the Bubble Designing in a Complex World》，2005/B44136285-Page_282-pdf-report.md`
+  - 源文件：`00-books/John Thackara：《In the Bubble Designing in a Complex World》，2005/293-Page_282.pdf.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/John Thackara：《In the Bubble Designing in a Complex World》，2005/B44136300-Page_296-pdf-report.md`
+  - 源文件：`00-books/John Thackara：《In the Bubble Designing in a Complex World》，2005/307-Page_296.pdf.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/John Thackara：《In the Bubble Designing in a Complex World》，2005/B44136329-Page_322-pdf-report.md`
+  - 源文件：`00-books/John Thackara：《In the Bubble Designing in a Complex World》，2005/333-Page_322.pdf.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/John Thackara：《In the Bubble Designing in a Complex World》，2005/B44136335-Page_28-pdf-report.md`
+  - 源文件：`00-books/John Thackara：《In the Bubble Designing in a Complex World》，2005/39-Page_28.pdf.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Kenya Hara：《Designing Design》，2007/B44136898-185-report.md`
+  - 源文件：`00-books/Kenya Hara：《Designing Design》，2007/189-185.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Kenya Hara：《Designing Design》，2007/B44136900-186-report.md`
+  - 源文件：`00-books/Kenya Hara：《Designing Design》，2007/190-186.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Kenya Hara：《Designing Design》，2007/B44136901-187-report.md`
+  - 源文件：`00-books/Kenya Hara：《Designing Design》，2007/191-187.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Kenya Hara：《Designing Design》，2007/B44136908-194-report.md`
+  - 源文件：`00-books/Kenya Hara：《Designing Design》，2007/198-194.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Kenya Hara：《Designing Design》，2007/B44136910-16-report.md`
+  - 源文件：`00-books/Kenya Hara：《Designing Design》，2007/20-16.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated；P1:multiple reports declare same source
+- **P0** `00-books-result/Kenya Hara：《Designing Design》，2007/B44136912-197-report.md`
+  - 源文件：`00-books/Kenya Hara：《Designing Design》，2007/201-197.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Kenya Hara：《Designing Design》，2007/B44136925-209-report.md`
+  - 源文件：`00-books/Kenya Hara：《Designing Design》，2007/213-209.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Kenya Hara：《Designing Design》，2007/B44136926-210-report.md`
+  - 源文件：`00-books/Kenya Hara：《Designing Design》，2007/214-210.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Kenya Hara：《Designing Design》，2007/B44136932-18-report.md`
+  - 源文件：`00-books/Kenya Hara：《Designing Design》，2007/22-18.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated；P1:multiple reports declare same source
+- **P0** `00-books-result/Kenya Hara：《Designing Design》，2007/B44136940-223-report.md`
+  - 源文件：`00-books/Kenya Hara：《Designing Design》，2007/227-223.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Kenya Hara：《Designing Design》，2007/B44136941-224-report.md`
+  - 源文件：`00-books/Kenya Hara：《Designing Design》，2007/228-224.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Kenya Hara：《Designing Design》，2007/B44136942-225-report.md`
+  - 源文件：`00-books/Kenya Hara：《Designing Design》，2007/229-225.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Kenya Hara：《Designing Design》，2007/B44136944-226-report.md`
+  - 源文件：`00-books/Kenya Hara：《Designing Design》，2007/230-226.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Kenya Hara：《Designing Design》，2007/B44136954-20-report.md`
+  - 源文件：`00-books/Kenya Hara：《Designing Design》，2007/24-20.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated；P1:multiple reports declare same source
+- **P0** `00-books-result/Kenya Hara：《Designing Design》，2007/B44136967-247-report.md`
+  - 源文件：`00-books/Kenya Hara：《Designing Design》，2007/251-247.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Kenya Hara：《Designing Design》，2007/B44136968-248-report.md`
+  - 源文件：`00-books/Kenya Hara：《Designing Design》，2007/252-248.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Kenya Hara：《Designing Design》，2007/B44136969-249-report.md`
+  - 源文件：`00-books/Kenya Hara：《Designing Design》，2007/253-249.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Kenya Hara：《Designing Design》，2007/B44136970-250-report.md`
+  - 源文件：`00-books/Kenya Hara：《Designing Design》，2007/254-250.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Kenya Hara：《Designing Design》，2007/B44136972-252-report.md`
+  - 源文件：`00-books/Kenya Hara：《Designing Design》，2007/256-252.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Kenya Hara：《Designing Design》，2007/B44136978-257-report.md`
+  - 源文件：`00-books/Kenya Hara：《Designing Design》，2007/261-257.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+- **P0** `00-books-result/Kenya Hara：《Designing Design》，2007/B44136981-260-report.md`
+  - 源文件：`00-books/Kenya Hara：《Designing Design》，2007/264-260.md`
+  - 状态/等级：已生成，待二次复审；待二次复审 / D；V2 覆盖：12/12；实体重合：NA
+  - 问题：P0:source unreadable/empty but report generated
+
+## 七、源文件未覆盖示例
+
+- `00-books/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/04-Appendix A Design Principles.md`
+- `00-books/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/05-Appendix B Bibliography.md`
+- `00-books/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/06-Titlepage.md`
+- `00-books/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/07-Copyright.md`
+- `00-books/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/08-Credits.md`
+- `00-books/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/09-Dedication.md`
+- `00-books/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/10-About the Authors.md`
+- `00-books/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/11-Acknowledgments.md`
+- `00-books/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/12-Foreword.md`
+- `00-books/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/13-Introduction to the Fourth Edition.md`
+- `00-books/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/14-Advertisement.md`
+- `00-books/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/15-End-User License Agreement.md`
+- `00-books/Alastair Duncan：《American Art Deco (1986)》，1986/02-INTRODUCTION.md`
+- `00-books/Alastair Duncan：《American Art Deco (1986)》，1986/03-EXHIBITIONS.md`
+- `00-books/Alastair Duncan：《American Art Deco (1986)》，1986/04-LIGHTINGAND CLOCKS.md`
+- `00-books/Alastair Duncan：《American Art Deco (1986)》，1986/05-ARCHITECTURE.md`
+- `00-books/Alastair Duncan：《American Art Deco (1986)》，1986/06-SCULPTURE.md`
+- `00-books/Alastair Duncan：《American Art Deco (1986)》，1986/07-PAINTINGAND GRAPHICS.md`
+- `00-books/Alastair Duncan：《American Art Deco (1986)》，1986/08-WORLDFAIRS.md`
+- `00-books/Alastair Duncan：《American Art Deco (1986)》，1986/09-INDUSTRIAL DESIGN.md`
+- `00-books/Alexander Lavrentiev：《Alexander Rodchenko Photography 1924-1954》/02-The Photo-EyeDas Photo-AugeL'œil de l’appareil.md`
+- `00-books/Alexander Lavrentiev：《Alexander Rodchenko Photography 1924-1954》/03-PA6OTABEPTOBA.md`
+- `00-books/Alexander Lavrentiev：《Alexander Rodchenko Photography 1924-1954》/04-HOBIsea.md`
+- `00-books/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/01-PORTFOLIO.md`
+- `00-books/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/02-AlexeyBrodovitch.md`
+- `00-books/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/03-AlexeyBrodovitch.md`
+- `00-books/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/04-BALLETS RUSSES.md`
+- `00-books/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/05-SMEUNI.md`
+- `00-books/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/06-ATHELIA.md`
+- `00-books/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/07-CONTESFANTASTIQUES.md`
+- `00-books/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/08-BAUERBeton,a creation of Bauer's chief designer, Heinrich Jo.md`
+- `00-books/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/09-BAZAAR.md`
+- `00-books/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/10-aksFifthue工.md`
+- `00-books/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/11-TAXI.md`
+- `00-books/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/12-HOBOSIGNS.md`
+- `00-books/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/13-ROBERT OSBORN.md`
+- `00-books/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha/Alexey Brodovitch：《Kerry William Purcell; Alexey Brodovitch -- 2002, 2002 -- Pha.md`
+- `00-books/Anthony Dunne：《Hertzian Tales Electronic Products, Aesthetic Experience, and Critical Design》，2005/Anthony Dunne：《Hertzian Tales Electronic Products, Aesthetic Experience, and Critical Design》，2005.md`
+- `00-books/Anthony Dunne：《Speculative Everything Design, Fiction, and Social Dreaming》/Anthony Dunne：《Speculative Everything Design, Fiction, and Social Dreaming》.md`
+- `00-books/Apollonio：《Futurist manifestos》/Apollonio：《Futurist manifestos》.md`
+- `00-books/Armin Hofmann D. Q. Stephenson：《Graphic Design Manual Principles and Practice》/Armin Hofmann D. Q. Stephenson：《Graphic Design Manual Principles and Practice》.md`
+- `00-books/Arturo Escobar：《Designs for the Pluriverse，2018》/Arturo Escobar：《Designs for the Pluriverse，2018》.md`
+- `00-books/Arwas：《Art deco》/Arwas：《Art deco》.md`
+- `00-books/Attfield：《A View from the interior feminism, women, and design》/Attfield：《A View from the interior feminism, women, and design》.md`
+- `00-books/Batchen：《Burning with desire the conception of photography》/Batchen：《Burning with desire the conception of photography》.md`
+- `00-books/Beaumont Newhall：《The History of Photography》/Beaumont Newhall：《The History of Photography》.md`
+- `00-books/Ben Shneiderman：《Human-Centered AI》/Ben Shneiderman：《Human-Centered AI》.md`
+- `00-books/Bernard Tschumi：《Architecture and disjunction》/Bernard Tschumi：《Architecture and disjunction》.md`
+- `00-books/Between Wit and Reason_ Defining Associative, Speculative, -- Malpass, Matt（Cent/Between Wit and Reason_ Defining Associative, Speculative, -- Malpass, Matt（Cent.md`
+- `00-books/Bijker, Wiebe E.：《OF BICYCLES BAKELITES AND BULBS》/Bijker, Wiebe E.：《OF BICYCLES BAKELITES AND BULBS》.md`
+- `00-books/Bill Moggridge：《Designing Interactions》，2007/Bill Moggridge：《Designing Interactions》，2007.md`
+- `00-books/Bipan Chandra：《The rise and growth of economic nationalism in India economic pol/Bipan Chandra：《The rise and growth of economic nationalism in India economic pol.md`
+- `00-books/Brad Frost：《Atomic Design》/Brad Frost：《Atomic Design》.md`
+- `00-books/By Edgar Kaufmann：《Introduction To Modern Design》/By Edgar Kaufmann：《Introduction To Modern Design》.md`
+- `00-books/CROSS, NIGEL. From a Design Science to a Design Discipline Understanding Designe/01-Designerly Ways ofKnowing.md`
+- `00-books/Cairo：《The functional art an introduction to information graphics and visualization》/Cairo：《The functional art an introduction to information graphics and visualization》.md`
+- `00-books/Calhoun：《Critical social theory culture, history, and the challenge of difference》/Calhoun：《Critical social theory culture, history, and the challenge of difference》.md`
+- `00-books/Carl DiSalvo：《Adversarial Design》/Carl DiSalvo：《Adversarial Design》.md`
+- `00-books/Chermayeff：《Identify. Basic Principles of Identity Design in the Iconic Trademar/Chermayeff：《Identify. Basic Principles of Identity Design in the Iconic Trademar.md`
+- `00-books/Chris Calori：《Signage and Wayfinding Design A Complete Guide to Creating Environ/Chris Calori：《Signage and Wayfinding Design A Complete Guide to Creating Environ.md`
+- `00-books/Christopher A. Reed：《Gutenberg in Shanghai Chinese Print Capitalism, 1876-1937》/Christopher A. Reed：《Gutenberg in Shanghai Chinese Print Capitalism, 1876-1937》.md`
+- `00-books/Christopher Burke：《Isotype Design and Contexts, 1925-1971》/Christopher Burke：《Isotype Design and Contexts, 1925-1971》.md`
+- `00-books/Christopher Pinney：《Camera Indica The Social Life of Indian Photographs》/Christopher Pinney：《Camera Indica The Social Life of Indian Photographs》.md`
+- `00-books/Clive Dilnot：《A John Heskett Reader Design, History, Economics》/Clive Dilnot：《A John Heskett Reader Design, History, Economics》.md`
+- `00-books/Cole Nussbaumer Knaflic：《Storytelling with Data》/Cole Nussbaumer Knaflic：《Storytelling with Data》.md`
+- `00-books/Criticality：《and Its Discontents》/Criticality：《and Its Discontents》.md`
+- `00-books/David Crowley：《Warsaw》/David Crowley：《Warsaw》.md`
+- `00-books/David Raizman：《History of Modern Design》/David Raizman：《History of Modern Design》.md`
+- `00-books/Deposit Insurance around the World： Issues of Design and -- AslÄ± DemirgÃ1⁄4Ã§-K/Deposit Insurance around the World： Issues of Design and -- AslÄ± DemirgÃ1⁄4Ã§-K.md`
+- `00-books/Design History and Culture ： Methods and Approaches -- Javier Gimeno-Martínez --/01-DESIGNHISTORY ANDCULTURE.md`
+- `00-books/Design History and Culture ： Methods and Approaches -- Javier Gimeno-Martínez --/Design History and Culture ： Methods and Approaches -- Javier Gimeno-Martínez --.md`
+- `00-books/Design Research： Methods and Perspectives (The MIT Press) -- Laurel, Brenda -- C/Design Research： Methods and Perspectives (The MIT Press) -- Laurel, Brenda -- C.md`
+- `00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/04-5 The intellectual force of Heskett’s text.md`
+- `00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/05-A note on John Heskett’s economics 2 On growth the.md`
+- `00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/21-3 The question of ‘value’.md`
+- `00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/30-Cameron Weber A note on John Heskett’s economics S.md`
+- `00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --_01_cover_封面_扉页.md`
+- `00-books/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --/Design and the Creation of Value -- John Heskett; Clive Dilnot; Suzan Boztepe --_06_preface_A_note_on_John_Heskett’s_econo.md`
+- `00-books/Design futuring ： sustainability, ethics, and new practice -- Tony Fry -- 1, Lon/Design futuring ： sustainability, ethics, and new practice -- Tony Fry -- 1, Lon.md`
+- `00-books/Design, Empathy, Interpretation： Toward Interpretive Design -- Koskinen, Ilpo_ -/Design, Empathy, Interpretation： Toward Interpretive Design -- Koskinen, Ilpo_ -.md`
+- ……另有 982 项，见 CSV 明细。
+
+## 八、复审建议
+
+1. 先处理 P0：无源路径、源路径不存在、空源文过度报告、重复 B 编号和大小写冲突。这些不能计入可靠完成量。
+2. 再处理 P1：低信息量文件 A 类化、可靠复审但缺 V2 核心章节、源文与报告实体重合度过低。这一类最可能是“根据文件名/旧报告扩写”的错误。
+3. 对低信息量源文件，按规则降级为 C/D/E，并明确只能作为版本、目录、图像、索引或合读线索。
+4. 对重复切片、整书合并文件和章节拆分文件，建立“可计入可靠完成量”的唯一映射，避免重复计数。
+5. 修订报告时每篇必须回填源文件完整路径、文件类型、文本完整性、相邻文件关系、证据边界、可引用/不可确认内容和复审结论。
+
+完整明细见 `00-books-result-audit-details.csv`。

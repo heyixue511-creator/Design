@@ -1,0 +1,251 @@
+# 00-books-result Git blob 读取错误修复报告
+
+- 执行模式：write
+- 扫描到待修复报告：12521
+- `rewritten`：12433
+- `rewritten_empty_source_boundary`：88
+- 修复后仍含错误标记的报告：0
+- 明细日志：`outputs/00-books-result修复GitBlob读取错误日志.csv`
+
+## 样本
+
+- **rewritten** `00-books-result/Attfield：《A View from the interior feminism, women, and design》/B44131987-Sexual-Division-of-Labour-in-theArts-and-Crafts-Movement-report.md`
+  - 源文：`00-books/Attfield：《A View from the interior feminism, women, and design》/12-Sexual Division of Labour in theArts and Crafts Movement.md`；源文字数：35380
+- **rewritten** `00-books-result/Attfield：《A View from the interior feminism, women, and design》/B44131988-11The-Arts-and-Crafts-AlternativeLynne-Walker-report.md`
+  - 源文：`00-books/Attfield：《A View from the interior feminism, women, and design》/13-11The Arts and Crafts AlternativeLynne Walker.md`；源文字数：22401
+- **rewritten** `00-books-result/Attfield：《A View from the interior feminism, women, and design》/B44131989-12Women-and-the-Inter-warHandicrafts-Revival-report.md`
+  - 源文：`00-books/Attfield：《A View from the interior feminism, women, and design》/14-12Women and the Inter-warHandicrafts Revival.md`；源文字数：26726
+- **rewritten** `00-books-result/Attfield：《A View from the interior feminism, women, and design》/B44131990-13A-View-from-the-InteriorAlison-Ravetz-report.md`
+  - 源文：`00-books/Attfield：《A View from the interior feminism, women, and design》/15-13A View from the InteriorAlison Ravetz.md`；源文字数：50729
+- **rewritten** `00-books-result/Attfield：《A View from the interior feminism, women, and design》/B44131991-14The-Designer-Housewife-in-the1950s-report.md`
+  - 源文：`00-books/Attfield：《A View from the interior feminism, women, and design》/16-14The Designer Housewife in the1950s.md`；源文字数：23246
+- **rewritten** `00-books-result/Attfield：《A View from the interior feminism, women, and design》/B44131992-Inside-Pram-Town-A-CaseStudy-of-Harlow-HouseInteriors-1951-report.md`
+  - 源文：`00-books/Attfield：《A View from the interior feminism, women, and design》/17-Inside Pram Town A CaseStudy of Harlow HouseInteriors, 1951–.md`；源文字数：59835
+- **rewritten** `00-books-result/Attfield：《A View from the interior feminism, women, and design》/B44131993-Appendix-Women-at-theArchive-of-Art-and-Design-report.md`
+  - 源文：`00-books/Attfield：《A View from the interior feminism, women, and design》/18-Appendix Women at theArchive of Art and Design.md`；源文字数：2969
+- **rewritten** `00-books-result/Attfield：《A View from the interior feminism, women, and design》/B44131994-Notes-on-the-Contributors-report.md`
+  - 源文：`00-books/Attfield：《A View from the interior feminism, women, and design》/19-Notes on the Contributors.md`；源文字数：14991
+- **rewritten** `00-books-result/Batchen：《Burning with desire the conception of photography》/B44131995-CONTENTS-report.md`
+  - 源文：`00-books/Batchen：《Burning with desire the conception of photography》/01-CONTENTS.md`；源文字数：13827
+- **rewritten** `00-books-result/Batchen：《Burning with desire the conception of photography》/B44131996-PHOTOGRAPHIES-report.md`
+  - 源文：`00-books/Batchen：《Burning with desire the conception of photography》/02-PHOTOGRAPHIES.md`；源文字数：17703
+- **rewritten** `00-books-result/Batchen：《Burning with desire the conception of photography》/B44131997-PHOTOGRAPHY-ITSELF-report.md`
+  - 源文：`00-books/Batchen：《Burning with desire the conception of photography》/03-PHOTOGRAPHY ITSELF.md`；源文字数：12928
+- **rewritten** `00-books-result/Batchen：《Burning with desire the conception of photography》/B44131998-ORIGIN-STORIES-report.md`
+  - 源文：`00-books/Batchen：《Burning with desire the conception of photography》/04-ORIGIN STORIES.md`；源文字数：12441
+- **rewritten** `00-books-result/Batchen：《Burning with desire the conception of photography》/B44131999-2-CONCEPTION-THE-GREATEST-MYSTERY-report.md`
+  - 源文：`00-books/Batchen：《Burning with desire the conception of photography》/05-2 CONCEPTION THE GREATEST MYSTERY.md`；源文字数：27991
+- **rewritten** `00-books-result/Batchen：《Burning with desire the conception of photography》/B44132000-QUITE-A-LIST-report.md`
+  - 源文：`00-books/Batchen：《Burning with desire the conception of photography》/06-QUITE A LIST.md`；源文字数：35809
+- **rewritten** `00-books-result/Batchen：《Burning with desire the conception of photography》/B44132001-THE-PROTO-PHOTOGRAPHERS-report.md`
+  - 源文：`00-books/Batchen：《Burning with desire the conception of photography》/07-THE PROTO-PHOTOGRAPHERS.md`；源文字数：13124
+- **rewritten** `00-books-result/Batchen：《Burning with desire the conception of photography》/B44132002-IMAGES-OF-NATURE-report.md`
+  - 源文：`00-books/Batchen：《Burning with desire the conception of photography》/08-IMAGES OF NATURE.md`；源文字数：26517
+- **rewritten** `00-books-result/Batchen：《Burning with desire the conception of photography》/B44132003-VIEWS-OF-LANDSCAPE-report.md`
+  - 源文：`00-books/Batchen：《Burning with desire the conception of photography》/09-VIEWS OF LANDSCAPE.md`；源文字数：22917
+- **rewritten** `00-books-result/Batchen：《Burning with desire the conception of photography》/B44132004-IMAGES-FORMED-BY-MEANS-OF-A-CAMERA-OBSCURA-report.md`
+  - 源文：`00-books/Batchen：《Burning with desire the conception of photography》/10-IMAGES FORMED BY MEANS OF A CAMERA OBSCURA.md`；源文字数：26013
+- **rewritten** `00-books-result/Batchen：《Burning with desire the conception of photography》/B44132005-SPONTANEOUS-REPRODUCTION-report.md`
+  - 源文：`00-books/Batchen：《Burning with desire the conception of photography》/11-SPONTANEOUS REPRODUCTION.md`；源文字数：25422
+- **rewritten** `00-books-result/Batchen：《Burning with desire the conception of photography》/B44132006-TRANSMUTATIONS-report.md`
+  - 源文：`00-books/Batchen：《Burning with desire the conception of photography》/12-TRANSMUTATIONS.md`；源文字数：6358
+- **rewritten** `00-books-result/Batchen：《Burning with desire the conception of photography》/B44132007-DRAFTSMAN-DRAWING-A-NUDE-report.md`
+  - 源文：`00-books/Batchen：《Burning with desire the conception of photography》/13-DRAFTSMAN DRAWING A NUDE.md`；源文字数：13123
+- **rewritten** `00-books-result/Batchen：《Burning with desire the conception of photography》/B44132008-THE-CORINTHIAN-MAID-report.md`
+  - 源文：`00-books/Batchen：《Burning with desire the conception of photography》/14-THE CORINTHIAN MAID.md`；源文字数：18050
+- **rewritten** `00-books-result/Batchen：《Burning with desire the conception of photography》/B44132009-PAYSAGE-VIEW-FROM-A-WINDOW-report.md`
+  - 源文：`00-books/Batchen：《Burning with desire the conception of photography》/15-PAYSAGE (VIEW FROM A WINDOW).md`；源文字数：11419
+- **rewritten** `00-books-result/Batchen：《Burning with desire the conception of photography》/B44132010-STILL-LIFE-report.md`
+  - 源文：`00-books/Batchen：《Burning with desire the conception of photography》/16-STILL LIFE.md`；源文字数：33786
+- **rewritten** `00-books-result/Batchen：《Burning with desire the conception of photography》/B44132011-ELECTROMAGNETS-report.md`
+  - 源文：`00-books/Batchen：《Burning with desire the conception of photography》/17-ELECTROMAGNETS.md`；源文字数：20535
+- **rewritten** `00-books-result/Batchen：《Burning with desire the conception of photography》/B44132012-LE-NOYÉ-report.md`
+  - 源文：`00-books/Batchen：《Burning with desire the conception of photography》/18-LE NOYÉ.md`；源文字数：14587
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132013-Chapter-2-Revealing-Hegemony-Agonistic-Information-Design-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/05-Chapter 2. Revealing Hegemony Agonistic Information Design.md`；源文字数：68051
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132014-平面设计-美术还是社会科学-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/05-平面设计：美术还是社会科学？.md`；源文字数：4178
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132015-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-123456-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/06-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz&£123456.md`；源文字数：6243
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132016-Chapter-3-Reconfiguring-the-Remainder-Agonistic-Encounters-with-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/06-Chapter 3. Reconfiguring the Remainder Agonistic Encounters with Social Robots.md`；源文字数：70941
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132017-Chapter-4-Devices-of-Articulation-Ubiquitous-Computing-and-Agoni-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/07-Chapter 4. Devices of Articulation Ubiquitous Computing and Agonistic Collective.md`；源文字数：65254
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132018-未来不似昨日-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/07-未来不似昨日.md`；源文字数：12944
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132019-Chapter-5-Adversarial-Design-as-Inquiry-and-Practice-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/08-Chapter 5. Adversarial Design as Inquiry and Practice.md`；源文字数：28529
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132020-草图与设计心理学-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/08-草图与设计心理学.md`；源文字数：4435
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132021-Notes-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/09-Notes.md`；源文字数：15054
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132022-迷思与成熟-设计十年的新秩序-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/09-迷思与成熟：设计十年的新秩序.md`；源文字数：9553
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132023-References-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/10-References.md`；源文字数：16194
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132024-建筑与工业产品设计的符号学-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/10-建筑与工业产品设计的符号学.md`；源文字数：17687
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132025-Index-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/11-Index.md`；源文字数：9209
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132026-塑形信仰-视觉传达设计中的观者角色-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/11-塑形信仰：视觉传达设计中的观者角色.md`；源文字数：9644
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132027-标点的力量-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/12-标点的力量.md`；源文字数：489
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132028-Futura-Light-Helvetica-Medium-Goudy-Old-Style-Ultra-Bodoni-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/13-Futura Light .Helvetica Medium.Goudy Old Style .Ultra Bodoni.md`；源文字数：3313
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132029-ti-päg-rə-fenRPH-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/14-ti-päg-rə-fenRPH.md`；源文字数：1276
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132030-Typographythe-art-ofprinting-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/15-Typographythe art ofprinting..md`；源文字数：1766
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132031-日常生活的设计与秩序-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/16-日常生活的设计与秩序.md`；源文字数：8669
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132032-甘地产品的象征主义与印度神话-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/17-甘地产品的象征主义与印度神话.md`；源文字数：28638
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132033-论造物的基本语境-或-设计即赋予事物意义-的命题解析-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/18-论造物的基本语境，或“设计即赋予事物意义”的命题解析.md`；源文字数：26194
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132034-亚洲文化遗产的设计-发展与文化-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/19-亚洲文化遗产的设计、发展与文化.md`；源文字数：16473
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132035-权力地理学-设计史与边缘性-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/20-权力地理学：设计史与边缘性.md`；源文字数：12364
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132036-现代日本设计发展-个人化观点-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/21-现代日本设计发展：个人化观点.md`；源文字数：7399
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132037-线条-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/22-线条.md`；源文字数：10038
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132038-不合时宜的观点-反思设计尝试-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/23-不合时宜的观点(反思设计尝试).md`；源文字数：9032
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132039-舒适的观念-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/24-舒适的观念.md`；源文字数：7581
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132040-设计博物馆-形式服从资金-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/25-设计博物馆：形式服从资金.md`；源文字数：10166
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132041-设计与非物质-在后工业社会的态貌-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/26-设计与非物质：在后工业社会的态貌？.md`；源文字数：6397
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132042-拓展设计边界-产品环境与新用户-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/27-拓展设计边界：产品环境与新用户.md`；源文字数：6143
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132043-Carl-DiSalvo-Adversarial-Design-_01_preface_The_Idea_of_Design_A-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/Carl DiSalvo：《Adversarial Design》_01_preface_The_Idea_of_Design_A_Design_Is.md`；源文字数：5211
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132044-Carl-DiSalvo-Adversarial-Design-_02_toc_目录-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/Carl DiSalvo：《Adversarial Design》_02_toc_目录.md`；源文字数：918
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132045-Carl-DiSalvo-Adversarial-Design-_03_preface_导论___-反思设计___-产品的意义-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/Carl DiSalvo：《Adversarial Design》_03_preface_导论___·反思设计___·产品的意义___·设计与文化__.md`；源文字数：34248
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132046-Carl-DiSalvo-Adversarial-Design-_04_body_作者简介___莫霍伊-纳吉在芝加哥的设计教育学-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/Carl DiSalvo：《Adversarial Design》_04_body_作者简介___莫霍伊-纳吉在芝加哥的设计教育学(1937—1.md`；源文字数：41302
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132047-Carl-DiSalvo-Adversarial-Design-_05_preface_迷思与成熟-设计十年的新秩序-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/Carl DiSalvo：《Adversarial Design》_05_preface_迷思与成熟：设计十年的新秩序.md`；源文字数：6983
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132048-Carl-DiSalvo-Adversarial-Design-_06_body_-有没有一种设计研究-designstudie-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/Carl DiSalvo：《Adversarial Design》_06_body_·有没有一种设计研究(designstudies)的学科__.md`；源文字数：37893
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132049-Carl-DiSalvo-Adversarial-Design-_07_preface_日常生活的设计与秩序___-艺术与秩序-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/Carl DiSalvo：《Adversarial Design》_07_preface_日常生活的设计与秩序___·艺术与秩序.md`；源文字数：1310
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132050-Carl-DiSalvo-Adversarial-Design-_08_body_-家用物品的意义___-寻求普世价值-色彩与形-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/Carl DiSalvo：《Adversarial Design》_08_body_·家用物品的意义___·寻求普世价值：色彩与形式___·视觉.md`；源文字数：36904
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132051-Carl-DiSalvo-Adversarial-Design-_09_preface_-引言-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/Carl DiSalvo：《Adversarial Design》_09_preface_·引言.md`；源文字数：347
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132052-Carl-DiSalvo-Adversarial-Design-_10_body_-设计即赋予事物以意义___-产品语义学-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/Carl DiSalvo：《Adversarial Design》_10_body_·设计即赋予事物以意义___·产品语义学___·意义一制造_.md`；源文字数：72919
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132053-Carl-DiSalvo-Adversarial-Design-_11_bibliography_作者简介___不合时宜的观点-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/Carl DiSalvo：《Adversarial Design》_11_bibliography_作者简介___不合时宜的观点(反思设计尝试)___·全景19.md`；源文字数：38541
+- **rewritten** `00-books-result/Carl DiSalvo：《Adversarial Design》/B44132054-Carl-DiSalvo-Adversarial-Design-_12_body_一-凤凰文库-艺术理论研究系列___二-凤凰文-report.md`
+  - 源文：`00-books/Carl DiSalvo：《Adversarial Design》/Carl DiSalvo：《Adversarial Design》_12_body_一、凤凰文库·艺术理论研究系列___二、凤凰文库·设计理论研.md`；源文字数：1643
+- **rewritten** `00-books-result/Carroll Gantz：《Founders of American Industrial Design》，2014/B44132055-Founders-ofAmericanIndustrial-Design-report.md`
+  - 源文：`00-books/Carroll Gantz：《Founders of American Industrial Design》，2014/01-Founders ofAmericanIndustrial Design.md`；源文字数：316
+- **rewritten** `00-books-result/Carroll Gantz：《Founders of American Industrial Design》，2014/B44132056-Founders-ofAmericanIndustrial-Design-report.md`
+  - 源文：`00-books/Carroll Gantz：《Founders of American Industrial Design》，2014/02-Founders ofAmericanIndustrial Design.md`；源文字数：2072
+- **rewritten** `00-books-result/Carroll Gantz：《Founders of American Industrial Design》，2014/B44132057-amatae-O3o-skdeT-report.md`
+  - 源文：`00-books/Carroll Gantz：《Founders of American Industrial Design》，2014/03-amatae O3o skdeT.md`；源文字数：10402
+- **rewritten** `00-books-result/Carroll Gantz：《Founders of American Industrial Design》，2014/B44132058-Introduction-report.md`
+  - 源文：`00-books/Carroll Gantz：《Founders of American Industrial Design》，2014/04-Introduction.md`；源文字数：50015
+- **rewritten** `00-books-result/Carroll Gantz：《Founders of American Industrial Design》，2014/B44132059-The-Arrival-of-Art-Deco-report.md`
+  - 源文：`00-books/Carroll Gantz：《Founders of American Industrial Design》，2014/05-The Arrival of Art Deco.md`；源文字数：42299
+- **rewritten** `00-books-result/Carroll Gantz：《Founders of American Industrial Design》，2014/B44132060-Modern-DesignMeets-the-Depression-report.md`
+  - 源文：`00-books/Carroll Gantz：《Founders of American Industrial Design》，2014/06-Modern DesignMeets the Depression.md`；源文字数：46130
+- **rewritten** `00-books-result/Carroll Gantz：《Founders of American Industrial Design》，2014/B44132061-Streamlining-and-the-Chicago-Fair-report.md`
+  - 源文：`00-books/Carroll Gantz：《Founders of American Industrial Design》，2014/07-Streamlining and the Chicago Fair.md`；源文字数：44964
+- **rewritten** `00-books-result/Carroll Gantz：《Founders of American Industrial Design》，2014/B44132062-Industrial-Design-Unleashed-report.md`
+  - 源文：`00-books/Carroll Gantz：《Founders of American Industrial Design》，2014/08-Industrial Design Unleashed.md`；源文字数：42528
+- **rewritten** `00-books-result/Carroll Gantz：《Founders of American Industrial Design》，2014/B44132063-CHAPTER-6-report.md`
+  - 源文：`00-books/Carroll Gantz：《Founders of American Industrial Design》，2014/09-CHAPTER 6.md`；源文字数：84254
+- **rewritten** `00-books-result/Carroll Gantz：《Founders of American Industrial Design》，2014/B44132064-War-Drums-and-the-New-York-Fair-report.md`
+  - 源文：`00-books/Carroll Gantz：《Founders of American Industrial Design》，2014/10-War Drums and the New York Fair.md`；源文字数：46553
+- **rewritten** `00-books-result/Carroll Gantz：《Founders of American Industrial Design》，2014/B44132065-CHAPTER-9-report.md`
+  - 源文：`00-books/Carroll Gantz：《Founders of American Industrial Design》，2014/11-CHAPTER 9.md`；源文字数：42897
+- **rewritten** `00-books-result/Carroll Gantz：《Founders of American Industrial Design》，2014/B44132066-CHAPTER-10-report.md`
+  - 源文：`00-books/Carroll Gantz：《Founders of American Industrial Design》，2014/12-CHAPTER 10.md`；源文字数：39161
+- **rewritten** `00-books-result/Carroll Gantz：《Founders of American Industrial Design》，2014/B44132067-CHAPTER-11-report.md`
+  - 源文：`00-books/Carroll Gantz：《Founders of American Industrial Design》，2014/13-CHAPTER 11.md`；源文字数：42847
+- **rewritten** `00-books-result/Carroll Gantz：《Founders of American Industrial Design》，2014/B44132068-Competition-and-Controversy-report.md`
+  - 源文：`00-books/Carroll Gantz：《Founders of American Industrial Design》，2014/14-Competition and Controversy.md`；源文字数：47837
+- **rewritten** `00-books-result/Carroll Gantz：《Founders of American Industrial Design》，2014/B44132069-Cold-War-Mergers-and-Computers-report.md`
+  - 源文：`00-books/Carroll Gantz：《Founders of American Industrial Design》，2014/15-Cold War, Mergers, and Computers.md`；源文字数：42591
+- **rewritten** `00-books-result/Carroll Gantz：《Founders of American Industrial Design》，2014/B44132070-Postmodern-and-Passages-report.md`
+  - 源文：`00-books/Carroll Gantz：《Founders of American Industrial Design》，2014/16-Postmodern and Passages.md`；源文字数：36845
+- **rewritten** `00-books-result/Carroll Gantz：《Founders of American Industrial Design》，2014/B44132071-Chapter-Notes-report.md`
+  - 源文：`00-books/Carroll Gantz：《Founders of American Industrial Design》，2014/17-Chapter Notes.md`；源文字数：8158
+- **rewritten** `00-books-result/Carroll Gantz：《Founders of American Industrial Design》，2014/B44132072-Bibliography-report.md`
+  - 源文：`00-books/Carroll Gantz：《Founders of American Industrial Design》，2014/18-Bibliography.md`；源文字数：89548
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132073-Twentieth-century-type-designers-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/01-Twentieth century type designers.md`；源文字数：2076
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132074-Twentieth-century-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/02-Twentieth century.md`；源文字数：1359
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132075-Sources-and-acknowledgements-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/03-Sources and acknowledgements.md`；源文字数：44630
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132076-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz12345678-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/04-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz12345678.md`；源文字数：11063
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132077-Old-types-for-new-machines-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/05-Old types for new machines.md`；源文字数：6646
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132078-THE-POPE-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/06-THE POPE.md`；源文字数：2613
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132079-ABCDEFabcdefghijABCDEFGHIFKabcdefghijklmnopqrs-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/07-ABCDEFabcdefghijABCDEFGHIFKabcdefghijklmnopqrs.md`；源文字数：2719
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132080-ABCDEFGHIJKLMNOPabcdefghijklmnopqrstuvwxABCDEFGHIFKLMNOPabcd-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/08-ABCDEFGHIJKLMNOPabcdefghijklmnopqrstuvwxABCDEFGHIFKLMNOPabcd.md`；源文字数：7234
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132081-abcdefghijklmnopqrstuvxyz-abcdefghijklmnopqrstuvwxyzABCDEFGH-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/09-abcdefghijklmnopqrstuvxyz&abcdefghijklmnopqrstuvwxyzABCDEFGH.md`；源文字数：715
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132082-ABCDEFGHIJKLMNOabcdefghijklmnopqrstuvw-1234567890-ABCDEF-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/10-ABCDEFGHIJKLMNOabcdefghijklmnopqrstuvw£1234567890.,;!“ABCDEF.md`；源文字数：14173
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132083-ABCDEFGHIJKLMNOPQRSTUVWabcdefghijklmnopqrstuvwxyzfifffifflæα-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/11-ABCDEFGHIJKLMNOPQRSTUVWabcdefghijklmnopqrstuvwxyzfifffifflæα.md`；源文字数：2746
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132084-ABCDEFGHIJKMNOPQRSTUabcdefghijklmnopqABCDEFGHIJKLMOPQRSTUVWX-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/12-ABCDEFGHIJKMNOPQRSTUabcdefghijklmnopqABCDEFGHIJKLMOPQRSTUVWX.md`；源文字数：3775
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132085-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzfiflfffl-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/13-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzfiflfffl.md`；源文字数：9532
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132086-hmnijkpouhv-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/14-hmnijkpouhv.md`；源文字数：165
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132087-Frederic-W-Goudy-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/15-Frederic W. Goudy.md`；源文字数：5744
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132088-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwx-y-z-The-a-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/16-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwx y z The a.md`；源文字数：5952
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132089-DEFGHIJKLMNOPQRSTUVWXabcdefghijklmnopqrstuvwxyz-1234567-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/17-DEFGHIJKLMNOPQRSTUVWXabcdefghijklmnopqrstuvwxyz 1234567.md`；源文字数：2558
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132090-GOUDY-MODERNROMAN-ITALIC-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/18-GOUDY MODERNROMAN & ITALIC.md`；源文字数：9617
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132091-ABCDEFGHIJKLMNOPQRSTUVWXYZEEABCDEFGHIJKLMNOPQRST-U-V-W-X-Y-Z-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/19-ABCDEFGHIJKLMNOPQRSTUVWXYZEEABCDEFGHIJKLMNOPQRST U V W X Y Z.md`；源文字数：6556
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132092-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/20-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz.md`；源文字数：13709
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132093-Alte-Burgen-und-Städte-am-Khein-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/21-Alte Burgen und Städte am Khein.md`；源文字数：2645
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132094-DIE-DEUTSCHEBUCHKUNST-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/22-DIE DEUTSCHEBUCHKUNST.md`；源文字数：3849
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132095-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrlstuvwxyzchcklhf-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/23-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrlstuvwxyzchcklhf.md`；源文字数：3733
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132096-Writings-of-Honey-AlersEXCURSION-IN-WINTER-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/24-Writings of Honey & AlersEXCURSION IN WINTER.md`；源文字数：2073
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132097-ABCDEFGHIJKLMNOPQRSTUVWXYZGAEææ1234567890abcdefghijklmnopqrs-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/25-ABCDEFGHIJKLMNOPQRSTUVWXYZGAEææ1234567890abcdefghijklmnopqrs.md`；源文字数：3855
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132098-Time-Machine-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/26-Time Machine.md`；源文字数：469
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132099-ALPHABET-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/27-ALPHABET.md`；源文字数：4704
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132100-IIDRRA-leller-about-designingType-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/28-IIDRRA leller about designingType.md`；源文字数：8463
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132101-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz12345678-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/29-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz12345678.md`；源文字数：5842
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132102-ABCDEFGHIJKLMNOPQRSTabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMN-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/30-ABCDEFGHIJKLMNOPQRSTabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMN.md`；源文字数：2105
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132103-PUBLICITY-ANDSELLING-CONGRESS-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/31-PUBLICITY ANDSELLING CONGRESS.md`；源文字数：2926
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132104-PAGES-FROM-THEFOUR-GOSPELS-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/32-PAGES FROM THEFOUR GOSPELS.md`；源文字数：6388
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132105-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz12345678-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/33-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz12345678.md`；源文字数：1576
+- **rewritten** `00-books-result/Carter, Sebastian：Twentieth Century Type Designers, 1987/B44132106-ABCDEFGHIJKLMNOPQRSTUVWXYZ-abcdefghijklmnopqrstuvwxyz-report.md`
+  - 源文：`00-books/Carter, Sebastian：Twentieth Century Type Designers, 1987/34-ABCDEFGHIJKLMNOPQRSTUVWXYZ&abcdefghijklmnopqrstuvwxyz.md`；源文字数：3834

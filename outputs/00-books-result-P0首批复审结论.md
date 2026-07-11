@@ -1,0 +1,503 @@
+# 00-books-result P0 首批复审结论
+
+本批处理对象：`locate_source_then_reaudit` 中自动匹配置信度为 high 的前 120 份报告。
+
+## 一、动作统计
+
+- `needs_v2_rewrite`：107
+- `low_info_auxiliary_recoverable`：6
+- `low_info_needs_boundary_rewrite`：5
+- `mismatch_or_underread_manual`：2
+
+## 二、处理原则
+
+- `already_recoverable_reaudit`：从 P0 移出，但仍需按 P1/P2 做人工复审。
+- `patch_source_path_then_reaudit`：补入源文件完整路径后，再做 V2 证据边界核验。
+- `needs_v2_rewrite`：报告结构不足，不能靠补路径解决。
+- `mismatch_or_underread_manual`：源文与报告重合度低，优先人工核查。
+- `low_info_auxiliary_recoverable`：可作为低信息量辅助报告保留，不计为核心理论报告。
+
+## 三、首批明细
+
+- **needs_v2_rewrite** `00-books-result/The green imperative _ natural design for the real world -- Papanek, Victor J --/B0749-Here-Today-Gone-Tomorrow-report.md`
+  - 源文：`00-books/The green imperative _ natural design for the real world -- Papanek, Victor J --/06-Here Today, Gone Tomorrow.md`
+  - 源文/报告字符：26211 / 90；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/Personas, Participatory Design and Product Development An Infrastructure for Engagement/B0359-benefits-risks-personas-report.md`
+  - 源文：`00-books/Personas, Participatory Design and Product Development An Infrastructure for Engagement/02-Benefits of personas Risks of personas.md`
+  - 源文/报告字符：14435 / 175；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/B0361-Pioneers-Modern-Design-01-report.md`
+  - 源文：`00-books/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/01-Pioneers of Modern Design.md`
+  - 源文/报告字符：1002 / 161；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/B0361-pioneers-modern-design-report.md`
+  - 源文：`00-books/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/01-Pioneers of Modern Design.md`
+  - 源文/报告字符：1002 / 171；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/B0362-Pioneers-Modern-Design-02-report.md`
+  - 源文：`00-books/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/01-Pioneers of Modern Design.md`
+  - 源文/报告字符：1002 / 136；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/B0420-From-Style-to-Taste-report.md`
+  - 源文：`00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/05-FROM STYLE TO TASTE.md`
+  - 源文/报告字符：12571 / 150；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **low_info_auxiliary_recoverable** `00-books-result/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/B0452-Picture-Credits-Acknowledgements-report.md`
+  - 源文：`00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/18-PICTURE CREDITS ACKNOWLEDGEMENTS.md`
+  - 源文/报告字符：9675 / 93；V2 标记：0；实体重合：NA
+  - 理由：源文低信息量，报告已有边界限制；可作为 C/D 类辅助报告复核。
+- **needs_v2_rewrite** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0467-Guide-Further-Reading-01-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/11-GUIDE TO FURTHER READING.md`
+  - 源文/报告字符：3784 / 91；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0475-Guide-Further-Reading-02-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/11-GUIDE TO FURTHER READING.md`
+  - 源文/报告字符：3784 / 102；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0478-Ornament-and-Crime-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/23-ORNAMENT AND CRIME.md`
+  - 源文/报告字符：9150 / 162；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0482-Guide-Further-Reading-03-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/11-GUIDE TO FURTHER READING.md`
+  - 源文/报告字符：3784 / 98；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0488-Guide-Further-Reading-04-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/11-GUIDE TO FURTHER READING.md`
+  - 源文/报告字符：3784 / 91；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0496-Guide-Further-Reading-05-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/11-GUIDE TO FURTHER READING.md`
+  - 源文/报告字符：3784 / 107；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0503-Guide-Further-Reading-06-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/11-GUIDE TO FURTHER READING.md`
+  - 源文/报告字符：3784 / 94；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0512-Guide-Further-Reading-07-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/11-GUIDE TO FURTHER READING.md`
+  - 源文/报告字符：3784 / 93；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0519-Guide-Further-Reading-08-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/11-GUIDE TO FURTHER READING.md`
+  - 源文/报告字符：3784 / 127；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0525-Guide-Further-Reading-09-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/11-GUIDE TO FURTHER READING.md`
+  - 源文/报告字符：3784 / 108；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0532-Guide-Further-Reading-10-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/11-GUIDE TO FURTHER READING.md`
+  - 源文/报告字符：3784 / 107；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0539-Guide-Further-Reading-11-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/11-GUIDE TO FURTHER READING.md`
+  - 源文/报告字符：3784 / 94；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/B0717-Scenario-for-Design-report.md`
+  - 源文：`00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/07-A SCENARIO FOR DESIGN.md`
+  - 源文/报告字符：45216 / 89；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The green imperative _ natural design for the real world -- Papanek, Victor J --/B0756-Sharing-Not-Buying-report.md`
+  - 源文：`00-books/The green imperative _ natural design for the real world -- Papanek, Victor J --/13-Sharing not Buying.md`
+  - 源文/报告字符：46870 / 91；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0791-Varney-the-Vampyre-report.md`
+  - 源文：`00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/32-VARNEY;.THE VAMPYRE;.md`
+  - 源文/报告字符：2696 / 79；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/B0822-Seeing-the-Interface-report.md`
+  - 源文：`00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/18-Seeing the interface.md`
+  - 源文/报告字符：4888 / 84；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B0938-Books-and-Magazines-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/18-Books and Magazines.md`
+  - 源文/报告字符：10578 / 75；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1019-Graphics-on-the-Left-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/39-Graphics on the left.md`
+  - 源文/报告字符：6927 / 89；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1076-Other-Design-Schools-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/31-Other Design Schools.md`
+  - 源文/报告字符：4106 / 79；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1162-Graphics-on-the-left-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/39-Graphics on the left.md`
+  - 源文/报告字符：6927 / 78；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B0951-Industrial-Design-Outside-New-York-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/192-Industrial Design outside New York.md`
+  - 源文/报告字符：8192 / 88；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0308-magic-toyshops-report.md`
+  - 源文：`00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/21-'Magic Toyshops'.md`
+  - 源文/报告字符：27269 / 176；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **low_info_needs_boundary_rewrite** `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0309-mediating-relationships-report.md`
+  - 源文：`00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/22-Mediating Relationships.md`
+  - 源文/报告字符：38 / 169；V2 标记：0；实体重合：NA
+  - 理由：源文低信息量，报告需降级并补证据边界，禁止理论扩写。
+- **needs_v2_rewrite** `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0310-material-memories-report.md`
+  - 源文：`00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/23-Material Memories.md`
+  - 源文/报告字符：29920 / 156；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0313-ecological-destruction-report.md`
+  - 源文：`00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/26-Ecological destruction.md`
+  - 源文/报告字符：21320 / 177；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0321-notes-on-contributors-report.md`
+  - 源文：`00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/04-NOTES ON CONTRIBUTORS.md`
+  - 源文/报告字符：8510 / 167；V2 标记：1；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/B0375-Finland-Norway-report.md`
+  - 源文：`00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/05-FINLAND NORWAY.md`
+  - 源文/报告字符：21917 / 124；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/B0391-Something-Old-New-Stolen-report.md`
+  - 源文：`00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/32-Something Old, Something New,Something Stolen, Som.md`
+  - 源文/报告字符：12384 / 145；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/B0421-Revolutionary-Transformation-report.md`
+  - 源文：`00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/06-Revolutionary Transformation.md`
+  - 源文/报告字符：75125 / 159；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **low_info_auxiliary_recoverable** `00-books-result/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/B0432-General-Index-report.md`
+  - 源文：`00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/17-General Index.md`
+  - 源文/报告字符：62400 / 86；V2 标记：0；实体重合：NA
+  - 理由：源文低信息量，报告已有边界限制；可作为 C/D 类辅助报告复核。
+- **low_info_auxiliary_recoverable** `00-books-result/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/B0433-Index-of-Names-report.md`
+  - 源文：`00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/18-Index of Names.md`
+  - 源文/报告字符：5607 / 90；V2 标记：0；实体重合：NA
+  - 理由：源文低信息量，报告已有边界限制；可作为 C/D 类辅助报告复核。
+- **needs_v2_rewrite** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0456-General-Introduction-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/03-GENERAL INTRODUCTION.md`
+  - 源文/报告字符：18782 / 128；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/B0711-Editors-Biographies-report.md`
+  - 源文：`00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/01-EDITORS' BIOGRAPHIES.md`
+  - 源文/报告字符：1702 / 103；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/B0712-Authors-Biographies-report.md`
+  - 源文：`00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/02-AUTHORS' BIOGRAPHIES.md`
+  - 源文/报告字符：12985 / 82；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/B0713-General-Introduction-report.md`
+  - 源文：`00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/03-GENERAL INTRODUCTION.md`
+  - 源文/报告字符：14792 / 97；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/B0729-Further-Reading-Part-II-Section-1-report.md`
+  - 源文：`00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/22-FURTHER READING FOR PART II, SECTION 1.md`
+  - 源文/报告字符：898 / 100；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/B0733-Visibility-in-Progress-report.md`
+  - 源文：`00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/26-VISIBILITY IN PROGRESS.md`
+  - 源文/报告字符：38179 / 87；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/B0736-Further-Reading-Part-II-Section-2-report.md`
+  - 源文：`00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/22-FURTHER READING FOR PART II, SECTION 1.md`
+  - 源文/报告字符：898 / 87；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **low_info_auxiliary_recoverable** `00-books-result/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/B0743-General-Bibliography-report.md`
+  - 源文：`00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/39-GENERAL BIBLIOGRAPHY.md`
+  - 源文/报告字符：24671 / 105；V2 标记：0；实体重合：NA
+  - 理由：源文低信息量，报告已有边界限制；可作为 C/D 类辅助报告复核。
+- **needs_v2_rewrite** `00-books-result/The green imperative _ natural design for the real world -- Papanek, Victor J --/B0752-Sensing-a-Dwelling-report.md`
+  - 源文：`00-books/The green imperative _ natural design for the real world -- Papanek, Victor J --/09-Sensing a Dwelling.md`
+  - 源文/报告字符：57465 / 87；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0777-Reynolds-Miscellany-01-report.md`
+  - 源文：`00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/18-REYNOLDS'S MISCELLANY.md`
+  - 源文/报告字符：2617 / 82；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0778-Reynolds-Miscellany-02-report.md`
+  - 源文：`00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/18-REYNOLDS'S MISCELLANY.md`
+  - 源文/报告字符：2617 / 85；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0779-Reynolds-Miscellany-03-report.md`
+  - 源文：`00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/18-REYNOLDS'S MISCELLANY.md`
+  - 源文/报告字符：2617 / 80；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0780-London-Journal-01-report.md`
+  - 源文：`00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/26-LONDON JOURNAL.md`
+  - 源文/报告字符：8293 / 78；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0784-Reynolds-Miscellany-04-report.md`
+  - 源文：`00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/18-REYNOLDS'S MISCELLANY.md`
+  - 源文/报告字符：2617 / 75；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0785-London-Journal-02-report.md`
+  - 源文：`00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/26-LONDON JOURNAL.md`
+  - 源文/报告字符：8293 / 78；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0787-London-Journal-03-report.md`
+  - 源文：`00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/26-LONDON JOURNAL.md`
+  - 源文/报告字符：8293 / 74；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0792-Jack-Sheppard-report.md`
+  - 源文：`00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/33-JACK SHEPPARD.md`
+  - 源文/报告字符：10399 / 72；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0794-England-Going-Down-Hill-report.md`
+  - 源文：`00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/35-England's going down the Hill..md`
+  - 源文/报告字符：14360 / 95；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **low_info_auxiliary_recoverable** `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0796-Select-Bibliography-report.md`
+  - 源文：`00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/37-Select Bibliography.md`
+  - 源文/报告字符：25592 / 81；V2 标记：0；实体重合：NA
+  - 理由：源文低信息量，报告已有边界限制；可作为 C/D 类辅助报告复核。
+- **needs_v2_rewrite** `00-books-result/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/B0832-Embodied-Design-report.md`
+  - 源文：`00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/29-Embodied design.md`
+  - 源文/报告字符：8445 / 80；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/B0836-Digital-Focus-report.md`
+  - 源文：`00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/33-Digital focus.md`
+  - 源文/报告字符：4095 / 74；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **low_info_auxiliary_recoverable** `00-books-result/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/B0840-References-Index-report.md`
+  - 源文：`00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/38-References Index.md`
+  - 源文/报告字符：15021 / 73；V2 标记：0；实体重合：NA
+  - 理由：源文低信息量，报告已有边界限制；可作为 C/D 类辅助报告复核。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B0853-Introduction-Volume-2-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/07-Introduction to Volume 2.md`
+  - 源文/报告字符：8248 / 98；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B0899-Chapters-in-Books-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/76-Chapters in books.md`
+  - 源文/报告字符：3478 / 76；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B0967-US-Graphic-Design-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/84-Graphic design.md`
+  - 源文/报告字符：7168 / 82；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B0972-US-Chapters-in-Books-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/76-Chapters in books.md`
+  - 源文/报告字符：3478 / 77；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1090-Bezalel-After-World-War-I-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/322-Bezalel after World War I.md`
+  - 源文/报告字符：24346 / 90；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1108-Commercial-art-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/34-Commercial art.md`
+  - 源文/报告字符：9846 / 68；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1110-Chapters-in-books-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/76-Chapters in books.md`
+  - 源文/报告字符：3478 / 75；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1119-Type-design-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/35-Type design.md`
+  - 源文/报告字符：2850 / 76；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1124-African-imagery-European-advertising-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/354-African imagery in European advertising.md`
+  - 源文/报告字符：7072 / 101；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **low_info_needs_boundary_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1141-Gefesselter-Blick-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/37-Gefesselter Blick.md`
+  - 源文/报告字符：730 / 76；V2 标记：0；实体重合：NA
+  - 理由：源文低信息量，报告需降级并补证据边界，禁止理论扩写。
+- **mismatch_or_underread_manual** `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3277-About-Face-about-the-authors-report.md`
+  - 源文：`00-books/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/10-About the Authors.md`
+  - 源文/报告字符：3209 / 1069；V2 标记：8；实体重合：0.100
+  - 理由：源文与报告关键词重合偏低，疑似未充分读取源文或源文错配。
+- **needs_v2_rewrite** `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0301-genteel-craft-subversion-report.md`
+  - 源文：`00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/14-The Genteel Craft of Subversion.md`
+  - 源文/报告字符：26717 / 183；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0307-war-national-identity-report.md`
+  - 源文：`00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/20-War and national identity.md`
+  - 源文/报告字符：16879 / 183；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/B0363-foreword-first-edition-report.md`
+  - 源文：`00-books/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/03-Foreword to the First Edition.md`
+  - 源文/报告字符：1560 / 153；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **low_info_needs_boundary_rewrite** `00-books-result/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/B0364-foreword-second-edition-report.md`
+  - 源文：`00-books/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/04-Foreword to the Second Edition.md`
+  - 源文/报告字符：719 / 142；V2 标记：0；实体重合：NA
+  - 理由：源文低信息量，报告需降级并补证据边界，禁止理论扩写。
+- **needs_v2_rewrite** `00-books-result/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/B0365-Foreword-Pelican-Edition-report.md`
+  - 源文：`00-books/Pioneers Of Modern Design -- Nikolaus Pevsner -- 79d1b31976f272a671ce2a3b7a2db14/05-Foreword to the Pelican Edition.md`
+  - 源文/报告字符：87044 / 134；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/B0393-Artistic-Accord-Photogenic-report.md`
+  - 源文：`00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/36-AN ARTISTIC ACCORD PHOTOGENIC DESIGN.md`
+  - 源文/报告字符：13178 / 130；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/B0417-Courtly-Stylistic-Regime-report.md`
+  - 源文：`00-books/Taste and Power _ Furnishing Modern France -- Leora Auslander -- University of C/02-The Courtly Stylistic Regime.md`
+  - 源文/报告字符：76866 / 153；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **low_info_needs_boundary_rewrite** `00-books-result/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/B0450-Context-Events-Bibliography-report.md`
+  - 源文：`00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/16-A CONTEXT OF EVENTS SELECTED BIBLIOGRAPHY.md`
+  - 源文/报告字符：43335 / 118；V2 标记：0；实体重合：NA
+  - 理由：源文低信息量，报告需降级并补证据边界，禁止理论扩写。
+- **needs_v2_rewrite** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0464-Guide-Further-Reading-final-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/11-GUIDE TO FURTHER READING.md`
+  - 源文/报告字符：3784 / 103；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0469-Science-Industry-Art-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/13-SCIENCE, INDUSTRY, AND ART.md`
+  - 源文/报告字符：7038 / 124；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/B0470-Art-Journal-Catalogue-report.md`
+  - 源文：`00-books/The design history reader -- Grace Lees-Maffei, Rebecca Houze (eds_) -- New York/14-ART-JOURNAL ILLUSTRATED CATALOGUE.md`
+  - 源文/报告字符：4651 / 132；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/B0721-Things-That-Matter-report.md`
+  - 源文：`00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/11-THE THINGS THAT MATTER.md`
+  - 源文/报告字符：45183 / 81；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/B0724-Further-Reading-Part-I-report.md`
+  - 源文：`00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/14-FURTHER READING FOR PART I.md`
+  - 源文/报告字符：2485 / 87；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/B0735-Fourth-Order-Design-report.md`
+  - 源文：`00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/28-FOURTH-ORDER DESIGN A PRACTICALPERSPECTIVE.md`
+  - 源文/报告字符：46663 / 99；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/B0740-Ecological-Design-Critique-report.md`
+  - 源文：`00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/35-ECOLOGICAL DESIGN A NEW CRITIQUE.md`
+  - 源文/报告字符：43030 / 99；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/B0741-Ethics-Aesthetics-Design-report.md`
+  - 源文：`00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/37-ETHICS, AESTHETICS, AND DESIGN.md`
+  - 源文/报告字符：70641 / 88；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/B0742-Further-Reading-Part-II-report.md`
+  - 源文：`00-books/The designed world _ images, objects, environments -- Buchanan, Richard (editor)/14-FURTHER READING FOR PART I.md`
+  - 源文/报告字符：2485 / 69；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The green imperative _ natural design for the real world -- Papanek, Victor J --/B0750-Designing-Safer-Future-report.md`
+  - 源文：`00-books/The green imperative _ natural design for the real world -- Papanek, Victor J --/07-Designing for a Safer Future.md`
+  - 源文/报告字符：45072 / 95；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The printed image and the transformation of popular culture, 1790-1860 (Anderson/B0767-Trial-and-Execution-report.md`
+  - 源文：`00-books/The printed image and the transformation of popular culture, 1790-1860 (Anderson/07-The Trial and Execution of.md`
+  - 源文/报告字符：15392 / 88；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/B0835-Gallery-Experience-Design-report.md`
+  - 源文：`00-books/Windows and Mirrors_ Interaction Design, Digital Art, and -- JAY DAVID BOLTER AN/32-The gallery as experience design.md`
+  - 源文/报告字符：6606 / 98；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B0855-Vitebsk-Art-Institute-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/10-The Vitebsk Art Institute.md`
+  - 源文/报告字符：4138 / 92；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B0870-Functional-Graphic-Design-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/117-Functional graphic design.md`
+  - 源文/报告字符：14310 / 81；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B0894-Fashion-Furniture-Ceramics-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/14-Fashion, Furniture, and Ceramics.md`
+  - 源文/报告字符：8236 / 96；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B0905-Film-Theater-Exhibitions-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/15-Film, Theater, and Exhibitions.md`
+  - 源文/报告字符：5179 / 96；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B0958-Other-Transport-Modes-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/199-Other modes of transport.md`
+  - 源文/报告字符：4215 / 76；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B0994-Leftist-Political-Graphics-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/234-Leftist political graphics.md`
+  - 源文/报告字符：2723 / 84；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1014-Government-Support-Industry-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/252-Government support of industry.md`
+  - 源文/报告字符：4146 / 87；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1032-Circulo-Bellas-Artes-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/269-Circulo de Bellas Artes.md`
+  - 源文/报告字符：4109 / 81；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1050-Railway-Publicity-Campaigns-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/285-Railway publicity campaigns.md`
+  - 源文/报告字符：8270 / 93；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1114-Schools-for-craftsmen-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/345-Schools for craftsmen.md`
+  - 源文/报告字符：7635 / 96；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1140-Indian-film-posters-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/369-Indian film posters.md`
+  - 源文/报告字符：4266 / 79；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1175-Graphic-Design-Matures-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/402-Graphic design matures.md`
+  - 源文/报告字符：12438 / 326；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1204-The-first-computers-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/431-The first computers.md`
+  - 源文/报告字符：4223 / 605；V2 标记：1；实体重合：0.040
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1205-The-home-front-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/432-The home front.md`
+  - 源文/报告字符：4131 / 587；V2 标记：1；实体重合：0.020
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/B0446-Last-Third-Nineteenth-Century-report.md`
+  - 源文：`00-books/The arts and crafts movement (Blakesley, Rosalind P. (Rosalind Polly)) (z-librar/12-IN THE LAST THIRD OF THE NINETEENTH CENTURY, THEUN.md`
+  - 源文/报告字符：19065 / 172；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B0886-Graphic-Arts-Before-Independence-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/132-The graphic arts before independence.md`
+  - 源文/报告字符：8140 / 94；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B0945-Modern-Design-First-Wave-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/186-Modern Design The First Wave.md`
+  - 源文/报告字符：27005 / 87；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1041-Quebec-Furniture-Decorative-Arts-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/277-Quebec furniture, decorative arts, andcrafts.md`
+  - 源文/报告字符：4020 / 97；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1097-Capitalist-Advertising-Mass-Media-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/33-Capitalist Advertising, Mass Media,and Communist P.md`
+  - 源文/报告字符：4102 / 126；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1134-Foreign-designers-Indian-consumers-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/363-Foreign designers and Indian consumers.md`
+  - 源文/报告字符：6063 / 106；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/B1198-Jeeps-Tanks-Landing-Craft-report.md`
+  - 源文：`00-books/World History Of Design - Volume 2_ World War I To World War -- Victor Margolin/425-Jeeps, Tanks, and Landing Craft.md`
+  - 源文/报告字符：3357 / 345；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **mismatch_or_underread_manual** `00-books-result/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/B3271-About-Face-Appendix-A-Design-Principles-report.md`
+  - 源文：`00-books/Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel：《About Face The Essentials of Interaction Design》/04-Appendix A Design Principles.md`
+  - 源文/报告字符：4689 / 979；V2 标记：8；实体重合：0.040
+  - 理由：源文与报告关键词重合偏低，疑似未充分读取源文或源文错配。
+- **needs_v2_rewrite** `00-books-result/Grand Designs Labor, Empire, and the Museum in Victorian Culture/B0278-Introduction-report.md`
+  - 源文：`00-books/Grand Designs Labor, Empire, and the Museum in Victorian Culture/03-Introduction.md`
+  - 源文/报告字符：43759 / 317；V2 标记：1；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0303-gender-class-pipe-report.md`
+  - 源文：`00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/16-Gender, class and the pipe.md`
+  - 源文/报告字符：17311 / 189；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0305-Seduced-by-Archive-report.md`
+  - 源文：`00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/18-Seduced by the Archive.md`
+  - 源文/报告字符：35326 / 304；V2 标记：1；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **low_info_needs_boundary_rewrite** `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0314-bibliography-report.md`
+  - 源文：`00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/27-BIBLIOGRAPHY.md`
+  - 源文/报告字符：6394 / 180；V2 标记：0；实体重合：NA
+  - 理由：源文低信息量，报告需降级并补证据边界，禁止理论扩写。
+- **needs_v2_rewrite** `00-books-result/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/B0321-Notes-on-Contributors-OCR-report.md`
+  - 源文：`00-books/Love objects _ emotion, design, and material culture -- Anna Moran (Editor), Sor/04-NOTES ON CONTRIBUTORS.md`
+  - 源文/报告字符：8510 / 160；V2 标记：1；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World/B0352-Training-Automatic-Control-report.md`
+  - 源文：`00-books/MINDELL, DAVID A. Automation's Finest Hour Radar and System Integration in World/03-8. Assist in training programs AUTOMATIC CONTROL's.md`
+  - 源文/报告字符：9772 / 133；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+- **needs_v2_rewrite** `00-books-result/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/B0371-About-Authors-report.md`
+  - 源文：`00-books/Scandinavian Design Alternative Histories (Kjetil Fallan (editor))/01-About the Authors.md`
+  - 源文/报告字符：10061 / 86；V2 标记：0；实体重合：NA
+  - 理由：报告缺少 V2 复审核心字段，需按规则重写或大幅补写。
+
+完整明细见 `00-books-result-P0首批复审明细.csv`。

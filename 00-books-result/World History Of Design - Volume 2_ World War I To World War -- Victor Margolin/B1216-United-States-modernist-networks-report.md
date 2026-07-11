@@ -10,3 +10,4 @@ MoMA 的 `Road to Victory` 和 `Airways to Peace` 则把展览设计变成沉浸
 
 教材用途：美国现代主义设计、OIAA、OEM、MoMA、Charles Coiner、Herbert Bayer、战时展览设计。
 
+> **处置状态**：孤立旧报告，停止作为可靠深度报告使用。当前无法与 `00-books/` 建立唯一对应关系；不得作为源文复审、教材事实或正式引文依据。
